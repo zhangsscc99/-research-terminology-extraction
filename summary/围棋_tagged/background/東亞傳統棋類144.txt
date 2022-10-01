@@ -1,0 +1,5 @@
+﻿古力_NN 李世乭_NN 十_ETC 番_NN 棋_NN
+
+古力_NN vs_NN 李世乭_NN 十_OD 番_NN 棋由中_NN 国围棋协_NN 会_NN 、_PU 江苏恒_NN 康家_NN 居科_NN 技股份_NN 有_VE 限_NN 公司_NN 主办_NN 。_PU 规则_NN ：_PU 比赛总_NN 奖金_NN 为_VC 税前_NN 500万_CD 元人_NN 民币_VV ，_PU 胜者_NN 全得_VV ，_PU 负者_NN 只能_NN 拿到_VV 20万_CD 人民币_NN ；_PU 若双方_NN 5_OD 比_CC 5_OD 打平_VV ，_PU 则_AD 奖金_NN 平分_NN 。_PU 赛制为_VV 十_CD 局制_VV ，_PU 先_AD 胜_P 六_CD 局_M 者_NN 为_VC 最终_JJ 获胜方_NN ，_PU 比赛即_NN 宣告_NN 结束_NN 。_PU 结果_NN 李世石_NN 6_OD -_PU 2_OD 获_M 胜独揽_NN 500万_CD 。_PU 采用中_NN 国围棋_NN 规则_VV ，_PU 黑贴_NN 3_CD 又_CC 3/_CD 4子_NN ；_PU 用时_NN 为每方_NN 4_CD 小时_NN 保留_VV 时间_NN ，_PU 5_CD 次_M 1_CD 分钟_M 读秒_NN ，_PU 中午不_NN 封盘_NN 。_PU
+
+

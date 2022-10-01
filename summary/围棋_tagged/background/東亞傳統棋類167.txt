@@ -1,0 +1,13 @@
+﻿围棋_NN 十_OD 诀_NN
+
+《_PU 围棋_NN 十_OD 诀_NN 》_PU 是_VC 相傳由_NN 中國_NN 唐代_VV 圍棋名手_NN 王积薪_NN 所_MSP 創_VV 的_DEC 口訣_NN ，_PU 亦有_VE 由宋人_NN 刘_NN 仲_NN 甫所著_NN 之說_NN ，_PU 對世界_NN 圍棋界_NN 有_VE 廣泛_JJ 影響_NN 。_PU 原為_NN 下象棋_NN 的_DEC 基本原則_NN ，_PU 最_AD 早_VV 见载于_VV 南_NN 宋_NN 人陈_NN 元靓_NN 所著_VA 的_DEC 《_PU 事林广_NN 记_NN 》_PU （_PU 新編纂圖_JJ 增類群_NN 書類要_NN 事_NN 林_NN 廣記_NN ）_PU 續集_VV －_PU 卷之四文藝類_VV 。_PU 該書_NN 「_PU 六_CD 奇勢_M 」_PU 以上屬_NN 圍_OD 棋篇_VV ，_PU 「_PU 象棋子法_NN 」_PU 以下_NN 屬象棋_NN 篇_NN ，_PU 所_MSP 以_VV 「_PU 十_OD 訣_M 」_PU 原為象_NN 棋而作_NN 應無疑_NN 。_PU 另_NN 外明人_NN 刘_VV 仲_NN 达_VV 所_NN 著_VV 的_SP 《_PU 鸿书_NN 》_PU 《_PU 秋仙_NN 遗谱_NN 》_PU 《_PU 石室_NN 仙机_NN 》_PU 等书均_NN 有_VE 转载_NN 。_PU
+
+由于_NN 《_PU 圍棋_NN 十_OD 诀_NN 》_PU 词简意深_NN ，_PU 所论也_NR 被認為中_NN 肯_NN ，_PU 所_MSP 以_VV 自古被_NN 圍棋_VV 界_CD 奉為_NN 金科玉_NN 律_VA ，_PU 也傳到_NN 中國以_NN 外_LC 的_DEG 地方_NN ，_PU 例如_AD 在日_NT 本有_VV “_PU 棋圣_NN ”_PU 之稱_NN 的_DEC 本因_NN 坊秀策_NN ，_PU 将_BA 《_PU 围棋_NN 十_OD 诀_NN 》_PU 視為座_NN 右_AD 铭_VA ，_PU 并以_NN 此教_NN 授入_VV 门弟子_NN 。_PU
+
+
+20_CD 世紀的_NN 20_CD 年代_NN ，_PU 日本_NN 人铃_NN 木_NN 为_VC 次郎與_NN 中国_NR 人陶审_NN 安商讨_NN 將_NN 《_PU 围棋_NN 十_OD 诀_NN 》_PU 改為_NN 以下_NN 十_OD 訣_NN ，_PU 但_NN 其_PN 影響不_NN 及原作_NN 。_PU
+
+在人工_NR 智能_NN AlphaGo_NN 连续击_NN 败李世石_NN 、_PU 柯洁_NN 两_CD 位_NN 顶尖人_NN 类_NN 棋手后_NN ，_PU 讨_NN 论围棋_NN 的_DEC 热潮也_NN 一_CD 度_NN 传播上_NN 网_NN 上_LC ，_PU 因为_P 互联网_NN 的_DEG 幽默_NN 特点_NN ，_PU 故_AD 意用_NN 相反_VA 的_DEC 手法_NN 描写_VV 的_SP “_PU 围棋_NN 十_OD 诀_NN ”_PU 迅速在_NN 网_NN 上_NN 流行_NN ，_PU 其内容_NN 为_VC “_PU 坚决要_NN 胜_NN 、_PU 入界宜深_NN 、_PU 攻彼忘我_NN 、_PU 弃子另杀_NN 、_PU 大小都_NN 要_NN 、_PU 逢危就战_NN 、_PU 爽在_NR 轻速_NN 、_PU 棋都不应_NN 、_PU 彼强硬搞_NN 、_PU 势顾玉碎_NN 。_PU ”_PU
+
+
+

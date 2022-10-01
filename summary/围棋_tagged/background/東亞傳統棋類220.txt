@@ -1,0 +1,19 @@
+﻿定式_NN
+
+定式_VV ，_PU 又_CC 稱定石_NN ，_PU 一般是指_AD 圍_DEV 棋_NN 中_LC ，_PU 經過棋手_NN 們_AD 長久以來_VV 的_DEC 經驗累積_NN ，_PU 而_MSP 形成_VV 在_CD 某些_NN 情況_NN 下雙_NN 方都_NN 會依循_NN 的_DEC 固定下法_NN 。_PU 一_CD 般_M 通常_NN 發生_VV 在_VV 佈局_NN 階段_VV 的_DEC 角落地區_NN ，_PU 但有些_NR 在中盤_NR 時的某些_NR 固定下法_NN ，_PU 也_AD 被稱作_NN 中盤定式_NN 。_PU 圍棋_NN 定式_NN 的_DEC 總數在_NN 一萬_CD 種_CD 以上_NN 且_NN 仍_AD 不_AD 斷增加中_VV ，_PU 但_CC 常用_NN 的_DEC 僅約數_NN 百_OD 種_NN ，_PU 而_CC 且隨著各_NN 時代對_NN 圍棋_VV 的_DEC 見解不同_NN ，_PU 舊定式也_JJ 有被修正_NN 的_DEC 可能_NN 。_PU
+
+AlphaGoZero_NR 推出_NN 之后_NN ，_PU 旧有_VV 的定式_JJ 被大幅度_NN 淘汰_NN 。_PU
+
+除了_NN 圍棋之_NN 外_LC ，_PU 五子棋_NN 中_LC 的_DEG 固定_NN 下法_NN 也_CC 稱作_NN 定式_NN 。_PU
+
+由_P 於定式是一_JJ 種讓下_NN 棋雙_NN 方各_NN 不吃虧_NN 的_DEG 下法_NN ，_PU 因此_AD 在_P 水_NN 準較_VV 高_VA 的_DEC 對弈中_NN ，_PU 若_CS 一_CD 方未_NN 按照_NN 定式_NN 的_DEG 下法_NN 下棋_VV ，_PU 很_AD 可_VV 能_VV 馬上就被另_VV 一_CD 方趁機_NN 佔得_VV 優勢_NN 。_PU 但_NN 在_P 水_NN 準_OD 較_AD 低_VA 的_DEC 對弈中_NN ，_PU 若雙_NN 方對_NN 於定式_JJ 變化的_NN 掌握不_NN 足_NN ，_PU 則未按_NN 定式_NN 下的_VV 一_CD 方反_NN 而_MSP 有得利_VV 的_DEC 可能_NN 。_PU 此_NN 外_LC ，_PU 在_P 超水準_NN 的_DEC 職業棋士_NN 棋賽_NN 中_LC ，_PU 部分棋手_NN 也_CC 可能不_NN 按照_NN 定式下棋_NN ，_PU 藉以出_NR 奇致勝_NN ，_PU 但_CS 受損失_NN 的_DEC 風險也_NN 很_AD 大_VA ，_PU 有時甚_VV 至因_NN 此而_NN 發展_VV 出新_VV 的_DEC 定式_NN 。_PU
+
+定式_NN 的_DEC 運用並_NN 非_AD 一成不變_VV ，_PU 通常在定式_JJ 進行_NN 的_DEC 過程_NN 中_LC ，_PU 雙方都_NN 會_AD 各自_VV 有_VE 一_CD 些選擇_NN 不同_JJ 定式_NN 的_DEC 機會_NN ，_PU 因_BA 為定式_JJ 雖然_NN 是雙_NN 方都_NN 不_AD 吃虧_VV 的_DEC 下法_NN ，_PU 但這僅_NN 是_VC 就局部_NN 角落_VV 的_DEC 情形而言_NN ，_PU 若配合_NN 棋盤_NN 上_NN 其他_NN 部分_NN 的_DEC 局勢來看_NN ，_PU 選擇_NN 不同_VA 的_DEC 定式便_NN 會對雙_NN 方有_VV 不同_VA 的_DEC 優劣利弊_NN ，_PU 因此學習_NN 一_OD 個定式_JJ 的_DEG 時候_NN ，_PU 不僅要_NN 記下法_NN 順序_VV ，_PU 也要了解其_JJ 適合_NN 使用_NN 的_DEC 使用_NN 時機_VA 。_PU
+
+定式_NN 的_DEC 發生_NN ，_PU 通常_NN 是_VC 在_P 一_CD 方_M 先佔角_NN ，_PU 另_DT 一_CD 方掛角_NN 之後_NN 產生_VV 的_SP ，_PU 依照_NN 先佔角_NN 一_CD 方所佔_NN 的_DEC 位置_NN ，_PU 分成_VV
+以及非_NN 在_P 角_NN 上_NN 發生的_NN ：_PU
+
+
+<_NN /_NN div_NN >_PU
+
+

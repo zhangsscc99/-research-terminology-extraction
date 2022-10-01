@@ -1,0 +1,9 @@
+& ||| S:25 E:26 ||| CC
+,  ||| S:26 E:28 ||| ,
+or  ||| S:28 E:31 ||| CC
+ampersand ||| S:31 E:40 ||| NN
+,  ||| S:40 E:42 ||| ,
+is  ||| S:42 E:45 ||| VBZ
+a  ||| S:45 E:47 ||| DT
+typographic  ||| S:47 E:59 ||| JJ
+symbol ||| S:59 E:65 ||| NN

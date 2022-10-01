@@ -1,0 +1,10 @@
+﻿吃子棋
+
+吃子棋（Capture Go），英文多稱為The Capture Game、First Capture Go、Atari Go，日文稱為ポン抜き囲碁，是採用圍棋規則，但以先提對方棋子到一定數量為勝的棋類。此遊戲常在訓練孩童熟悉圍棋如何吃子時使用。
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+﻿天元_NN (_PU 围棋_NN )_PU
+
+天元是_NN 指围棋_NN 棋盤正_NN 中間_VV 的_DEC 黑_NN 點_CD 。_PU
+
+圍棋_NN 棋盤上_NN 共有_VV 九_CD 個黑_NN 點_NN ，_PU 除_NN 外圍的_NN 八_CD 個_CC 點_CD 叫作_NN 星位_NN ，_PU 正中間_NN 的_DEG 一點_CD 稱_BA 為天元_NN ，_PU 星位和_NN 天元合稱_NN 九_OD 星_NN ，_PU 而天元_NN 附近_NN 的_DEC 地叫中_NN 腹_NN 。_PU
+
+

@@ -1,0 +1,14 @@
+﻿叫吃_NN
+
+叫吃_NN （_PU 或打吃_NN ）_PU 是_VC 圍棋術語_NN ，_PU 指一_NN 方_NN 的_DEG 棋子_NN 被對手_NN 圍住只剩_VV 一_CD 口氣_NN 的_DEC 狀態_NN ，_PU 如_CS 被圍_NN 的_DEC 棋子下_NN 一_CD 步不逃將_NN 被提子_NN 。_PU
+
+在_P 此情形_NN 之下_VV ，_PU 黑下a_NN 或_CC b點_NN 的_DEC 時候_NN ，_PU 如白_NN 棋未_NN 作出_VV 回_AS 應黑棋_NN 再落_VV 一_CD 子即可_NN 提_P 白子_NN 。_PU 也就_NN 是_VC 說_JJ 黑棋於_NN a_NN 或_CC b_NN 落子_NN 為叫吃_NN 的_DEC 狀態_NN 。_PU
+下一步_JJ 黑棋下_NN 在_P a點_NN 可_VV 提取_VV 中央_NN 的_DEC 白子_NN 。_PU 白子_NN 逃出_VV 的_DEC 唯一_JJ 途徑是於_NN a點_CD 連起_NN 。_PU
+
+以上_NN 各式_NN 情形只_NN 要白棋_NN 被_SB 黑下_VV 於_CD a_M 点便可_NN 被_SB 提子_VV 。_PU
+
+在_P 兩_OD 處_M 同時叫_NN 吃_NN 的_DEC 狀態為_NN 雙叫吃_NN 。_PU
+
+在_P 上圖中_NN ，_PU 白_NN 1_OD 可同_JJ 時叫吃_NN 兩_CC 黑子_NN ，_PU 黑棋_NN 只能_NN 逃出_VV 其中_NN 一子_NN 。_PU
+
+

@@ -1,0 +1,82 @@
+﻿劫_NN (_PU 围棋_NN )_PU
+
+劫也称_NN “_PU 打劫_NN ”_PU ，_PU 是围_NN 棋术语_NN 。_PU 下棋_VV 时_LC ，_PU 在_P 提掉对_NN 方一_JJ 颗子_NN 之后_NN ，_PU 己方所落_NN 之子即使_NN 仅_VV 剩_NN 一_OD 气_NN ，_PU 对方也_NN 不_AD 能_VV 立_AS 即落子_NN 提回_NN ，_PU 否则将_NN 無限_NN 重複_NN ，_PU 因此_NN 之後_NN 的_DEC 一_CD 方必须_NN 要_VV 在_P 其_NN 它地_NN 方落子_NN ，_PU 等到_VV 下_DT 一_CD 手才能_NN 提这_VV 颗子_NN 。_PU 打劫规则_NN 可以_VV 看作_VV 是_VC 更广义_NR 的_ETC “_PU 禁止_NN 全局_NN 同形_VV 再现_VV ”_PU 规则_NN 的_DEC 一_CD 个_M 特例_NN ，_PU 即_NN ，_PU 禁止_NN 对局_NN 陷于_VV 无限循环_NN 之中_NN 。_PU 劫规则_NN 所_MSP 限定_VV 的_DEC 范围_NN ，_PU 虽_CS 然只是_NN 一两_CD 颗_NN 棋子_NN 的_DEC 死活_NN ，_PU 但_CC 在_P 很多_CD 情况_NN 下_NN ，_PU 这_NN 一_CD 两_CD 颗子_NN 的_DEC 死活有_NN 可能关_NN 系_VC 到_P 全局_NN 的_DEC 胜负_NN ，_PU 因此為了_NN 自己的_NN 利益_NN ，_PU 可以_VV 通過_VV 「_PU 劫財_NN 」_PU 來威脅_NN ，_PU 即_AD 在_VV 劫外_NN 攻擊_NN 對_JJ 手_NN 一_CD 下_NN 使_VV 其_PN 不_AD 得_VV 不_AD 去_VV 回_AD 應_VA ，_PU 否則將遭_NN 受重大_NN 損失_VV ，_PU 失去_VV 的_DEC 地盤將_NN 超_NN 過_NN 打劫_NN 勝利_NN 的_DEC 地盤_NN 。_PU
+
+实战_NN 中劫_NN 的_DEG 形式_NN 可能_VV 十_CD 分复杂_M ，_PU 有时甚至会_NR 出现_VV 二劫循环_NN 、_PU 三劫循_NN 环等_NN 情况_NN 。_PU 三劫_NN 循环_NN 的_DEC 对局很罕_NN 见_NN ，_PU 如果_CS 不预先_NN 规定_VV 禁_NN 止全局_NN 同形_JJ 再现_NN ，_PU 一般规定_AD 出现_VV 三_CD 劫_NN 循环_NN 的_DEC 对局无胜_NN 负_NN ，_PU 双方_NN 必须_VV 重新下_NN 一_CD 局_CD 以定胜负_NN 。_PU
+
+与_P 打劫紧密_NN 相关_VV 的_DT 一_CD 个_M 词叫_NN “_PU 消劫_NN ”_PU 。_PU 打劫_NN 的_DEC 时候_NN ，_PU 一_CD 方把_NN 劫争_VV 的_DEC 空位填_NN 上_LC ，_PU 劫争即_NN 结束_VV 。_PU
+
+与_P 打劫紧密_NN 相关_VV 的_DEC 另_DT 一_CD 个_M 词叫_NN “_PU 劫材_NN ”_PU 。_PU 当出现_NN 打劫_NN 情况_NN 时_LC ，_PU 被提子_NN 一_AD 方_VA 的_DEC 棋手_NN 必须_VV 在_VV 其_NN 它地_NN 方落子_NN ，_PU 此后_NT 对方很_NN 可_AD 能_VV 消劫_VV ，_PU 那_BA 怎么办_NN ？_PU 所以_VV ，_PU 被提子_NN 一_CD 方往往_NN 选择_NN 在_P 其它_DT 很关键_NN 的_DEC 地_NN 方落_NN 子_NN ，_PU 迫使对_NN 方不_NN 得_VV 不_AD 跟_AD 着应_VV ，_PU 然后_AD 被提子_NN 一_CD 方就_NN 可以_VV 回提_VV 对方_NN 的_DEC 子了_NN 。_PU 这_CD 种_M 关键_NN 的_DEC 位置_NN 一般称_AD 为_VC 劫材_NN 。_PU 高_JJ 手下棋_NN 常常_JJ 都会_NN 保留_VV 一_CD 些_M 先手作_NN 为_VC “_PU 劫材_NN ”_PU ，_PU 一旦_CS 形成_VV 打劫_NN ，_PU 劫材多_NN 的_DEG 一_CD 方打胜_NN 的_DEC 可能性较_NN 大_VA 。_PU
+
+劫_CD 依其_NN 重要性_NN 也_NN 分為天_AD 下劫_VV ，_PU 死活劫_NN ，_PU 官子_NN 劫等_NN ，_PU 天下劫_NN 表示_VV 整盘_NN 棋_AD 最_AD 重要_VA 的_DEC 一_CD 個劫_NN ，_PU 意即不管_NN 使用任_NN 何劫材_NN 威胁_VV ，_PU 对手都很_NN 可_AD 能_VV 直接_AD 消劫_VV 并得_VV 到_VV 巨_NN 大_VA 的_DEC 利益_NN ，_PU 例如_AD 黑白各_NN 50_CD 子_NN 的_NN 大龙_NN 形成_VV 攻杀_NN ，_PU 这时_NT ，_PU 任何_DT 劫材都_NN 很_AD 可_AD 能_VV 不_AD 被_VV 理会_VV 。_PU
+
+對於簡單_NN 的_DEC 緊氣劫_NN ，_PU 劫敗_VV 的_DT 一_CD 方可_NN 以_MSP 獲得_VV 外部_NN 連走_NN 兩_OD 手_NN 的_DEG 獲利_NN ，_PU 劫_NN 勝_OD 則_NN 可以_VV 消劫_VV 。_PU 因此_NN 棋盤上_NN 連走_NN 兩_CD 手_NN 會獲得_NN 利益_VV 的_DEC 地方稱_NN 為_NN 「_PU 劫材_NN 」_PU 。_PU
+劫材_NN 的_DEG 利益_NN 必須比_NN 消劫大_NN ，_PU 對方才_NN 會_VV 在_P 劫材_NN 的_DEC 地方應_NN 一_OD 手_NN ，_PU
+高手在_NR 下棋時_NN ，_PU 會_AD 保留_VV 一_CD 些變化_NN ，_PU 特別_NN 是己方_NN 的_DEC 先手但_NN 對方_NN 的_DEC 後手_NN ，_PU 未來_NN 可以_VV 做為_VV 借用或_NN 是劫材_NN 。_PU
+對於利_NN 益相當_NN 微小_VV 的_DEC 劫_NN ，_PU 如_NN 官子劫_NN ，_PU 可_AD 能_VV 整個_VV 盤面_NN 滿布_VV 劫_VV 材_NN ，_PU 因此_AD 在_P 終盤出_NR 現了_NN 「_PU 黏_CD 劫收後_NN 」_PU 的_DEC 特殊_NN 手段_NN 。_PU
+
+在劫爭_NR 之處_NN 的_DEC 劫材對_NN 方非應_NN 不_AD 可_VV ，_PU 稱為_VV 「_PU 本身劫_NN 」_PU ，_PU 本身劫_NN 對_NN 於_NN 劫爭_NN 的_DEC 勝負有著相_NN 當程度_NN 的_DEG 影響_NN ，_PU 布局_NR 階段_NN 出現_VV 的_DEC 劫爭_NN 、_PU 以及影_NN 響全局_NN 的_DEC 天下劫_NN ，_PU
+幾乎不_NN 可_VV 能找_VV 到_P 相_NN 對應_VV 的_DEC 劫材_NN ，_PU 有_AD 本身劫_NN 的_DEC 一_CD 方基本_NN 上_NN 立於_JJ 不敗_NN 之地_NN 。_PU
+本身_NN 劫也_NN 是_VC 大_JJ 龍出_NN 逃或_NN 著作活_NN 的_DEC 手段_NN ，_PU 一旦_CS 大龍成_NR 為劫活_NN ，_PU 而且_NN 這個_NN 劫對大_NN 龍來_NN 說不_NN 是_VC 緊氣劫_NR ，_PU 幾本上_NN 可以_VV 視_CD 為淨活_NN ，_PU 因為大_NR 龍每_NN 步逃出_NN 的_DEC 過程都_NN 是_VC 一_OD 枚_M 本身劫_NN ，_PU
+包圍大龍_NN 的_DEC 棋的_NN 缺陷_NN 也都_NN 是_VC 本身劫_NN ，_PU 對方幾_NN 乎_AD 沒有_VV 贏劫_NN 的_DEC 可能_NN 。_PU
+
+有_VE 些劫材_NN 在_P 對方跟_NN 著_VV 應_P 一_CD 手_NN 之後_LC ，_PU 自己會_NN 出_VV 現明顯_NN 虧_AD 損_VA ，_PU 這類_NN 的_DEC 劫材則_NN 稱為_NN 「_PU 損劫_NN 」_PU ，_PU
+只有_VV 在_VV 一般_JJ 的_DEG 劫材耗_NN 盡_VA ，_PU 並且_NN 劫爭_NN 影響相_NN 當大_VV 的_DEC 時候才_NN 會_NN 開始下_NN 損劫_VV ，_PU 否則就算_NN 劫_NN 勝_NN 虧損_NN 的_DEC 目數也_NN 很_AD 難_VA 補回_NN 。_PU
+
+對於一_NR 方寬氣劫_NN ，_PU 一_CD 方緊_NN 氣劫_VV 的_DEC 情形_NN ，_PU 則更為複_NN 雜_VA ，_PU 寬氣劫_NN 的_DEC 一_CD 方_NN ，_PU 可以_VV 抽空_VV 「_PU 造劫_NN 」_PU ，_PU 即_NN ：_PU 在_P 己方連_NN 走_NN 數_NN 手會_NN 獲得_VV 巨_AD 大_JJ 利益_NN 的_DEC 地方行_NN 棋來產_NN 生劫材_NN ，_PU
+緊氣劫_NN 的_DEC 一_CD 方必須_NN 要有_VV 比對_NN 方多數枚_NN 枚劫材_NN ，_PU 並且_NN 同時應_NN 付對_NN 方造劫_NN 的_DEC 條件下_NN 才能劫勝_NN 。_PU
+
+在_P 原本_NN 是劫材_NN 的_DEG 地方多_NN 下_P 一_CD 手_M 棋_NN ，_PU 把_NN 毛病_NN 捕掉_VV ，_PU 稱為_VV 補劫材_NN 。_PU 通常_NN 是_VC 寬_BA 氣劫或_NN 接近_NN 終局_NN 、_PU 或著己_NN 方形勢_NN 不_AD 錯_VV 才能_NN 補劫材_NN 。_PU
+對於_NN 萬_CD 年_PU 劫類型的_JJ 劫爭_NN ，_PU 先開劫_NN 的_DEC 一_CD 方會_NN 陷入_VV 不利_NN ，_PU 因此雙_NN 方都_NN 無法開劫_NN ，_PU 等到_NN 終局時_NN ，_PU 雙方劫_NN 材都_NN 補完_VV 了_SP ，_PU 萬_CD 年_M 劫也_NN 變成_VV 了_AS 雙活_NN 。_PU
+盤角曲_NN 四_NN 也_AD 是_VC 類似_VA 的_DEC 情形_NN ，_PU 只_NN 是_VC 盤角曲_NN 四_OD 被_NN 圍的_VV 一_CD 方是死棋_NN ，_PU 「_PU 盤角曲_NN 四_OD ，_PU 劫盡_NN 棋亡_NN 」_PU 。_PU
+但圍棋_NN 中_LC 也_AD 存在_VV 著雙活_NN 、_PU 長生劫_NN 、_PU 循環劫_NN 等_ETC 補不_VV 了_AS 的_DEC 劫材_NN 。_PU 當這些_NN 複雜_NN 情形同_NN 時_AD 出現_VV 在_VV 同_P 一_CD 個盤面_NN 上時_VV ，_PU 死活_NN 的_DEC 判定就出_NN 現_NN 爭_NN 議_LC ，_PU
+這些_NN 爭議也_NN 是_VC 日本規_NR 則與_NN 中國_NR 規則_NN 的_DEC 爭論_NN 核心_NN 。_PU
+
+劫敗_NN 的_DEC 話損失_NN 慘重_NN ，_PU 或是_NN 需要_NN 比對_NN 方多很多_NN 劫材_NN 才能_NN 劫勝_VV ，_PU 則稱_NN 為負_NN 擔重_NN ，_PU 反之_NR 則為負_NN 擔輕_VV 。_PU
+劫敗_NN 幾乎無_NN 所_MSP 謂_VV 的_DEC 劫稱為_NN 「_PU 看花劫_NN 」_PU ，_PU 意即_NN 可以_VV 悠閒_VV 地_DT 一_CD 邊看花_NN 一_CD 邊_AD 打劫_VV ，_PU 反之_AD 稱為_VV 「_PU 生死劫_NN 」_NN 。_PU
+劫勝一_NR 方幾乎_NN 可以_VV 篤定獲得_VV 本局_NN 勝利_VV 的_DEC 劫_NN ，_PU 例如_AD 兩_OD 條_NN 大_OD 龍對殺_NN 的劫_VV ，_PU 稱為_NN 「_PU 天下劫_NN 」_PU 。_PU
+除此之_NN 外_LC ，_PU 劫還分_NN 為_CD 緊氣與_NN 寬氣_VV ，_PU 先手與_AD 後手_VV 。_PU 緊氣_NN 劫與後_NN 手劫_VV 的_DEC 負擔較重_NN ，_PU 有_NN 時局_NN 部對_NN 殺也必_NN 須把_NN 劫爭_NN 的_DEC 負擔考慮_NN 進去_VV 。_PU
+
+需要連走_NR 數子_NN 才能_NN 消去_VV 的_DEC 劫爭稱為_NN 寬_OD 氣劫_VV ，_PU 又稱_NN 緩氣劫_NN ，_PU 反之一_NR 手_NN 就_AD 可以_VV 消去_VV 的_DEC 稱為緊氣_NN 劫_NN ，_PU
+寬氣劫_NN 的_DEC 一_CD 方除了_NN 要找_VV 的_DEC 劫材_NN 比較少_NN 之_NN 外_LC ，_PU 還_AD 可以_VV 在_AD 打劫_VV 的_DEC 過程_NN 中造_NN 劫或_NN 補劫材_NN ，_PU 就算劫_NN 敗也_NN 可以_VV 在_P 外圍連走數_NR 手_ETC ，_PU 負擔相_NN 當輕_VV 。_PU
+假如己_NN 方消劫_NN 要花_NN 的_DEC 手數_NN 明顯_NN 比對_NN 方多_NN 的_DEG 劫爭_NN ，_PU 幾乎不_NN 可_VV 能_VV 打贏_VV ，_PU 被稱作_NN 「_PU 賴_NN 皮劫_NN 」_PU ，_PU 賴皮劫_NN 只有_VV 在_VV 劫材_NN 的_DEG 數目多_NN 到_VV 不_NN 可_VV 思_NN 議_CD 才能_NN 打贏_VV 。_PU
+
+在劫爭一開始_NR ，_PU 先提掉_NR 劫爭_NN 之子_NN 的_DEC 一_CD 方稱為先_NN 手劫_VV ，_PU 另_AD 一_CD 方則為後_NN 手劫_VV ，_PU
+先手劫_NN 的_DEC 一_CD 方可_NN 以_MSP 少找_VV 一_CD 枚劫材_NN 。_PU
+
+以下是_NN 一_OD 個_NN 簡單_VV 的_DEC 死活問題_NN ，_PU 黑棋欲_NN 殺角_NN 部白子_NN ，_PU 當_NN 點_OD 在_M 正確的_NN 位置_NN 上_NN 時_LC ，_PU 會產生_NN 一_CD 個劫爭_NN (_PU 見_CD 正解圖_NN )_PU ，_PU
+黑_NN 5_OD 先_M 提掉劫爭_NN 之子_NN 。_PU
+這個_NN 劫爭_NN 對雙_NN 方都_NN 是_VC 緊_JJ 氣劫_NN ，_PU 並且_NN 這個劫_NN 是黑棋_NN 的_DEC 先手劫_NN 。_PU 假如白_NN 方_AD 有_VE N_CD 枚劫材_NN ，_PU 則黑_NN 棋只_NN 需和_NN 白棋_NN 相同_VA 的_DEC N個劫_NN 材便_NN 可_VV 打贏_VV 這個劫_NN 。_PU
+
+但假如_NN 黑棋_NN 點_AD 在_P 另外_DT 一_CD 個_M 「_PU 一二」_CD 的_DEG 位置_NN 上_LC ，_PU 結果就_NN 完全不_JJ 同了_NN (_PU 見失_NN 敗圖_NN )_PU
+白_NN 4_OD 先_M 將劫爭_NN 之子_NN 提掉_VV ，_PU 並_BA 且白棋_NN 只_AD 要下_VV 在_P a_NN 位_NN 便_AD 可以_VV 消劫_VV ，_PU 黑棋_NN 卻需要_NN 將a_VV ，_PU b_NN 填滿_NN 才能_NN 消劫_VV ，_PU
+所以_NR 這是_NN 黑棋方_NN 的_DEC 緊氣劫_NN ，_PU 白棋的緩_VV 一_CD 氣劫_NN ，_PU 並且_NN 是黑棋_NN 的_DEC 後手劫_NN 。_PU 如白_NN 方_AD 有_VE N_NN 枚劫材_NN ，_PU 則黑_NN 棋需要_NN N_NN +_NN 2_CD 個劫材_NN 才能_NN 劫勝_VV 。_PU
+黑棋失_NN 敗圖負_NN 擔明顯_NN 較重_NN 。_PU
+
+以下_NN 是_VC 星位_NN -_PU 小飛掛_NN -_PU 壓_NN 長定石_NN 中_LC ，_PU 黑棋試圖_NN 衝斷白棋_NN 的_DEC 騙著_NN 。_PU
+
+這個騙著_NN 的_DEC 關鍵是_NN ，_PU 白棋6_NR 立下之後_NR ，_PU 會有白8_NR 斷_NN 的_DEC 先手_NN ，_PU 一_CD 旦白棋_NN 意識_VV 到_VV 這_DT 一點，_CD 黑棋_NN 的_DEC 騙著便_NN 不_AD 能_VV 成立_VV ，_PU 之後雙_NN 方對殺_NN 形成_VV 劫爭_NN 。_PU
+這_NN 是_VC 黑棋_NN 的_DEC 緊氣劫_NN ，_PU 白棋的緩_VV 一_CD 氣劫_NN ，_PU 也_AD 是_VC 黑棋_VV 的_DEC 先手劫_NN 。_PU
+黑_NN 23_CD 提劫_NN ，_PU 但是這_NN 個_NN 劫_NN 爭黑棋_NN 是_VC 毫無勝算_NN 的_NN ，_PU 因為白棋_NN 26_CD 手有_VV a_NN 位_NN 的_DEG 本身劫_NN ，_PU
+黑棋_NN 只能在_NN b_NN 位_NN 接住_NN 。_PU
+這個_NN 劫爭_NN 對雙_NN 方都很_NN 重_VA ，_PU 黑棋_NN 在布_VV 局_NN 階段基本_NN 上_NN 找不_VV 到_VV 相對應_NN 的_DEC 劫材_NN ，_PU
+白棋_NN 25_CD 提劫_NN 之後_NN ，_PU 接著就_NN 可以_VV 在_P c_NN 消劫_NN 將黑棋_NN 吃淨_VV 。_PU
+
+
+
+很多人誤_NN 以為_NN 盤角曲_NN 四_CD 日本_NR 規則_NN 是_VC 死棋_VV ，_PU 同時日本_NN 規則_NN 沒有_VV 官子半_NN 目劫_NN 。_PU 但其_NN 實這_NN 兩_OD 項_NN 規定都_NN 是_VC 舊_JJ 日本規則_NR 的_DEC 內容_NN 。_PU
+1989年_NT 之後_NN 日_NN 本規則_NN 也有_VV 官子半_NN 目劫_NN ，_PU 同時_NN 盤角曲_NN 四_CD 也_AD 改成_VV 實戰解決_NN 。_PU 差別只_NN 在_P 日本規_NR 則因_NN 為_NN 數目法_NN 所以_VV 有_VE 些棋型_JJ 終局_NN 不能_NN 自補棋_NN 。_PU
+
+應氏盃所_NN 使用_NN 的_DEC 應氏規則_NN 的_DEC 基本_NN 精神是_NN 「_PU 讓_NN 圍棋越_NN 多_CD 變化越好_NN 」_PU ，_PU 因此有_NR 許多與_NR 其他_NN 規則不同_NN 之處_NN 。_PU
+應氏_NN 規則_NN 由於_NN 以下_NN 兩點_CD ，_PU 使_VV 得與日_NN 本規_NN 則和_NN 中國規_NN 則相比_NN 增加_VV 了_DT 一_CD 些劫材_NN
+
+除此之_NN 外_LC ，_PU 應氏規_NN 則也_NN 是_VC 第一_OD 個明確_NN 規定循環_NN 類劫爭_NN 解決_NN 方法_NN 的_DEC 圍棋規則_NN 。_PU
+
+古力_NN 與李世乭_NN 在_P 2012_CD 年第_NN 17_CD 屆三星杯_M 的_DEG 32_OD 強_M 戰遭遇_NN ，_PU 當時_NN 正值_NN 兩_OD 人_NN 的_DEG 全盛時期_NN ，_PU 分別為_NN 中_NN 國_NN 與韓國_NN 的_DEC 圍棋第_NN 一_OD 人_NN ，_PU 古力執黑_NN 棋_NN 。_PU
+在_AD 進行_VV 到_NN 中盤時_NN ，_PU 雙方在右邊_VV 形成_VV 一_CD 個天_M 下劫_VV ，_PU 隨著比賽_NN 的_DEC 進行_NN ，_PU 比賽_NN 一度對_NN 古力_NN 有利_VA ，_PU 但此_NN 時黑_NN 棋企圖_NN 全殺白棋_NN ，_PU 反而給_NN 予李_NN 世乭_NN 反擊機會_NN 。_PU
+黑棋右方_NN 之子_NN 被_SB 反圍_VV ，_PU 已經毫無_NN 勝算_NN 。_PU 於_NN 是_VC 黑棋硬_NN 是_VC 右_JJ 方下出_NN 四_OD 劫_NN 循環_NN ，_PU 造成_NN 比賽_NN 和_NN 局_NN 。_PU
+這也_NN 是_VC 富士通_NR 杯出現圍_NR 棋世界_NN 賽化_NN 之後_NN ，_PU 首次_VV 在_VV 世界_NN 大賽_NN 上_NN 出_NN 現和棋_NN 。_PU
+
+本局最_NN 後古力_NN 在_AD 加賽_VV 之後獲得_NN 勝利_NN 。_PU 另外值得_NN 一_AD 提_VA 的_DEC 是最後_NN 古力與_NN 進入_VV 敗部_NN 的_DEC 李世乭_NN 兩_OD 人又_VV 在_VV 決賽碰頭_NN ，_PU 這回李_NN 世乭以_NN 2_OD ：_PU 1_OD 獲_M 得本屆_NN 冠軍_VV 。_PU
+
+

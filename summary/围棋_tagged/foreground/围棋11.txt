@@ -1,0 +1,14 @@
+﻿_CD CCTV_NN 贺岁_NN 杯围棋_NN 赛_NN
+
+CCTV_NN 贺岁_NN 杯围_NN 棋赛_VV ，_PU 是_VC 由_P 中国_NR 中央_NN 电视台_NN 举办_VV 的_DT 一_CD 项围棋赛_NN ，_PU 于春节_NN 期间_NN 进行_VV ，_PU 始于_NN 2013_CD 年_M 。_PU 该比赛_NN 是_VC 央视_NR “_PU 贺岁杯_NN ”_PU 系列_NN 赛事_NN 的_DEC 一_CD 个_M 组成_NN 部分_NN 。_PU
+
+首届_NN 贺岁_NN 杯围棋_NN 赛又名_NN “_PU 中_NN 国围棋_NN 甲级_NN 联赛_NN 超霸赛_NN ”_PU ，_PU 在_VV 中央_NN 电视台_NN 总部_NN 大_NN 楼举行_NN ，_PU 由_P 2012_CD 围甲联赛_NN “_PU 最有_VE 价值棋_NN 手_NN ”_PU 古力_NN 九_OD 段_NN 对阵_NN “_PU 最佳_JJ 主将_NN 棋手_NN ”_PU 时越_NN 五段_VA 。_PU 讲棋嘉宾_NN 为_VC 聂卫平_NN 与_P 唐莉_NN 、_PU 王煜辉_NN 。_PU
+2014年_NT 的_DEC 第二_OD 届贺岁_NN 杯围棋_NN 赛又名_NN “_PU 中日_NN 韩围_NN 棋争_NN 霸赛_NN ”_PU ，_PU 邀请了_NN 中_LC 日韩_VV 的_DEC 顶尖_NN 棋手_NN ：_PU 时越_VV 、_PU 李世石_NN 、_PU 村川大介_NN 。_PU 比赛由_NN 国内_NN 比赛_NN 变成_VV 了_AS 国际_NN 比赛_NN ，_PU 由_P 一盘_NN 变成_VV 了_NN 三_OD 盘_NN ，_PU 播出形式_JJ 也由_NN 上届_VA 的_DEC 录播改_NN 为_VC 直播_NN 。_PU 冠军_NN 奖金_NN 高达_NN 80万_CD 元人_NN 民币_VV ，_PU 亚军与_NN 季军_NN 也有_VV 40万_CD 元和_NN 20万_CD 元_NN 。_PU
+根据_NN 抽签_NN 结果_NN ，_PU 时越_NN 与_P 村川大_NN 介先赛_NN 一_AD 盘_VA ，_PU 胜者_NN 晋级_NN 决赛_NN ，_PU 负者_NN 与_P 李世石_NN 再_AD 赛_P 一_CD 盘_M ，_PU 争夺另_NN 一_CD 个_M 决赛名额_NN 。_PU
+
+北京_NN 柏悦_NN 酒店_NN
+中央_NN 电视台_NN
+四川_CS 成都_VV ，_PU 天府_VV 芙_CD 蓉园_NN
+1月_NT 20-22日_NT ，_PU 四_OD 川_M 成都_NN
+
+

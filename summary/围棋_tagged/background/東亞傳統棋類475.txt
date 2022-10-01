@@ -1,0 +1,9 @@
+﻿雙飛_NN 燕定式_Err
+
+雙飛燕_NN 定式是_NN 一_OD 類_NN 圍_OD 棋定式_JJ 的_DEG 統稱_NN ，_PU 因_P 其_PN 狀有_VV 兩子雙_NN 雙飛_NN 掛星位_NN ，_PU 因而得名_NN 。_PU
+
+中國_NN 古代_NN 座子棋_NN 制度下_NN ，_PU 讓子局_NN 中_LC 較多出現_VV 。_PU AlphaGo_NN 後_NN AI_NN 圍棋_NN 時代_NN 重獲_NN 重視_NN 應用_NN 。_PU 因黑棋_NN 脫先_VV 一手形成_JJ 定式_NN ，_PU 使_VV 得先_NN 手價值_NN 得到_VV 重新評估_NN 。_PU
+
+自此在_NN 現代_NN 圍棋大_NN 貼目_NN 制度下_NN ，_PU 黑棋不_NN 再_AD 認爲_VV 被_SB 雙掛_VV 劣_VV 於_NN 一_OD 先_NN 。_PU
+
+

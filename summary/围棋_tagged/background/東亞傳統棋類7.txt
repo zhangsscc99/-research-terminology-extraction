@@ -1,0 +1,20 @@
+﻿_OD AlphaZero_NR
+
+AlphaZero_NN 是_VC DeepMind_NN 所_MSP 開發_VV 的_DEC 人工_NN 智能_NN 軟體_VV 。_PU
+
+AlphaZero_NN 使用與_NN AlphaGoZero_NN 類似但更_NN 一般性_JJ 的_DEG 演算法_NN ，_PU 在_AD 不_AD 做_VV 太_AD 多_CD 改變_NN 的_DEC 前提下_NN ，_PU 並_NN 將_NN 演算_NN 法_NN 從_NN 圍棋_NN 延伸_VV 到_VV 将_BA 棋與國_NN 際象棋_NN 上_NN 。_PU AlphaZero_NN 與_NN AlphaGoZero_NN 不同_JJ 之處在於_NN ：_PU
+
+
+AlphaZero_NN 基於_NN 蒙特_NN 卡洛_NN 树搜索_NN ，_PU 每秒只_NN 能_VV 搜尋_VV 8萬_CD 步_NN （_PU 西_CD 洋棋_M ）_PU 與_NN 4萬_CD 步_NN （_PU 將_NN 棋_OD ）_PU ，_PU 相_NN 較_NN 於每秒_NN 可以_VV 7000萬_CD 步_NN ，_PU 以及_CC 每_DT 秒_NN 可以_VV 3500萬_CD 步_M ，_PU AlphaZero_NN 則是_NN 利用_VV 了_AS 類神經_NN 網路_NN 提昇_VV 了_AS 搜尋_NN 的_DEC 品質_NN 。_PU
+
+AlphaZero_NN 使用了_NN 5_CD ,_PU 000_CD 顆第_NN 一代_VV 的_DEC TPU_NN 進行_NN 訓練_NN 。_PU
+
+在4_OD 小_M 時_NN 的_DEG 訓練後_NN （_PU 約_CD 自我訓_NN 練_NN 4400萬_CD 局_M ）_PU ，_PU AlphaZero_NN 以_NN 28_CD 勝_CC 72_CD 和_CC 0敗_CD 的_DEC 成績_NN 打敗_VV 。_PU
+
+在_P 12_OD 小時_VV 的_DEC 訓練後_NN （_PU 約_NN 自我訓練_NN 2400萬_CD 局_M ）_PU ，_PU AlphaZero_NN 以_NN 90_CD 勝_CC 2和_CD 8_CD 敗_NN 的_DEG 成績_NN 打敗_VV 。_PU
+
+在_P 34_OD 小時_VV 的_DEC 訓練後_NN （_PU 約_NN 自我訓練_NN 2100萬_CD 局_M ）_PU ，_PU AlphaZero_NN 以_NN 60_CD 勝_CC 40_CD 敗的_VV 成績打敗_NN AlphaGoZero_NN 。_PU
+
+
+
+

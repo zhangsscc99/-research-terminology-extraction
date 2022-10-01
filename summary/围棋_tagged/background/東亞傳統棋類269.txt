@@ -1,0 +1,6 @@
+﻿撲_NN (_PU 圍棋_NN )_PU
+
+撲是圍棋_NN 的_DEC 用語_NN ，_PU 一_CD 般_NN 在_P 圍_NN 棋_NN 中_LC ，_PU 被吃棋_NN 是_VC 對己_NN 方不利_NN 的_DEC 情況_NN ，_PU 但撲_VV 的_DEC 技巧_NN
+正好相反_NN ，_PU 是故意_NN 往對_NN 方虎口_NN （_PU 即一個點的_JJ 三個_NN 方向_NN 都_AD 已有_VV 對方_NN 棋子_NN ）_PU 裡填子_NN ，_PU 讓對_NN 方多下_NN 一_CD 子_NN 吃下_NN 自己_NN 棋子_NN ，_PU 而造_NN 成對_NN 方棋子_NN 的_DEC 氣減少_NN ，_PU 使_VV 自己_NN 可以_VV 進_DT 一_CD 步反打_NN 吃對_NN 方棋子_NN 的_NN 。_PU 撲_NN 的_DEG 運用_NN 必須在_NN 對方_NN 整塊棋_NN 的_DEC 氣不多且缺_NN 乏眼_VV ，_PU 且棋子_NN 的_DEC 連結不_NN 穩_AD 固時_VV ，_PU 此時撲_NN 的_DEC 一子下了_NN 以_MSP 後會迫使_VV 對方被_NN 叫吃_VV ，_PU 因此_AD 非_AD 吃_VV 該子不_NN 可_VV ，_PU 這_AD 時撲_VV 的_DEC 作用_NN 才能_NN 達成_VV 。_PU
+
+

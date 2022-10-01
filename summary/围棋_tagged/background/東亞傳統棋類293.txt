@@ -1,0 +1,150 @@
+﻿日本_NN 将棋_NN
+
+日本_NN 將棋_NN （_PU 日語_NN ：_NN ）_PU ，_PU 又稱_NN 本將棋_NN （_PU 本_NN ，_PU 基本_NN 之意_NN ）_PU ，_PU 是_VC 一_OD 種_M 盛行於_NN 日本_NR 的象棋_NR 類遊戲_NN ，_PU 與圍棋與_NN 連_NN 珠_NN 並列為_NN 日本最受_NR 歡迎_NN 的_DEC 三_CD 大_NN 棋類遊_NN 戲_NN ，_PU 皆_NN 設有_VV 段位_NN 。_PU
+
+根據日本_NN 將棋_NN 聯盟統計_NN ，_PU 目前_NN 將棋_NN 人口_NN 約有_VV 1,200萬_CD 人_NN 。_PU 在_VV 諸_CD 多象棋_NN 類遊戲_NN 中_LC ，_PU 日本_NN 將棋_NN 最_AD 大_JJ 特徵即_NN 為_NN 「_PU 」_PU 規則_NN ，_PU 棋手_NN 可以_VV 將_CD 吃來_NN 的_DEC 棋子_NN 變為_NN 己用_NN ，_PU 花費_VV 一_CD 手將_NN 棋子_NN 打入_NN 棋盤_NN 上_LC 的_DEC 空位_NN 。_PU 其他_DT 有類_JJ 似規則_NN 的_DEC 遊戲有雙_NN 狂象棋_NN 。_PU 根據賽局_NN 理論_VV ，_PU 將棋屬於_NN 二_OD 人_NN 零_OD 和_M 有限確_NN 定_NN 完全_JJ 情報遊戲_NN ，_PU 但由_NR 於欠行與千日手_NR 的_DEC 曖昧性_NN ，_PU 將棋可_NN 能_VV 發展_VV 為無_NN 限遊戲_NN 。_PU
+
+將棋_NN 的_DEC 始祖_NN 目前沒_NN 有_VE 實證_VV ，_PU 目前普_NN 遍_AD 認為_VV ，_PU 將棋可_NN 能_VV 源_P 於東南亞_NN 傳入_NN 的_DEC 恰圖蘭卡_NN （_PU chatura_NN ṅ_NN ga_NN ）_PU ，_PU 特別_NN 是銀將_NN 的_DEC 走法_NN ，_PU 與泰_NN 國象_NN 棋等_NN 東南_NN 亞象棋_NN 的_DEC 象完全_NN 相同_VA 。_PU 在_P 日本最早_NR 的_DEC 文字紀_NR 錄是_NN 平安將棋_NN ，_PU 之後陸_NN 續有_VV 小將棋_NN 、_PU 中將棋_NN 、_PU 大將棋_NN 、_PU 大大_NR 將棋_NN 、_PU 天竺大將_NN 棋_VA 、_PU 摩訶大大_NN 將棋_VV 、_PU 泰將棋_NN 、_PU 大局將棋_NN 等_ETC 諸多日本_NN 將棋_NN 變體_VV ，_PU 傳說由_NN 後奈良天_NN 皇_CD 改良_VV 小_JJ 將棋_NN （_PU 9_CD ×_PU 9_CD 棋_M 盤與_NN 42_CD 枚棋子_NN ）_PU ，_PU 去除_NN 醉象_NN ，_PU 成為現_NN 在_P 流行的_NN 「_PU 本將棋_NN 」_PU 。_PU 現代日本_NN 若直接_JJ 稱呼_NN 「_PU 將棋_NN 」_PU ，_PU 一般_JJ 即指_NN 9_OD ×_PU 9_OD 棋_M 盤與_NN 40_CD 枚_M 棋子的_NN 「_PU 本將棋_NN 」_PU 。_PU 目前_NN 日本_NR 仍有諸_NR 多_NN 中將棋_NR （_PU 12_CD ×_PU 12_CD 棋盤與_NN 92_CD 枚棋子_NN ）_PU 愛好者_NN ，_PU 福井縣_NN 也_AD 保留_VV 古老的_NN 。_PU
+
+將棋_NN 棋盤是_NN 一_OD 個_NN 9_OD 行_M 9列_NN （_PU 10_CD 條橫線_NN 、_PU 10_CD 條直線_NN ）_PU 的_DEC 方格陣_NN ，_PU 棋子_NN 置於_NN 方格之_NN 內_NN ，_PU 一_CD 個_M 方格內_NN 最_AD 多_AD 只有_VV 一_CD 個棋子_NN 。_PU
+
+日語_NR 稱呼_NN 直行為筋_NN 、_PU 橫列_NN 為段_NN 。_PU 九_CD 個_M 橫列_NN 中_LC ，_PU 靠近棋手_NN 自己的_NN 三_OD 段_NN 稱為_NN 自陣_NN ，_PU 靠近對手_VV 的_DEC 三_CD 段_NN 稱為敵_NN 陣_NN 。_PU
+
+將棋_NN 的_DEC 棋子呈_NN 五_OD 邊形_VV ，_PU 與西_NN 洋棋或_NN 中國象_NN 棋不同_NN ，_PU 將棋_NN 的_DEC 棋子_NN 之間_NN 沒有_VV 顏色_JJ 區分_NN ，_PU 而以_VV 五_OD 邊_M 形尖端_NN 指向來區_NN 別_NN 所_MSP 屬_VV 陣營_NN ，_PU 因此_AD 有_VE 轉變_NN 陣營_VV 的_DEC 餘地_NN 。_PU
+
+將棋共有_NN 八_CD 種_NN 棋子_NN ：_PU 玉將_NR /_PU 王將_NR （_PU 玉_NN /_PU 王_NN ）_PU 、_PU 飛車_NN （_PU 飛_NN ）_PU 、_PU 角行_NN （_PU 角_NN ）_PU 、_PU 金將_NN （_PU 金_NN ）_PU 、_PU 銀將_NN （_PU 銀_NN ）_PU 、_PU 桂馬_NN （_PU 桂_NN ）_PU 、_PU 香車_NN （_PU 香_NN ）_PU 、_PU 步兵_NN （_PU 步_NN ）_PU ，_PU 移動_NN 方法_NN 都_AD 不同_VA 。_PU
+
+飛_NN 、_PU 角_NN 、_PU 銀_NN 、_PU 桂_NN 、_PU 香_NN 、_PU 步_NN 六_OD 種_M 棋子_NN 在_P 敵陣_NN 內移動_NN （_PU 打入_NN 當下_NN 不算_NN ）_PU 一_CD 手後_NN ，_PU 便_CS 會升變_NN ，_PU 因此升_NN 變棋子_NN 共有_VV 六_CD 種_M ：_PU 龍王_NN （_PU 龍_NN ）_PU 、_PU 龍馬_NN （_PU 馬_NN ）_PU 、_PU 成銀_NN 、_PU 成桂_NN 、_PU 成香_NN 、_PU 成步_NN ，_PU 後_NN 四_OD 種_NN 棋子_NN 移動_NN 方法皆_NN 相同_VA 。_PU 棋子_NN 的_DEG 移動範_NN 圍_NN 稱_NN 為_LC 「_PU 」_NN 。_PU
+
+依據_NN 棋子_NN 重要性_NN ，_PU 棋子_NN 還設_NN 計有_VV 不同_JJ 尺寸_NN 。_PU 飛車_NN 與角_NN 行合稱_NN 大_JJ 駒_NN （_CD ）_PU ，_PU 金將與_NN 銀將合_NN 稱金駒_NN （_PU ）_PU ，_PU 金銀_NN 桂香_NN 步合稱_NN 小駒_NN （_PU ）_NN 。_PU 此_NN 外_LC ，_PU 飛龍角_NN 馬香_NN 五_CD 種能長_NN 距離_NN 奔走_NN 的_DEC 棋子稱_NN 為走駒_NN （_PU ）_PU 。_PU
+
+一_CD 般來說_NN ，_PU 對弈雙_NN 方會_NN 分持_VV 玉將_NN 及王將_NN ，_PU 慣例由_NN 上位者_NN （_PU 後手_NR ）_PU 持王將_NR ，_PU 下位者_NN （_PU 先手_NR ）_PU 持玉將_NR 。_PU 按照_NN 「_PU 玉_NN 、_PU 金_NN 、_PU 銀_NN 」_PU 的_DEG 命名原則_NN ，_PU 棋子_NN 名稱皆有_NN 「_PU 寶物_NN 」_PU 的_DEG 意涵_NN ，_PU 因此_AD 將棋_VV 兩_CD 方的_NN 主將_NN 應該都_NN 稱為_NN 「_PU 玉將_NN 」_PU ，_PU 現代也_NN 通常合_JJ 稱玉將_NN 加王_VV 將為_NN 「_PU 雙玉_NN 」_PU ，_PU 但由_NN 於將棋_NN 常用_NN 「_PU 王_NN 」_PU （_NN ）_PU 稱呼_NN 主將_NN ，_PU 因而有_NR 王將_NN 一稱_VA 。_PU 讀譜時_NN ，_PU 則通常_NR 讀做_NN 「_PU 玉_NN 」_PU （_NN ）_PU 。_PU 通常_JJ 稱呼己_NN 方玉將_NN 為_NN 「_PU 自玉_NN 」_PU ，_PU 對手玉將_NN 為_NN 「_PU 敵玉_NN 」_PU 或_NN 「_PU 相_NN 手_NN 玉_CD 」_PU 。_PU
+升變_NN 棋子_NN 的_DEC 簡稱實際_NN 上_NN 都_NN 是_VC 「_PU 金_NN 」_PU ，_PU 而以書寫_NN 字_NN 體_CS 區分_NN ，_PU 成_VV 銀為_NN 楷書_NN 「_PU 金_NN 」_PU 、_PU 成桂_NN 為行_VV 書_NN 「_PU 金_NN 」_PU 、_PU 成香為_NN 草書_NN 「_PU 金_NN 」_PU 、_PU 成_VV 步為_NN 平假名_NN 「_PU 」。在沒有_PU 特製_NN 活字時_NN （_PU 例如_AD 詰將棋_NN 題_NN 本_ETC ）_PU ，_PU 通常便_NN 宜行事_VV ，_PU 稱成_VV 銀為_NN 「_PU 全_NN 」_PU 、_PU 成桂為_NN 「_PU 圭_NN 」_PU 、_PU 成香為_NN 「_PU 杏_NN 」_PU ，_PU 另外亦_NN 有_AD 稱成_VV 銀為_NN 「_PU 全_NN 」_PU 、_PU 成桂為_NN 「_PU 今_NN 」_PU 、_PU 成香為_NN 「_PU 仝_NN 」_PU 、_PU 成步為_NN 「_PU -{个}-」_PU 的_DEG 用法_NN 。_PU
+
+將棋開_NN 局時_VV ，_PU 雙方_NN 各有_VV 20_CD 枚_M 棋子_NN ，_PU 共計_NN 使用_NN 40_CD 枚_M 棋子_NN 。_PU 若_CS 對弈者_NN 棋力_NN 有_VE 高下_JJ 落差_NN ，_PU 則必_NN 須考慮_NN 手合割_NN （_PU 讓子_NN ）_PU （_PU ）_PU ，_PU 優勢_NN 方除_NN 去部_NN 分棋子_NN （_PU ）_PU 。_PU 若無此落_NN 差_NN ，_PU 則稱為_NN 「_PU 平手_NN 」_PU （_NN ）_PU 局_NN ，_PU 配置_NN 如下_VV ：_PU
+上_NN 圖_NN 以下側_NN 表示_VV 先手_NN ，_PU 上側_NN 表示_VV 後手_NN ，_PU 正置_NN 棋子_NN 屬於先_NN 手_NN 陣營_VV ，_PU 倒置_NN 棋子_NN 屬於後_NN 手_NN 陣營_VV 。_PU 縱向_NN 由右_VV 而_MSP 左_JJ 標為_NN 1_OD ~_PU 9_OD 筋_M ，_PU 橫列向_NN 由_P 上_NN 而_MSP 下標為一~_VV 九_CD 段_M 。_PU 先手常_NN 標為_NN ▲_PU 或☗_NN （_PU UnicodeU_NR +_NN 2617_CD ）_PU ，_PU 後手常標_NN 為_NN △_PU 或☖_NN （_PU U_CD +_NN 2616_CD ）_PU 。_PU
+
+若為_NN 讓子局_NN 通常由_JJ 讓子方_NN （_PU ）_PU 先行_NN ，_PU 若_CS 不考慮_NN 手合割_NN ，_PU 則由_NN 決定_NN ，_PU 職業戰_NN 中_LC 也有事先_VV 決定_JJ 先後_NN 的_DEC 場合_NN 。_PU
+
+決定先_NN 後手完畢_VV ，_PU 操作_NN 步驟_NN 如下_VV ：_PU
+上圖為大_JJ 橋流_NN 與伊_NN 藤流_NN 的_DEC 棋子_NN 擺放_NN 順序_NN 。_PU 職業棋_NN 士有_VV 八_CD 成_NN 使用_NN 大_NN 橋流_NN 。_PU
+
+終局後_NN ，_PU 由_P 上位者_NN 按照玉_NN 、_PU 飛_NN 、_PU 角_NN 、_PU 金_NN 、_PU 銀_NN 、_PU 桂_NN 、_PU 香_NN 、_PU 步的_NN 次序清_NN 點_CC 棋子_NN 數目_NN 並收納_NN 歸位_NN 。_PU
+
+將棋由_NN 對弈雙_NN 方輪流_NN 下出_VV 動作_VV ，_PU 輪到_VV 自己行_NN 動回合_NN （_PU ）_PU 時_NR ，_PU 自己可_NN 以_MSP 下出_VV 兩_OD 種_M 動作_NN 之一_NN ：_PU 移動_NR （_PU ）或_NR 打入_NN （_PU ）_PU ，_PU 稱為一_NR 手_NN 。_PU
+
+移動_NN 棋子時_NN ，_PU 必須遵_NN 照前面_NN 提到_VV 的_DEC 移動_NN 方法_NN ，_PU 還有_VV 以下_NN 的_DEC 簡單規則_NN ，_PU 在_P 各種象_NN 棋類_NN 遊戲_NN 大致_AD 通用_NN ：_PU
+
+棋盤上_NN ，_PU 靠近對手_NN 的_DEC 三個_NN 段稱_NN 為_NN 敵陣_NN 。_PU 除了_NN 玉將_NN （_PU 王將_NN ）_PU 與金將_NN ，_PU 另外六_NR 種棋子_NN （_PU 飛角銀_NN 桂香步_NN ）_PU 只要_CS 在_VV 敵陣_NN 內移動_NN 或移動_NN 進出_VV 敵_NN 陣_NN ，_PU 都_AD 可_VV 選擇_VV 是_VC 否升變_NN （_PU ）_PU 。_PU
+升變大_NN 多_AD 有利_VA ，_PU 但在銀_NR 、_PU 桂_NN 、_PU 香_NN 三_NN 種棋子_NN 的_DEC 場合_NN ，_PU 升變_NN 與否_NN 必須_VV 詳_NN 細考慮_NN 。_PU 特別_NN 是_VC 銀將_VV ，_PU 升變後_NN 只能_NN 直線_VV 後_NN 退_OD 。_PU 桂_OD 馬_M 與香車升_NN 變_NN 與否_NN ，_PU 則會_NN 影響_NN 攻擊_NN 功能_NN 。_PU
+
+持駒_NN 是棋手_NN 捕獲_VV 的_DEC 棋子_NN ，_PU 一_CD 般_M 放置_NN 於棋盤邊_NN 的上_VV 。_PU 此後_VV ，_PU 可以_VV 花費_VV 一_CD 手將_NN 一_CD 枚棋子_NN 打入_NN 棋盤上_NN 空出_VV 的_DEC 空格_NN 。_PU
+
+打入_NN （_PU ）_PU 是_VC 日本_NN 將棋_NN 最_AD 大_VA 的_DEC 特色_NN ，_PU 大幅_NR 提升_NN 將棋_VV 的_DEC 遊戲複_NN 雜度_NN 。_PU
+
+如果下_NN 出攻_VV 擊對_NN 方玉將_NN 的_DEC 棋_NN ，_PU 稱為_NN '_PU （），相當於西洋棋的Check或中國象棋的「_PU 將軍_NN 」_PU ，_PU 此時對_NN 方要麼_NN 讓_NN 玉_NN 將逃跑_NN ，_PU 要_AD 麼以_VV 其他_NN 棋子_NN 擋住_NN 攻擊_NN （_PU ）_PU 。_PU 如果_NN 將軍_NN 沒有_VV 辦法_NN 可以_VV 化解_VV ，_PU 則稱為_NN '_PU （），相當於西洋棋的Checkmate_PU 或中_NN 國象棋的_NN 「_PU 將死_NN 」_PU 。_PU 如果_NN 當下沒_NN 有_OD 將死_VV ，_PU 但對_NN 方玉將_NN 已_AD 經_VV 無路可_NN 走_NN ，_PU 則稱為必至_NN （_PU 必死_VV ，_PU ）_PU ，_PU 相當於西_NN 洋棋_VV 的_DEC Brinkmate_NN 或_NN 中_NN 國象_NN 棋_NN 的_NN 「_PU 欠_NN 行_OD 」_PU 。_PU
+
+原則上_NN ，_PU 判斷_NN 作負_VV 的_DEC 情況_NN 有_NN 以下_NN 六_OD 種_NN ：_PU
+
+不分勝負_NN （_PU ）_PU 的_DEC 情況_NN 則有_VV 以下_NN 兩_OD 種_NN ：_PU
+在職業_NR 對局_NN 中_LC ，_PU 不_AD 分_VV 勝負_VA 的_DEC 雙方_NN 必須_VV 重新比賽_NN ，_PU 並對調_NN 先後手_NN 。_PU
+
+將棋遊_NN 戲目標_NN 是_VC 捕獲對方_NN 的_DEC 玉將_NN ，_PU 達成_VV 就獲勝_NN 。_PU 然而_NN ，_PU 將棋_NN 傳統上_NN 忌_NN 諱_ETC 「_PU 實際奪取_NN 王_NN 」_PU 這件事_NN ，_PU 因此_VV ，_PU 在_VV 王將_NN 被_SB 捕獲_VV 不_AD 可_VV 避_SP （_PU 亦即將死_NN ）_PU 時_NN ，_PU 便_NN 可以_VV 判出勝負_VV ，_PU 也_AD 常有棋手_VV 自認無_NN 法_NN 逆_NN 轉局勢_NN 而_MSP 認輸_VV 的_DEC 情況_NN （_PU ）_PU 。_PU 規則並_NN 沒有_VV 限制何_NN 時能夠_NN 認輸_VV ，_PU 基本上_NN ，_PU 輪到_NN 選手_NN 回合時_NN ，_PU 若己_NN 方玉_NN 將明_NN 顯快_NN 被_SB 將死_VV ，_PU 或者己_NN 方欠行_NN 而無_NN 法_NN 立_NN 刻將_NN 死對方_NN ，_PU 通常_JJ 便會認輸_NN 。_PU 當己_NN 方面_NN 對連將_NN ，_PU 必須一手一手化_VV 解_CD 時_NN ，_PU 則_AD 需_VV 考慮_VV 有_VE 沒有反將_JJ 一軍_NN （_PU ）_PU 的_DEC 可能性_NN 。_PU 此_NN 外_LC ，_PU 即使沒_NN 有_VE 明顯_VA 的_DEC 將死或_NN 包圍_VV ，_PU 如果_CS 判斷_NN 自己沒_NN 有_NN 獲勝_NN 可能_VV ，_PU 喪失戰_NN 意_VA ，_PU 也_AD 可以_VV 認輸_VV 。_PU 例如_VV ：_PU 對手防_NN 禦過強_NN ，_PU 根本_NN 無法連_NN 續_NN 攻入_NN （_PU ）_PU ；_PU 重要_NN 的_DEC 攻防_NN 棋子_NN 被對手_NN 奪走_VV ；_PU 對手_NR 入玉_NN （_PU 玉將_NN 進入_NN 自陣內_NN ）_PU 己方卻無_NN 法_NN 包圍_VV 。_PU 諸_BA 如此類_NN 的_DEC 情況_NN ，_PU 都_AD 可以_VV 認輸_VV 。_PU 在_P 職業_NN 賽事中_NN ，_PU 落下風_NN 的_DEC 一_CD 方大多_NN 在_VV 殘局時_NN 便會認輸_VV ，_PU 很少_VV 有_VE 真正_NN 將死_VV 的_DEC 情況_NN 。_PU
+
+〈_NN 入_NN 玉宣_NN 言法_NN 〉_PU 由日本_NN 將棋聯_NN 盟_NN 制定_VV ，_PU 於_NN 2013_CD 年_CC 10_CD 月_PU 1日_CD 實行_VV ，_PU 2_AD 0_CD 1_CD 9_CD 年_NN 10_CD 月_PU 1日_CD 追_CD 加修訂_NN 。_PU 目前_NN 在_P 職_NN 業_NN 公開_NN 賽事中_NN ，_PU 還_NN 沒有_VV 援引此法_NN 而_MSP 持將棋_VV 的_DEC 案例_NN 。_PU
+
+若滿足_NN 以下_NN 條件_NN ，_PU 則_AD 可_VV 在輪_VV 到_P 自己回合_NN 時_NN ，_PU 不移動或_NN 打入_VV ，_PU 而_CC 做出_VV 「_PU 宣言_NN 」_PU ：_PU
+
+若符合_NN 以上_NN 條件_NN ，_PU 且宣言_NN 方達_NN 31點_CD 以上_NN ，_PU 則直接_NN 獲勝_VV 。_PU 若符合_NN 以上_NN 條件_NN ，_PU 且宣言_NN 方有_VV 24_CD ~_PU 30點_CD ，_PU 則視_NN 為持將棋_NN ，_PU 不分_CD 勝負_M ，_PU 重新對局_NN 。_PU 若以上_NN 條件_NN 有_NN 不_AD 符_VA ，_PU 則宣言_NN 方直接_NN 作負_VV 。_PU
+
+以下_NN 列出_VV 日本_NR 將棋_NN 中_LC 的_DEG 犯規行為_NN ，_PU 一_CD 旦發生_NN ，_PU 犯規_NN 方直_NN 接作負_NN 。_PU 若在犯規_NR 當下_NN 沒有_VV 人_NN 意_NN 識到_NN 犯規_NN ，_PU 但_CC 在_P 對局_NN 結束_VV 前_NN 犯規_NN 被_SB 發現_VV ，_PU 則紀錄_NN 回到_NN 犯規當下_NN ，_PU 犯規_NN 方仍_NN 作負_VV 。_PU 觀棋不語_NN ，_PU 但限定第_NN 三_CD 者_NN 可以_VV 指出犯規_VV 。_PU 若_CS 在_VV 終局後_NN 才指_VV 出_CD 犯規_NN ，_PU 原則_NN 上_NN 犯規_NN 方還_NN 是_VC 會作負_NN ，_PU 雖_NN 然_NN 過去_NN 會把_NN 認輸_NN 放得_VV 比這種_NN 情況優_NN 先_VA ，_PU 但將棋聯_NN 盟已_VV 在_VV 2019年_NT 10月_NT 1日實_NN 行_NN 修訂版_NN 規則_NN 。_PU
+
+
+特別_NN 禁止下_NN 出這_VV 四_CD 種棋_M ：_PU
+
+另_NN 外_LC ，_PU 連續王手_NN 千_CD 日_PU 手_NN （_PU ）_PU 不算是禁_NN 手_NN ，_PU 而是_NN 「_PU 禁止發_NR 生之_NN 情況_NN 」_PU 。_PU 在循環四次_NR 前_ETC ，_PU 叫將方_NN 可以_VV 變_CD 更走法_NN ，_PU 但若已_NN 循_VV 環_NN 四_OD 次_NN ，_PU 則_NN 千_CD 日_NN 手成立_VV ，_PU 直接_AD 判斷作負_VV 。_PU
+
+根據_NN 1977_CD 年到_NN 2018_CD 年的_M 統計_NN ，_PU 職業_NN 賽事中_NN ，_PU 最_AD 常見_NN 的_DEC 犯規行_NN 為是_NN 二_OD 步_NN ，_PU 無_NN 法移_NN 動棋子_NN 或打_NN 步詰則_NN 未_AD 曾_LB 發生_NN 。_PU 違反_NN 棋子_NN 移動_NN 方式案_NN 例_NN 當_NN 中_LC ，_PU 錯誤移_NN 動角_NN 行_NN 最_NN 為普遍_NN 。_PU
+
+職業棋士_NN 的_DEC 經典犯_NN 規案例_NN 如下_VV ：_PU
+
+若_CS 在_P 遭逢_NN 連續王手_NN 千_CD 日_NN 手時_VV ，_PU 為了化解_VV 王_CD 手而_NN 下出_VV 打_AS 步詰_NN ，_PU 則何_NN 方判負_NN 並_AD 不_AD 確定_VV 。_PU 公開_NN 賽事_NN 沒有_VV 前例_NN ，_PU 但詰將棋_NN 〈_PU 〉_PU 指出此問_NN 題_NN 。_PU
+
+此_NN 外_LC ，_PU 若打_NN 步造_NN 成_VV 欠行_NN ，_PU 是_VC 否符合打_NN 步詰_NN 的_DEC 定義_NN ？_PU 由_P 於這個_NN 情況_NN 相_NN 當極端_NN ，_PU 通常_JJ 只發_NN 生_VV 在_P 一_CD 方變成_NN 裸玉時_NN ，_PU 職業_NN 賽事沒_NN 有出現_VV （_PU 在_VV 這之前_NR 早就認輸了_NN ）_PU ，_PU 因此_NN 缺乏_NN 正式解釋_NN 。_PU
+
+在_P 棋力_NN 強弱落_NN 差_AD 大_VA 的_DEC 棋局中_NN ，_PU 較強_VV 的_DEC 棋手有_NN 時會_NN 讓子_NN （_PU ）_PU ，_PU 其標準_NN 稱為_NN 手合割_NN 。_PU 讓子方_NN （_PU ）_PU 必須在_NN 開局時_NN 永久除_NN 去自己_NN 一_CD 部分_NN 的_DEC 棋子_NN ，_PU 不能以_NN 任何_NN 方式將_NN 之放_NN 上_NN 棋盤_NN 。_PU 由於_NN 棋力差異_NN ，_PU 讓子_NN 並不_NN 會因_NN 為兵力_NN 差異_NN 而使_NN 被讓子方_NN （_PU ）_PU 有明顯_NN 優勢_VV ，_PU 甚至_VV 有_VE 專為_NN 讓子_NN 場合開發_NN 的_DEC 戰術_NN 。_PU
+
+讓子_NN 程度_NN 依棋力_NN 落差_VV 而遞增_NN ，_PU 臚列_NN 如下_NN ：_PU
+
+江戶時_NN 代家_NN 元制_NN 手合割沿_NN 用至_NN 1934_CD 年_M （_PU 昭和_NN 9年_CD ）_PU 。_PU 此制度_NN 將讓子_NN 標準_NN 訂為_NN 偶數_NN 段級差_NN ，_PU 若段級_NN 差為奇數_NN ，_PU 則_NN 操作_NN 如下_NN ：_PU
+
+此_NN 外_LC ，_PU 亦有_VV 其他_NN 特殊_NN 的_DEC 讓子_NN 形式_NN ：_PU
+
+香落戰_NN 是最_NN 接近_NN 平手戰_NN 的_DEC 場合_NN ，_PU 包含_VV 各種上_NN 手_NN 振_NN 飛車_NN 的_DEC 定跡_NN 。_PU
+
+角落戰_NN 常見於職_NN 業棋_NN 士與_NN 業餘_NN 棋士對局_NN ，_PU 於_NN 1975_CD 年後流_NN 行_NN 一_OD 時_NN 。_PU 由於上_NN 手_AD 保有_VV 飛車_NN ，_PU 下手仍需_VV 防_CD 範強_NN 勢_NN 攻擊_NN 。_PU 下_CD 手定跡_NN 包含_VV 由天野_NN 定_NN 跡演_NN 變來_VV 的_DEC 三間飛車_NN （_PU 本定跡_NN ）_PU 、_PU 矢倉_NN 、_PU 中飛車_NN （_PU 類似_NN 問候_NN 中_LC 飛車_VV ）_PU 等_NN 。_PU
+
+飛落戰_NN 中_LC ，_PU 上_NN 手_NN 擁有角行_JJ 與金銀_NN 桂_AD 香_VA ，_PU 獨缺飛車_NN ，_PU 防_NN 守有餘_VV ，_PU 攻擊_NN 不足_NN ，_PU 因此_AD 多採_VV 取_NN 守勢_NN 。_PU 下手多_NR 採猛攻_NN ，_PU 定跡有右_VV 四_CD 間_M 飛車_NN 、_PU 引角_NN 戰法等_NN 。_PU
+二_CD 枚落_NN 戰局中_NN ，_PU 上手_NR 缺乏大_NR 駒_NN 可_VV 供_LB 攻擊_NN ，_PU 但跟_NN 六_OD 枚_NN 落相比_NN ，_PU 防_NN 禦顯_NN 然_NN 綽_NN 綽有餘。上_JJ 手不_NN 能用_NN 飛角_NN 簡單_NN 攻擊_NN ，_PU 下手則_NR 必須_NN 盡量_NN 找出_NN 攻擊_NN 時機_NN 。_PU 下_CD 手定跡_NN 包含_VV 傳自江戶_NN 時代_VV 的_DEC 「二_CD 步突切_NN 」_NN （_PU ）_PU 與_NR 「_PU 銀多傳_NR 」_ETC （_PU ）_PU 。_PU 1970_CD 年代_VV 一_CD 度流行_NN 「_PU 石垣流_NN 銀_AD 多_CD 伝定跡_NN 」_PU ，_PU 但在_NR 後來被_NR 研究出_NN 缺陷_NN ，_PU 因此_NN 「_PU 二_CD 步突切_NN 」_PU 在_P 近代愈來_NN 愈流行_NN 。_PU
+
+六_OD 枚_M 落於_NN 入門者_NN 學習時_NN 常見_NN 。_PU 由於上_NN 手_NN 不_AD 太_VV 可_AD 能_VV 攻擊下手_VV ，_PU 下手可以_VV 專心_JJ 攻破上_NN 手_NN ，_PU 例如_AD 從端_NN 攻開始_NN 。_PU
+
+
+示例_NN ：_PU
+將棋對局_NN 大致_AD 可_VV 分為_VV 以下_NN 三_CD 階段_VV ：_PU
+
+序盤_NN 的_DEC 階段_NN 目標_NN 是把_NN 棋子_NN 調度到_NN 攻擊或_NN 守備_NN 的_DEC 適宜_NN 位置_NN 。_PU 經過長_NN 年_NN 研究_NN ，_PU 序盤有許_VV 多_CD 有效_VA 的_DEC 模式_NN （_PU 戰法_NN ）_PU ，_PU 戰法各_NN 自包含_NN 手順_NN ，_PU 形成_VV 定跡_NN 。_PU 在定跡_NR 之外_NN ，_PU 棋手自有_NR 其別出_NN 心裁_VV 的_DEC 變化_NN ，_PU 用以_NN 尋求戰_NN 略_NN 勝利_NN 。_PU 基本上_NN ，_PU 可以_VV 將_NN 盤面_NN 粗分為_NN 左_JJ 右_JJ 兩_CD 側_NN ，_PU 己方在_NN 一_CD 側_NN 主攻_VV 、_PU 另一側_JJ 主守_NN 。_PU 居飛_NN 車主_NN 要_VV 在_P 右翼攻擊_NN 、_PU 左_JJ 翼防守_NN ，_PU 振飛車_NN 則_VV 在_P 左翼攻擊_NN 、_PU 右翼防守_NN 。_PU
+
+守備_NN 方面_NN ，_PU 由_P 於打入_NN ，_PU 玉將待在_NR 原位_NN 不動_NN （_PU 居玉_NN ）_PU 相當危險_NN ，_PU 因此玉將_NN 通常_JJ 會移_NN 動到己_NN 方飛車_NN 不_AD 在_VV 的_DEC 那_DT 一_CD 側_NN ，_PU 利用_NN 兩_NN 枚_NN 金將_NN ，_PU 配合_NN 單側_VV 的_DEC 銀桂香_NN 步構築_NN 防禦_NN 工事_NN ，_PU 稱為_NN 圍玉_NN （_PU ）_PU 。_PU
+
+攻擊_NN 方面_NN ，_PU 以飛角_NN 兩_OD 枚_NN 大駒_NN 作_VV 為核心_NN ，_PU 追求_NN 兼具_NN 效率_NN 與聯動_NN 的_DEC 手法_NN ，_PU 調度銀_NN 桂香_NN 步突_NN 破敵陣_NN 。_PU
+
+以上_NN 為最基本_NN 的_DEG 學說_NN ，_PU 實務_NN 上_AD 有_VE 很多_CD 例_M 外_LC ，_PU 例如_AD 利用_VV 振飛車防_NN 守左翼_NN ，_PU 而_CC 從美_NN 濃圍_NN 頂部_NN 發動_NN 攻擊_NN 的_DEC 對抗型_JJ 玉頭戰_NN ，_PU 或者_CC 把玉將_NN 與飛車_NN 都放_VV 在_VV 右翼_NN 的_DEC 右玉戰法_NN 等_ETC 。_PU
+
+最常見的_JJ 將棋初手_NN 為_NN ▲_PU 7六_CD 步及_NN ▲_PU 2六_CD 步_NN 。_PU
+
+中盤時_NN ，_PU 駒組已經_NN 完成_VV ，_PU 階段_NN 目標_NN 是_VC 奪取_NR 對手_NN 旗子並_NN 切入_NN 敵陣_NN 。_PU 設法建立_NN 攻擊據_NN 點_OD 的_DEG 同時_NN ，_PU 增加持駒_VV ，_PU 預備終盤_NN 所_MSP 需_VV 戰力_NN 。_PU 相對_VV 的_SP ，_PU 守備上_NN 盡量_NN 不讓對手_NN 奪取_VV 棋子或_NN 侵入_NN 自陣_NN 。_PU 此時_NN 側重_NN 攻擊或_NN 防守會_NN 形塑棋手_VV 的_DEC 個人_NN 棋風_VV 。_PU 另外_VV ，_PU 若_CS 在_P 駒_NN 組完成前_VV ，_PU 王將_VV 就_CD 被逼進_NN ，_PU 這時就_NN 沒有_VV 中盤_NN ，_PU 序盤會_NN 直接銜_NN 接終盤_NN 。_PU 高水準_NN 的_DEC 競賽中_NN ，_PU 也_CC 不_AD 乏_VV 在_VV 中盤便發_NN 現_ETC 缺_NN 乏_NN 前景_NN 而_MSP 認輸_VV 的_DEC 案例_NN 。_PU
+
+終盤時_NN ，_PU 目標_NN 是_VC 將_JJ 死對方_NN ，_PU 因此要逐_NN 步逼_NN 近_CD 包圍_NN （_PU ）_PU 。_PU 此時包圍_NN 速度會_NN 比棋子_NN 損_NN 得重要_NN ，_PU 棋_NN 手_NN 必須正_NN 確_NN 判_NN 讀局勢_NN 。_PU
+
+以下_NN 是_VC 終盤會_NR 出現_NN 的_DEC 概念_NN ：_PU
+利用_VV 以上概念_NN ，_PU 可以_VV 推論_VV 自己應該_NN 採取_NN 攻勢_NN 還是守勢_NN 。_PU 例如_AD ，_PU 如果_NN 自己會_NN 變成_VV 必至_NN ，_PU 但有_VV 把握立_NN 刻_NN 將_NN 死對方_NN ，_PU 則為_NN 可_VV 行_P 策略_NN 。_PU 王手_NN 具有_VV 強制力_NN ，_PU 必須立_NR 刻被回應_NN ，_PU 因此_VV ，_PU 只要不_JJ 遭到_NN 逆王手_NN ，_PU 就_AD 能_VV 繼續_VV 攻擊_NN 。_PU 有_NN 「_PU 王手_NN 是_VC 追殺手_NN 」_NN （_PU ）_PU 、_PU 玉將要_NN 包圍_VV 逼迫_NN （_PU ）_PU 等格言_NN 。_PU 雙方玉_NN 將接近時_VV ，_PU 常常發_NN 生錯失_NN 攻擊_NN 時機因_NN 而反_NN 被_SB 將死_VV 的_DEC 案例_NN ，_PU 抑或對_NN 方逃出_NN 催殺後_NN 反擊將_NN 死己方_NN 的_DEC 案例_NN 。_PU 由於失誤_NN ，_PU 生死線_NN 上_NN 可_AD 能_VV 突然發生_VV 一_CD 手即詰_NN 的_DEC 情況_NN ，_PU 稱為_NN 「_PU 頓死_NN 」_PU 。_PU 因此在終盤_NN 戰時要_NN 時刻注意_VV 自玉的_NN 安全_NN 。_PU 在_P 單方面_NN 進攻_VV 的_DEC 情況下_NN ，_PU 入_NN 玉會_NN 是_VC 不錯_VA 的_DEC 選項_NN ，_PU 因為_NN 桂香步_NN 都無_NN 法_NN 後_NN 退攻擊_NN 。_PU
+
+將棋形勢_NN 可以_VV 從_VV 棋子損得_NN （_PU 戰力_NN ）_PU 、_PU 棋子_NN 動態_NN （_PU 效率_NN ）_PU 、_PU 玉形_NN （_PU 安全_NN ）_PU 、_PU 回合_NN （_PU 主導權_NN ）_PU 等方面_NN 判斷_VV ，_PU 無論_NN 是序盤_NN 、_PU 中盤還_NN 是_VC 終盤_VV ，_PU 都必_NN 須靠_NN 判讀局勢_NN 來_NN 決定如_NN 何出手_NN 。_PU 下出某_VV 一_CD 手_M ，_PU 研判對_NN 方會如_NN 何反應_NN ，_PU 你又要如_NN 何_NN 再下_VV 一_CD 手_M ，_PU 最_AD 後判_NN 斷你_NN 是否處於_NN 優勢_VV ，_PU 才決定_NN 是_VC 否採取_NR 行動_NN 。_PU 有很多_NR 術語_NN 用以_NN 指代局勢_VV ，_PU 使用_NN 時必_NN 須注意_NN ：_PU 即使_NN 程度_NN 大_NN 致接近_NN 的_DEC 詞_NN ，_PU 也_AD 有_VE 細微差別_NN 。_PU
+
+將棋_NN 棋子_NN 具有_VV 不同_VA 的_DEC 移動_NN 方法_NN ，_PU 因此_AD 有_VE 不同_VA 的_DEC 價值_NN 。_PU 玉將_NN （_PU 王將_NR ）_PU 既然_NR 是對局_NN 勝利_VV 的_DEC 最終_JJ 目標_NN ，_PU 自然_NN 具有_VV 最_AD 高_VA 的_DEC 價值_NN 。_PU 其他_NN 棋子_NN 的_DEC 價值因_NN 情況而_NN 異_NN ，_PU 一_CD 般_M 來說_NN 依序_NN 是_VC 飛角_NN 金銀_NN 桂香_NN ─_PU ─_PU 角行_NN 的_DEC 價值會_NN 隨進_VV 成_VV 遞減_NN ，_PU 但也有_NR 許多在_NR 終局利_NN 用角_NN 行_NN 立大功的_JJ 案例_NN ─—_PU 其中_NN ，_PU 價值_NN 特別高_NN 的_DEC 飛車_NN 與角_NN 行合稱_NN 大_JJ 駒_NN （_CD ）_PU ，_PU 金銀桂_NN 香_NN 步則合稱_NN 小_OD 駒_NN （_PU ）_NN 。_PU
+
+如果_CS 單純捕_NN 獲對方_NN 的_DEC 棋子_NN ，_PU 或犧牲_NN 價值低_NN 的_DEC 棋子而_NN 交換_NN 價值高_NN 的_DEC 棋子_NN ，_PU 則局面_NN 有利_VV ，_PU 戰力彼_NN 消我長_NN ，_PU 稱為駒得_NN （_PU ）_PU 。_PU 反之_NR ，_PU 則稱為_NR 駒損_NN （_PU ）_PU 。_PU 以己方_NN 一_CD 枚_CC 大駒_CD 交換_NN 對方_NN 兩_CD 枚_AD 小駒_VV ，_PU 稱為_NN 二_CD 枚替_NN （_PU ）_PU ，_PU 若無戰略_NN 局勢_VV 的_DEC 明顯轉變_NN ，_PU 則通常_NR 對取得_NN 二_OD 枚_CD 小駒_NN 的_DEC 一_CD 方_NN 有利_VA 。_PU 棋子損_NN 得_NN 是_VC 判_JJ 讀局勢_NN 的_DEC 基本_NN 要素_NN ，_PU 特別在_NN 中_LC 盤之前_VV ，_PU 王將還沒_VV 受_CD 威脅_NN 的_DEC 時候_NN ，_PU 通常_NN 都以_VV 駒_CD 得作_NN 為短期_NN 目標_NN 。_PU
+
+關於_NN 棋子_NN 的_DEC 價值_NN ，_PU 有諸多_NR 量化_VV 的_DEC 算法_NN ，_PU 大致_AD 皆為_VV ：_PU 龍王_NN ＞_PU 龍馬_NN ＞_PU 飛_NN ＞_PU 角_NN ＞_PU 金_NN ＞_PU 銀_NN ＞_PU 桂_NN ＞_PU 香_NN ＞_PU 步_NN 。_PU 成_VV 步_NN （_PU ）_PU 被敵方捕_NN 獲_NN 後_NN 會變回_NN 步兵_NN ，_PU 因此_NN 共識是_NN 成步_VV 的_DEC 價值_NN 高於另_NN 外三_OD 種升_NN 變金將_NN 。_PU 其他_NN 方面_NN 尚有_VV 一_CD 些_NN 歧見_NN ，_PU 例如_AD 桂馬_NN 的_DEC 價值_NN 、_PU 銀將是_NN 否升變_NN 、_PU 飛車_NN 與龍馬_NN 的_DEC 落差_NN 、_PU 龍馬與_NN 龍王_VV 的_DEC 落差等_NN 。_PU
+
+利用_VV 棋子損得_NN ，_PU 可以_VV 估_CD 算對_NN 弈雙方_NN 的_DEC 基本_NN 戰力_NN ，_PU 再_AD 加上_VV 棋子_NN 動態_NN ，_PU 則_AD 可_VV 理解_VV 用子_NN 的_DEG 效率_NN 。_PU 把棋子_NN 用在_NN 刀口_NN 上_LC ，_PU 就能發揮_NN 優_AD 勢_VA 。_PU
+
+例如_AD ，_PU 序盤時_NN ，_PU 兩_CD 側_M 香車_NN 的_DEC 價值_NN 應該是_NN 相等_VV 的_SP ，_PU 但若己_NN 方玉將_NN 往左_NN 翼建立_NN 防禦_NN 工事_NN ，_PU 則左_NN 側香車_NN 的_DEC 價值會_NN 高_JJ 過右_NN 側香車_NN ，_PU 因為它_NN 有_VE 護衛_JJ 玉將_NN 的_DEC 作用_NN 。_PU 又如角_NN 交換_NN 戰局_NN ，_PU 如果_CS 一_CD 方已經_NN 打入角行_NN ，_PU 另一_NN 方_NN 的_DEG 持駒角_NN 行_NN 通常_NN 比立刻跟著_NN 打入_NN 角行_NN 來得_VV 有價值_NN ，_PU 除非_NN 打入_VV 的_DEC 位置_NN 很_AD 好_VA ，_PU 能夠升變_NN 為龍馬_NN 。_PU 又如_NN 步兵_NN ，_PU 由_P 於沒有_NN 步兵_NN 的_DEC 狀態_NN （_PU ）_PU 相當不利_VV ，_PU 因此_AD 持駒從_VV 0_CD 枚_M 步兵_NN 變成_VV 1_CD 枚_M 步兵_NN 頗_CD 有利_VA ，_PU 但從_NN 1_OD 枚_NN 步兵_NN 變_CD 成_VV 2_CD 枚_M 步兵就_NN 不_AD 會_VV 增加那麼_VV 多_CD 優勢_NN 。_PU
+
+玉形_JJ 指玉將_NN （_PU 王將_NN ）_PU 及其_NN 周遭_NN 棋子_NN 的_DEC 位置_NN ，_PU 包含_VV 遠_NN 、_PU 堅_NN 、_PU 廣_NN 三_OD 個_NN 面向_NN 。_PU
+遠離戰場_NN 。_PU 基本上_NN ，_PU 為了_NN 避免無妄_NN 之災_NN ，_PU 玉將_NN 應該_NN 離戰_NN 場愈遠_NN 愈好_VV 。_PU 例如_AD ，_PU 在_P 振飛車_NN 戰局_NN 中_LC ，_PU 因為預_NN 期飛車_NN 所_MSP 在_VV 的_DEC 左翼是_NN 戰場_VV ，_PU 大_CS 多_CD 數_M 戰略_NN 都_NN 會_NN 安排玉_NN 將移駕_NN 到_CC 右翼_NN 。_PU 此_NN 外_LC ，_PU 玉將靠近_NN 邊緣_NN ，_PU 可以_VV 串_CD 聯桂_NN 馬_NN 與香_NN 車進行_NN 防守_NN ，_PU 但太靠邊_NN 緣會_NN 妨礙_NN 逃生_VV ，_PU 因此_NN 並非_NN 愈靠邊_NN 愈好_VV 。_PU
+堅固_NN 安全_NN 。_PU 在_VV 玉將_NN 周圍布_NN 置金銀_NN 的_DEC 防守_NN 陣法_NN 稱_NN 為_NN 圍玉_NN （_PU ）_PU ，_PU 用越_NN 多_NN 棋子_NN 加入_NN 圍玉_NN ，_PU 通常_JJ 便會讓_NN 圍玉_NN 越堅固_NN ，_PU 但必_NN 須考慮_NN 攻守_NN 的_DEG 平衡_NN 。_PU 此_NN 外_LC ，_PU 圍玉_NN 的_DEC 好壞取_NN 決於_NN 棋子間_NN 的_DEC 位置_NN ，_PU 如果_NN 棋子_NN 互相_NN 掩護_VV 的_DEC 機關愈多_NN ，_PU 圍玉_NN 也會愈發_NN 堅固_VV 。_PU
+逃_CS 生路線_NN 。_PU 如果_NN 自玉逃_NN 生路線_NN 夠_AD 多_VA ，_PU 即使_NN 圍玉被_NN 破_NN ，_PU 也能拖_NN 延_OD 時間_VV ，_PU 抑或_NN 消耗對_NN 手戰力_NN ，_PU 設計得好_NN ，_PU 便能_NN 搶先_VV 將_NN 死對手_NN 。_PU
+
+玉形_JJ 好壞與勝_NN 敗有_VV 很_AD 大_JJ 關係_NN 。_PU 即使駒得_NN ，_PU 如果_CS 玉形不_NN 好_VA ，_PU 情況仍_NN 可_VV 能_DER 很_AD 不利_VA 。_PU 可以故_NN 意棄子_NN ，_PU 駒損但_NN 使對手_NN 的_DEC 玉形_JJ 變差_NN ；_PU 或者_NN 相反_VA ，_PU 即使_NN 玉形變差_NN ，_PU 也要_JJ 捕獲某_NN 一_CD 枚_NN 棋子_NN 。_PU
+
+玉形_JJ 好壞大大_NN 取決_VV 於_AS 對手進_NN 攻型態_NN 。_PU 例如_AD ，_PU 矢倉應_NN 對上_NN 方攻_NN 擊_NN 時很堅固_NN ，_PU 在_P 居飛車_NN 戰型中_NN 是_VC 好圍玉_NR ，_PU 但如_NR 果面_NN 對振飛車_NN ，_PU 典型_JJ 金矢_NN 倉就_NN 是_VC 糟糕的_NR 玉形_NN 。_PU
+
+終盤時_NN ，_PU 包圍_VV 的_DEC 速度_NN 會_AD 大_VA 大_DEV 影響成敗_VV ，_PU 因此奪得_NN 主動非_NN 常重要_NN 。_PU 只要_JJ 攻防_NN 必需_NN 的_DEC 棋子在_NN 手_NN ，_PU 稍微損_NN 得並_VV 不重要_NN ，_PU 甚至常有_NR 犧牲大_NN 駒_NN 換_NN 取金將_NN 的_DEC 戰術_NN 。_PU 因此_AD ，_PU 戰略常_NR 有_ETC 「_PU 先下手_NN 是_VC 否有利_NR 」_PU 的_DEC 問題_NN 。_PU
+
+將棋_NN 的_DEC 排局在_NN 日文_NN 稱為_VV ，_PU 過程_NN 中_LC 必須_VV 不_CD 斷王手_NN ，_PU 不_AD 可_VV 千_CD 日手_M （_PU 相當於中_NN 國象棋_NN 的_DEC 長將_NN 、_PU 長捉_NN 、_PU 長攔等_NN 不_AD 斷_VV 重複局_NN 面_NN 的_DEG 僵持狀態_NN ）_PU ，_PU 最末將_NN 死對方_NN （_PU 若有_VE 特別_NN 聲明可_NN 包括_VV 必至_VV ）_PU ，_PU 相當於中_NN 國象棋_NN 的_DEC 連將殺局_NN 。_PU 由于_P 存在“王_JJ 将_NN ”_PU 以及_CC “_PU 玉将_NN ”_PU 两_CD 种_M ，_PU 詰將棋不_NN 一定_JJ 要將_NN 雙方_VV 的_DEC 玉將都擺_NN 上_LC ，_PU 通常_NN 只擺_NN 防守_VV 的_DEC 那一_NN 方_NN 的_SP 。_PU 因為_NN 「_PU 王_NN 」_PU 字_NN 有_NN 時難以_NN 分_VV 辨_NN 上下_VV ，_PU 故_AD 在_P 只有_VV 一_CD 個王將_NN 的_DEC 排局中_NN ，_PU 例必_AD 把玉將擺上_VV 。_PU 有_BA 玉將的_NN 一_CD 方叫做_NN 玉方_NN （_PU 或_CC 受方_NR ）_PU ，_PU 摆王将_NN 的_DEC 一_CD 方叫_NN 做攻方_NN （_PU 或詰方_NN ）_PU 。_PU 一定_JJ 是攻方_NN 先行_VV 。_PU 排局_VV 一_CD 般_M 只會_NN 標明_NN 攻方_NN 的_DEC 持子_NN ，_PU 除非有_NR 特別_NN 聲明_NN ，_PU 否則假_NN 設玉_NN 方持_NN 有_NN 餘下沒_NN 標明_NN 的_DEC 棋子_NN （_PU 當然王_JJ 將除外_NN ）_PU 。_PU 雙方_NN 都有_VV 玉將_VV 的_DEC 排局_NN 則叫做_NN 雙玉_NN 。_PU 詰將棋_NN 一般_JJ 只顯示棋_NN 盤_JJ 右_JJ 上角_NN （_PU 即_AD １_CD 一_CD 位_NN 附近_NN ）_PU 有關_VV 的_DEC 部份_NN 。_PU
+
+詰將棋_NN 的_DEC 取勝手數_NN ，_PU 是_VC 以攻守_NN 雙方_NN 的_DEC 最佳_JJ 着法_NN 計算_VV 。_PU 攻方_NN 的_DEC 最佳_JJ 着法_NN ，_PU 是_VC 指攻_NN 方能_NN 保證_VV 在_P 若干_CD 最短_VV 的_DEC 手數_NN 內將_NN 死玉方_NN 的_DEC 一_CD 系_NN 列對策_NN ；_PU 而玉方_NN 的_DEC 最佳_JJ 着法_NN ，_PU 是_VC 指玉_NN 方能_NN 保證_VV 在_P 若干_CD 最長_VV 的_DEC 手數內_NN 保持_NN 不敗的_NN 一_NN 系_VC 列_LB 對策_NN 。_PU 由攻守_NN 雙方_VV 的_DEC 最佳_JJ 着手所_NN 構成_VV 的_DEC 進程_NN ，_PU 就是棋局_NN 的_DEG 正解_NN 。_PU 譬如說_NN ，_PU 「_PU 五_OD 手_NN 詰_OD 」_PU 的_DEG 意思是_NN 指_NN ，_PU 當攻方_NN 在_VV 第一_OD 手下出最佳_JJ 着法之_NN 後_NN ，_PU 無論以_NN 後玉_NN 方如何_NN 應_NN ，_PU 都必會_NN 在_P 第三_OD 或_CC 第五_OD 手_M 落敗_NN ；_PU 同理_NN ，_PU 當玉_NN 方在_NN 第二_OD 手下出最_JJ 佳着法_NN 之後_VV ，_PU 玉方都_NN 有_VE 辦法在第_VV 四_CD 手_M 保持_NN 不敗_NN 。_PU 攻方_NN 的_DEC 最佳_JJ 着法不_NN 包括_VV 重複局面_NN 的_DEC 廢着_NN ；_PU 玉方_NN 的_DEC 最佳_JJ 着法不_NN 包括_VV 不能改變_NN 結局_VV 的_DEC 打入_NN 。_PU 若攻_NN 方沒有_NN 下出_VV 最佳_JJ 着法_NN ，_PU 但因玉_NN 方同樣_NN 沒有下出_VV 最佳_JJ 應手而_NN 讓攻_NN 方其_NN 後獲勝_NN ，_PU 則稱為紛_NN れ_NN ，_PU 意為僥倖_NN 。_PU 當攻方_NN 一_CD 直下出最_NN 佳着法_NN ，_PU 但玉_NN 方沒有_NN 下出_VV 最佳_JJ 應手_NN 、_PU 或下出_NN 正解以外_VV 的_DEC 最佳應手_NN ，_PU 則稱為_NN 變化_VV 。_PU 變化的_NN 手_NN 數_AD 一定_JJ 不會長過_NN 正解_VV 。_PU 當玉方_NN 一_CD 直下出最_VV 佳_NN 應手_NN ，_PU 但攻方_NN 在_VV 某_P 一_CD 手_NN 可以_VV 有正_VV 解_NN 以外_LC 的_DEC 着法_NN 保證_VV 獲勝_NN ，_PU 則稱_NN 為餘詰_NN 。_PU 若無_NN 論攻_NN 方如_NN 何出手_NN ，_PU 玉方_NN 都有_VV 辦法逃避_NN 敗局_VV ，_PU 則稱為_NN 不詰_NN 。_PU 攻方_NN 的_DEC 持駒_NN （_PU 不論是_NN 一_OD 開_NN 始_NN 標明抑或_NN 中途吃進_NN ）_PU 在_AD 正解_VV 的_DEC 最後一_JJ 手尚_NN 未用完_NN ，_PU 或_CC 正解以_NN 外有_VV 餘詰或_NN 不詰_NN ，_PU 則稱為_NN 不_AD 完_AD 全作_VV 。_PU
+
+日本_NN 民間_NN 亦有_VV 像中國_NN 民_NN 間藝人_NN 依_NN 擺_NN 棋攤_NN 為生_VV 的_DEC 江湖排局_NN ，_PU 稱作_NN 大道詰_NN 將棋_VV ，_PU 其中_NN 尤以香_NN 步問_NN 題_NN 最_AD 為_JJ 廣泛_NN 研究_NN 。_PU
+
+日本將_NN 棋_VV 在_P 9×9_CD 棋盤_NN 上_NN 的_DEC 狀態空_NN 間_NN 複雜度_NN 可_VV 達_P formula_NN __NN 1_LC ，_PU 小於圍_NN 棋_NN 的_DEG formula_NN __NN 2_CD ，_PU 但_CC 大_CS 於西洋_NN 跳棋_VV 的_DEC formula_NN __PU 3_CD 、_PU 黑白棋_NN 的_DEC formula_NN __NN 4_CD 、_PU 中國象棋_NN 的_DEC formula_NN __PU 5_CD 、_PU 西洋棋_NN 的_DEC formula_NN __NN 6_OD 。_PU 遊_OD 戲_M 樹複_NN 雜度達_NN formula_NN __NN 7_LC ，_PU 小於_NN 圍棋_VV 的_DEC formula_NN __NN 8_CD ，_PU 但_CC 大_CS 於西_NN 洋跳棋_NN 的_DEC formula_NN __PU 9_CD 、_PU 黑白棋_NN 的_DEC formula_NN __NN 10_CD 、_PU 西洋棋_NN 的_DEC formula_NN __NN 11_CD 、_PU 中國象棋_NN 的_DEC formula_NN
+
+1994年_NT ，_PU 中国_NR 北京开_NR 始有青_NR 少年_NN 活动_NN 中心教授_NN 日本_NR 将棋_NN 。_PU 1995年_NT 10月_NT 19日_NT ～_PU 20日_NR ，_PU 在中國_NR 北京市_NR 京倫_NN 饭店_NN 举行_VV 了_AS 第八_OD 届_M “_PU 龙王杯_NN ”_PU 日本_NN 将棋_NN 决赛_VV 的_DEC 第一_OD 局比赛_NN （_PU 决赛为_NN 七_OD 局_CC 四_OD 胜制_VV ）_PU ，_PU 由当时_NN 的_DEC 羽生善_NN 治龍王・_NN 六_OD 冠_NN 对战_NN 挑战者_NN 佐_NN 藤康光_NN 七_OD 段_NN （_PU 佐藤_NN 康光_NN 是第_NN 六_OD 屆_NN 龍王杯_NN 冠_NN 軍_LC ，_PU 第_NN 七_OD 屆_M 羽生善_NN 治挑戰_NN 成_VV 功_NN ，_PU 佐藤_NN 康光_NN 衛冕失敗_NN ）_PU ，_PU 結果這_NN 一_OD 局_NN 佐_NN 藤康光_NN 七_OD 段_NN 勝出_VV 。_PU 2000年_NT 10月_NT 19日_NT ～_PU 20_CD 日_NN ，_PU 在_NN 中國_NN 上_NN 海市花_NN 園飯_NN 店_NN 舉行_VV 了_AS 第十三_OD 屆_M “_PU 龍王戰_NN ”_PU 決賽_NN （_PU 七_CD 局_M 四_CD 勝制_M ）_PU 的_DEC 第一_OD 局比賽_NN ，_PU 由_P 1999_CD 年衛_NN 冕成_VV 功的_NN 藤井_NN 猛龍_NN 王對戰_NN 挑戰者_NN 羽生_NN 善治_NN 五_OD 冠_NN 。_PU 在_VV 比赛_NN 的_DEC 同时还_NN 举行_VV 了_AS 多场中_NN 日_NN 青_NN 少年间_NN 的_DEC 将棋比赛_NN 。_PU
+
+2021年_NT ，_PU 國際_NN 將棋大_NN 賽_NN (_PU 国際将_NN 棋トーナ_NN メ_ETC ン_NN ト_NN )_PU ，_PU 台灣代表_NN 張_OD 京_NOI 鼎取_NN 得台_NN 灣將棋_NN 在_P 國際_NN 賽史_NN 上_NN 首_AD 冠_VA 。_PU 並與藤井_NN 聰_OD 太_NN 三_OD 冠_NN （_PU 當時_NR ）_PU 進行_NR 讓角_NN 的_DEC 紀念對局_NN ，_PU 177_CD 手_NN 的_AD 大_JJ 熱戰_NN ，_PU 最_AD 終_CD 由藤井_NN 三_OD 冠_NN 取得_VV 勝利_NN 。_PU 此局台_NN 灣選手張_NN 京鼎_VV 到_P 終盤為止_NN 依舊_NN 保持_VV 優勢_NN ，_PU 所_MSP 發揮_VV 的_DEC 實力讓_NN 藤井及_NN 解說_VV 的_DEC 羽生善治_NN 九_OD 段_NN 和眾多_NN 好_JJ 手_NN 們_CD 感到_NN 驚嘆_NN 。_PU 同時此局_NN 也_AD 是_VC 藤_JJ 井_NN 三_CD 冠首次_NN 與_NN 外國人_NN 的_DEG 對局_NN ，_PU 在_P 台灣及_NN 海_NN 外發_NN 展當中_NN 寫下_VV 了_AS 重大_VV 的_DEC 里程碑_NN 。_PU
+
+
+
+

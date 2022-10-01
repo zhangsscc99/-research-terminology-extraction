@@ -1,0 +1,10 @@
+﻿数子_NN 法_NN
+
+数子_NN 法是_NN 圍棋_NN 比賽結_NN 束時_VV 的_DT 一_CD 種_NN 計分_NN 方式_NN ，_PU 为中国_NN 规则_VV 、_PU 应氏_NN 规则_NN 及美_VV 国规则_NN （_PU AGARules_NN ）_PU 所_MSP 采用_VV 。_PU 规定子_NN 目皆地_NN ，_PU 对局雙_NN 方需收_NN 尽单官_NN ，_PU 将_BA 活子及_NN 活子_NN 所围_NN 之空计_NN 为_VC 领地_NN ，_PU 白_BA 方加_NN 上_NN 贴目_VV 后_LC ，_PU 總合較多_NN 的_DEC 一_CD 方獲勝_NN 。_PU 與比_NN 目法_NN 相比_VV ，_PU 数子法_NN 不_AD 需_VV 保留_VV 死子_NN ，_PU 但_CC 一_CD 般需计_NN 点_NN 数较多_NN 。_PU
+
+因需计_NN 之点众多_NN ，_PU 中国式_JJ 数子_NN 法先要_NN “_PU 做棋_NN ”_PU ，_PU 将某方_NN 领地调整_NN 为_VC 10_CD 的_DEC 倍数_NN 的_DEC 小方块_NN ，_PU 再数_NN 余子_NN ；_PU 缺点_NN 是_VC 会_VV 导致_VV 棋型_JJ 被破坏_NN ，_PU 有_NN 碍_NN 观瞻_NN 。_PU 应_NN 氏_NN 规则_NN 规定_VV 黑白棋盒_NN 中棋子均_NN 为_VC 180_CD 个_M ，_PU 局终将双_NN 方棋盒_NN 中_LC 的_DEG 棋_NN 填入各_NN 自实空_NN ，_PU 此时比_NN 较棋盒中_NN 之余子即_NN 可_VV 知胜负_VV 。_PU
+
+在_P 美国_NR 规则中_NN ，_PU 数子法_NN 和_P 比目法_NN 通用_VV 并行_VV ，_PU 结果_AD 相同_VA 。_PU 不_AD 过美国_NN 规则_VV 的_DEC 比目_NN 法有_VV “_PU 虚手_JJ 换俘_NN ”_PU 的_DEC 规定_NN ，_PU 也就_NN 是_VC 每_BA 使用_NN 一_OD 次弃着_VV ，_PU 需要向_NR 对方_NN 提交_VV 一_CD 枚己_NN 方棋子_NN 作_VV 为俘子_NN 。_PU 美国_NR 规则与_NN 中国_NR 规则_NN 、_PU 应氏规_NN 则_NN 实质_NN 等同_VA 。_PU
+
+
+

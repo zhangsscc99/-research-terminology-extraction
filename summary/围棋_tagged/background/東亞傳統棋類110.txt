@@ -1,0 +1,13 @@
+﻿倚蓋_NN 定_VV 式_NN
+
+倚蓋_NN 定式是_NN 一_OD 類_NN 圍_OD 棋定式_JJ 的_DEG 統稱_NN ，_PU 因_NN 白_OD 黑_NN 四_OD 子_M 飛壓扳_NN 退_NN ，_PU 形態_NN 如同_VV “_PU 天傾西_NN 北_VA ，_PU 地陷東_NN 南_NN ”_PU 而_MSP 得名_VV “_PU 倚蓋_NN ”_PU 。_PU 該定式流_JJ 行于_NN 明清時_NN 期_NN ，_PU 圍棋佈_NN 局理_VV 論還未_NN 成熟_VV ，_PU 較多出現_VV 在_P 起_NN 手式_VV ，_PU 形成_VV 開局_NN 的_DEC 局部劇_NN 烈攻殺_NN 。_PU 由過_NN 百_OD 齡_NN 、_PU 周懶予_NN 等明清_NN 棋士_NN 深入_VV 研究成熟_NN ，_PU 其中_NN 過_NN 百_CC 齡_NN 著有_VV 《_PU 四子譜_NN 》_PU 收錄倚_NN 蓋起手_NN 十六_CD 局共_VV 一百七十八_CD 變_NN 。_PU
+
+過百_OD 齡在_NR 《_PU 四子譜_NR 》_PU 中評論_NR ：_PU "鎮神_NR 用鬆_NN ，_PU 倚蓋_NN 用緊_NN ，_PU 壓樑緊_NN 中_LC 更緊_VV "_PU 。他認爲倚蓋屬於緊迫對手的圍棋着法_PU ，_PU 即便盤_NN 中有_VV 應用_NN 機會_NN ，_PU 因其_VV “_PU 欠松_NN ”_PU ，_PU 仍應_NN “_PU 袒度_NN 機宜_VV ，_PU 審_CS 慎用之_NN ”_NN 。_PU 最_NN 宜用_NN 在_P 讓子局_NN 中_LC ，_PU 受讓方_NN 可以_VV 倚仗初期_VV 勢_AD 大_VA ，_PU 在_VV 局部_NN 用倚蓋_NN 等_ETC 方式緊_NN 迫對手_NN 。_PU
+
+現代_NN 棋局中_NN ，_PU 黑_NN 3_OD 壓_M 白小飛_NN 一_CD 子已經_NN 罕見_VV 。_PU
+
+在_P LeelaZeroGo_NR 公開_NN 的_DEC 自對弈_NN 中_LC 統計_VV Elfv1_NN 權_NN 重產生_NN 的_DEC 棋譜_NN 254279_CD 盤_M （_PU 自對弈_NN 屬於低_NN 計算_NN 強度_NN ，_PU 表現_NN 與實_NN 戰有_VV 差異_NN ）_PU 。_PU 統計_NN 角部_NN 連續變化_NN ，_PU 括號內_NN 比例爲_NN 254279_CD 盤_CC 1017116_CD 個角部_NN 中_LC 出現_VV 的_DEC 比例_NN ：_PU 黑_CD 1_CD 星位_NN （_PU 92_CD ._PU 9%_CD ）_PU ，_PU 白_NN 2_OD 小_JJ 飛掛_NN （_PU 64_CD ._PU 7%_CD ）_PU ，_PU 黑_NN 3_OD 選_M 擇脫先_NN （_PU 33_CD ._PU 3%_CD ）_PU ，_PU 尖頂_NN （_PU 5_CD ._PU 5%_CD ）_PU ，_PU 小_JJ 飛締角_NN （_PU 4%_CD ）_PU ，_PU 壓_NN （_PU 2_CD ._PU 8%_CD ）_PU 。_PU 壓小飛_NN 的_DEC 型仍然_NN 有_VE 實戰意義_NN 。_PU 至黑_NN 5_OD “_PU 倚蓋_NN ”_PU 計_NN 16843_CD 個角部_NN ，_PU 佔全部_NN 角部_NN 比例_NN 1_CD ._PU 66%_CD 。_PU
+
+在_P LeelaZeroGo_NR 公開_NN 的_DEC 自對弈_NN 中_LC 統計_VV Elfv1_NN 權重_VV 的_DEC 應對_NN
+
+

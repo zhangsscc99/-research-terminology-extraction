@@ -1,0 +1,11 @@
+﻿弈心_NN
+
+弈心是_NN 一_CD 个_M 五子棋_NN 软件_NN 。_PU 它_NN 是_VC 目前_NT 棋力_NN 最_AD 强_VA 的_DEC 五子棋人_NN 工智能_NN 之一_NN 。_PU 2012_CD 年至_NN 2018_CD 年_PU Gomocup_NN 冠军_NN ，_PU 截止_NN 2018_CD 年_LC ，_PU 位居_NN Gomocup_NN 等级_NN 分列_NN 表_NN 首位_NN 。_PU
+
+2016年_NT 5月_NT ，_PU 弈心_NN 与俄_NN 罗斯冠_NN 军迪米_NN 特雷_NN ·_PU 埃皮凡_NN 诺夫_VV 进行_VV 了8_JJ 番棋_NN 比赛_NN ，_PU 结果是_NN 2_OD 胜_NN 2_OD 和_NN 4_OD 负_NN ，_PU 总比分_NN 为_VC 3_CD :_PU 5_CD 。_PU
+
+2017年_NT 7月_NT ，_PU 弈心以_NN 3_OD :_PU 1_OD 战_M 胜台湾_NN 连珠名_NN 人林_NN 书玄_NN 。_PU 同月_NN ，_PU 弈心以_NN 2_OD :_PU 0_OD 比_NN 分战胜_NN 世界_NN 冠军_NN RudolfDupszki_NR ——_PU 这是_NN 五_NN 子_NN 棋人_NN 工智_NN 能首次_NN 战胜人_NN 类_NN 世界_NN 冠军_NN 。_PU
+
+2018年_NT 4月_NT ，_PU 弈心与_NN 中国_NN 棋手_NN ，_PU 前_NN 连珠_NN 世界_NN 冠军_NN 祁观_NN 进行_VV 了5番_JJ 棋比赛_NN ，_PU 以_NN 1_OD 胜_NN 3_OD 和_NN 1_OD 负_NN 的_DEG 成绩_NN ，_PU 总比分_NN 为_VC 2.5_CD :_PU 2.5_CD 的_DEG 成绩_NN 战平_VV 。_PU
+
+

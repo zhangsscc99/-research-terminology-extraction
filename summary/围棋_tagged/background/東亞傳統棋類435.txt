@@ -1,0 +1,13 @@
+﻿象_NN 狮虎_NN 豹狼狗_NN 猫鼠_NN
+
+象狮_NN 虎豹_NN 狗狐_NN 猫鼠_NN ，_PU 是流传_NN 中國_VV 的_DEC 兩_NN 人_NN 傳統棋類_NN ，_PU 又稱_NN 暗獸棋_NN ，_PU 介於_NN 暗棋_NN 與鬥獸_NN 棋_NN 的_DEG 中間體_NN ，_PU 現_AD 在_P 已_AD 被_LB 作成_VV Android_NN 遊戲_NN 。_PU 類似_NN 的_DEC 遊戲_NN 有布依族_VV 的_DEC 草稈棋_NN
+
+
+
+
+
+
+
+
+
+

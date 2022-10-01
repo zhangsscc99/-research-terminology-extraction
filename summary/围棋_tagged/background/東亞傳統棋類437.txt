@@ -1,0 +1,31 @@
+﻿贴目_NN
+
+贴目_NN 是围棋_NN 规则_VV 之一_NN 。_PU 围棋_VV 的_DEC 游戏_NN 规则_NN 形成_VV 先手_NN 。_PU 由于_P 先手_NN 方行棋有_NN 优势_VV ，_PU 在_P 终局计_NN 算_NN 的_DEC 阶段需_NN 要_AD 给予_VV 后手的_NR 补贴_NN ，_PU 在_P 数目法_NN 下即_VV 为_VC 贴目_NN 。_PU 英文_NN 由日语_NN 音译_NN 为_VC Komidashi_NN 或_CC komi_NN ，_PU 但_CC 当代_NN 一_CD 般_NN 使用_NN compensationpoints_NR 或_CC compensation_NR 取代_VV 音译_NN 。_PU 在_P SGF_NN 记谱法记_NN 为_VC KM_NN 。_PU
+
+在_P 数子_NN 法下_NN ，_PU 使用_NN 还子_NN 规则_NN 。_PU 与日韩_NN 数目法_NN 规则_VV 下发_VV 展出_VV 的_DEC 贴目_NN 制有_VV 差异_NN 。_PU
+
+当前的日韩_NR 围棋_NN 规则中_NN ，_PU 在_P 互先_NN 赛制_VV 的_DEC 多盘_NN 比赛_NN 中_LC 先手方_NN （_PU 黑棋_NN ）_PU 需要_VV 给予_VV 后手方_NN （_PU 白棋_NR ）_PU 6.5_CD 目的_NN 补贴_NN 。_PU 例如_VV ：_PU 即使_CS 黑棋_NN 四_CD 目获胜_NN ，_PU 但如果加_NR 上_NN 贴目_NR ，_PU 白棋也_NR 将获胜_NN 两_CD 目半_NN 。_PU 平局在“_JJ 半目_NN ”_PU 计算下_NN ，_PU 通常_JJ 难以_NN 出现_VV ，_PU 对弈双方_NN 可以_VV 决出胜负_VV 。_PU
+
+在_P 江户_NN 时代_VV ，_PU 围棋除了_NN 在_P 表_NN 演_NN 场合_NN ，_PU 基本上_NN 没有_VV 贴目_VV 。_PU 当时_VV ，_PU 围棋棋手_VV 的_DEC 数量很少_NN ，_PU 因此_AD 他们_VV 逐_CD 个_M 进行_VV 了_AS 多次比赛_NN （_PU 番棋_NR ）_PU ，_PU 由此决_NN 定双方_NN 的_DEC 交手_NN 棋份_NN 。_PU 在_VV 一_CD 系列_M 使用_NN 贴_NN 目的_NN 围棋_NN 比赛中_NN ，_PU 先_NN 手贴_VV 5_CD 目非常_NN 常见_VA ，_PU 这表明_NR 从那_NN 时_NN 起_AD 先手_VV 的_DEC 优势就_NN 被_SB 认为_VV 处于_VV 这_DT 一_CD 贴_NN 目水平_NN 。_PU
+
+从大正时_NR 代起_VV 到_CC 昭和_VV 时代_NN ，_PU 棋手_VV 的_DEC 人数_NN 增加_VV 了_SP ，_PU 并且_CC 随着挑_NR 战赛_NN 制成_VV 为围_NN 棋界_VV 的_DEC 主流_NN 赛制_VV ，_PU 一局定_AD 胜负_VV 的_DEC 必要性_NN 也应运_NN 而生_VV 。_PU 因此_NN ，_PU 有_P 人_NN 对_NN 贴目的_NN 必要性_JJ 进行_VV 了_AS 辩论_NN ，_PU 但_NN 反_NN 对意见_NN 很_AD 强_VA 烈_SP ，_PU 说这会_NN 损害_VV 游戏_NN 的_DEC 纯正性_NN 。_PU 在_P 本因_NN 坊头_NN 衔赛中_NN ，_PU 引入_VV 四_OD 目_M 半贴_NN 目时许_NN 多_CD 棋士_NN 抵制_VV ，_PU 加藤信_NN 的_NN “_PU 贴_NN 目围_NN 棋_NN 不_AD 是_VC 围棋_NN ”_PU 一_CD 语被报纸_NN 《_PU 每日新聞_NN 》_PU 收录_NN 。_PU （_PU 加藤_NN 积极_NN 参与_VV 了本因_NN 坊头衔_NN 争夺_VV ，_PU 在_P 1939_CD 年_CD 开始_NN 的_DEC 第一_OD 届_M 本因_NN 坊战中_NN ，_PU 与_P 第一_OD 个_M 实力_NN 制_VV 本因坊_NN 头_NN 衔_NN 获得_NN 者关山利_NN 一_AD 进入_VV 最后_JJ 决赛争夺_NN 。_PU ）_PU
+
+随着_NR 贴目_NN 制度_NN 的_DEC 推出_NN ，_PU 围_NN 棋的性_JJ 质发_NN 生了_NN 显著_NN 变化_NN 。_PU 在_P 无贴目_NN 围棋_NN 中_LC ，_PU 黑棋以坚_NN 实着法_NN 来_AD 保持_VV 先_CD 手优势_NN ，_PU 而白_NN 棋着_NN 法较_NN 激烈_NN 。_PU 引入贴目_NN 后_LC ，_PU 情况_NN 发_NN 生了_NN 逆转_NN ，_PU 先手方_NN （_PU 黑棋_NR ）_PU 需要_NR 进行_VV 更具_NN 侵略性_NN 的_DEC 战斗_NN ，_PU 追求_NN 更_AD 高_VA 的_DEC 子效才_NN 能_VV 取得_VV 领先_NN ，_PU 而_CC 后手方_NN （_PU 白棋_NR ）_PU 则开_NR 始采取_NN 较_AD 为_VC 缓和_VV 的_DEC 着法_NN 。_PU 随着头衔_NN 战数量_NN 的_DEG 增加_NN ，_PU 贴目_NN 制围棋_NN 变得_VV 司空见惯_NN ，_PU 而无贴_NN 目围棋_NN 赛_AD 制仅_VV 被_LB 大_NN 手合_VV 使用_NN 。_PU
+
+尽管贴_NN 目制度_NN 始于_NN 1930_CD 年代_NN ，_PU 但_NN 是_VC 黑棋在_NN 四_CD 目_NN 半赛_NN 制_NN 中_LC 更具_NN 优势_VA ，_PU 因此_AD 在_VV 1964_CD 年_LC ，_PU 日本_NR 规则_NN 宣布变更为_VV 五_CD 目半_NN 。_PU 并非所有_VV 围棋赛都_NN 跟进_VV 了_AS 规则_NN 变化_VV ，_PU 如_CS 本因坊_NN 头_ETC 衔_NN 战_NN 仍持续_NN 使用_NN 四_NN 目_NN 半贴_NN 目到_NN 1974_CD 年_M 。_PU 此时_M ，_PU 4_OD 目_M 半被称为_NN “_PU 小_NN 贴目_NN ”_PU ，_PU 5_OD 目_M 半被称为_NN “_PU 大_NN 贴目_NN ”_PU 。_PU 而且_NN ，_PU 在_P 旧名人战_NN （_PU 1975年_NT 以前_NT 的_DEG 日本_NN 围棋名人战_NN ）_PU 中_LC ，_PU 贴目定_NN 为_VC 5_CD 目_M ，_PU 如果_CS 是_VC 平局则_NN 白胜_VV ，_PU 但_BA 这种_JJ 胜局较_NN 之正常_NN 的_DEC 目数_NN 胜_NN 要减值_NN 。_PU 这_DT 一_CD 规定对第_NN 一_CD 期名人_NN 的_DEG 决出产_NN 生了_NN 重大_NN 影响_NN 。_PU
+
+但是_VV ，_PU 即便是贴_VV 5_CD 目半_NN ，_PU 黑棋_VV 的_DEC 胜率仍_NN 然_NN 略高_VV ，_PU 因此韩_NN 国_VV 在_P 2000_CD 年_LC ，_PU 中国_NR 在_VV 2001_CD 年_NN 更改_VV 了_AS 贴目_NN 。_PU 同样在_JJ 日本_NN ，_PU 2002年_NT ，_PU 过去_NN 五_CD 年_NN 中黑棋_NN 的_DEC 获胜率_NN 比_NN 过去_NN 五_CD 年_NN 中白棋高_NN 51_CD ._PU 855％_CD ，_PU 并且为了_NN 与_P 国际围_NN 棋比赛_NN 保持_VV 一_CD 致性_NN ，_PU 每_DT 个_M 冠军比赛_NN 的_DEC 贴目逐_NN 渐变_VV 为_VC 6_CD 目半_NN 。_PU 例如_AD 在_VV 棋圣战_NN 中_LC ，_PU 过渡到_NN 采用_NN 6_CD 目半_NN 贴_NN 目的_NN 比赛_NN 是_VC 在_P 2004_CD 年_AD 完成_VV 的_SP ，_PU 尽管差_NN 距很小_NN
+
+此_NN 外_LC ，_PU 日本棋_NN 院_VV 在_P 2003_CD 年_LC ，_PU 关西_NN 棋院在_NN 2004_CD 年_LC ，_PU 针对无贴_NR 目的_NN 大_NN 手合_NN 赛制_VV 改革已_NN 经完成_NN 。_PU 所有_DT 的_DEG 职业围_NN 棋选_NN 手都_NN 可以_VV 贴目_VV 进行_VV 比赛_NN 。_PU
+
+根据_NN 日本_NN 棋院从_NN 2002_CD 年到_NN 2007_CD 年收集_NN 的_DEC 6_CD 目半_NN 的_DEC 围棋比赛_NN 数据_NN ，_PU 在_P 19_CD ,_PU 702_CD 局比赛_NN 中_LC ，_PU 黑胜率_NN 为_VC 50_CD ._PU 59％_CD ，_PU 白胜率_NN 为_VC 49_CD ._PU 41％_CD ，_PU 黑白胜率_NN 之差_NN 小得多_VV 。_PU
+
+中国_NR ，_PU 韩国_NR 和美国_NN （_PU 美国_NR 围棋协会_NN ）_PU 最初_VV 将_BA 贴目_NN 设定_NN 为仅_NN 次于_VV 日本_NN 6_CD 目半_NN 的_NN 5_CD 目半_NN ，_PU 但现_VV 在_VV 它们_PN 都_AD 被修改为更高的_JJ 贴目值_NN 。_PU
+
+
+中国_NR 和台_NN 湾将贴_NN 目数_NN 从原来_NN 的_DEC 六_CD 目半_NN 改为_VV 了_DT 七_CD 目半_NN ，_PU 因为_NR 中国的_NR 规则_NN 是_VC 根据_NN 自己_NN 的_DEC 子数与_NN 地数_NN 之和_NN （_PU 子空_NN 皆地_NN ）_PU 来_MSP 确定_VV 赢或输_NN ，_PU 这是因_NN 为_VV 在_P 大_CD 多数_NN 情况下_NN ，_PU 黑白_NN 之间_NN 的_DEG 差异是_NN 奇数_NN 是因_NN 为_VC 六_NN 目_NN 半和_NN 五_CD 目半_NN 的_DEC 眼之_NN 间几乎_NN 没有_VV 区别_VV 。_PU
+
+美国_NR 规则像_NN 日本_NR 规则_NN 一样_VA ，_PU 只计算_NN 目数_NN ，_PU 而_CC 贴目则_NN 是_VC 七_CD 目半_NN
+
+
+

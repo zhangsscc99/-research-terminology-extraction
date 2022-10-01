@@ -1,0 +1,23 @@
+﻿數學_NN 卡片棋_NN
+
+數學_NN 卡片棋_NN （_PU CouponGo_NN ）_PU ，_PU 或譯為_NN 數字_NN 卡片棋_NN 、_PU 卡片围_NN 棋_VA ，_PU 是美国_NN 国家_NN 科学_NN 院院士_NN ElwynBerlekamp_NR 於_NN 1990_CD 年代_NN 推出_VV 的_DEC 圍棋變體_NN ，_PU 藉由標有_NR 目数_NN 的_DEC 卡片_NN （_PU Coupon_NN ）_PU 以量化每手_NN 棋官子_NN 价值_NN ，_PU 来帮助_NN 理解_VV 先_CD 后手_NN 官子_NN 和_NN 目数_NN 的_DEG 大小_NN 。_PU
+
+Berlekamp_NN 長久致_NN 力于_VV 将数学_NN 和围_NN 棋官子_NN 结合_NN 起来_VV 的_DEC 研究_NN ，_PU 在_P 1990_CD 年代設計_NN 此遊戲_NN 。_PU
+
+第一_OD 次有_JJ 记录_NN 的_DEC 职业_NN 棋手比_NN 赛于_VV 1998年_NT 4月21_NN 日_VV 在_P 加州_NN 门罗_NN 公园_NN 进行_VV ，_PU 选手是_NN 江铸久_NN 、_PU 芮乃伟_NN 夫妻_VV 。_PU 規則_NN 使用_NN 40_CD 张_NN Coupon_NN ，_PU 最_AD 大_VA 的_DEC 面值_NN 是_VC 20_CD ，_PU 每_DT 一_CD 张递减_NN 0_OD ._PU 5_OD 。_PU 結果_NN 是_VC 江铸久赢_NN 半目_NN 。_PU 随后_AD 几_CD 个_M 月_NN ，_PU Berlekamp_NN 與助手_NN BillFraser_VV 以及_NN BillSpight_NN 分析_VV 了_AS 这场_NN 比赛_NN 的_DEC 最后_JJ 64_CD 手_NN ，_PU 使用_NN 复杂_VA 的_DEC 数学_NN 模型_NN 以及_NN 强_AD 大_VA 的_DEC 電腦_NN 程序_NN 辅助_NN 分析_NN 。_PU 棋盘_NN 上_NN 有子_VA 的_DEC 点_NN 被_LB 自然划_NN 分为_VV 若干_CD 区域_NN ，_PU 其中_NN 有些_NN 区域_NN 被命名_NN 为北方_NN 、_PU 东方_NN 、_PU 西方_NN 、_PU 极南_NN 、_PU 中南等_NN 。_PU 在_P 棋盘_NN 的_DEC 北方_NN ，_PU 大约_VV 了_AS 兩萬_CD 种_M 走法_NN 被_SB 输入_VV 到_VV 电脑_NN 程序中_NN 进行_VV 分析_NN 。_PU 江铸久_NN 和_P 芮乃伟_NN 参加_VV 多_CD 次讨论_NN 。_PU 最_AD 后_JJ 研究_NN 人员_NN 得出结论_VV ，_PU 这场_NN 比赛实际_NN 上_NN 非_AD 常_LB 接近_NN 。_PU 研究_NN 结果_NN 最_NN 後_AD 由_P BillSpight_NR 在_VV 2002_CD 年发_NN 表_NN 在_P 剑桥大_NN 学_NN 出版社期_NN 刊_NN 《_PU MoreGamesofNoChance_NN 》_PU 上_NN 。_PU
+
+1999年_NT ，_PU 江铸_NN 久夫妻_NN 到_P 韩_NN 国下棋_NN 后_LC ，_PU 还应_NN Berlekamp_NN 的_DEC 邀请在_NN 伯_CD 克利_VV 大学_NN 一_OD 次_NN 数学_NN 界学_NN 术会_NN 上_NN ，_PU 下_VV 了_AS 数学_NN 卡片棋_NN 的_DEC 表演_NN 比赛_NN 。_PU 全美各_NN 地不少对_NN 棋有_VV 兴趣_NN 的_DEC 数学_NN 家都_NN 观看_VV 这场_NN 表演赛_NN 。_PU
+
+2007年_NT 7月_NT ，_PU 江铸久_NN 和芮乃_NN 伟_VV 在_P 加州_NN 伯_CD 克利_NN 大學數_NN 學_NN 科_NN 學研究_NN 學會又_NN 进行_VV 长达_NN 一_CD 天_NN 的_DEG 比赛_NN ，_PU 规则与_NN 上_VV 次_NN 一样_VA ，_PU 但为_NR 突出_NN 终局_NN ，_PU 这场_NN 比赛_NN 包括_VV 了一次_JJ 黑白_NN 互易_VV 的_DEC 重赛_NN 。_PU 同年_NN 11_CD 月_CC 28_CD -_PU 29_CD 日_NN ，_PU 六_NN 位_NN 排名_NN 较_AD 高_VA 的_DEC 职业棋_NN 手_VV 在_P 首爾_NN 的_DEC 韩国_NN 棋院参_NN 加锦_NN 标赛_NN ，_PU 有_NN 江铸久_NN 、_PU 芮乃伟_NN 、_PU 安祚永_NN 、_PU 元晟臻_NN 、_PU 宋泰坤_NN 和_P 韩尚勋_NN 。_PU 这场比_NN 赛_NN 為_AD 韩_LB 国棋院_NN 举办_VV ，_PU 赞助者_NN 是_VC Berlekamp_NN 以及美_NN 国围_NN 棋协会_NN 。_PU 美国_NR 围棋协_NN 会_VV 代表_VV 从_NN 吴清源_NN 的_DEC 经典赛_NN 事_NN 中_NN 挑选出_NN 五_CD 个_M 官子_NN 階段_NN 局面_NN 。_PU 結果是_NN 安祚_NN 永获得_NN 冠军_NN 。_PU
+
+2010年_NT 10月_NT 25日_NT ，_PU 中国_NR 棋院_NN 舉行_VV 三_CD 天_M 五_CD 輪_NN 的_DEG 比賽_NN ，_PU 本次比_NN 赛_NN 也_AD 是_VC 国家队_NN 的_DEC 官子训_NN 练_NN 赛_LC ，_PU 同樣由_NN Berlekamp_NN 協助并制_VV 定_CD 规则_NN 。_PU 比賽者_NN 有_VE 芮乃伟_NN 、_PU 丁伟_NN 、_PU 周鹤洋_NN 、_PU 王磊_NN 、_PU 谢赫_NN 、_PU 黄奕中_NN ，_PU 最_AD 後丁伟_NN 获得_VV 冠军_NN 。_PU 觀戰者_NN 俞斌_NN 表示_VV 对官子_NN 训练非_NN 常_AD 好_VA 。_PU
+
+
+
+
+
+
+
+*_PU ş_P ekillinickyazma_NR
+
+

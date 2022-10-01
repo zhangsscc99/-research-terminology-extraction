@@ -1,0 +1,5 @@
+﻿世界_NN 圍棋_NN 巔峰_NN 對決_NN
+
+世界_NN 围棋_NN 顶峰_NN 对决_NN ，_PU 是中国棋院_NN 、_PU 中国_NR 围棋_NN 协会_NN 主办_VV ，_PU 凤凰古_NN 城旅游_NN 有_VE 限责任_NN 公司_NN 承办_VV 的_DT 一_CD 项国_NN 际围棋_NN 邀请赛_NN 。_PU 其基本_NN 形式_NN 为_VC 邀请_NN 中_NN 韩_NN 两_CD 国_NN 各_DT 一_CD 位围棋_NN 顶尖选手_NN （_PU 通常是“_JJ 世界_NN 冠军_NN ”_PU 持有_VE 者_NN ）_PU 进行_VV 一_CD 盘对局_NN 。_PU 巅峰_NN 对决每_NN 两_CD 年_PU 一_CD 届_M ，_PU 且奖金_NN 颇高_VV 。_PU
+
+

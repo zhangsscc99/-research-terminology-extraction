@@ -1,0 +1,21 @@
+﻿板_NN 六_OD
+
+板六_OD 是_VC 圍棋術語_NN ，_PU 是死活_NN 中_LC 的_DEG 基本_NN 活形_NN 。_PU 因棋形有_NN 六_NN 個_NN 空目_NN ，_PU 並_AD 呈_VV 現板_NN 面_NN 狀而得名_NN 。_PU
+
+但並非_NN 所_MSP 有_VV 時候_NN 的_DEC 板六_JJ 都是活_NN 形_NN 。_PU 如果板_NN 六_CC 在_P 棋形存有_JJ 缺陷_NN ，_PU 而_MSP 成_VV 為斷_NN 頭板_NN 六_OD ，_PU 則_AD 有_VE 吃棋_VV 的_DEC 手段_NN 。_PU
+白下_NN 1_OD 位_NN 破眼_NN ，_PU 黑下_NN 2位看_NN 似合理_NN ，_PU 但此時_NN 左_JJ 右不同形_NN ，_PU 白下_NN 3位_JJ 分斷黑棋_NN ，_PU 黑若下_NN A位_VV ，_PU 只剩_VV 一_CD 氣_M ，_PU 白下_NN B_NN 位_NN 提黑_NN 七_OD 子_NN ，_PU 黑死_NN 。_PU
+
+如果_NN 是角_NN 上_NN 的_DEC 盤角板_NN 六_OD ，_PU 同樣也_NN 有_VE 缺陷_NN 。_PU
+
+黑下_NN 4位時_NN 只_VV 剩_P 一_CD 氣_M ，_PU 形成_VV 打劫_NN 。_PU
+
+如果_CS 盤角板_NN 六_OD 連_PU 一_OD 個_M 外氣也_NN 沒有_VV ，_PU 則_AD 可_VV 直接_AD 殺棋_VV 。_PU
+
+上圖中_NN ，_PU 白下_NN 3位以後_VV ，_PU 黑下在_NN A位只剩_NN 一_AD 氣_VA ，_PU 形成_VV 脹死牛_NN ，_PU 黑死_NN 。_PU
+盤角板_NN 六_OD 至少_AD 要_VV 鬆_NN 兩_OD 氣_NN ，_PU 才_AD 可_VV 避免_VV 威脅_VV 。_PU
+
+偶爾也_NN 會有_VV 看似_NN 破綻_NN 百_OD 出_NN 的板_NN 六_LC ，_PU 實際上_NN 卻殺不了_NN 的_DEC 情況_NN 。_PU
+
+圖中_NN 的板_NN 六_CD 看_NN 似破綻_NN 百_OD 出_NN ，_PU 其實白_NN 已_AD 動不了黑_VV 。_PU
+
+

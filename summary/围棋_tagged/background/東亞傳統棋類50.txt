@@ -1,0 +1,19 @@
+﻿世界_NN 女子_NN 围棋_NN 锦标赛_NN
+
+世界_NN 女子_NN 围棋_NN 锦标赛_NN ，_PU 包括_VV 翠宝杯_NN 、_PU 宝海杯_NN 、_PU 興倉杯_NN 、_PU 東方航_NN 空杯_VA 、_PU 山水黔城_NN 杯_NN 、_PU 豪爵杯_NN 、_PU 正官庄杯_NN 、_PU 大理旅遊_NN 杯_NN 、_PU 遠_NN 洋地產杯_NN 、_PU 扇興杯_NN 女子最_NN 強_VA 、_PU 穹窿山兵_NN 圣_NN 杯_NN 等_ETC 一_NN 系_NN 列世界_NN 女子_NN 围棋最_NN 高水平_NN 的_DEC 个人赛_NN 。_PU
+
+中国_NR 围棋_NN 协会_NN 主办_VV ，_PU 西安翠_NN 宝首饰_NN 集团_NN 公司_NN 赞助_NN 。_PU 于_P 1993年_NT 12月_NT 19日_NT 在_P 北京_NR 开幕_NN 。_PU
+韩国棋_NR 院主_NN 办_NN ，_PU 1994年_CD 11月_NT 23日_NT 在_P 韩国_NR 汉城_NN 开战_NN 。_PU 冠军_NN 奖金_NN 3万_CD 美元_NN ，_PU 亚军_NN 奖金_NN 7千_CD 美元_NN 。_PU
+
+中国_NR 围棋协会_NN 、_PU 中_NN 国东_NN 方航空_NN 公司_NN 、_PU 上_NN 海东_NN 方电_NN 视台_NN 主办_NN 。_PU 冠军_NN 奖金_NN 9万_CD 元人_NN 民币_VV ，_PU 亚军_NN 3万_CD 元人_NN 民币_VV 。_PU
+每_DT 方用_NN 时_LC 70_CD 分钟_M 包_NN 干制_VV 。_PU 比赛地_NN 点_VV 在_P 上海虹桥_NN 国际机_NN 场宾馆_NN 。_PU
+山水黔_NN 城杯_NN 是中_NN 国_NN 贵阳国_NN 际围_NN 棋文化节_NN 的_DEC 三_CD 大_NN 赛事_NN 之一_NN ，_PU 比赛在_NN 贵阳棋院_NN 进行_VV 。_PU 奖金_NN ：_PU 冠军_NN 10万_CD 元人_NN 民币_VV ，_PU 亚军_NN 3万_CD 元人_NN 民币_VV 。_PU
+中国_NR 围棋协会_NN 、_PU 广东省_NN 江门_NN 市政_NN 府和_NN 江门市_NN 大长江_NN 集团共同_NN 主办_VV 。_PU
+每_DT 方用_NN 时_LC 3_CD 小时_M ，_PU 保留_NN 5分_CD 钟_CD 读秒_NN 。_PU 冠军_NN 奖金_NN 9万_CD 元人_NN 民币_VV ，_PU 亚军_NN 奖金_NN 3万_CD 元人_NN 民币_VV ，_PU 对局费每_NN 局_P 2000_CD 元_NN 。_PU 比赛在_NN 江_NN 门_NN 市东湖_NN 宾_NN 馆杜鹃_NN 山庄_NN 进行_VV 。_PU
+中国_NR 围棋_NN 协会_NN 主办_VV ，_PU 大理_VV 旅游_NN 集团冠名_NN 。_PU 冠军_NN 奖金_NN 10万_CD 元人_NN 民币_VV ，_PU 亚军_NN 奖金_NN 3万_CD 元人_NN 民币_VV 。_PU
+第一_OD 轮比_NN 赛于_VV 2006年_NT 11月_NT 25日_NT 在_VV 云南_NN 大理_NN 风花_NN 雪月大_NN 酒店_NN 进行_VV ，_PU 八_OD 强_M 赛在_NN 云南_NN 昆明_NN 世博_NN 花园_NN 酒店_NN 进行_VV 。_PU
+
+中国_NR 棋院主_NN 办_NN ，_PU 北京龙泽_NN 源置业_NN 有_VE 限_NN 公司赞_NN 助_NN ，_PU 冠军_NN 奖金_NN 10万_CD 人民币_NN ，_PU 亚军_NN 3万_CD 元人_NN 民币_VV 。_PU
+第一_OD 轮比_NN 赛于_VV 2007年_NT 10月_NT 29日_NT 在_P 北京世_NR 纪远_NN 洋宾馆_NN 进行_VV 。_PU
+
+

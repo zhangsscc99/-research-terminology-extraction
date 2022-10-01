@@ -1,0 +1,11 @@
+﻿眼_NN (_PU 圍棋_NN )_PU
+
+在_P 圍棋中_NN ，_PU 眼_NN 是_VC 某_DT 一_CD 方的_NN 棋子_NN 在_NN 棋盤_NN 上_NN 所_AD 圍成_VV 的_DEC 一_CD 個_NN 或_AD 多_CD 個相_NN 連空_VV 白_NN 交叉_NN 點_OD 。_PU
+
+就棋盤_NN 中央_JJ 附近_NN 的_DEC 一_CD 個_NN 交叉_NN 點_OD 而_MSP 言_VV ，_PU 一_AD 個_NN 完整_VA 的_DEV 眼除_VV 了_AS 最近_NN 4_CD 個_CD 相鄰_NN 點_CD 須為同_NN 一_CC 方棋子_NN 佔有_VV 外_LC ，_PU 對角_NN 4_NN 個_NN 相鄰_NN 點_OD 至少_AD 要有_VV 3_CD 個_M 亦為同_NN 一_CD 方棋子_NN 佔有_VV 外_LC ，_PU 始為_NN 「_PU 真眼_NN 」_PU ；_PU 否則易_NN 被對_NN 方破壞_NN ，_PU 而稱_NN 之為_NN 「_PU 假眼_NN 」_PU 。_PU 就棋盤_NN 邊線上_NN 的_DEC 一_CD 個_NN 交叉_NN 點_OD 而_MSP 言_VV ，_PU 最近_JJ 及對角共_NN 5_OD 個_NN 相鄰_VV 點_CD 須為同_NN 一_CC 方棋子_NN 佔有_VV 才是_NN 真眼_NN ；_PU 而就棋_NR 盤角落_NN 的_NN 點_OD 而_MSP 言_VV ，_PU 最_AD 近_JJ 及對角共_NN 3_OD 個_NN 相鄰_VV 點_CD 須為同_NN 一_CC 方棋子_NN 佔有_VV 才是_NN 真眼_NN 。_PU
+
+一_CD 群_NN 相連_VV 的_DEC 棋子_NN 如果僅_NN 圍出_VV 一_CD 個_NN 真眼_NN ，_PU 並非絕對_NN 安全_NN 。_PU 對_NN 方只_NN 要_VV 在_P 外面_NN 團團圍住_NN ，_PU 次_NN 一_OD 手_NN 下_VV 在_NN 「_PU 眼位_NN 」_PU 即_AD 可_VV 使_VV 這些_NN 棋子_NN 沒有_VV 任何_DT 「_PU 氣_NN 」_PU 而遭_NN 提子_NN 。_PU 如果_NN 一_CD 群_NN 相連_VV 的_DEC 棋子能_NN 圍出_VV 至_VV 少_NN 两_CD 個_NN 真眼_NN ，_PU 那_NN 麼對_NN 方因_NN 無_VV 法_NN 一_OD 次_M 同時下_NN 在_P 兩_OD 個_M 眼位_NN ，_PU 使得_VV 這群_NN 棋子不_NN 可_AD 能_VV 被_SB 提子_VV ，_PU 因而_NN 形成_VV 「_PU 活棋_NN 」_PU 。_PU
+
+若干_CD 连接_VV 的_DEC 棋子_NN 包围住_NN 一_CD 个_M 以上_NN 的_DEC 目，术_NN 语叫做_NN 「_PU 马眼_NN 」_PU 。_PU
+
+

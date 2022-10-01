@@ -1,0 +1,18 @@
+﻿世界_NN 围棋_NN 冠军_NN 锦标赛_NN
+
+世界_NN 围棋_NN 冠军_NN 锦标赛_NN （_PU ，）是日本棋院主办的一项世界级围棋赛事_PU ，_PU 目前已_NN 成_VV 功举办_NN 三_OD 届_NN ，_PU 每届赛_NN 制均有所_VV 不同_VA ，_PU 第一_OD 届_M 为单循_NN 环制_VV 邀请赛_NN ，_PU 第二_OD 届_M 为_VC 单败淘_NN 汰制_VV 邀请赛_NN ，_PU 第_NN 三_OD 届_NN 为_VC 含_NN 三_CD 个_M 预选_NN 名_NN 额_NN 的_DEG 锦标_NN 赛_NN 。_PU 其中_NN 文_NN 宣_NN 傳標_NN 語_NN 為_VC 「_PU 世界最_NN 强_NN 决胜战_NN 」_PU （_PU 日文_NN 宣傳_NN 標語為_NN ：_PU ）_PU 。_PU
+
+第一_OD 届为四强_JJ 单循环_NN 赛制_VV 的_DEC 邀请赛_NN ，_PU 也是首_NN 次有_VV 人工_JJ 智能_NN 参加_VV 的_DEC 世界_NN 围棋大_NN 赛_NN 。_PU
+
+比赛_NN 分别于_VV 2017年_NT 3月21_NN 、_PU 22和23_NN 日_NN 进行_VV 三轮对决_NN ，_PU 胜局多_NR 者夺冠_NN 。_PU 若下成_NN 三循环_NN 的_DEC 情形_NN ，_PU 将_BA 在_VV 23_CD 日晚_M 进行_VV 抽签_NN ，_PU 24_CD 日_NN 进行_VV 加赛决_NN 出_VV 冠_DER 军_NN 。_PU 比_NN 赛用时_NN 为_VC 每方_NN 3_CD 小时_VV ，_PU 5_OD 次_M 1_OD 分钟_M 读秒_NN 。_PU 比赛_NN 日本_NR 当地_NN 时间_NN 上_NN 午_AD 10_CD 点_PU 30_CD 开始_NN ，_PU 没有_VE 午休_NN ，_PU 直至_NN 比赛_NN 结束_VV 。_PU 冠军_NN 奖金为_NN 3000万_CD 日元_NN ，_PU 亚军_NN 1000万_CD 日元_NN ，_PU 第三_OD 、_PU 四_OD 名_NN 分别_AD 获得_VV 500万_CD 日元_NN 。_PU
+
+参_CD 赛选_NN 手_NN 为_VC DeepZenGo_NR 、_PU 中国_NR 棋手芈昱_NR 廷_NN 九_OD 段_NN 、_PU 日本_NN 棋手井_NN 山裕太_NN 九_OD 段_NN 和韩_NN 国棋手朴_NN 廷桓_NN 九_OD 段_NN 。_PU
+
+第二_OD 届为_JJ 单败淘汰_NN 赛制_VV 的_DEC 邀请赛_NN 。_PU 比赛于_VV 2018年_NT 3月17_NN 日_NN 至_PU 19_CD 日在_M 日本_NR 棋院东_NN 京本院_NN 进行_VV ，_PU 首轮_NN 两_CD 人_NN 轮空_NN 。_PU 冠军_NN 奖金为_NN 2000万_CD 日元_NN 。_PU 亚军_NN 500万_CD 日元_NN ，_PU 第三_OD 、_PU 四_OD 名_NN 250万_CD 日元_NN 。_PU 五_CD 、_PU 六_CD 名_NN 100万_CD 日元_NN 。_PU
+
+参赛选手_JJ 名单_NN ：_PU
+
+日本_NR 预选_NN 赛于_NN 2018年_CD 12月_NT 10-25日_NT 于日本_NN 进行_VV ，_PU 共产生_NN 26_CD 名晋级_NN 国际_NN 预选赛_NN 的_DEC 棋手_NN 。_PU 国际_NN 预选_NN 赛于_VV 2019年_NT 1月24-29_NN 日_NN 在_P 日本_NR 进行_VV ，_PU 共产生_NN 3_OD 名_NN 晋级_NN 本赛_NN 的_DEC 棋手_NN 。_PU
+
+
+

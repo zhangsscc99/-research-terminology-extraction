@@ -1,0 +1,150 @@
+﻿中_NN 国流_NN
+
+中国流_NR ，_PU 是_VC 一_CD 种_M 常见_NN 的_DEC 围棋布局_NN ，_PU 因_NN 为_VC 由_P 中国棋_NR 手首先_NN 进行_VV 深入_NN 研究并_NN 大_JJ 规模_NN 应用_NN 而得名_NN 。_PU
+
+早_CD 在_P 御城棋_NN 时代_NN ，_PU 著名日_NN 本棋手_NN 本因_NN 坊道_NN 策就曾_NN 下出_VV 过_NN 类_NN 似布局_NN ，_PU 但是_NN 由于_P 当时没_NN 有贴_VV 目规则_NN ，_PU 黑棋无_NN 须追_NN 求布_VV 局速度_NN ，_PU 故而此_NN 后_NN 并无_VV 人_NN 加以_VV 研究_NN 。_PU
+
+一九五七年_NT 十二月_NT 十五、十六日_NT ，_PU 第一_OD 屆日_NN 本最_NN 強決定賽_NN ，_PU 吳清源_NN 執黑_NN 對藤_NN 澤朋齋_NN ，_PU 於棋盤_NN 右_JJ 側走出_NR 類似布局_NN ，_PU 惟右上以_NR 小目_NN 加高_VV 目一_NN 間締角_NN 。_PU
+
+1965年_NT ，_PU 以陈祖德_NN 为代表_NN 的_DEC 中國棋手_NN 经过_VV 深入_VV 研究后_NN ，_PU 在日中_NR 交流_NN 比赛_NN 中_LC 开始_VV 使用这_NN 一_CD 布局_NN 。_PU
+
+1970年_NT 后_LC ，_PU 日本棋手_NN 也_CC 开始_NN 采用这_NN 一布局_VV ，_PU 并称之为_NR “_PU 中國流_NR ”_ETC 。_PU
+
+中国_NR 流由_NN 星位_NN 、_PU 同向_NN 小目_NN ，_PU 以及_NN 靠近小_NN 目_NN 一_AD 路_VA 的_DEC 三路子_NN 组成_NN 。_PU
+
+2016年_NT 3月10_NN 日_NN 韓_NN 國職業_NN 九_OD 段_NN 棋士李_NN 世乭_NN （_PU 이세돌_NN ）_PU 在_VV 南韓首爾_NR 出戰人_NN 工智_NN 能程式_JJ AlphaGo_NN 。_PU
+
+第二_OD 局AlphaGo在黑13下出中國流，令全世界的觀戰棋迷眼睛為之一亮_PU 。_PU
+
+一般而言_AD ，_PU 人類在黑_NN 5_CD 或_CC 黑7_CD 就會_NN 下出_VV 中_AS 國流_NN 。_PU
+
+也有走_NR 在_VV a位的_NR 变种_NN ，_PU 称_NN 为_VC 高中_NN 国流_NN 。_PU
+
+中国_NR 流是_NN 一_CD 种_M 追求_NN 效率_NN ，_PU 同时兼_NN 顾_NN 实地_NN 和势力_NN 的_DEC 布局_NN ，_PU 它省略了_NN 小目_VV 一_CD 子_NN 的_DEC 守角_NN ，_PU 直接_VV 在_P 边_NN 上_NN 进行_VV 展_NN 开_NN 。_PU 如_NN 果_NN 对方_NN 在_P B_NN 或_CC C_NN 位挂角_NN 的_DEC 话_NN ，_PU 将_BA 遭到严厉_NN 攻击_NN 。_PU 因此_AD ，_PU 力量大_NN 的_DEC 棋手_NN ，_PU 如加_VV 藤_NN 正夫_NN 等_ETC 比较喜爱_NN 中_NN 国流_NN 。_PU 现代_NN 围棋_NN 中_LC ，_PU 白棋多从_NN E_OD 位_PU 一_OD 带_NN 着手_VV ，_PU 限制中_NN 国流_NN 的_DEG 发展_NN ，_PU 并伺机_NN 打入_VV 黑棋_NN 阵势_NN 。_PU
+
+近來也_NN 很流_NN 行白棋_NN Ｄ_NN 掛右_NN 上角_VV ，_PU 黑棋若_NN 一_CD 間_NN 跳應_VV ，_PU 則白_NN 直接_NN 點三三_CD 轉換_NN 的_DEG 下法_NN 。_PU
+
+相对于_P 低中_NN 国流_NN 来说_NN ，_PU 高中_NN 国流更_NN 加_NN 重视向_NN 中央_JJ 的_DEG 发展_NN ，_PU 羽根泰正_NN 是_VC 这_DT 一_CD 派_NN 的_DEG 代表人物_NN 之一_NN 。_PU
+
+
+相對於低_NN 中國_NN 流來說_NN ，_PU 高中_NN 國流更_NN 加重_NN 視向_NN 中央_VV 的_DEC 發展_NN ，_PU 羽根_NR 泰正_NN 是_VC 這_DT 一_CD 派_NN 的_DEG 代表人物_NN 之一_NN 。_PU
+星位可_NN 用_VV 多種_NN 方法侵_NN 消_NN ，_PU 小目_NN 部位以_NN 星位靠_NN （_PU 四四_CD 打入_VV ）_PU 爲新_VV 研究_NN 方向_NN 。_PU 適用_NN 中國流_NN 及_CC 其_PN 變種_NN 。_PU
+
+2016年_NT 3月8日到_NN 3月_CD 15日_NT ，_PU 韓國_NN 職業_NN 九_CD 段_NN 棋士李_NN 世乭_NN （_PU 이세돌_NN ）_PU 在南_VV 韓_CD 首爾_NN 出戰AlphaGo，稱AlphaGo李世乭五番棋_Err
+
+比賽採_NN 中_NN 國_NN 圍棋規則_NN ：_PU 黑方_NN 給白方_NN 的_DEG 貼目為_NN 七_CD 目半_NN ，_PU 思_NN 考_NN 時間每_NN 方兩_OD 小時_VV ，_PU 用完_NN 後_NN 各有三次_VV 一_CD 分鐘讀秒_NN 。_PU
+
+結果為_NN AlphaGo_NN 以_NN 四_OD 勝_NN 一_OD 敗_M 擊敗李_NN 世乭_NN 。_PU
+
+賽後_NN 韓國_NN 棋院授予_NN AlphaGo_NN 為榮譽_NN 九_OD 段_NN 。_PU
+
+其中_NN 第2_OD 局AlphaGo在黑13下出中國流。第3局由李世乭黑7下出高中國流_PU 。_PU
+
+2016年_NT 3月10日：第二局_NN
+
+黑_NN 11_OD 時_M ，_PU 確定_NN 右下角_NN 的_DEC 黑棋不_NN 容_AD 易_AD 攻擊_VV ，_PU AlphaGo_NN 脫離戰場_NN ，_PU 在_P 黑_NN 13_CD 才下出_NN 中_LC 國流_VV ，_PU 令全世界_NN 的_DEC 觀戰棋迷_NN 眼_AD 睛為_VV 之一_NN 亮_NN 。_PU
+
+一般而言_AD ，_PU 黑_NN 13_CD 下在_M A點_CD 是_VC 定式_NN 。_PU
+
+白_NN 14_CD 開始_NN 攻擊_NN 左下角_NN 黑棋_VV ，_PU 黑_BA 15_CD 覷_NN 、_PU 白_NN 16_CD 粘_NN ，_PU 黑_NN 17_CD 、_PU 黑_NN 19_CD 回防_NN 。_PU
+
+日本_NN 棋界_NN 稱黑_NN 15_OD 為_M 「_PU 阿法覷_NN 」_NN 。_PU
+
+白_NN 36_OD 下_M 在四_OD 線_M ，_PU 黑_P 37_CD 竟然_M 「_PU 肩_NN 」_PU ，_PU 這_NN 一_OD 手_NN 可_VV 稱_NN 「_PU 阿_NN 法_NN 肩_ETC 」_PU ，_PU 人類_NN 決對_NN 不會下這_NN 一_AD 手_VA 的_SP 。_PU
+
+這_NN 一_OD 手_NN 棋_AD 震驚_VV 了_AS 全世界_NN 的_DEC 棋手_NN 。_PU
+
+再來_NN 的_DEC 白38一般_JJ 都會_NN 下_NN 在_P A_NN 位_NN ，_PU 但_NN 是_VC 李世乭_NN 此時竟然_NN 陷入長_NN 考了_VV ，_PU 可見李_JJ 世乭_NN 非常認_NN 可_VV 這_P 一_CD 手_M 「_PU 阿法肩_NN 」_NN 。_PU
+
+長考_NN 12_CD 分鐘_NN 之後_VV ，_PU 白_BA 38_CD 壓_NN ，_PU 顯_NN 然黑_NN 37_CD 「_PU 阿法肩_NN 」_PU 是_VC 好棋_NN 。_PU
+
+黑_NN 43_CD 救出_NN 兩_OD 個_NN 黑∆_NN 棋子_NN ，_PU 而_CC 兩_CD 個黑_NN ☐棋子_NN 也遠遠_NN 地_VV 在_P 呼應_NN 左下角_NN 的_DEC 這場戰鬥_NN 。_PU
+
+參考文獻_NN ：_PU 王銘琬_NN ，_PU 迎見_NN AI_NN 新時代_NN ，_PU 遠流_NN 出版社_NN (_PU 台灣_NN )_PU ，_PU 2017年_CD 6月_NT 1日_NT ，_PU p.p_NR ._PU 36_CD -_PU 44_CD 。_PU
+
+前_NN 99_CD 手_NN
+
+100_CD -_PU 199_CD 手_NN
+
+200_CD -_PU 211_CD 手_NN
+
+2016年_NT 3月12日：第三局_NN
+
+李世乭_NN 在_P 黑_NN 7_OD 下_M 出高中_NN 國流_NN 。_PU
+
+左_JJ 上角白_NN 14二_CD 間跳_NN 、_PU 黑_NN 15_CD 碰_NN 、_PU 白_NN 16_CD 尖_NN 。_PU
+
+參考文獻_NN ：_PU 王銘琬_NN ，_PU 迎見_NN AI_NN 新時代_NN ，_PU 遠流_NN 出版社_NN (_PU 台灣_NN )_PU ，_PU 2017年_CD 6月_NT 1日_NT ，_PU p.p_NR ._PU 45_CD -_PU 51_CD 。_PU
+
+前_NN 99_CD 手_NN
+
+122_CD 在_P 113_CD 、_PU 154_CD 在_P 白∆_NN (_PU 白_NN 72)_CD 、_PU 163_CD 在_P 145_CD 、_PU 164_CD 在_P 151_CD 、_PU 166_CD 和_CC 171_CD 在_P 160_CD 、_PU 169_CD 在_P 145_CD 、_PU 175_CD 在_P 黑∆_NN (_PU 黑_NN 71)_CD 。_PU
+
+100_CD -_PU 176_CD 手_NN
+
+2016年_NT 12月_NT 29日至_NT 2017年_NT 1月_NT 4日_NT ，_PU 黃士傑博_NN 士_NN 使用_NN Master_NN 的_DEC 網絡帳號_NN ，_PU 出現於_NR 弈城圍_NN 棋網和_NN 騰訊野狐_NN 圍棋網_NN ，_PU 取得_VV 60_CD 連勝_NN 的_DEC 成績_NN ，_PU 以其_NN 空前_VV 的_DEC 實力_NN 轟動_VV 了_AS 圍棋界_NN 。_PU
+
+當時_NN 的_DEC DeepMind_NN 團隊稱此_NN 版_NN 本為_NN AlphaGoMaster_NR ，_PU 是_VC 使用了_NN 1_OD 個_NN TPU_NN 的_DEC 單機版_NN ，_PU 棋力比_NN 2016_CD 年李世_NN 乭_NN 五_OD 番_NN 棋_OD 所_MSP 用_VV 的_DEC 版本_NN 提高_VV 了_AS 三子_NN ，_PU Elo_NN 等_ETC 級分達到_NN 4500_CD 分以上_NN 。_PU
+
+Master_NN 有_NN 三_OD 次_M 執白棋_NN 時_NN ，_PU 人類都_NN 下出_VV 中_AS 國流_NN ！_PU
+
+第22_OD 局_M 陳耀燁_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU 實戰_NN
+
+第48_OD 局_M 朴廷桓_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU 實戰_NN
+
+第58_OD 局_M 柯潔_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU 實戰_NN
+
+白_NN 2_OD 、_PU 白_OD 4_OD 佔_M 星位_NN ，_PU 黑_NN 5_OD 以_NN 中國流_NN 開局_NN 。_PU
+
+白6_OD 掛_NN 、_PU 黑_NN 7_OD 跳_NN 、_PU 白_NN 8_OD 進_NN 三三_CD 。_PU
+
+黑_NN 13_CD 叫吃_NN 、_PU 白_NN 14_CD 黏_NN 。_PU
+
+黑_NN 15_CD 掛白_NN 2_NN 、_PU 黑_NN 17_CD 分別_M 掛白_NN 4_NN ，_PU 黑_NN 19_CD 佔_CD 星位_NN 。_PU
+
+下到_NN 這裡_VV ，_PU 與第_NN 48_CD 局朴廷桓_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU 實戰_NN 的_DEC 落子完_NN 全_NN 一_OD 樣_NN ，_PU 只_NN 是_VC 順序不同_NN 。_PU
+
+白_NN 20_CD 小飛_NN 掛角_NN ，_PU 黑_NN 21_CD 尖_NN 、_PU 白_NN 22_CD 飛_NN 、_PU 黑_NN 23_CD 黏_NN 。_PU
+
+白_NN 24_OD 下_M A點_NN 是_VC 人類最_NR 常的_NN 下法_VV ，_PU 下B點是黑棋_VV 最_CD 想下_NN 的_DEC 一_CD 手_NN ，_PU 但_NN 是_VC AlphaGo_NN 不是人類_NN ._PU ._NN ._PU
+
+白_NN 24_CD 碰是_NN 非常靈活_NN 的_DEC 一_CD 手_NN 。_PU
+
+陳耀燁_NN 的_DEC 黑25在_JJ 右邊扳_NN 、_PU Master_NN 白_NN 26_CD 連扳_NN 。_PU
+
+第48_OD 局_M 時_NN ，_PU 朴廷桓_NN 的_DEC 黑25在_JJ 左邊_NN C點_CD 扳_M ，_PU Master_NN 白_NN 26_CD 還是在_NN D點_CD 連扳_NN 。_PU
+
+白_NN 34_CD 、_PU 白_NN 36_CD 連連下_NN 在_P 三_OD 線_NN 。_PU
+
+白_NN 2_OD 、_PU 白_OD 4_OD 佔_M 星位_NN ，_PU 黑_NN 5_OD 以_NN 中國流_NN 開局_NN 。_PU
+
+白6_OD 掛_NN 、_PU 黑_NN 7_OD 跳_NN 、_PU 白_NN 8_OD 進_NN 三三_CD 。_PU
+
+黑_NN 13_CD 叫吃_NN 、_PU 白_NN 14_CD 黏_NN 。_PU
+
+黑_NN 15_CD 掛白_NN 2_NN 、_PU 黑_NN 17_CD 分別_M 掛白_NN 4_NN ，_PU 黑_NN 19_CD 佔_CD 星位_NN 。_PU
+
+白_NN 20_OD 時_M ，_PU 人類_NN 大_NN 都下在A_VV 點_CD 或_M B點_NN 。_PU
+
+白_NN 20_CD 小飛_NN 掛角_NN ，_PU 黑_NN 21_CD 尖_NN 、_PU 白_NN 22_CD 飛_NN 、_PU 黑_NN 23_CD 黏_NN 。_PU
+
+白_NN 24_OD 下_M A點_NN 是_VC 人類最_NR 常的_NN 下法_VV ，_PU 下B點是黑棋_VV 最_CD 想下_NN 的_DEC 一_CD 手_NN ，_PU 但_NN 是_VC AlphaGo_NN 不是人類_NN ._PU ._NN ._PU
+
+白_NN 24_CD 碰是_NN 非常靈活_NN 的_DEC 一_CD 手_NN 。_PU 這_NN 一_CD 下法最_NN 早見於_NN 日本_NR 本因_NN 坊道策_NN 先生_VV 的_DEC 棋譜中_NN 。_PU
+
+白24碰_NT 之後_NN ，_PU 黑_NN 27_CD 硬斷_NN 、_PU 白_NN 28_CD 互斷_NN ，_PU 黑_NN 29_CD 黏_NN 、_PU 白_NN 30_CD 取得_VV 主動權_NN ，_PU 至白_NN 36_CD 進角_NN ，_PU 左上角_NN 的_DEC 白棋_NN 安定_VV 了_SP 。_PU
+
+白_NN 2_OD 、_PU 白_OD 4_OD 佔_M 星位_NN ，_PU 黑_NN 5_OD 以_NN 中國流_NN 開局_NN 。_PU
+
+白6_OD 掛_NN 、_PU 黑_NN 7_OD 跳_NN 、_PU 白_NN 8_OD 進_NN 三三_CD 。_PU
+
+白_NN 18_CD 人類_NN 大_NN 概會下_NN 在_P A點_CD 、_PU B點_NN 、_PU C點.._NN ._PU
+
+但是_NN AlphaGo_NN 白_NN 18_CD 去碰黑_NN 13，_CD 是_VC 非常_AD 好_VA 的_DEC 騰挪手段_NN 。_PU
+
+雙方下_NN 到_P 白_NN 42_OD 飛_M ，_PU 看起來_NN 好像_VV AlphaGo_NN 要放棄_NN 左上角_NN 的_DEC 白子_NN ，_PU 其實_NN 是_VC 很成功的_VV 一_CD 手_NN ，_PU 而_CC 且還_NN 留有_VV 許_CD 多_CD 味道_NN ，_PU 實_P 在_NN 是_VC 好_NN 棋_NN 。_PU
+
+黑43脫_NT 離戰場_NN 下_NN 在_P 右_NN 上_NN 角_LC ，_PU 其實應_NN 該_VV 在_P A_NN 位跳_VV 。_PU 於是白_NN 44_CD 打入_NN ，_PU 這_DT 一_CD 手非常_NN 嚴厲_VA 。_PU
+
+
+

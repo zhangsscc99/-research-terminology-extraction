@@ -1,0 +1,9 @@
+﻿不圍棋_NN
+
+不圍棋_NN （_PU NoGo_NN ）_PU ，_PU 又译作_NN 闕棋_NN ，_PU 是_VC JohnMoore_NR 在_VV 2005_CD 年推出_NN 的_DEC 兩_NN 人_NN 圍棋變體_NN ，_PU 以讓對_NN 方先_NN 提棋子_NN 為勝_NN ，_PU 在_P 2011_CD 年_M 、_PU 2013_CD 年為_NN 奧林_NN 匹亞_NN 電腦_NN 遊戲_NN 程式競_NN 賽_AD 項目_VV ，_PU 也_AD 是_VC 2012_CD 年中_NN 國_NN 全_NN 国大学_NN 生计_NN 算机_NN 博弈_NN 大赛_VV 的_DEC 指定棋類_NN 。_PU
+
+
+除以下_NN 規則_VV ，_PU 其餘_NN 同圍棋_NN 。_PU
+
+
+

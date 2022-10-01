@@ -1,0 +1,8 @@
+﻿全_NN 国围_NN 棋个_NN 人赛_NN
+
+全_CS 国围棋_NN 个_NN 人_NN 赛是_NN 中国_NR 一_CD 项_M 传统围_NN 棋_AD 赛事_VV ，_PU 自_NN 1957_CD 年开_M 始举办_NN ，_PU 每年一_NR 届_ETC ，_PU 采取瑞_NN 士制_VV 比赛_NN 方式_NN ，_PU 1978_CD 年_CD 开始_NN 设立_VV 女子_NN 组比赛_NN 。_PU 在_AD 没有_VV 大量_CD 新闻棋_NN 战和中_NN 国围棋_NN 甲级_NN 联赛_NN 的_DEC 时期_NN ，_PU 全_CS 国围棋_NN 个_NN 人_NN 赛是_NN 中国_NR 最重要_NN 的_DEC 围棋_NN 赛事_NN 。_PU 今_CD 天其_NN 重要性_NN 虽_NN 已_AD 下降_VV ，_PU 但仍_NN 是_VC 许多_CD 年轻选_NN 手_AD 得以_VV 脱颖_VV 而出_VV 的_DEC 舞台_NN 。_PU 近年来_NN 男子分为甲组_NN （_PU 水平更高_NN ）_PU 和乙组_NN 。_PU
+
+1960_CD 年至_NN 1966_CD 年间_NN 两_CD 年_CC 一_CD 届比赛_NN ，_PU 受文化大_NR 革命_NN 影响_VV ，_PU 1967年_NT 至1973年_NT 间无_NN 比赛_NN 。_PU 1976_CD 年因_NN 恰逢_NN 毛泽东_NN 逝世_VV ，_PU 仅举行_NN 预赛_VV ，_PU 未举行_NN 决赛_NN 。_PU
+
+
+

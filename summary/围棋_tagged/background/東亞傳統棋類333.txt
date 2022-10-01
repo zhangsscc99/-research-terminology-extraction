@@ -1,0 +1,8 @@
+﻿氣_NN (_PU 圍棋_NN )_PU
+
+「_PU 氣_NN 」_PU 是_VC 圍棋_NN 的_DEC 用語_NN ，_PU 指_VV 在_P 棋盤上_NN 一_CD 只棋子_NN 四_OD 邊所通連_VV 的_DEC 交叉_NN 點_OD 。_PU
+
+當單一_NR 只棋子_NN 在_P 棋盤上_NN 時_NN ，_PU 四_CD 邊_NN 所_MSP 通連_VV 的_DEC 交叉_NN 點_OD 便_NN 是_VC 它_NN 的_NN 四_OD 口_NN 氣_OD 。_PU 如果_CS 它_PN 的_DEG 其中_NN 一_CD 邊放_VV 了_AS 對方_NN 的_DEC 棋子便_NN 剩_P 下_NN 三_OD 口_NN 氣_LC ，_PU 如此_NN 類推_NN 。_PU 當一_NN 只棋子_NN 的_DEC 四_CD 邊_NN 都_AD 被對方_NN 的_DEC 棋子包_NN 圍住_VV （_PU 沒有_VV 通連_NN 的_DEC 交叉_NN 點_NN ）_PU 時_NN ，_PU 那只棋便_NN 是_VC 被_P 吃了_VV 。_PU
+
+
+

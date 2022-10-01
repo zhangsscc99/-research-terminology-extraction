@@ -1,0 +1,6 @@
+﻿象_NN 棋中_NN 局_NN
+
+中國象_NN 棋中局_NN ，_PU 是雙方_NN 在_P 象棋_NN 佈完局後_NN ，_PU 展開_NN 攻防_NN ，_PU 運用_NN 各種_NN 戰術_NN 技巧_NN 來獲取_NN 優勢及_NN 消減對_NN 方子力_NN 。_PU 講究_NN 隨機應變_NN ，_PU 要_CS 運用_NN 運子_NN 、_PU 兌換_NN 、_PU 棄子_NN 、_PU 先棄_NN 後取_NN 和獻子_NN 的_DEC 各種戰術_NN ，_PU 子力_NN 綜合_NN 使用_NN ，_PU 組成_VV 精彩_NN 的_DEC 戰術_NN 組合和_NN 連珠妙著_NN 。_PU
+
+
+

@@ -1,0 +1,5 @@
+﻿掛角_NN
+
+掛角_NN 是圍棋_NN 用語_NN ，_PU 指在布局_NR 階段_NN ，_PU 當_DT 一_CD 方已經_NN 在_VV 角_NN 上佔_VV 了_AS 一_CD 個_M 據_NN 點_OD 時_NN （_PU 即佔角_NN ）_PU ，_PU 另一_NN 方_NN 在_VV 這個據_NN 點_OD 的_DEG 附近_NN 下子_NN ，_PU 達到_NN 攻擊_NN 或分角_NN 的_DEC 目的_NN ，_PU 一般在掛_AD 角之後通_VV 常雙_NN 方即_NN 開始進_NN 行定式。根_JJ 據對_NN 方佔角_NN 位置_NN 的_DEC 不同，掛角的_JJ 位置_NN 也_AD 不_AD 同_VA ，_PU 較常見_NN 的_DEC 有小飛_NN 掛角_NN 、_PU 大_NN 飛掛角_NN 、_PU 一_CD 間_NN 高掛等_NN ，_PU 針對_NN 高目_NN 或目_NN 外佔角_NN 則_AD 有進_VV 三三_CD 的_DEC 掛角_NN 方式_NN 。_PU
+
+

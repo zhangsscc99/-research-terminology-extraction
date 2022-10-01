@@ -1,0 +1,40 @@
+﻿计算机_NN 围棋_NN
+
+计算机_NN 围棋是人_NN 工智能_NN （_PU AI_NN ）_PU 的_DT 一_CD 个_M 领域_NN ，_PU 该_DT 领域_NN 致力于_VV 开_CD 发出可以下_NN 围棋_VV 的_DEC 电脑_NN 程式_NN 。_PU 围棋_NN 是棋盘_NN 游戏的_VV 一_CD 种_M ，_PU 有_CS 很古老_NN 的_DEC 历史_NN 。_PU
+
+最先_JJ 電腦_NN 圍棋_NN 也試_NN 圖用_NN 類似_NN 處理_NN 西洋棋_NN 的_DEC 演算法_NN ——alpha-_PU beta_NN 剪枝法_NN ，_PU 即_DT 一_CD 般認為_NN 的_DEC 暴力_NN 搜尋法_NN ，_PU 但成_VV 長非常慢_NN 。_PU 1986年_NT ，_PU 應昌期懸_NN 賞_NN 100萬_CD 美金_NN ，_PU 徵求_NN 可以_VV 打敗人類_VV 的_DEC 圍棋軟體_NN ，_PU 並以_VV 15_CD 年為期_NN 限_NN ，_PU 但_NN 沒有_VV 任何_NN 人拿_NN 走_NN 獎金_NN 。_PU 到了20世_NR 紀末_NN ，_PU 這類_NN 程式_NN 表現_NN 最_AD 好_VA 的_DEC 是陳_NN 志行_VV 製作_NN 的_DEC 手談_NN ，_PU 其宣稱_NN 可以_VV 接近_VV 業餘初段_NN ，_PU 至_AD 少與_NN 低段_NN 職業_NN 差距_NN 9子_NN 以上_NN ，_PU 其他如_NN GNUGo_NN 更是只_NN 有_VE 業餘_NN 5_CD ~_PU 10_CD 級左右_NN 。_PU
+
+代表_VV ：_PU
+
+CrazyStone_NR 首次_NN 引進_VV 了_AS 蒙地_NN 卡羅_NN 搜尋樹_NN ，_PU 其原理_NN 是用_NN 蒙地_NN 卡羅法_NN 快速_VV 的_DEC 把棋局_NN 下至終局_VV ，_PU 然後藉此_VV 判_CD 斷局勢_NN ，_PU 用這個_NN 方法_NN ，_PU 電腦圍_NN 棋得_VV 到_VV 飛快性_NN 的_DEC 成長_NN ，_PU 並突破了_NN 業餘初_NN 段_NN 的_DEG 壁障_NN 。_PU 這_NN 時代表現_NN 最_AD 好_VA 的_DEC 是_VC Zen_NN ，_PU 在_P AlphaGo_NN 出現_VV 的_DEC 前_DT 一_CD 年_NN ，_PU Zen_NN 的_DEG 平行運算_NN 版_NN 本_AD 可_VV 以達_VV 到_P 與職業棋_NN 士差距_NN 3_OD ~_PU 4_OD 子_NN 的_DEG 水平_NN 。_PU
+
+這時_NN 期開始_NN ，_PU 開始出現了_NN UEC_NN 杯等_NN 電腦_NN 圍棋_NN 比賽_NN 。_PU 在_P 其中_NN 發_NN 生_VC 一_CD 個插曲_NN ，_PU 2010_CD 年時_NN ，_PU 黃士傑_NR 的_DEC Erica_NN 在_P 2010_CD 電腦奧_NN 林_NN 匹_NN 亞獲得_NN 19_CD 路圍棋_NN 的_DEC 冠軍_NN ，_PU 隔年_NT 又在_NN UEC_NN 盃拿下_NN 亞軍_VV ，_PU 這_AD 在_P 當時_NN 引起_VV 許_CD 多_CD 注目_NN ，_PU 因為_VV Erica_NN 是單機_NN 程式_NN ，_PU 而其_NN 對手都_NN 是_VC 使用大_NN 型_NN 電腦_VV ，_PU 這也_NN 使得_VV 他獲得_NN DeepMind_NN 公司_NN 的_DEC 邀請_NN 。_PU
+
+代_NN 表_NN 程式_NN ：_PU
+
+深度學_NN 習原_NN 本主要_NN 應用_NN 是圖像_NN 分析_VV ，_PU 利用_NN 電腦_NN 模擬_NN 神經元_NN ，_PU 可以_VV 訓_CD 練電_NN 腦有_VV 類似_NN 人類_NN 「_PU 直覺_NN 」_PU 的_DEG 反應_NN ，_PU 2014_CD 年左_NN 右_NN ，_PU GoogleDeepMind_NN 和_NN facebook_NN 等_ETC 公司意識這_NN 可_VV 能_VV 可以_VV 用_VV 在_P 處理電腦_NN 圍_AD 棋_VA 。_PU 最_AD 直接_NN 的_DEC 想法是_NN 輸入人類_NN 的_DEC 圍棋棋譜_NN ，_PU 並_AD 在_P 程式_NN 中_NN 設定圍棋_JJ 規則_NN ，_PU 以及_NN 各棋譜_NN 的_DEC 最後勝負_NN ，_PU 利用_NN 監督_NN 學習_NN 讓電腦_NN 得到_VV 「_PU 棋感_NN 」_PU ，_PU 電腦因_NN 而_MSP 可以_VV 給出_VV 特定_NN 局面_NN 下有_VV 哪些_NN 可能_NN 的_DEC 行棋_NN 方法_NN ，_PU 後來_NN 這個_NN 方法_NN 在_P AlphaGo_NN 的_DEC 論文中_NN 被_SB 稱為_VV 「_PU 走子_NN 網路_NN 」_PU 。_PU 2015_CD 年_PU 左_JJ 右_JJ ，_CD DeepMind_NN 的_DEC DavidSilver_NN 意_NN 識到_VV ，_PU 其實_NN 圍_AD 棋_VA 的_DEC 形勢判_NN 斷_NN 也_AD 可以_VV 交_BA 由_P 神經_NN 網路決_NN 定_NN ，_PU 「_PU 價值_NN 網路_NN 」_PU 因此誕生_NN 。_PU 接著_NN DeepMind_NN 團隊再_NN 使用_NN 強化_VV 學習_NN ——_PU 大眾媒_NN 體稱_VV 之為_NN 左_JJ 右_JJ 互搏_NN ——_PU 增強_NN 兩_OD 種_NN 神經_NN 網路_NN ，_PU 在_P 大約三千萬盤_NT 的_DEG 左_JJ 右_JJ 互_CD 搏_NN 後_LC ，_PU 超越_VV 了_AS 職業選手_NN 水_NN 平_LC ，_PU 這使得_NN DeepMind_NN 最_NN 終贏_NN 得這項與_NN facebook_NN 的_DEC 競賽_NN 。_PU
+
+2016年_NT 1月27_NN 日_NN ，_PU 《_NN 自然_NN 》_PU 發表了_VV GoogleDeepMind_NR 开发_NN AlphaGo_NN 的_DEC 論文_NN ，_PU 于_P 2015年_NT 10月_NT ，_PU 在_P 未讓子_NN 的_DEC 挑戰中_NN ，_PU 以_NN 5_OD :_PU 0_OD 戰_NN 績_LC ，_PU 擊敗歐洲_NN 圍_NN 棋_NN 冠軍_NN ——_PU 職業圍棋_NN 二_CD 段樊麾_NN 。_PU 這是_NN 電腦_NN 程式_NN 首次_VV 在_VV 公平_NN 比賽_NN 中擊_NR 敗職_NN 業棋手_NN 。_PU 2016年_NT 3月_NT ，_PU AlphaGo_NN 在_NN 韓國首_NN 爾以_VV 4_CD :_PU 1_CD 擊_M 敗棋士李_NN 世乭_NN 。_PU 2017年_NT 5月_NT ，_PU AlphaGo_NR 在_VV 中国乌_NR 镇围_NN 棋_NN 峰_AD 会_VV 的_DEC 三_CD 局_NN 比赛中_NN 以_NN 3_CD :_PU 0_CD 击_M 败当时_NN 世_VV 界_NN 排名第_NN 一_OD 的_DEC 中国_NR 棋手柯_NN 洁_NN 。_PU
+
+代_NN 表_NN 程式_NN ：_PU
+
+圍棋給_NN 程式設_NN 計師_NN 們帶來了_NN 許_P 多_CD 人_M 工智_NN 能_VV 領域裡_NN 的_DEC 挑戰_NN 。_PU 當如_NN IBM_NN 深藍_NN 那樣_VA 的_DEC 超級電腦_NN ，_PU 已經能_NN 夠擊_VV 敗_NN 世界_NN 上_NN 最_AD 好_VA 的_DEC 西洋棋_NN 棋手_VV 的_DEC 同時_NN ；_PU 卻有不少_NR 人能_NN 擊敗_VV 圍棋軟體_NN 。_PU 可見_VV ，_PU 要編_NN 寫出_VV 超越初_NN 級水平_NN 的_DEC 電腦圍_NN 棋程式，是_JJ 極其_NN 困難_NN 的_DEC 一_CD 回事_NN 。_PU
+
+围棋_NN 的_DEC 棋盘很大_NN （_PU 19_CD ×_PU 19_CD ）_PU ，_PU 因此通常_NN 被_SB 认为_VV 是难以编_NN 写围_NN 棋程序_NN 的_DEC 一_CD 个_M 重要_JJ 原因_NN 。_PU
+
+与其它_NN 棋盘_NN 游_NN 戏相比_NN ，_PU 围棋_VV 的_DEC 着法几_NN 乎_NN 不_AD 受_VV 规则_NN 限制_VV 。_PU 中_BA 国象棋_NN 第一_OD 步有4_JJ 2_CD 种_M 选择_NN ，_PU 国际象_NN 棋有_VV 20_CD 种_M 选择_NN ，_PU 但围_NN 棋有_VV 361_CD 种_M 选择_NN 。_PU 有_NN 些着法_NN 较_AD 常见_VA ，_PU 有些几_NR 乎从_NN 未走过_NN （_PU 例如_AD 第一_OD 步下_NN 在_P 边线上_NN ）_PU ，_PU 但所有_NR 着法_NN 都有_VV 可能_NN 。_PU
+
+象棋_NN （_PU 以及大_NN 部分_NN 棋盘_NN 游戏如_NN 西洋跳_NN 棋和_NN 双_NN 陆_OD 棋_NN ）_PU 棋局_NN 过程_NN 中_LC ，_PU 棋子_NN 数逐渐_NN 减少_VV ，_PU 使_VV 游戏_NN 简化_VV 。_PU 但是_VV ，_PU 围_NN 棋_NN 中每下_NN 一_CD 子_NN ，_PU 都_AD 可_VV 能有_VV 其_PN 戰略意義_NN ，_PU 使_VV 得單純_NN 分析_NN 戰術_NN 並不_NN 管用_NN ，_PU 会_VV 使_VV 局势_NN 变得_VV 更_AD 复杂_VA 。_PU
+
+第一_OD 個電腦圍棋_JJ 競賽_NN 是_VC 由_P USENIX_NN 贊助_NN ，_PU 在_P 1984_CD 年到_NN 1988_CD 年間_NN 舉行_NN 。_PU
+
+宏碁電腦_NN 公司_NN 與應_NN 昌棋_NN 圍棋_NN 基金會從_NN 1986_CD 年開始_NN ，_PU 聯合舉辦_NN 電_NN 腦_NN 圍棋競_NN 賽_NN ，_PU 獲得冠軍_VV 的_DEC 程式_NN ，_PU 可以_VV 挑_CD 戰職_NN 業棋士_NN ，_PU 獲勝_NN 獎金美_NN 金_P 一百萬_CD 元_NN 。_PU 有效_JJ 期至_NN 2000_CD 年_NN 。_PU
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+﻿_OD Darkforest_NR
+
+Darkforest_NN （_PU 黑暗森林_NN ）_PU 是_VC 由_P Facebook_NR 公司_NN （_PU 今_NN Meta_NN 公司_NN ）_PU 开发_VV 的_DEC 电脑_NN 围棋_NN 程序_NN 。_PU 其名称_NN 来源于_NN 科幻_NN 小说_NN 《_PU 三体_NN 》_PU 中的_NR “_PU 黑暗_NR 森林_NN ”_PU 。_PU 该项_NN 目的_NN 负责人_NN 为_VC Facebook_NR 人工_NN 智能_NN 研究院_NN 的_DEC 研究员田_NN 渊栋_VV 。_PU
+
+Darkforest_NN 采用的_NN 是_VC 基于_VV 卷积神_NN 经网络_NN 的_DEG 深度学_NN 习技术_NN 。_PU 而_CC 其升级_NN 版本_NN Darkfores2_NN 则_VV 在_P 原有_JJ 技术_NN 的_DEC 基础之上_NN ，_PU 又_AD 增加_VV 了_AS 蒙特_NN 卡_NN 洛_NN 树搜索_NN 技术_NN 。_PU
+
+Darkforest_NN 在_P 2016_CD 年_CC 3月_CD 举办_VV 的_DEC 第9_OD 届_M UEC_NN 杯世界_NN 電腦圍_NN 棋_AD 大_VA 會中_NN 获得_VV 亚军_NN 。_PU
+
+
+

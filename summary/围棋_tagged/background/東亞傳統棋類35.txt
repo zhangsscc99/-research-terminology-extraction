@@ -1,0 +1,59 @@
+﻿_NN 三六九_CD 棋類_NN
+
+三六九_CD 棋類_NN ，_PU 是中國_NN 一_CD 類傳_NN 統棋_NN 類遊戲_NN ，_PU 遊戲人數_NN 通常_JJ 為_NN 三_OD 人_NN ，_PU 以手_NN 中藏_VV 的_DEC 石子_NN 總數_NN 或出_VV 的_DEC 指頭來_NN 決定_NN 何方_NN 的_DEC 棋子_NN 移動_NN 。_PU
+
+此類棋_NN 在明_VV 朝_NN 小說_NN 《_PU 金瓶梅_NN 》_PU 就有出現_VV ，_PU 潘金蓮_NN 、_PU 龐春_NN 梅與_NN 陳經濟曾_NN 一_CD 同玩_NN 此戲_NN 。_PU 但魏子_NN 雲對是_NN 《_PU 金瓶梅_NN 》_PU 所_MSP 提_VV 的_DEC 鱉棋兒_NN 表示_VV 不知是何_NN 種棋_VV ，_PU 註解說_NN ：「_PU 不知何种_NR 棋式_NN 。_PU 得非今_NN 之暗扣_NN 名色_VV ，_PU 相互猜名_VV 而_MSP 翻_VV 开定_NN 输赢乎_NN ！_PU 」_PU 後學者_NN 指_NN 出_NN 是_VC 鱉_NN 棋_NN 兒是山_NN 東_NN 的_DEG 一_CD 種_NN 三六九_CD 棋_M 。_PU 這類遊戲_NN 中_LC ，_PU 玩家遊戲_NN 開始時各_NN 選_NN 一_OD 、_PU 四_OD 、_PU 七_OD 、_PU 或_OD 二_NN 、_PU 五_NN 、_PU 八_NN 、_PU 或_NN 三_OD 、_PU 六_OD 、_PU 九_OD ，_PU 此_NN 三_OD 組_NN 的_DEG 三_CD 個_NN 數字_NN ，_PU 每_DT 次_M 玩家手_NN 中_LC 藏著零到_VV 三_CD 顆_NN 石頭_NN ，_PU 然後_VV 一_CD 同攤開_NN ，_PU 若石頭_NN 總數_NN 為己_NN 方所_NN 選組_VV 的_DEC 數字_NN 之一_NN ，_PU 則該_NR 玩家_NN 的_DEC 棋子走_NN 一_OD 步_NN ，_PU 以_MSP 到_P 某處為勝_NN 。_PU
+
+這些_NR 三六九_CD 的_DEG 數字_NN 組合也_NN 是_VC 習俗上_NR 對於_NN 日期與_NN 方向_NN 的_DEC 迷信_NN 。_PU
+
+此類棋_NN 在_P 各地名稱_NN 、_PU 圖案都_NN 不同_VA ，_PU 如光_NN 是_VC 在_P 山東_NN ，_PU 煙台_NN 稱為_NN 擺龍門陣_NN 、_PU 擺龍_NN ，_PU 在_P 棗莊稱_NN 為清趟_NN 。_PU
+
+在琦君_NR 散文_NN 〈_PU 乞丐棋_NN 〉_PU 也出現此_NR 類棋_NN 。_PU 她童年時_NN 與鄰_NN 居老爺_NN 爺等人_NN 三_OD 人_NN 一_OD 同_M 玩乞丐_NN 棋_NN ，_PU 圖案_NN 是_VC 大_JJ 十_NN 字_NN 中間重_NN 疊_NN 大小_NN 兩_NN 個_NN 圈圈_NN 代_OD 表_NN 一_OD 口_NN 井_LC ，_PU 東南西_NN 三_OD 頂_NN 端各畫_NN 一_CD 個_NN 小圈代_NN 表_NN 三_OD 個_NN 起_VV 點_NN ，_PU 北_NN 面_NN 一_OD 個_NN 四_OD 方_NN 框代_VV 表_NN 佛_OD 殿_NN ，_PU 從各_NN 方頂端_NN 走到_VV 井邊是_NN 三_OD 步_NN ，_PU 然_NN 後_NN 必須掉_NN 在_P 井_NN 裡_NN 一_CD 下_NN ，_PU 再_AD 向_P 前走_VV 到_VV 佛殿朝聖_NN 。_PU
+
+也有傳_NR 統棋類_NN 採用此_NN 類藏子_NN 以決_NN 定_NN 移動_VV 的_DEC 規則_NN ，_PU 但_NN 勝利_NN 方式_NN 不_AD 屬_VV 於_AS 擲賽遊戲_NN ，_PU 如爭三國_VV 、_PU 狀元棋_NN 。_PU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

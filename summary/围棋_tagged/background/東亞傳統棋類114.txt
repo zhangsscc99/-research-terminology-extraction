@@ -1,0 +1,15 @@
+﻿全国_NN 五子_NN 棋锦_NN 标赛_NN
+
+全国_NR 五子_NN 棋锦_NN 标赛_NN 是_VC 由_P 中国_NR 国家体_NN 育总局棋_NN 牌_NN 运动_NN 管理_NN 中心_NN （_PU 中国_NR 棋院_NN ）_PU 和中_NN 国围棋_NN 协会_NN 五_OD 子_NOI 棋分会_NN 主办_VV 的_DEC 全国性_NN 五_OD 子_NN 棋_OD （_PU 连珠_NR ）_PU 比赛_VV ，_PU 是_VC 目前_NN 中国_NR 国内级_NN 别最高_NN 的_DEC 五子_NN 棋比赛_NN 之一_NN 。_PU 全国_NR 五子棋_NN 锦标_NN 赛自_VV 2007_CD 年开_NN 始举办_NN ，_PU 每年举办_NN 一_OD 届_NN 。_PU 同时由_NN 中国_NR 棋院_NN 举办_VV 的_DEC 全国性_NN 五_OD 子_NN 棋赛事_NN 还_AD 包括_VV 全国_NR 五子_NN 棋团体_NN 锦标赛_NN 、_PU 全国_NN 五_CD 子棋公_NN 开赛_VV 、_PU 全国_NN 五子_NN 棋精_NN 英赛等_NN 。_PU 比赛_NN 的_DEC 成绩_NN 计入_VV 全国_NR 五子_NN 棋棋手_NN 等_ETC 级分_NN 。_PU 在_VV 比赛_NN 中_LC 取得_VV 个人_NN 名次_VV 的_DEC 选手_NN 可以_VV 依据_VV 《_PU 中国_NR 五子_NN 棋段_NN 级位制_NN 》_PU （_PU 试行_NR ）_PU 的_DEC 方法_NN 取得_VV 中国_NR 五子_NN 棋段_NN 级位_NN 称号_NN 。_PU
+
+全国_NR 五子_NN 棋锦_NN 标赛_NN 的_DEC 组别_NN 分_NN 为_VC 男子组_NN 、_PU 女子组_NN 、_PU 公开组_NN 。_PU 其中_NN ，_PU 男子_NN 组和_NN 女子_NN 组采用_NN 连珠规则_NN ，_PU 而_CC 公开_JJ 组采用_NN 无禁手_NN 规则_VV 。_PU
+
+比赛_NN 的_DEC 分组与_NN 赛制_NN ，_PU 根据_NN 每届_NN 比赛_NN 的_DEC 报名人_NN 数规_NN 模不同_NN ，_PU 各有_VV 区别_NN 。_PU 一般_JJ 采用_NN 瑞士_NN 制积分_NN ，_PU 或者_CC 分组瑞_NN 士制_NN 结合_NN 淘汰赛_NN 的_DEC 模式_NN 。_PU
+
+2007年_NT ，_PU 在_P 天津市_NN 举办_VV 第一_OD 届全国_NN 五_OD 子_NN 棋锦标_NN 赛_NN ，_PU 此后_NT 每年举办_NN 一_OD 届_NN 。_PU
+
+以下_NN 是_VC 历_JJ 届全国_NN 五_OD 子_NN 棋锦标_NN 赛男子_NN 组_NN 的_DEG 成绩_NN ：_PU
+
+以下_NN 是_VC 历_JJ 届全国_NN 五_OD 子_NN 棋锦标_NN 赛女子_NN 组_NN 的_DEG 成绩_NN ：_PU
+
+

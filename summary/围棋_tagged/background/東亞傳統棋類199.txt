@@ -1,0 +1,12 @@
+﻿外勢_NN
+
+外勢_NN ，_PU 又稱作_NN 厚勢_NN ，_PU 是圍棋_NN 中_LC 的_DEG 一_CD 個_CD 概念_NN ，_PU 一_CD 般_CD 相對於_NN 實利_NN 而言_NN ，_PU 指_DT 一_CD 塊己_NN 方強大_NN 的_DEC 棋面_NN 朝較寬廣_NN 的_DEG 方向_NN ，_PU 雖_CS 然尚_NN 未實際_NN 圍成_VV 地盤_NN ，_PU 但具_NN 有_NN 很_AD 大_VA 的_DEC 發展_NN 潛力_NN ，_PU 可用以_NN 圍成_VV 很_AD 大_VA 的_DEC 空或_NN 藉以_NN 攻擊_NN 對手_NN 棋子_NN 。_PU
+
+19_OD 世紀_NN 以前_VA 的_DEC 圍棋較_NN 不重視_NN 外勢而_NN 重視實利_NN ，_PU 到_P 二十_CD 世紀初_NN 的_DEC 新佈局開_NN 始_NN 對_NN 於外勢_NN 的_DEC 運用_NN 開始_NN 注重_VV ，_PU 後來以_NN 武宮_NN 正樹為首_NN 的_DEC 宇宙流_NN ，_PU 更_AD 是_VC 重視棋_NN 子向_NN 中_LC 間發展_VV ，_PU 對_BA 外勢_NN 運用_NN 的_DEC 研究也就_NN 更為_VV 深入_VV 。_PU
+
+一_CD 塊棋外勢_NN 的_DEC 強大與否_NN ，_PU 有_CS 幾個_NN 因素_NN 。_PU 一_CD 是己_NN 方棋子_NN 的_DEG 數目_NN ，_PU 棋_AD 數_VV 越_AS 多_CD 可能_NN 的_DEC 外勢越_NN 大_VA ，_PU 二_CD 是_VC 這_JJ 塊棋_NN 的_DEC 連接_NN 程度_NN ，_PU 即使_CS 只有_VV 2_OD 、_PU 3_OD 顆_M 棋如果_NN 是_VC 直接相_NN 連_NN 則_AD 可_VV 形成_VV 不錯_NN 的_DEC 外勢_NN ，_PU 但彼此間_NN 如果_CS 有斷_VV 點_CD 則_M 外勢力量_NN 減_AD 小_VA ，_PU 三是_NN 附近_NN 是_VC 否已有_NR 對方_NN 的_DEC 棋子_NN ，_PU 如_AD 有對方_NN 相應_VV 的_DEC 棋子則_NN 外_JJ 勢會減_NN 弱_NN ，_PU 也因此_NN 如果_CS 有_VE 可讓對_NN 方覷_NN 的_DEC 斷_NN 點_OD 時_NN ，_PU 外_JJ 勢就會減_NN 小_VA 。_PU
+
+外勢的_NN 形成_VV 一_CD 般_NN 是_VC 與對方_NN 的_DEC 實利_NN 交換而_NN 形成_VV 的_SP ，_PU 在_P 許_NN 多_CD 定式_NN 中_LC ，_PU 最後_VV 的_DEC 結果常_NN 是_VC 一_CD 方獲得_NN 實利_NN ，_PU 一_CD 方獲得_NN 外勢_VV ，_PU 因此_AD 在_P 對_NN 方獲得_NN 實利_VV 的_DEC 情形下_NN ，_PU 善_NN 運用_NN 外_LC 勢成_VV 為勝負_NN 的_DEC 重要關鍵_NN 。_PU
+外勢一般可能_VV 的_DEC 運用_NN 包括_VV 圍地或_NN 攻擊_NN ，_PU 棋諺有說_NR 「_PU 不要用_NR 厚勢_NN 圍地_NN 」_PU ，_PU 也就_NN 是_VC 說_BA 雖然_JJ 外勢也_NN 常有_VV 機會_NN 可以_VV 圍到_VV 不小_NN 的_DEC 地盤_NN ，_PU 但它的_NR 力量_NN 不僅止_NN 於圍_VA 地_DEV ，_PU 因此_AD 最_AD 理想_VA 的_DEC 運用_NN 方式_NN 是_VC 誘使_NN 或逼_NN 使對_NN 方棋子_NN 接近己_NN 方外勢_NN ，_PU 再_AD 加以_VV 攻擊_NN ，_PU 因此另_NN 一_CD 個_NN 棋諺是_NN 「_PU 不要_JJ 靠近_NN 外勢_NN 」_PU 也就_NN 是_VC 面_JJ 對敵方_NN 的_DEG 外勢_NN ，_PU 應_NN 該_CS 保持_VV 一_CD 定_M 距離_NN 下子_NN ，_PU 讓對_NN 方僅_NN 能_VV 在_P 一定_JJ 的_DEG 程度_NN 上_NN 運用_NN 外勢來圍_NN 地_NN ，_PU 而_CC 不_AD 能_VV 攻擊己_NN 方棋子_NN ，_PU 而_MSP 擁有_VV 外勢_VV 的_DT 一_CD 方如_NN 果對_NN 方棋子_NN 不接近_NN ，_PU 則_NN 應_NN 儘量_NN 形成_VV 大型_VA 的_DEC 模樣_NN ，_PU 迫使_NN 對方_NN 打入_VV 後_DER 再_AD 加以_VV 攻擊_NN 。_PU
+
+

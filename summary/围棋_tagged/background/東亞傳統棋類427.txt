@@ -1,0 +1,9 @@
+﻿读秒_NN
+
+读秒_NN ，_PU 围棋比_NN 赛术语_NN ，_PU 指保留_NN 时间_NN 用完后_NN ，_PU 必须_VV 在_VV 规定_JJ 时间_NN 内下下完_NN 规定_VV 的_DEC 步数_NN ，_PU 否则超_NN 时_NN 判负_VV 。_PU 日本式_JJ 读秒主_NN 要_VV 用于_VV 职_NN 业围_NN 棋比赛_NN ，_PU 加拿_NN 大式读_NN 秒常_JJ 见于_NN 欧美_NN 的_DEC 业余_NN 比赛_NN 。_PU
+
+如果_CS 在_P 1分钟或_JJ 半分钟_NN 内下_VV 一_CD 步_M ，_PU 保留_VV 这_OD 次_M 读秒_NN ，_PU 否则扣掉_NN 一_OD 次_NN 读秒_NN ，_PU 一_CD 般总共有_NN 10_CD 次或_NN 5_OD 次_M 读秒的_NN 机会_NN ，_PU 扣完_NR 判负_NN 。_PU
+
+在_P 10_CD 分钟_M 或_CC 5_CD 分钟_M 内必须_NN 下满_VV 25_CD 步棋_NN ，_PU 否则判负_NN 。_PU 适用于_VV 只有_VV 简陋计_NN 时钟_VV 的_DEC 比赛_NN ：_PU 保留_VV 时间_NN 用完后_NN ，_PU 裁判在_NR 棋盒_NN 内装入_NN 25_OD 颗_M 棋子_NN ，_PU 然后_AD 将_BA 计时钟_NN 调到_VV 11_CD :_PU 50_CD 或_CC 11_CD :_PU 55_CD 。_PU 如果棋手_NN 在_AD 棋钟_VV 的_DEC 小旗倒_NN 之_DEC 前用完盒_NN 内所_VV 有_VE 25_CD 颗_M 棋子_NN ，_PU 就_AD 继续_VV 以上的_JJ 步骤_NN ，_PU 否_AD 则_AD 判负_VV 。_PU
+
+

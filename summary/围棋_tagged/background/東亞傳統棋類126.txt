@@ -1,0 +1,9 @@
+﻿分先_NN
+
+分先是_NN 圍棋_VV 的_DEC 用語_NN ，_PU 是對局_NN 的_DEC 一_CD 種_NN 手合_NN 形式_NN 。_PU 對局_NN 手合_JJ 分為分_NN 先_P 與_NN 讓先_VV ，_PU 這時_NN 候為_VV 了_AS 決定_NN 執黑或_NN 執白_NN ，_PU 則會進行_NN 「_PU 猜子_NN 」_PU 。_PU 猜子_NN 是坐_NN 在_AD 白棋_VV 的_DEC 棋罐_NN 之旁_NN 的_DEC 棋士要_NN 先抓_VV 一_CD 把白子_NN ，_PU 讓坐在_NN 黑棋棋_NN 罐旁_VV 的_DEC 棋士猜_NN 猜看_VV ，_PU 這把_NN 抓起_NN 的_DEC 白子_NN 是_VC 單數或_NN 雙數_NN 。_PU 坐在_NR 黑棋_NN 那側_VA 的_DEC 棋士_NN ，_PU 猜單數_NN 的_DEC 話_NN ，_PU 就_AD 拿_P 一_CD 顆黑子_NN 放_VV 在_P 棋盤上_NN ，_PU 猜_NN 雙數_VV 的_DEC 話_NN ，_PU 就_AD 放_VV 兩_CD 顆黑子_NN ；_PU 若猜對了_NN ，_PU 就執黑棋_NR ，_PU 猜錯就執_NR 白棋_NN 。_PU
+
+分先_VV 的_DEC 定義_NN 是_VC 在_P 數子法_NN 計算中_NN ，_PU 執黑者_NN 獲_NN 勝最_NN 低門檻為_NN 184_CD 子_M （_PU 19_CD 路_NN ）_PU ；_PU 比目法_NN 計算中_NN ，_PU 執黑者貼_NN 6_OD ._PU 5_OD 目_M （_PU 白方無_NN 條件_NN 增加_VV 6.5_CD 目_M ）_PU 則_AD 為_P 目前_NT 國際_NN 通用_NN 制度_NN 。_PU
+
+早期_NN 的_DEC 國際賽_NN 分先有貼_VV 5_CD ._PU 5_CD 目制_NN ，_PU 而_CC 現今中_NN 國_NN 大_NN 陸比賽_NN 大多_CD 貼_BA 7.5_CD 目。分_M 先_CD 乃_NN 由於對_NN 局雙_NN 方實力_NN 相當_VV ，_PU 而黑_NN 方持_NN 先行_VV 優勢_NN ，_PU 故以貼_NN 目來_NN 維持_NN 棋局_NN 平衡_NN 。_PU
+
+

@@ -1,0 +1,9 @@
+﻿_CD QGo_NN
+
+qGo_NN 為_NN 一_CD 個開_NN 放原_NN 始碼且_NN 支援_NN 多平台_NN 的_NN 的_DEC IGS_NN 網路圍棋_NN 相_NN 容用_NN 戶端_NN （_PU IGS_NN -_PU like_NN ）_PU 。_PU
+
+
+
+
+
+

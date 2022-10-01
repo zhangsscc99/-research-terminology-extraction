@@ -1,0 +1,11 @@
+﻿长_NN 生劫_NN
+
+长生是_NN 围棋_NN 中_PU 一_CD 种_M 特殊棋_NN 型_NN ，_PU 具有_VV 类似劫_NN 的_DEC 循环性质_NN 。_PU
+
+如_AD 图_NN 1_CD ，_PU 黑_NN 1_OD 送吃_VV 。_PU 白_NN 2_OD 若_NN 走_CC a_NN 位提_NN 掉_NN 黑_NN 1_LC ，_PU 则黑_NN 3_OD 走_NN b_NN 位使_NN 白构成_NN 刀把_NN 五_CD 死棋_VV 。_PU
+
+白_NN 2_OD 可_VV 如_P 图_NN 2_CD ，_PU 走_P b_NN 位_NN 打吃黑_NN 4_OD 子_NN ，_PU 企_NN 图构_NN 成_VV 曲_NN 四_CD 活棋_NN 。_PU 则黑_NN 3_OD -_PU {_PU 只_NN }_PU -_PU 有走a_NR 位提白_NN 两_CD 子_NN 。_PU 之_NN 后如图_NN 3_OD ，_PU 白_OD 4_OD 反_M 提黑_NN 二_AD 子_VA ，_PU 回到初_NN 始局面_NN 。_PU
+
+若双_NN 方都_NN 不_AD 肯_VV 在_P 此罢手_NN ，_PU 且_NN 规则不_NN 禁_VV 止_NN 全局同_NN 型_AD 再现_VV ，_PU 则_AD 该盘_NN 可_AD 能_VV 当无_VV 胜_NN 负或_NN 和棋_NN 处理_VV 。_PU
+
+

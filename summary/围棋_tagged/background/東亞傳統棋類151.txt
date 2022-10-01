@@ -1,0 +1,15 @@
+﻿各_NN 國圍棋_NN 昇段規_NN 定列表_NN
+
+現今_NN 圍棋界_NN 均以_NN 段位來_NN 評定不_NN 同棋士_NN 之棋力水準_NN ，_PU 但各_NN 國圍_NN 棋棋院_NN 會各_VV 以不同規定_NN 來_NN 評定_NN 隸屬棋士_NN 之段_NN 位_NN 評級_NN ，_PU 以下_NN 為各_VV 日本_NR 、_PU 中國_NR 、_PU 台灣_NR 、_PU 南韓主要_NR 棋院_VV 的_DEC 規定_NN 。_PU
+
+由_P 2003_CD 年_PU 4_CD 月起_M ，_PU 取_CS 消原_NN 來以大_NN 手合作_NN 為評定棋士_NN 之_DEC 間水平_NN 之比賽_NN 準則_VV ，_PU 因為_NN 棋士_NN 人數_NN 越來越多_NN ，_PU 高低_NN 段位_NN 棋士_NN 之間_NN 的_DEC 實力越_NN 來_NN 越_NN 接近_NN ，_PU 故_CS 改為以_NN 勝局數記_NN 分制_VV 作_VV 為新_NN 的_DEC 昇段準則_NN 。_PU 並且有_NR 「_PU 取得_NR 頭銜_NN 」_PU 及_NN 「_PU 賞金排名_NN 」_PU 昇段_NN 準則_NN 。_PU
+
+由_P 2004年_CD 10月_NT ，_PU 取_NT 消原_NN 來以大_NN 手合_JJ 制度_NN 。_PU 2005年_NT 1月起以_JJ 新昇段_NN 制度_NN ，_PU 公式_JJ 棋戰_NN 包括_VV 13_CD 棋戰_NN （_PU 棋聖戰_NN 、_PU 名人戰_NN 、_PU 本因坊_NN 戰_NN 、_PU 十段戰_NN 、_PU 天元戰_NN 、_PU 王座戰_NN 、_PU 碁聖戰_NN 、_PU 富士通杯_NN （_PU 已取消_NN ）_PU 、_PU 豐田杯_NN （_PU 已取消_NN ）_PU ，_PU 三星火_NN 災杯_NN ，_PU 關西_NN 棋院第_NN 一_OD 位_NN 決定戰_NN ，_PU 新人王戰_NR ，_PU 產經職業_NR 業餘戰_NN ）_PU 的_DEC 成績決_NN 定_NN 昇段準_NN 則_NN ，_PU 並且有_NN 「_PU 取_NN 得頭銜_NN 」_PU ，「勝局數記分制」及「_PU 賞金排名_NN 」_PU 三條準則_NN 。_PU
+
+由_P 2012年_CD 3月_NT 20日起_NT ，_PU 為了鼓_NR 勵棋手_NN 在_VV 世界_NN 圍棋_NN 團體_NN 比賽中_NN 創造佳績_NN ，_PU 因此_NN 修訂_NN 「_PU 獎勵升段_NN 暫行_NN 規定_NN 」_PU ，_PU 在_AD 不同_VA 的_DEC 國際_NN 圍棋_NN 比賽中_NN 優_NN 勝_NN 便_AD 可_VV 昇至_VV 特定_NN 段位_NN 。_PU
+
+由_P 2012_CD 年_PU 5_CD 月起_M ，_PU 除原有_NR 以勝局_NN 數作_NN 昇段_NN 準則_NN 外_LC ，_PU 新增國_NN 際及國_NN 內主要_NN 比賽優勝_NN 準則_NN 。_PU
+
+由_P 2003_CD 年_PU 1_CD 月起_M ，_PU 取_CS 消原有_NN 的_DEG 昇段大會_NN （_PU 相當於_JJ 日本_NN 的_DEC 大手合_NN ）_PU ，_PU 改以_NN 勝利_NN 點_OD 數_NN （_PU 勝_NN 點90點_CD ，_PU 負_NN 點30點_CD ）_PU ，_PU 以及國_NN 內_NN 外_AD 大_JJ 賽優勝_NN 作_VV 昇段準_NN 則_NN 。_PU
+
+

@@ -1,0 +1,20 @@
+﻿象棋_NN 开局_NN
+
+象棋开局_NN ，_PU 为象棋_NN 对局_NN 开始_NN 的_DEC 阶段_NN ，_PU 一_CD 般指的_NN 是_VC 一_CD 盘_M 对局最初_NN 的_DEG 十_CD 几_CD 个_M 回合_NN 。_PU 按照_NN 对局_VA 的_DEC 起手_NN 走子_NN 来分_NN ，_PU 开局_VV 的_DEC 类型可_NN 粗略_VV 的_DEC 分为_JJ 炮局_NN 、_PU 兵局_NN 、_PU 相局和_NN 马局等_NN 。_PU 2004年_NT ，_PU 中国_NR 象棋_NN 开局_NN 编号_NN （_PU ECCO_NN ，_PU EncyclopediaofChineseChessOpenings_NR ）_PU 被_AD 制定_VV ，_PU 又_CC 将_BA 象棋开局_NN 编_NN 为_VC 五_CD 大类_M ，_PU 每个大_NN 类又_NN 细分为几_NN 十_CD 个_M 不等_NN 的_DEC 小_JJ 类_NN ，_PU 编号从_NN A00_CD 始_M ，_PU 到_P E99止_NN 。_PU
+
+炮_NN 类_NN 开局_NN 中_LC ，_PU 最为_JJ 流行_NN ，_PU 也是_NN 变化最多_NN 的_DEG 是_NN 中炮_NN 类_NN 开局_NN （_PU 即红_NN 方第_NN 一_CC 步走炮_NN 二_OD 平_PU 五_OD 或_M 炮_NN 八_OD 平_NN 五_OD ）_PU ，_PU ECCO_NN 编号_NN 的_DEG 近_JJ 多_CD 半_NN （_PU B00_NN ～_PU D55_NN ）_PU 均_NN 为_VC 此_NN 类_NN 开局_NN 。_PU 其_PN 后红黑双_NN 方走子_NN 的_DEG 不同_NN ，_PU 中炮_NN 类_NN 开局_NN 可_VV 演化_VV 为_VC 顺炮_NN 、_PU 列炮_NN 、_PU 中炮_NN 对屏风马_NN 、_PU 中炮对_NN 反宫马_NN 、_PU 中炮对_NN 单提马_NN 等_ETC 多种_JJ 局面_NN 变化_NN ，_PU 其中_NN 顺炮局_NN 可_VV 继续_VV 发展_VV 为_VC 顺炮直车_NN 对横车_NN 、_PU 顺炮_NN 横车_NN 对直车_NN 、_PU 顺炮_NN 直车_NN 对缓开车_NN 等_ETC 布局_VV ；_PU 中炮_NN 对屏_NN 风马_NN 可_VV 发展_VV 成_VV 五七_CD 炮_CD 对屏风马_NN 、_PU 五六_CD 炮_BA 对屏风马_NN 、_PU 中炮巡河_NN 炮_NN 对屏风马_NN 等_ETC 布局_VV ；_PU 中炮对_NN 反宫马_NN 可_VV 演变_VV 为_VC 五六炮对_JJ 反宫马_NN 、_PU 五七_CD 炮对反_NN 宫_NN 马_NN 等_ETC 。_PU
+
+炮_NN 类_NN 其他_NN 比较_NN 常见_VA 的_DEC 布局还_NN 有_VE 过宫炮局_NN （_PU 炮_NN 二_OD 平_NN 六_OD 或_M 炮_NN 八_OD 平_NN 四_OD ）_PU 和仕角_NN 炮局_NN （_PU 炮_NN 二_OD 平_NN 四_OD 或_CC 炮八_OD 平_NN 六_OD ）_PU 等_OD 。_PU 过宫炮局_NN 是_VC 一_CD 种_M 古老_VV 的_DEC 布局_NN ，_PU 主要_JJ 布局_NN 构思_NN 是_VC 集_NN 中兵力_NN 攻击_NN 对手_NN 的_DEC 一_CD 翼_M ；_PU 仕角炮_NN 开局_VV 新兴于_VV 20_CD 世纪_NN 80_CD 年_NN 代初_VV ，_PU 可_VV 根据_P 形势_NN 需要_VV 演变_VV 成_VV 反宫马_NN 、_PU 单提马_NN 等_ETC 阵势_NN 。_PU
+
+其他较_NN 为_VC 冷门_NN 的_DEC 炮类开_NN 局有_VV 巡河炮_NN （_PU 炮_NN 二_OD 进_NN 二_OD 或炮_NN 八_CD 进_CC 二）_CD 、_PU 兵底炮_NN （_PU 炮_NN 二_OD 平_NN 三_OD 或_NN 炮_NN 八_OD 平_NN 七_OD ）_PU 、_PU 边炮_NN （_PU 炮_NN 二_OD 平一_JJ 或炮_NN 八_OD 平_NN 九_OD ）_PU 、_PU 过河炮_NN （_PU 炮_NN 二_OD 进_NN 四_OD 或_NN 炮_NN 八_OD 进_NN 四_OD ）_PU 和_NN 金钩炮_NN （_PU 炮_NN 二_OD 平_NN 七_OD 或_CC 炮八_OD 平_NN 三_OD ）_PU 等_NN 。_PU 其中_NN ，_PU 巡_NN 河_NN 炮开局_NN 多_AD 用于_VV 让子棋_NN 中_LC 的_DEG 让_NN 双_NN 马棋_NN 。_PU
+
+兵_NN 类_NN 开局以_NN 进三_OD 路兵（兵三进一）_JJ 或进_NN 七路兵_NN （_PU 兵_NN 七_OD 进_NN 一_OD ）_PU 为_VC 多_CD 见_M ，_PU 称为_NR 仙人_NN 指路_NN ，_PU 此局面_NN 可_VV 演化_VV 为仙人_NN 指路对_NN 卒底炮_NN 、_PU 对兵局等_NN 。_PU
+
+兵_NN 类_NN 开局_NN 也有_VV 进边兵_NN （_PU 兵_NN 一_OD 进一或兵九进一）_JJ 的_DEG 招法_NN ，_PU 即边兵_NN 局_NN ，_PU 有_NN 的_DEG 地方也_NN 称_OD “_PU 九_OD 尾_M 龟_NN ”_PU 或_NN “_PU 独角兽_NN ”_PU ，_PU 这种_JJ 开局较_NN 为_VC 冷门_NN 。_PU
+相_NN 类_NN 开局_NN 的_DEC 飞相局_NN （_PU 红方第_NN 一_CC 步棋走相_NN 三_OD 进_NN 五_OD 或_NN 相_NN 七_OD 进_NN 五_OD ）_PU 虽也是_NN 一_CD 种_M 古老_NN 的_DEC 布局_NN 类型_NN ，_PU 但长_NN 期以_NN 来都被_NN 认为_VV 是_VC “_PU 左道旁_NN 门_NN ”_PU ，_PU 棋谚甚_NN 至有_VV “_PU 臭棋乱飞_NN 相_NN ”_PU 之说_NN 。_PU 直到_NN 20_CD 世纪_NN 80_CD 年代_NN ，_PU 在_P 以胡荣华_NN 为代表_NN 的_DEC 象棋大_NN 师们_VV 的_DEC 研究下_NN ，_PU 飞_NN 相_NN 局才得_NN 以发展_NN ，_PU 并开_VV 始流行_NN 。_PU 飞相局_NN 可_VV 发展_VV 为顺相局_NN 、_PU 飞相进右马_NN 对左_NN 过宫炮_NN 等_ETC 多种_JJ 局面_NN 。_PU
+
+马类开局_NN 有起马局_VV （_PU 马_NN 二_OD 进_NN 三_OD 或_NN 马_NN 八_OD 进_NN 七_OD ）_PU 和边马局_NN （_PU 马_NN 二_OD 进一_JJ 或马_NN 八_CD 进_CC 九）_CD 等_ETC ，_PU 二_CD 者_NN 相较_VV ，_PU 起_BA 马局较_NN 为_VC 热门_NN ，_PU 边马局_NN 则_AD 较_AD 少见_VA 。_PU 起马局_NR 可_VV 演变为_NR 起马对进_NN 7_OD 卒_NN 、_PU 起_NN 马互进_NN 七_OD 兵_NN 局_NN 等布局_NN 。_PU
+
+除了_NN 上述_JJ 几_CD 种_M 开局_NN 外_LC ，_PU 也有_VV 第一_OD 步上仕_NN （_PU 仕_NN 四_OD 进_NN 五_OD 或_M 仕_NN 六_OD 进_NN 五_OD ）_PU 的_DEG 开局_NN ，_PU 称为上仕局_VV 。_PU 这种_JJ 布局也_NN 属于_VV 冷门布局_NN ，_PU 在_P 专业_NN 棋_NN 手_NN 对局_NN 中_LC 出现_VV 的_DEC 次数_NN 较_AD 少_VA 。_PU
+
+

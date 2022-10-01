@@ -1,0 +1,8 @@
+﻿中_NN 国围棋棋_NN 王戰_NN
+
+中国_NR 围棋_NN 棋王_NN 戰為_NN 中国_NR 的_DEC 圍棋_NN 比賽_NN 。_PU 1989年_NT 創設_NN 。_PU 主辦_NN 單位是_NN 中國圍棋_NN 協_AD 會_VA 、_PU 中國體育_NN 報_NN 社_NN
+
+左方為_NN 優勝者_NN
+
+
+

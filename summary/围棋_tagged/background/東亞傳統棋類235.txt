@@ -1,0 +1,10 @@
+﻿巡將_NN 圍棋_NN
+
+巡將_NN 圍棋_NN （_PU ）_PU ，_PU 是_VC 自古流_NN 傳於朝_NN 鮮半島_NN 的_DEC 圍棋變體_NN ，_PU 是_VC 二十_CD 世紀前_NN 韓國人_NN 所_MSP 使用_VV 的_DEC 圍棋規則_NN ，_PU 特_NN 點_OD 是_VC 比中國古_NN 圍_NN 棋_NN 還多_NN 座子_NN ，_PU 並且計_NN 點_OD 制為_VV 絕_AS 對計空_NN ，_PU 不同_JJ 於古_NN 中國_VV 的_DEC 數子_NN 、_PU 日本_NN 的_DEG 比目_NN 。_PU
+
+採用_NN 19_CD *_PU 19_CD 的_DEC 圍棋棋盤_NN 。_PU 棋子_NN 用黑_NN 白_NN 圍棋_VV 。_PU
+
+
+
+
+

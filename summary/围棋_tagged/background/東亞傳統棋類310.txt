@@ -1,0 +1,12 @@
+﻿東鋼盃_NN 職業_NN 圍棋賽_NN
+
+東鋼_NN 盃職_NN 業圍棋賽_NN ，_PU 由東和_NN 鋼鐵股_NN 份有_VV 限公_JJ 司贊_NN 助_NN 、_PU 台_NN 灣棋院_NN 文化_VV 基金會_NN 主辦_NN ，_PU 是台灣_NN 曾舉辦_NN 的_DEC 職業圍棋_NN 棋戰_VV 之一_NN ，_PU 是台灣_NN 棋院唯_NN 一_CD 開_NN 放品位_NN （_PU 中國圍_NN 棋_NN 會_ETC ）_PU 棋士參賽_NN 的_DEC 職業圍棋_NN 賽_NN 。_PU 2001_CD 年開辦_NN ，_PU 2015_CD 年停辦_NN 。_PU
+
+東和_NN 鋼鐵除了_NN 舉辦_NN 東鋼_NN 盃職_NN 業圍_NN 棋賽_NN 外_LC ，_PU 於_P 1990_CD 年_AD 另有_VV 開辦_NN 東鋼_NN 盃業_NN 餘圍_NN 棋錦標賽_NN ，_PU 至今_NN （_PU 2019_CD 年第_NN 30_OD 屆_M ）_PU 仍_AD 在_VV 舉辦中_NN 。_PU
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+﻿等级分_NN
+
+Elo_NN 等级_NN 分制度_NN （_PU ）_PU 是指由_NN 匈牙利_NN 裔美_NN 国物_NN 理学_NN 家创建_NN 的_DEC 一_CD 个_M 衡量各_NN 类_NN 对弈_NN 活动_JJ 水平_NN 的_DEG 评价_NN 方法_NN ，_PU 是_VC 当今对_NN 弈水平评_NN 估_AD 公认_VV 的_DEC 权威_NN 標準_NN ，_PU 且_CS 被广泛_NN 用于_VV 国_NN 际象棋_NN 、_PU 围棋_NN 、_PU 足球_NN 、_PU 篮球等_NN 运动_NN 。_PU 線上_NR 遊戲_NN 的_DEC 竞技_NN 對戰_NN 系統_NN 也_AD 常_VV 採用此_NN 分級_VV 制度_NN 。_PU
+
+ELO_NN 等级_NN 分制度_NN 是_VC 基于_P 统计学_NN 的_DEC 一_CD 个_M 评估棋手_NN 水平_VV 的_DEC 方法_NN 。_PU 在_P 1960_CD 年首先_NN 使用这_NN 种_CD 计分_NN 方法_NN 。_PU 由于_P 它比_NN 先前_VV 的_DEC 方法_NN 更公_VV 平_AS 客观_NN ，_PU 这种_NN 方法很_NN 快流行_NN 开来_VV 。_PU 1970年_NT 国际_NN 棋联_NN 正式_NN 开始_VV 使用_NN 等_NN 级_NN 分制度_NN 。_PU
+
+Elo_NN 模型_NN 原先_NN 采用_NN 正态_NN 分布_VV 。_PU 但是_NN 实践_NN 显明_NN 棋手_NN 的_DEC 表现并_NN 非_AD 呈_VV 正态_NN 分布_VV ，_PU 所以_AD 现在_VA 的_DEC 等级分计分系统通常_JJ 使用_NN 的_NN 是_VC 。_PU
+
+假设_NR 棋手_NN A_NN 和_CC B_NN 的_DEG 当前等_NN 级_NN 分分别_NN 为_VC formula_NN __NN 1_CC 和_NN formuladistributionA_NN 对_NN B_NN 的_DEG 胜率_NN 期望值当_NN 为_VC
+
+类似_NN B_NN 对_CC A_NN 的_DEG 胜率_NN 为_VC
+
+假如一_NR 位棋手_NN 在_VV 比赛_NN 中_LC 的_DEG 真实_NN 得_NN 分_VC formula_NR __NN 5_OD （_PU 胜=_NN 1_NN 分_LC ，_PU 和=_NN 0_CD ._PU 5分_CD ，_PU 负=_NN 0分_CD ）_PU 和他_VV 的_DEC 胜率_NN 期望值_NN formula_NN
+
+公式中_NN formula_NN __NN 1_CC 和_NN formula_NN __NN 9_AD 分别_AD 为_VC 棋手调_NN 整前_VV 后_AS 的_DEC 等级分。在_JJ 大师级_NN 比赛_NN 中_LC formula_NR
+
+例如_AD ，_PU 棋手_NN A_NN 等级分为_NN 1613_CD ，_PU 与_P 等级分为_NN 1573_CD 的_DEG 棋手_NN B_NN 战平_NN 。_PU 若_CS K_CD 取_NN 32_CD ，_PU 则_NN A_NN 的_DEG 胜率_NN 期望值_NN 为_VC formula_NN +_NN 32·_CD (_PU 0._CD 5_CD −_NN 0.5573_CD )_PU =_NN 1611_CD ._PU 166_CD
+
+国际_NN 象棋_NN 中_LC ，_PU 等级_NN 分和_NN 棋联_NN 称号_NN 的_DEG 大致_CD 对应_NN 为_VC
+
+历史上_NN ，_PU 共有_VV 13_CD 位_BA 棋手_NN 的_DEC 等级分曾超过2800分。他们_JJ 是马格努_NN 斯_NN ·_PU 卡尔森_NN 、_PU 卡斯帕_NN 罗夫_NN 、_PU 法比亚诺_NN ·_PU 卡鲁_NN 阿纳_VV 、_PU 列冯_NN ·_PU 阿罗尼扬_NN 、_PU 苏伟利_NN 、_PU 沙克里亚尔_NN ·_PU 马梅迪亚洛_NN 夫_NN 、_PU 马克西姆_NN ·_PU 瓦谢尔_NN -_PU 拉格拉夫_NN 、_PU 克拉_NN 姆尼克_NN 、_PU 托帕洛夫_NN 、_PU 阿南德_NN 、_PU 中村光_NN 、_PU 丁立人和_NN 亚历山_NN 大_VA ·_PU 格里斯_NN 丘克_VV 。_PU 其中_NN 马格_NN 努斯_NN ·_PU 卡尔_NN 森于_NN 2014年_CD 5月_NT 创造了_NN 2882_CD 分的_VV 历史最高_NN 等级_JJ 分纪录_NN 。_PU
+
+
+
+

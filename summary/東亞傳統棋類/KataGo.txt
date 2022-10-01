@@ -1,0 +1,32 @@
+﻿KataGo
+
+KataGo是由David J. Wu（lightvector）所研究並開發的一套圍棋軟體。
+
+KataGo是David J. Wu依照DeepMind的AlphaGo Zero與AlphaZero論文為基礎，以及許多在DeepMind論文之後的相關研究及原創的研究，大幅改善了訓練速度（超過50倍），也因此搭配所釋出訓練網路資料，成為目前世界上最強的電腦圍棋軟體之一。
+
+KataGo所實做的電腦圍棋程式包括了：
+
+
+另外由（作者所在的公司）提供運算所需資源外，也公開釋出訓練的成果（訓練網路資料）。
+
+KataGo因豐富的分析能力，被用在圍棋線上分析網站AI Sensei作為預設的分析引擎。
+
+“KataGo”这个名字来源于日语单词“ ()”（类型）。目前，即使在英语中，武道的形式也被称为“kata”。作者 lightvector (David J. Wu) 表示，它作为一个通过强化学习永久训练自己并旨在完成自己的形式的人工智能的名称似乎是合理的。
+
+除了開放原始碼與開放資料以外，KataGo與AlphaZero主要差異在於透過研究大幅降低了初期自我訓練的成本，使得一般家用的高階電腦可以在數天內，從零訓練出一個具有中高段水準的業餘高手水準的訓練網路。
+
+KataGo與Leela Zero的主要差異在於，KataGo的GTP引擎支援了codice_1指令，可以讓前端的程式（像是Lizzie）取得KataGo的目數分析，這可以輔助人類棋手判斷，減輕讓子棋中黑棋不會下出最好的選擇的問題。
+
+另外一個差異是KataGo同時支援OpenCL（自codice_2支援）與CUDA（在OpenCL上，最新版本做了優化，不再是CUDA版本快數倍，而是兩個版本相差無幾），但Leela Zero只支援OpenCL。
+
+第一個版本（編號g65，codice_3）是在2019年二月使用35顆NVIDIA Tesla V100訓練7天，從6 blocks x 96 filters訓練到15 blocks x 192 filters，棋力大約與LZ130（Leela Zero的第130代）相符，大約是超越人類的強度。
+
+第二個版本（編號g104，codice_4）是在2019年五月與六月使用28顆NVIDIA Tesla V100訓練，從6 blocks x 96 filters訓練到20 blocks x 256 filters，由於大幅改善了超參數（），只使用了3.5天就超越第一版的棋力，另外引入了LCB（）大幅提昇了棋力。最後訓練了19天產生出20 blocks的版本，棋力超越了LZ-ELFv2（ELF OpenGo的v2權重配上Leela Zero的程式），另外與Leela Zero 40 blocks版本的比較，大約落在LZ200的棋力。
+
+第三個版本的訓練一開始使用29個GPU，到第14天後增加為37個GPU，再24天後（38天）增加為47個GPU。
+
+自v1.5.0開始支援純CPU運算（使用函式庫）。並自v1.8.0版開始支援分散式訓練，允許全球的使用者一起訓練權重。
+
+
+
+

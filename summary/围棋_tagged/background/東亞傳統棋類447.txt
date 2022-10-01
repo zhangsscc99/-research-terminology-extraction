@@ -1,0 +1,18 @@
+﻿_CD 连珠_NN 开局_NN
+
+连珠_NN 的_DEC 最初_NN 階段_NN 稱為_NN 「_PU 開局_NN 」_PU 。_PU 為連珠_NN 所_MSP 規定_VV 的_DEC 共_NN 二十六_CD 種首_NN 三_OD 手_NN 變化_VV 。_PU
+
+
+依照第_NN 二_NOI 手白子_NN 的_DEG 落_NN 點_CD ，_PU 二十六_CD 種開局_NN 可_VV 分成_VV 兩_CD 大類_M 。_PU
+
+如圖所示_NN ，_PU 計入_NN 對稱性_NN ，_PU 第三_OD 手總_NN 共有_VV 十三_CD 種變化_NN 。_PU
+第一_OD 手為_JJ 黑子_NN ，_PU 第二_OD 手為_NN 白子_NN ，_PU 第三_OD 手可能的_JJ 下手_NN 點_OD 標_NN 數如圖_NN 。_PU
+簡略評_NN 價_VV 在_P RIF_NN 規則下的_NN 十三_OD 種_M 變化_NN 。_PU
+
+
+如圖所示_NN ，_PU 計入_NN 對稱性_NN ，_PU 第三_OD 手總_NN 共有_VV 十三_CD 種變化_NN 。_PU
+第一_OD 手為_JJ 黑子_NN ，_PU 第二_OD 手為_NN 白子_NN ，_PU 第三_OD 手可能的_JJ 下手_NN 點_OD 標_NN 數如圖_NN 。_PU
+簡略評_NN 價_VV 在_P RIF_NN 規則下的_NN 十三_OD 種_M 變化_NN 。_PU
+
+
+

@@ -1,0 +1,16 @@
+﻿詰碁_NN
+
+詰碁是_NN 刻_NN 意_NN 安排_NN 的_DEC 圍棋棋局_NN ，_PU 須用_NN 巧妙_NN 的_DEC 手筋_NN ，_PU 想出得_NR 勝手法_NN ，_PU 以此作_NN 為測驗_NN 棋力_NN ，_PU 如_CS 同象棋_NN 的_DEC 殘局_NN 一_CD 樣饒富_NN 趣味_NN 。_PU
+
+好_VA 的_DEC 詰棋題_NN 目常常_NN 會有_VV 一_CD 些意想_NN 不到_VV 的_DEC 妙手蘊_NN 藏_NN 其中_NN ，_PU 這也是_NN 加強_VV 棋力_NN 的_DEC 不二_JJ 法門_NN 。_PU
+
+下詰棋_NN 是_VC 訓練_NN 棋力_NN 的_DEC 一_CD 種_NN 方法_NN ，_PU 其中_NN 包含_VV 了_AS 許_P 多_CD 罕見_NN 的_DEC 棋形_NN ，_PU 需_AD 要_VV 特別_NN 巧思_NN 和手法_NN ，_PU 有_CS 助於細算_NN 時_AD 注意_VV 各種_NN 可能_VV 的_DEC 變化_NN ，_PU 才不至於有_NR 漏算_NN 的_DEC 情形_NN 。_PU
+
+救活_NN 自己_NN 的_DEC 棋子_NN （_PU 甲圖_NN ）_PU ，_PU 和殺死_NN 對方_NN 的_DEC 棋子_NN （_PU 乙圖_NN ）_PU 。_PU 黑先_NN 。_PU
+題目出自_NN 《_PU 棋經_NN 眾妙_NN 》_PU 。_PU
+
+
+雖然沒有_JJ 正式_NN 的_DEC 官方統_NN 計_NN ，_PU 但_NN 一_OD 般_NN 認為_NN 最長_VV 的_DEC 題目是_NN 「_PU 新_NN ·_PU 永劫_NN 」_PU ，_PU 作者_NN 森_NN 長_NN 宏明_NN 。_PU 這題由_NN 一_CD 條_NN 白棋_NN 中央_JJ 被圍_NN 的_DEC 大_JJ 龍_NN 、_PU 單個循環_NN 需_AD 要_VV 48_CD 手_NN 的_DEC 搖櫓劫_NN ，_PU 和_P 一_CD 個當作_NN 劫材_NN 的_DEC 征子所_NN 構成_VV ，_PU 最_AD 後經過_NN 3603_CD 手以後_NN ，_PU 黑棋逃_NN 出征子_NN ，_PU 白棋劫敗_NN 。_PU
+
+
+

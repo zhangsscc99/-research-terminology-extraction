@@ -1,0 +1,9 @@
+﻿双活_NN
+
+双_CD 活是围_NN 棋术语_NN ，_PU 指双方_NN 的_DEC 棋子_NN 互相_NN 包围_VV ，_PU 每_DT 一_CD 方均无_NN 法_NN 将_BA 对方_NN 的_DEC 棋子_NN 提掉_VV 的_DEC 棋形_NN 。_PU
+
+在围棋_NR 规则_NN 中_LC ，_PU 对于双活_NN 的_DEC 棋形_NN ，_PU 双_NN 方棋子_NN 都_AD 被_SB 判定_VV 为_VC 活棋_NN （_PU 即使_NN 没有做出_VV 两_CD 只_NN 真眼_NN ）_PU 。_PU
+
+根据_NN 日本规_NN 则_NN ，_PU 双活一方的棋形_JJ 围成_NN 的_DEC 目计_NN 算到_VV 最后_JJ 的_DEG 目中_NN ；_PU 根据_NN 中国_NR 规则_NN ，_PU 双_CD 活一_NN 方_NN 的_DEG 棋子_NN 和_NN 占据_NN 的_DEC 目计_NN 算_NN 到_P 最_NN 后_NN 的_DEG 地_NN 中_LC 。_PU 按中_NN 国_NN 规则_VV ，_PU 双_NN 方无_NN 法_NN 占据_VV 的_DEC 公气_NN （_PU 如右_NN 图中_NN A_NN 点_NN ）_PU 由_NN 两_CD 方_NN 平分_NN 。_PU
+
+

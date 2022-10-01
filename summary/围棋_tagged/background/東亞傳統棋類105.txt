@@ -1,0 +1,14 @@
+﻿_NN 交换_NN 规则_NN
+
+交换_NN 规则_NN 是_VC 一_CD 个_M 连珠_NN 的_DEG 开局_NN 规则_VV 。_PU 它_NN 是_VC 国_NN 际_NN 连珠_NN 联盟_NN （_PU RIF_NN ）_PU 在_P 80年_CD 代末_NN 确定_VV 的_DEC 官方规_NN 则_NN 。_PU 从_NN 1989_CD 年到_NN 1995_CD 年_LC ，_PU 它在_PN 世界_VV 连珠锦_NN 标赛_NN 中_LC 被_SB 使用_VV 。_PU
+
+交换_NN 规则_NN 的_DEC 详细开_NN 局流_NN 程如下_NN ：_PU
+
+
+在开局_NR 阶段_NN ，_PU 不允许棋手_NN 使用_NN pass_NN 权利_NN 。_PU
+
+这_CD 个_M 规则_NN 使得_VV 大_JJ 多数棋手_NN 使用_NN 斜止_NN 开局_NN 作_VV 出斜_VV 开口主_NN 导_NN ，_PU 因此在_NN 1996_CD 年_LC ，_PU 被_P RIF_NR 规则所_NN 取代_VV 。_PU 交换规_NN 则和_NN RIF_NN 规则唯_NN 一_CD 的_NN 区别_VV 在于_VV ，_PU 第2_OD 手棋_NN 由_P 哪名棋手_NN 所_MSP 指定_VV 。_PU 交换规则_NN 对_NN 假白_NN 方较_NN 有利_VA ，_PU 而_CC RIF_NN 规则对_NN 假黑_NN 方较_NN 有利_VA 。_PU
+
+在_P 1995_CD 年以前_M ，_PU 交换_NN 规则_NN 是_VC 世界_NN 连珠_NN 锦标赛_NN 的_DEC 正式规则_NN 。_PU
+
+

@@ -1,0 +1,35 @@
+﻿_CD CGI_NN (_PU 圍棋_NN 軟體_NN )_PU
+
+CGI_NN （_PU ）_NN 是_VC 由_P 國立交通大_NR 學資訊_NN 工程學_NN 系_VC 吳毅成_NR 教授_NN 所_MSP 帶領_VV 的_DEC 團隊所_NN 開發_VV 的_DEC 圍棋軟體_NN 。_PU
+
+從_NN 2008_CD 年開_NN 始發展_NN ，_PU 一_CD 開始名_NN 稱為_NN HappyGo_NN ，_PU 之後大幅_NN 改寫_VV 時_NN 改名為_NN Amigo_NN ，_PU 但因_NN Amigo_NN 與其他_NN 圍棋_NN 軟體名_NN 稱衝突_NN ，_PU 在_P 後來改名_NN 時以_NN 實驗室_NN 的_DEC 名字_NN 為基礎_NN ，_PU 改名為_NN CGI_NN 並使_NN 用至今_NN 。_PU 其中_NN CGI_NN 為_NN CGIGoIntelligence_NR 的_DEC 递归缩写_NN ，_PU 指_NN 的_NN 是_VC 「_PU CGI_NN 實驗_NN 室圍_NN 棋智慧_NN 」_NN 。_PU
+
+於_NN 2017_CD 年年_NN 底與棋_NN 城合作_NN ，_PU 推出_VV 業餘_NN 七_CD 段_NN 棋力_NN 的_DEC 對弈服_NN 務_NN 。_PU
+
+2008_CD 年到_NN 2011_CD 年的_M 版本_NN ，_PU 以作者_NN 王_AD 永樂_VV 的_DEC 暱稱_NN Happy_NN 為名_VV ，_PU 僅支援_NN 9x9_CD 的_DEG 棋盤_NN ：_PU
+
+2012_CD 年到_NN 2014_CD 年的_M 版本_NN ，_PU 這個_NN 版本_NN 將蒙_NN 特卡洛_NN 树搜索_NN （_PU MCTS_NN ）_PU 的_DEG 平行運_NN 算框架化_NN ，_PU 以便_NN 於用_NN 在_P 其他_DT 軟體上_NN 。_PU 這個_NN 版本_NN 雖然_NN 可以_VV 進行_VV 19_NOI x19_NN 棋_NN 盤對弈_NN ，_PU 但只是_NN 實做_VV 而_MSP 沒有最佳化_VV ，_PU 所以非常_VV 的_DEC 弱_NN ：_PU
+
+2015年_NT 一月_NT 到十二月_NT 的_DEG 版本_NN ，_PU 除了_NN 採用_NN 了蒙特_NN 卡洛_NN 树搜索_NN （_PU MCTS_NN ）_PU 外_LC ，_PU 還_AD 包括_VV 了_SP ：_PU
+
+2015年_NT 十二月到_NT 2016年_NT 八月_NT 的_DEG 版本_NN ，_PU 這個版_NN 本引入_NN 了深度_NN 卷积神_NN 经网络_NN （_PU DCNN_NN ）_PU 使得_VV 棋力大_NN 幅_AD 增強_VV 。_PU 在_AD 引入_VV 的_DEC 初期_NN 採用_NN DetlefSchmicker_NN 所_MSP 提供_VV 的_DEC 資料_NN ，_PU 在_P 2016一_CD 月後_NN 採用_NN 自己訓練_NN 的_DEC 資料_NN ：_PU
+
+2016年_NT 八月後_NN 的_DEC 版本_NN ，_PU 在_P 這個_NN 版_NN 本因為_NN AlphaGo_NN 論文_NN 的_DEC 出現_NN 而有_VV 了_AS 巨_AD 大_VA 的_DEC 改動_NN ，_PU 使_VV 得實力_NN 大幅_AD 進步_VV ，_PU 能_VV 在_P 不讓子_NN 的_DEC 對弈中_NN 與_NN 職_NN 業棋士_NN 較勁_VV ：_PU
+
+2018年_NT 十二月_NT 的_DEG 版本_NN ，_PU 這個版_NN 本能_NN 提供_VV 四十_CD 個穩定_NN 棋力_NN 等_ETC 級_NN 之圍_NN 棋程式，最高_JJ 棋力與_NN ELFOpenGo_NN 棋力_NN 相當_VV 。_PU
+
+
+
+
+賽事皆為_NN IEEECIG2015_NN ：_PU
+
+賽事皆為_NN IEEEWCCI2016_NN ：_PU
+在_P CGOS_NN 上_NN ，_PU codice_NN
+
+
+賽事為_NN FUZZ_NN -_PU IEEE2017_NN ：_PU
+在_P CGOS_NN 上_NN ，_PU codice_NN
+
+
+
+

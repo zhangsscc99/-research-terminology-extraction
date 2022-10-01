@@ -1,0 +1,25 @@
+﻿網路圍_NN 棋_NN
+
+網路圍_NN 棋是_NN 指透過_NN 網路來_NN 進行_NN 圍棋_NN 比賽_NN 的_DEC 方式_NN ，_PU 約_AD 在_P 1990_CD 年代_NN 開始發展_NN ，_PU 一般是_NN 透過_NN 特定_NN 網路圍_NN 棋網_NN 站來_NN 進行_NN 。_PU 分为即时_NR 对弈_NN 和_NN 非即时对弈_NN （_PU ）_PU 两_CD 种_M 。_PU
+
+由_P 於早期_NN 相_NN 較於_VV 其_PN 他棋類_NN 遊戲_VV 的_DEC 電腦而言_NN ，_PU 電腦圍棋_NN 的_DEC 棋力與人_NN 類_NN 相_NN 差太多_NN ，_PU 因此_NN 上_NN 網下_VV 棋成_VV 為最_NN 方便_NN 找到_VV 適當對手_NN 的_DEC 途徑_NN （_PU 尤其_NR 在_VV 非東亞_NR 下棋者_NN 較少_VV 的_DEC 地區_NN ）_PU ，_PU 因此能_NN 吸引_VV 大量_CD 的_DEG 圍棋愛好者_NN 上_NN 網下棋_NN 。_PU
+
+各個圍棋_NN 網站雖_NN 然介面_NN 和_P 功能_NN 有所_VV 不同_VA ，_PU 但進行_NN 方式_NN 大_NN 多_AD 大_VA 同小異_NN ，_PU 首先_VV 使用者_NN 必_NN 須註册_NN 一_CD 個帳號_NN （_PU 有些_DT 網站要_NN 付費_VV 才能_NN 使用_NN ）_PU ，_PU 並先_NN 大致_AD 設定_VV 自己的_NN 棋力_NN ，_PU 接者_NN 可_VV 先_NN 設定_VV 一定_JJ 的_DEG 對局_NN 條件_NN （_PU 包括_VV 計時長短_NN 、_PU 計時_NN 方式_NN 、_PU 彼此_NN 讓子_NN 的_DEC 數目_NN ）_PU 找尋_VV 在_VV 站_NN 上_VV 的_DEC 人邀_NN 請下棋_NN ，_PU 經過_VV 一定_JJ 數_NN 目的_NN 對局以後_VV ，_PU 由_P 系統給_NN 予確認_NN 的_DEC 棋力_NN ，_PU 使_VV 得玩家_NN 在_P 找尋對手_NN 時_AD 可以_VV 了_AS 解對方_NN 的_DEC 棋力_NN ，_PU 在_P 對弈時_NN 能_VV 有_P 適合於彼_NN 此棋力_NN 的_DEC 設定_NN （_PU 例如_AD 彼此應該_NN 讓_AD 先_VA 、_PU 讓子_NN 或_NN 分_NN 先_CD ）_PU ，_PU 玩家如_NN 果持續有_NN 較_AD 好_VA 的_DEC 戰績_NN ，_PU 系_VC 統也會計_NN 算_NN 積_NN 分後予_NN 以_NN 昇級_NN 。_PU 一_CD 般_M 網站也_NN 會_AD 提供_VV 彼此_NN 對話_VV 的_DEC 功能供_NN 玩_VV 家_NN 交流_NN ，_PU 也_CC 可以_VV 觀_CD 賞其_NN 他玩家_NN 的_DEC 棋局_NN ，_PU 部分網站_NN 則會_NN 提供_VV 圍棋教學_NN 的_DEC 功能_NN ，_PU 以及_NN 定期舉辦_NN 網路_NN 網棋_NN 比賽_NN 。_PU
+
+全世界_NN 最著名_NN 的_DEC 圍棋即_NN 时_NN 对弈_NN 網站是_NN IGS_NN （_PU Pandanet_NN ）_PU 和_P KGS_NN ，_PU 有_NN 來_NN 自世界_NN 各地_NN 的_DEC 棋手在_NN 上面_NN 下棋_VV ，_PU 並且因_NN 曾_NN 不_AD 時_VV 會有_VV 職業_NN 棋士_NN 上站_VV 而_MSP 受到_VV 注目_NN 。_PU
+
+IGS_NN 为日本_NN PANDA_NN -_PU GO_NN 公司_NN 所有_VV ，_PU PANDA_NN -_PU GO_NN 公司_NN 同时_NN 出品_NN 用于_NN IGS_NN 的_DEC 对弈_NN 客户端_NN glGo_NN 。_PU IGS_NN 同时也_NN 支持第_NN 三方_VA 的_DEC 客户端_NN ，_PU 例如_AD Sente_NN 开发_VV 的_DEC Goban_NN （_PU 仅运_NN 行于_VV MacOSX_NN 平台_NN ）_PU 。_PU 一般_JJ 任何_NN 时刻同_NN 时有_VV 超过_VV 一千五百_CD 人_NN 在_P KGS_NN 上_NN 。_PU
+
+在台灣_NR 傳奇_NN 網路_NN 圍棋_NN （_PU LGS_NN ）_PU 曾是人_NN 數_NN 最_AD 多_VA 的_DEC 圍棋網站_NN ，_PU 但_CC 在_P 採收費_NN 制收_VV 費_JJ 後台_NN 灣_NN 棋_NN 院圍棋_NN 網_NN 的_DEC 人氣_NN 已逐漸追_NN 上_LC ，_PU 此外宏_NN 碁戲谷_NN 中_LC 的_DEG 圍棋_NN 也有_VV 一定_JJ 人數_NN 的_DEG 使用者_NN 。_PU 另外还有_NN PGS_NN 、_PU 台灣圍棋_NN 網等_VV 。_PU
+
+在_P 中国大_NR 陆著_NN 名且較多_NN 人_NN 參與_VV 的_DEC 圍棋網_NN 站有_VV TOM_NN 棋圣道_NN 场旗下_NN 的_DEC TOM_NN 对弈_NN 、_PU 野_NN 狐围棋_NN 、_PU 新浪_NN 網路围棋_NN 、_PU 弈城_NN 围棋_NN 网等_NN 。_PU 联众游_NN 戏和_NN QQ_NN 游戏也_NN 包括_VV 围棋_NN 。_PU
+
+在韩国_NR 较流行_NN 的_DEC 围棋网_NN 站有_VV Tygem_NN 、_PU CyberOro_NN 、_PU BadukWorld_NN 和_NN Dashn_NN 等_ETC 。_PU
+
+第二_OD 人生_NN 支持_NN 用户_NN 编程_NN ，_PU 围棋_NN 中心_NN 的_DEC 地址_NN 是_VC Vineland58_NR ,_PU 93_CD 。_PU 在_VV 中心_NN 里有_VV 一_CD 个_M 巨大的_NN 日式_JJ 棋墩_NN ，_PU 棋墩_NN 内部_NN 仿造_NN 日本_NR 棋院_NN 的_DEC 幽玄对局室_NN 。_PU 另外还_NN 有_VE 一_CD 个_M 亭子_NN ，_PU 里面_NN 设有_VV 三块棋墩_NN ，_PU 用户_NN 可以_VV 对弈_VV ，_PU 但_AD 没有_VV 时间_NN 限制_VV ，_PU 只_NN 是_VC 由围棋_NN 中心管_NN 理员估_NN 计段位_NN ，_PU 没有_VE 严格的_NN 等级_NN 分制度_NN 。_PU 每逢星期_NN 四聚会_NN ，_PU 时间_NN （_PU 美国_NR 太平洋_NN 时间_NN ，_PU 也就是_NN 第二_OD 人生_NN 时间_NN ）_PU 是凌晨_NN 3_OD 点_NN 、_PU 中午_NN 12_CD 点_NN 、_PU 下午_NN 5_OD 点_NN 、_PU 7_NN 点_NN 和晚_NN 8_CD 点_NN 。_PU
+
+由于_P 非即时_NN 对弈_VV 的_DEC 特点_NN ，_PU 循环_NN 赛比_NN 淘汰赛_NN 更_AD 节约_VV 时间_NN 。_PU 除特别_NN 说明_NN ，_PU 下面_NN 的_DEC 服务器_NN 均_NN 为_VC 英文_NN 界面_NN 。_PU
+
+
+
+

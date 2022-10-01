@@ -1,0 +1,16 @@
+﻿假眼活_NN
+
+在_P 圍棋中_NN ，_PU 通常_JJ 要做_NN 兩_CD 真眼才_NN 可_VV 活棋_VV ；_PU 但_CS 在_P 某些_NN 特殊_NN 情況下_NN ，_PU 兩_CD 個_M 假眼也_NN 可_VV 活_AD 棋_VA ，_PU 這樣_NN 的_DEC 活棋_NN 方式_NN 便_CD 稱為_NN 假眼活_NN （_PU 又称两_JJ 头蛇_NN 、_PU 盤龍活_NN ）_PU 。_PU 假眼_NN 活棋形_NN 一般_JJ 呈現_NN 出圈_NN 住對_NN 方已_NN 活棋子_NN 的_DEG 形態_NN ，_PU 自身棋_NN 形只_VV 有_VE 幾個假眼_NN ，_PU 假眼則_NN 在_P 圈_NN 上_NN 相互連通_NN 、_PU 沒有斷點_NR ；_PU 雖然_NR 自身_NN 棋形_VV 一_CD 個真眼_NN 也_AD 沒有_VV ，_PU 對_NN 方卻也_NN 無_NN 從_NN 吃棋_NN 。_PU
+
+一_CD 般來說_NN ，_PU 下圖_NN 中_LC 的_DEG 黑子_NN 是無_NN 庸置疑_NN 的_DEC 死子_NN 。_PU 黑棋_NN 包圍_VV 的_DEC 白棋已_NN 做出_VV 兩_CD 眼_M ，_PU 吃_AD 不_AD 了白_VV ；_PU 黑棋外_NN 圍又_NN 被白棋_NN 重重包圍_NN ，_PU 也無法從_NN 中做出雙_VV 眼來_JJ 活棋_NN 。_PU
+
+下圖_NN 中_LC 的_DEG 黑子_NN 雖然_NN 沒能_NN 做出_VV 兩_CD 個_NN 真眼_NN ，_PU 但_CC 首尾_NN 相連_VV 的_DEC 兩_OD 個_M 假眼_NN ，_PU 卻_NN 意外_VA 的_DEC 令白棋_NN 吃不_VV 了_VV 黑_NN ，_PU 而_MSP 使_VV 黑子_NN 活_NN 了_NN 下來_NN 。_PU
+
+這種_NN 特殊_NN 的_DEC 活棋_NN 方式_NN ，_PU 打破_VV 了_AS 一般_JJ 認為只_NN 有做出_VV 兩_CD 個_M 真眼才_NN 可_VV 活棋_VV 的_DEC 思維_NN 。_PU 而且_NN 和雙活_NN 的_DEC 雙方_NN 惟艱_VV 的_DEC 關係有_NN 很_AD 大_VA 的_DEC 不同_NN ，_PU 假眼活_NN 中_LC 的_DEG 黑白_NN 雙方_NN 可_VV 互_P 相_NN 緊氣_VV ，_PU 而無被吃_VV 之_DEC 虞_NN 。_PU
+
+下圖取自_VV 《_PU 發陽論_NN 》_PU ，_PU 黑棋_NN 可以_VV 假_CD 眼活_M ，_PU 黑先_NN 。_PU
+
+黑_NN 1_OD 阻_M 斷白棋_NN 、_PU 連接_NN 自己_NN ，_PU 黑_NN 3_OD 防_NN 斷_LC ，_PU 白_NN 4_OD 擋_NN 、_PU 防_NN 止黑_NN 逃出_VV 。_PU 黑_NN 5_OD 後_M ，_PU 白若不_NN 接_NN ，_PU 黑_AD 可_VV 做眼_VV ；_PU 白_AD 若接_VV ，_PU 則_AD 可_VV 為假_VV 眼_NN 活預作_NN 準備_NN 。_PU 最_AD 終黑巧_NN 妙_CD 地以_NN 兩_CD 個_NN 假眼活_NN 棋_NN 。_PU 白若在_NN 17_CD 位點_M ，_PU 則黑_NN 16_OD 立_M ，_PU 黑棋仍_NN 可_VV 假眼活_VV 。_PU
+白_NN 6_OD 若_NN 不接_VV ，_PU 而_CC 是_VC 強_JJ 行分斷_NN 黑棋_VV ，_PU 不_AD 但難以_NN 吃黑_NN ，_PU 自身死_NN 活也出現_NN 問題_VV 。_PU
+
+

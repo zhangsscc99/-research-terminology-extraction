@@ -1,0 +1,22 @@
+﻿国_NR 际围棋_NN 邀请赛_NN
+
+国际_NN 围棋_NN 邀请赛_NN ，_PU 指的是一_NR 系_NN 列_VV 不同_JJ 时_NN 期举办_NN 的_DEG 国际_NN 间围棋_NN 棋_NN 手_NN 之间_NN 的_DEG 特别比_NN 赛_NN 。_PU 与_P 一般_JJ 世界_NN 围棋大_NN 赛_NN 和_NN 各国头衔_NN 、_PU 冠军对_NN 抗赛_NN 不同_VA 的_DEC 是_VC ，_PU 邀请赛_NN 的_DEC 参赛选_NN 手_NN 没有明确_VV 的_DEC 选拔标_NN 准_NN ，_PU 而_NN 是_VC 由_P 主办方_NN 、_PU 赞助_NN 方确定_NN ，_PU 一般是_AD 举办_VV 时_NN 各国_NR 棋手_NN 中_LC 具某_VV 一_CD 方面特_NN 色_NN 的_DEC 棋手_NN ，_PU 多数是_NN 当_P 时_NN 各_VV 国_NN 国内围_NN 棋_NN 实力_NN 名列_NN 前茅_NN 的_DEC 棋手_NN 。_PU
+绅士杯_NN 国际_NN 围棋赛_NN ，_PU 由中国棋_NN 院_NN 、_PU 新民晚报_NN 、_PU 上_NN 海市静_NN 安区_NN 人民_NN 政府主办_NN ，_PU 上海_NR 绅士_NN 汽车商_NN 城有_VV 限公司_NN 赞助_VV ，_PU 于_P 1995年_NT 11月_NT 18～21日_NT 举行_VV ，_PU 比赛_NN 地点_NN 为_VC 上海_VV ，_PU 冠军_NN 奖金_NN 2万_CD 美元_NN 。_PU
+
+世界_NN 围棋最_NN 强战_NN ，_PU 中国_NR 人民_NN 日报_NR 、_PU 日本朝日新闻_NR 、_PU 韩国_NR 东亚日报_NN 联合_NN 主办_NN ，_PU 于_P 1996年_NT 举行_VV ，_PU 比赛_NN 地点_NN 为_VC 北京_NN 、_PU 东京_NN 、_PU 汉城_NN 。_PU
+
+凤凰_NN 世界_NN 围棋巅峰_NN 对决_VV ，_PU 又称南_NN 方长城杯_NN 、_PU 凤凰围_NN 棋节_VV 、_PU 凤凰_NN 巅峰对_NN 决等_NN 。_PU 由_P 中国棋院_NR 、_PU 中国_NR 围棋_NN 协会_NN 主办_VV ，_PU 中国_NR 湖南凤_NN 凰县_NN 人民_NN 政府_NN 、_PU 凤凰古_NN 城旅游_NN 有_VE 限公_JJ 司承办_NN ，_PU 湖南_NN 电视台_NN 、_PU 新浪_NN 网等_NN 协办_NN ，_PU 邀请中_NN 韩各_VV 一_CD 名棋手_NN 进行_VV 单盘比_NN 赛决出胜负_VV 。_PU 比赛_NN 地点_NN 为_VC 凤凰古城_NN 。_PU 冠军_NN 奖金_NN 5万_CD 美元_NN ，_PU 亚军_NN 奖金_NN 3万_CD 美元_NN 。_PU
+
+泰达_NN 杯中_NN 日_NN 韩_PU 三_CD 国_NN 围棋_NN 超_NN 级_NN 争霸赛_NN ，_PU 于_P 2004年_NT 6月_NT 在_P 中国天津_NR 举行_VV 。_PU
+上海_NR 世博会_NN S_ETC K_NN 杯_NN 中韩巅_NN 峰棋手_NN 特别_NN 对局_VV ，_PU 是_VC 为_LB 庆贺_NN 上_NN 海世博_NN 会_VV 韩国周的_NR 展开_NN 而举办_NN 的_DEC 围棋比赛_NN ，_PU 由韩国_NN 国家品_NN 牌委员会_NN 主办_VV ，_PU 韩国_NR SK_NN 公司_NN 提供_VV 赞_CD 助_NN ，_PU 于_P 2010_CD 年_PU 5月_CD 26日_NT （_PU 上海_NR 世博会_NR 韩国国_NR 家馆日_NN ）_PU 举行_VV 。_PU 比赛_NN 地点_NN 为_VC 上海_NR 的韩国_NR 文化院_NN 。_PU 冠军_NN 奖金_NN 1500万_CD 韩元_NN ，_PU 亚军_NN 奖金_NN 1000万_CD 韩元_NN 。_PU
+
+博赛杯_NN 金佛山_NN 国际_NN 围棋_NN 超霸赛_NN ，_PU 于_P 2011年_NT 5月举行_NN ，_PU 由中国棋_NN 院_NN 、_PU 中国_NR 围棋_NN 协_AD 会_VV 主办_VV ，_PU 邀请中_NN 日_NN 韩_NN 各_AD 一_CD 名围棋_NN 棋_NN 手_AD 参赛_VV ，_PU 比赛地点_VV 为_VC 中国_NR 重庆市_NN 。_PU 冠军_NN 奖金_NN 30万_CD 元人民_NN 币_NN ，_PU 亚军_NN 20万_CD 元_M ，_PU 季军_NN 10万_CD 元_NN 。_PU
+由中_NN 国围棋协_NN 会_NN 、_PU 安徽省_NN 体育_NN 局_NN 、_PU 合_NN 肥市_NN 人民_NN 政府主办_NN ，_PU 合_NN 肥市体_NN 育_NN 局_NN 、_PU 庐阳区_NN 人民_NN 政府承办_NN ，_PU 世界双_NN 人围_NN 棋协会_NN 协办_VV 。_PU 在合_JJ 肥市_NN 庐阳区_NN 三_CC 国遗址_NN 公园_NN 举行_VV 。_PU 比赛_NN 采用中_NN 国围棋_NN 规则_VV ，_PU 每方_NN 1_CD 小时_NN 自由_NN 支配_NN 时间_NN ，_PU 然后是30秒3次_NR 的_DEC 读秒_NN ，_PU 超时判负_NN 。_PU 奖金_NN 15万_CD 元人_NN 民币_VV ，_PU 亚军_NN 10万_CD 元_M ，_PU 季军_NN 5万_CD 元_NN 。_PU 参_NN 赛棋手_NN ：_PU 今年的_NN GS_NN 加德士_NN 混双_NN 比赛冠_NN 军刘_NN 昌赫_NN 和_NN 崔精_NN ，_PU 日本_NR 混双赛_NR 的_DEC 冠军_NN 结城_NN 聪和_NN 铃木步_NN ，_PU 中国_NR 的_DEC 常昊_NN 和_NN 王晨星_NN 。_PU
+
+组委会_NN 还_AD 邀请_VV 了_AS 四_OD 川_M (_PU 古蜀国_NN )_PU 业_NN 余围棋_NN 队_NN 、_PU 湖北_NN (_PU 古吴国_NN )_PU 业余围_NN 棋_AD 队_VA ，_PU 安徽_NN (_PU 古魏国_NN )_PU 业余围_NN 棋_AD 队_VA ，_PU 进行古_NN 三_CC 国业_NN 余围棋_NN 对抗赛_NN 。_PU 每队可_NN 报名_VV 6_OD 位_M 棋手_NN ，_PU 18_CD 岁_NN 以下_NN 的_DEC 少年棋_NN 手_NN 不_AD 得_VV 超过_VV 2_CD 人_M ，_PU 每轮出场_NN 5_OD 人_NN 。_PU 冠军_NN 奖金_NN 3万_CD 元_NN ，_PU 亚军_NN 2万_CD ，_PU 季军_NN 1万_CD 。_PU
+Mlily_NN 梦_NN 百合世纪_NN 之战_NN 古力_NN vs_NN 李世乭_NN 十_OD 番_NN 棋由中_NN 国围棋协_NN 会_NN 、_PU 江苏恒_NN 康家_NN 居科_NN 技股份_NN 有_VE 限_NN 公司_NN 主办_NN 。_PU 规则_NN ：_PU 比赛总_NN 奖金_NN 为_VC 税前_NN 500万_CD 元人_NN 民币_VV ，_PU 胜者_NN 全得_VV ，_PU 负者_NN 只能_NN 拿到_VV 20万_CD 人民币_NN ；_PU 若双方_NN 5_OD 比_CC 5_OD 打平_VV ，_PU 则_AD 奖金_NN 平分_NN 。_PU 赛制为_VV 十_CD 局制_VV ，_PU 先_AD 胜_P 六_CD 局_M 者_NN 为_VC 最终_JJ 获胜方_NN ，_PU 比赛即_NN 宣告_NN 结束_NN 。_PU 结果_NN 李世石_NN 6_OD -_PU 2_OD 获_M 胜独揽_NN 500万_CD 。_PU 采用中_NN 国围棋_NN 规则_VV ，_PU 黑贴_NN 3_CD 又_CC 3/_CD 4子_NN ；_PU 用时_NN 为每方_NN 4_CD 小时_NN 保留_VV 时间_NN ，_PU 5_CD 次_M 1_CD 分钟_M 读秒_NN ，_PU 中午不_NN 封盘_NN 。_PU
+
+于_P 2014_CD 年在_M 江西省_NN 宜春明_NN 月_NN 山_AD 举行_VV <_PU br_NN >_PU
+
+
+

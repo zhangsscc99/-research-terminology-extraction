@@ -1,0 +1,23 @@
+﻿收官_NN
+
+收官_VV ，_PU 又稱作_NN 官子_NN ，_PU 是圍棋_NN 比賽中_NN 三_OD 個_NN 階段_NN （_PU 布局_VV 、_PU 中盤_NN 、_PU 官子_NN ）_PU 中的最後_VV 一_CD 個階段_NN ，_PU 指雙_NN 方經過_NN 中盤_VV 的_DEC 戰鬥_NN ，_PU 地盤及_NN 死活已經_NN 大致_AD 確定_VV 之後_NN ，_PU 確立_NR 競逐_NN 邊界_VV 的_DEC 階段_NN 。_PU
+
+收官_NR 階段_NN 的_DEC 特性_NN 在_AD 於_VA ，_PU 相較於_NN 布局及_NN 中盤_NN 階段中_NN ，_PU 不同_VA 的_DEC 棋手_NN 可以_VV 依_CD 自身_NN 的_DEC 喜好_NN 及特性_NN ，_PU 選_CS 擇不同_NN 的_DEC 下法_NN ，_PU 收_CD 官階_NN 段_NN ，_PU 只根據_NN 精密_VV 的_DEC 計算_NN ，_PU 找出唯_VV 一_CD 一_CD 條_NN 最_AD 好_VA 的_DEV 路_NN ，_PU 未能依此_NN 正確_VV 的_DEC 方式走_NN ，_PU 則很可_NN 能_VV 遭受_VV 目數_NN 的_DEC 損失_NN 。_PU
+
+一般而言_AD ，_PU 收官_NN 階段_NN 可以_VV 分成_VV 大官及_NN 小官_NN ，_PU 前者多_NR 指雖_NN 然死_VV 活已定_NN ，_PU 但彼此_NN 界限仍_NN 含_VV 糊不清_NN ，_PU 尚待確定_VV 的_DEC 階段_NN ，_PU 小_JJ 官則_NN 是_VC 彼此界_NR 限大_NN 致底定_NN ，_PU 只剩_NN 細部_NN 邊界上_NN 的_DEC 爭奪_NN 。_PU 但二者_NN 的_DEG 區分其_NN 實並無_NN 一_CD 個絕對_NN 的_DEC 標準_NN 。_PU 一_CD 般_NN 的_DEG 職業棋士_NN ，_PU 在_P 進入_NN 小官_NN 階段時多_NN 半已_NN 可以_VV 確知_VV 整盤棋_NN 的_DEC 勝負和_NN 目數差_NN 距_NN 。_PU
+
+雖然_JJ 布局和_NN 中盤常_NN 常能_NN 決定_VV 一_CD 盤_M 棋彼此_NN 的_DEC 優劣勢_NN ，_PU 但_CC 在_P 水_NN 準較_VV 高實力_NN 接近_NN 的_DEC 比賽中_NN ，_PU 勝負往往_NN 在_VV 數目_NN ，_PU 甚_AD 至_VV 半目之_NN 間_NN ，_PU 因此_AD 收官階段_VV 的_DEC 成_NN 功與否_NN ，_PU 關係_VV 到_VV 一_CD 盤棋是_NN 否_AD 能_VV 保持_VV 領先或_NN 從劣勢逆_NN 轉_NN ，_PU 2005_CD 年圍棋_NN 界_AD 公認_VV 的_DEC 世界第_NN 一_CD 棋手_NN ，_PU 韓國_VV 的_DEC 李昌鎬_NN ，_PU 即_NN 是_VC 最_LB 擅長_NN 官子_NN 的_DEC 超級好手_NN ，_PU 也足_VV 見_NN 官子_NN 在_NN 圍棋_NN 中_LC 的_DEG 重要性_NN 。_PU
+
+一般而言_AD ，_PU 收官會先_NN 選擇_VV 先_JJ 手官子_NN ，_PU 除非仍_NN 有_AD 打劫_VV 的_DEC 威脅存在_NN （_PU 先手往_NR 往也_NN 是劫材_NN ）_PU 。_PU
+在收官_NR 時_ETC ，_PU 最重要_NN 的_DEC 就是要_NN 判斷_VV 棋盤_NN 上_NN 各_NN 個地方_NN 的_DEC 重要性_NN ，_PU 以_MSP 掌_NN 握最_NN 正確_NN 的_DEC 收官順序_NN ，_PU 其首先_NN 要_AD 考慮_VV 的_DEC 是收官_NN 的_DEC 種類_NN ，_PU 一般可_AD 分為_VV 雙_NN 方先_NN 手官子_NN 、_PU 單方先_NN 手官子_NN 、_PU 雙方後_NN 手官子_NN 三種_NN ：_PU
+
+
+在選擇收_NR 官著_NN 手_NN 的_DEG 先後時_NN ，_PU 除了_VV 必須考慮_NN 先_P 手_NN 後手_VV 的_DEC 問題之_NN 外_LC ，_PU 官子_NN 本身_NN 的_DEG 價值_NN 也_AD 非_AD 常_AD 重要_VA ，_PU 一_CD 般_NN 的_DEG 計算_NN 方式_NN ，_PU 是把以_NN 彼_P 此_PN 先收_VV 到_VV 某_NN 一_CD 官子_NN 的_DEC 情形結_NN 果_CD 加以_VV 比較_NN ，_PU 計算_VV 其_PN 結果_NN 目數_NN 的_DEC 差距_NN ，_PU 來作為_NN 一_CD 處官子_NN 的_DEC 價值大_NN 小_VA 。_PU
+
+綜合_NN 官子_NN 的_DEC 種類_NN 及價值_NN ，_PU 可計算出_JJ 其整_NN 體價值_NN ，_PU 如雙_NN 方先手_NN 4_OD 目_NN ，_PU 單方先手_NN 8_OD 目_NN ，_PU 雙方後手_NN 10_CD 目等_NN ，_PU 但若種類_NN 與目數_NN 彼此_VV 之間_NN 互有_VV 高下_VV ，_PU 則必須_NN 綜合_NN 整個_NN 棋盤_VV 的_DEC 局勢來判_NN 斷_NN 應_NN 先下_NN 手處_VV 。_PU
+
+除了一般_VV 的_DEC 計算之_NN 外_LC ，_PU 收官_VV 的_DEC 手筋也_NN 是_VC 收官_VV 時重要_NN 的_DEC 一_CD 環_M ，_PU 也就_NN 是_VC 以_P 特別_NN 巧妙_VV 的_DEC 手法_NN ，_PU 來在確_NR 立疆界時_NN ，_PU 多獲得_NN 幾目的_NN 利益_VV ，_PU 收官手筋_NN 的_DEC 熟習_NN ，_PU 也_CC 可_VV 使_VV 官子_NN 價值_NN 的_DEC 計算更為_NN 精確_VV 。_PU
+
+
+
+

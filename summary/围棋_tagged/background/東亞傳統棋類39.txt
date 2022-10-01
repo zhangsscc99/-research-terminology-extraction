@@ -1,0 +1,47 @@
+﻿三_OD 连星_NN
+
+三_CD 连星_NN ，_PU 是_VC 一_CD 种_M 常见_NN 的_DEC 围棋布局_NN ，_PU 由_P 棋盘同_NN 一_CD 侧_NN 的_DEG 三_CD 个_M 星位_NN 组成_VV ，_PU 是_VC 一_CD 种_M 重视势力_NN 发展_VV 的_DEC 布局_NN 。_PU 1933_CD 年_LC ，_PU 木谷实_NN 在_P 同前_NT 田陈尔_NN 的_DEC 正式对局_NN 中_LC 首次公开_VV 采用这_NN 一_CD 布局_NN 。_PU
+
+在這個_NR 棋譜_NN 中_LC ，_PU 黑棋_NN 的_DEC 布石為_NN 三_OD 連星_VV ，_PU 白棋為_NN 二_OD 連_NN 星_OD 。_PU
+
+白_NN 6_OD 掛_M 角最_NN 為普遍_NN ，_PU 黑_NN 7_OD 單_NN 關跳_NN 簡明_NN 。_PU 因為三_NR 連星注_NN 重_NN 外勢_NN ，_PU 單_CS 關就比_NN 小_NN 飛合適了_NN 。_PU
+
+白8_OD 拆回_VV ，_PU 黑_NN 9_OD 再_M 占據下邊_NN 星位_VV ，_PU 成為_NN 四_OD 連星_VV 。_PU 如果白_NN 10_CD 搶占左_NN 邊_AD 大場_VV ，_PU 黑_BA 11_CD 可以_VV 繼_CD 續占_NN 領天元_NN ，_PU 瞧_NN ，_PU 整個黑棋_NN 陣勢成為_VV 一_CD 個箱形_NN ，_PU 氣勢宏偉_NN ，_PU 非常_NN 壯觀_NN 。_PU
+
+當然_VV ，_PU 並不_NN 是_VC 說這樣下_NR 黑棋_NN 就_NN 處_NN 於優勢了_NN ，_PU 但_CC 在_P 以後_NN 的_DEG 作戰_NN 中_LC ，_PU 比較容_NN 易_AD 獲得_VV 主動_NN 地位_NN 。_PU (_PU 酒寶居士_NN )_PU
+
+黑_NN 7_CD 一_CD 間夾_NN ，_PU 積極_NN 緊湊_NN 。_PU 白_NN 8點_CD 角普通_NN ，_PU 黑_NN 9一_CD 定_CD 要_NN 從這邊擋_NN ，_PU 與黑_NN 5一_CD 子形成_NN 配合_NN 。_PU 到_P 黑_NN 13_OD 飛_M ，_PU 白棋先_NN 手_AD 得角_VV ，_PU 但角_NN 地並不_NN 大_VA 。_PU 而黑棋_NN 外_JJ 勢_NOI 厚實_NN ，_PU 配置_NN 合理_VA 。_PU (_PU 酒寶居士_NN )_PU
+
+第二_OD 屆中_NN 日_NN 圍_NN 棋擂台_NN 賽_NN (_PU 1987年_CD 3月_NT 31日_NT )_PU
+
+黑方_NN ：_PU 武宮_NN 正樹_NN 九_CD 段_NN
+
+白方_NN ：_PU 聶衛平_NN 九_OD 段_NN
+
+黑_NN 7_OD 拆_M 星位_NN ，_PU 對白_NN 6_OD 掛置_VV 之_NN 不理_NN ，_PU 白_NN 8_OD 跳_NN ，_PU 想把黑_NN 棋勢力_NN 限制在_NN 右_AD 邊_VA ，_PU 同時也_NN 是_VC 擴_NN 張_NN 自己上_NN 方_NN 的_DEG 勢力_NN 。_PU
+
+黑_NN 9_OD 只有跳_VV ，_PU 此時白若_NN 回拆則_JJ 顯得_NN 無聊_NN 。_PU 白_NN 10_CD 進_CC 三三_CD 取地緊湊_NN 。_PU 至_NN 16_CD 雙方_NN 大致_AD 如此_VV 。_PU
+
+DeepMind_NN 最_NN 新展示_NN 的_DEC AlphaGo_NN 的_DEC 自戰_NN 50_CD 局_NN 的_DEC 第2_OD 局居然_JJ 就出現了_NN AlphaGo_NN 採用_NN 三連星_NN 的_DEC 布局_NN ，_PU
+
+實戰_NN AlphaGo_NN 居然_NN 選擇_VV 了_AS 白_P 1點三三_CD 。_PU
+
+當白_NN Ａ_NN 有子_NN 的_DEC 時候_NN ，_PU 白棋_NN 點三三_CD 是_VC 很常見_NN 的_DEC 手段_NN ，_PU 直接選擇_NN 點三三_CD 是_VC 極其_NN 罕見_NN 的_DEC 招法_NN 。_PU
+
+白_NN 1，3_CD 的_DEG 下法其_NN 實也_NN 說明了_NN AlphaGo_NN 極其_NN 酷愛_NN 實地的_NN 一_CD 面_NN 。_PU
+
+黑_NN 4_CD 外靠_NN ，_PU 白棋當_NN 然不_NN 可_AD 能_VV 老老實實_VV 在_P B_NN 位_NN 退回去_NN 。_PU
+
+看來_NN AlphaGo_NN 也認為_NN ：_PU 開局就_NN 蜷縮_VV 於_DT 一_CD 個角落_NN ，_PU 是無法_NN 取勝_VV 的_SP 。_PU
+
+白_NN 5_OD 、_PU 白_OD 7_OD 反_M 擊_NN ，_PU 黑_NN 8_OD 封住_VV ，_PU 白_NN 9_OD 居_M 然脫先_NN 守角_NN 。_PU
+
+白_OD △_PU 、_PU 白_NN 1_OD 、_PU 白_OD 7_OD 都_M 是未活_NN 的_DEC 狀態下_NN ，_PU 就這_NR 樣脫先了_NN 。_PU
+
+白棋這_NN 3_OD 塊_NN 棋都_NN 沒_NN 活_ETC 。_PU
+
+三_CD 连星_NN 不重视_NN 占角_NN ，_PU 如果_CS 白棋侵_NN 袭黑角_NN ，_PU 黑棋将_NN 放弃_NN 角地_NN ，_PU 转而_NN 形成_VV 大规_NN 模中_NN 腹势力_NN 。_PU
+
+
+
+

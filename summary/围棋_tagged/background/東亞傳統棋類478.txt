@@ -1,0 +1,7 @@
+﻿霜花_NN 杯全_NN 国青少_NN 年围棋_NN 赛_NN
+
+霜花_NN 杯全_NN 国青少_NN 年围_NN 棋赛是_NN 中_LC 国_DT 一_CD 项已停办_NN 的_DEG 面向_NN 青_NN 少_NN 年棋手_NN 的_DEC 职业_NN 围棋_NN 比赛_NN 。_PU 霜花_NN 杯创_NN 建于_VV 1991年_NT ，_PU 由中_NN 国围_NN 棋协会_NN 主办_VV ，_PU 湖南_NN 冷气_NN 实业_NN 公司_NN 赞助_NN 。_PU 国家围_NN 棋_NN 少_NN 年队_NN 和地_NN 方队_NN 27_CD 岁_CD 以下_NN 且_NN 七_CC 段_NN 以下_NN 的_DEC 棋手_NN 可以_VV 参赛_VV 。_PU 霜花杯_NN 从_P 1991_CD 年到_NN 1995_CD 年共_NN 举办_VV 了_AS 五_CD 届_M ，_PU 此_PN 后因_NN 湖_NN 南_NN 冷气_NN 实业_NN 公司_NN 经营不_NN 善_NN 而_MSP 倒闭_VV ，_PU 无能力_NN 继续_VV 赞助_VV 而_MSP 停办_VV 。_PU
+
+霜花杯_NN 采用_NN 九轮积_NN 分编_JJ 排制_NN 决定名次_NN 。_PU
+
+

@@ -1,0 +1,14 @@
+﻿座子_NN 制_NN
+
+座子_NN 制是_NN 中国_NR 古代围棋_NN 采用_VV 的_DEC 规则_NN 。_PU 即在开_NR 局前放_NR 两_CD 黑_NN 两_CD 白_NN 于_P 对角星_NN 的_DEC 位置_NN 上_LC ，_PU 双方在_NN 这个_NN 基础上_NN 开始布局_NN 。_PU
+古代围棋_NN 无_NN 贴_NN 目规则_NN ，_PU 但_NN 使用_NN 还子_NN 规则_NN 。_PU 对弈双_NN 方认定_NN 终局_VV 后_LC ，_PU 将_BA 棋盘_NN 上_NN 己方棋_NN 块用_NN 自己的_NN 子填满_NN ，_PU 每块_NN 活棋保留_NN 2_OD 只眼_VV ，_PU 然后_AD 计算_VV 棋盘_NN 上_NN 的_DEC 棋子_NN 。_PU 获得_VV 更_AD 多_VA 的_DEC 棋子_NN 的_DEC 一_CD 方_NN 获胜_VV 。_PU
+
+在西藏_NR 地区_NN 的_DEC 围棋规则_NN 中_LC ，_PU 有_VE 12_CD 个_M 座子_NN ，_PU 黑白各_NN 6_CD 个_M 棋子_NN 。_PU 极端_NN 情况_NN 有_NN 全局交_NN 叉座子_NN 的_DEC 趣味局面_NN 。_PU
+
+中国_NR 古棋_NN 中_LC ，_PU 还棋头_NN 规则_VV 将_BA 多块_NN 活棋_NN 的_DEC 还子_NN 负担稍_NN 稍_AD 加大_VV 。_PU 但经_VV 过围棋_NN AI_NN 的_DEC 研究_NN ，_PU 中国_NR 古棋规则_NN （_PU 还棋头_NN 加座子_NN 制_NN ）_PU 下_NN ，_PU 先手_NN 方仍然_NN 保有_VV 先手优势_NN （_PU 中国_NR 古谱_NN 是白先_NN ）_PU 。_PU
+
+截至_NN 2020_CD 年_LC ，_PU 公开_NN 可获得_NN 的_DEC 围棋_NN AIKataGo_NN 给出_VV 的_DEC 公允_NN 胜率_NN 的_DEG 贴目_NN 数值约_NN 在_VV 6~7_CD 目_BA 之间_NN ，_PU 即_NN 3_OD ~_PU 3_OD ._PU 5_OD 子_NN 。_PU
+
+究其_NN 原因_NN 是_VC 在_P 同样_NN 的_DEC 规则下_NN ，_PU 白_CS 棋并未_NN 得到_VV 额外的_JJ 规则_NN 优势_VV ，_PU 如_AD 五子棋_NN 中_LC 的_DEG 黑禁手_NN 规则_VV 。_PU
+
+

@@ -1,0 +1,5 @@
+﻿高目_NR
+
+高目_NN 是指圍棋_NN 棋盤上_NN 第五_OD 線與第_NN 四_AD 線_VA 的_DEC 交叉_NN 點_NN ，_PU 棋盤上_NN 共有_VV 8_CD 個_M 高_JJ 目的_NN 位置_NN ，_PU 高目是_NN 開_NN 局_NN 時佔角_NN 的_DEC 常見_NN 點_NN 中_LC （_PU 「五五_CD 」_PU 雖偶爾_NN 會出現_VV ，_PU 但並不常見_VV ）_PU ，_PU 位置_NN 最_AD 高_VA 的_DEV 點_CD 。_PU 高_JJ 目佈局_NN 是_VC 指_P 高_JJ 目與目_NN 外_NN 、_PU 小目_NN 、_PU 三三_CD 等互相_NN 配合_VV ，_PU 或者_CC 連占_NN 兩_OD 個_NN 高_OD 目的_NN 佈_NN 局_LC 。_PU 其_VV 在_P 各種_NN 佈局_NN 中_LC 最重視外勢的_JJ 獲取_NN 。_PU
+
+

@@ -1,0 +1,11 @@
+﻿_CD SAI_NN (_PU 圍棋_NN 軟體_NN )_PU
+
+SAI_NN 是_VC 一_NOI 套電腦圍_NN 棋軟體_NN ，_PU 以及_NN 相關_VV 的_DEC 運算計畫_NN 。_PU
+
+SAI_NN 是_VC 一_NOI 套修改自_NN LeelaZero_NN 的_DEC 圍棋軟體_NN ，_PU 主要_VA 的_DEC 目的_NN 是_VC 支援_NN 動態_NN 。_PU
+
+最初是以_JJ 7x7_NN 棋_NN 盤訓練_NN ，_PU 後來拓_NN 展到_VV 9x9_NN 棋盤_VV ，_PU 則是以_NN 19_CD x19_NN 棋_NN 盤為主_NN 。_PU
+
+
+
+

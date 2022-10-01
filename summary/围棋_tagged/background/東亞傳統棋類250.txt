@@ -1,0 +1,9 @@
+﻿征子_NN
+
+征子_NN （_PU 簡稱征_NN ，_PU 別名_NN 扭羊頭_NN ）_PU 是_VC 圍棋術語_NN ，_PU 指一_NN 方棋子_NN 可_VV 步_P 步打吃_NN ，_PU 最後_JJ 提掉另_NN 一_CD 方棋子_NN 的_DEC 情況_NN 。_PU
+
+上圖簡述_JJ 征子_NN 的_DEC 各種情況_NN 。_PU
+
+被征的_NN 一_CD 方_NN 在_VV 征子_NN 方向_NN 的_NN 點_CD 投子_NN ，_PU 這稱為_NN 引征_NN ，_PU 使_VV 對方_NN 如_VV 在_P 此應手_NN ，_PU 則_NN 被征者_NN 可_VV 按_P 原計劃_NN 出_VV 逃征子_NN ，_PU 且將在此_VV 點_CD 使_VV 被征子_NN 逸出_VV 。_PU 故_NN 而對_NN 方_NN 不_AD 得_VV 不_AD 提_VV 去征_NN 子_NN 或者_CC 於征_NN 子路徑_NN 上_JJ 阻_NN 攔_NN 引征_NN （_PU 後者_NN 則稱為_NN 絮征_NN ）_PU ，_PU 而使_NN 被征_NN 一_CD 方_AD 得以_VV 在_P 此_NN 局部_NN 連下_NN 兩_OD 手_NN 。_PU 引征屬_NN 於棄子_NN 戰術_NN 的_DEC 一_CD 種_M ，_PU 以犧牲_NN 被征_NN 的_DEC 棋子_NN 去換_NN 取圍_VA 地_DEV 的利益_VV 。_PU
+
+

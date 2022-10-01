@@ -1,0 +1,9 @@
+﻿_NN 三三(_CD 围棋_NN )_PU
+
+三三_OD ，_PU 指在_JJ 圍棋_NN 中于_NN 角部_NN 占据第_NN 三_OD 線_NN 與第_NN 三_OD 線_NN 的_DEG 交叉_NN 點_OD 的_DEG 着法_NN ，_PU 整個棋_NN 盤_NN 中_LC 有_VE 四_CD 個_NN 點_OD 是_VC 三三_CD 。_PU
+
+三三_OD 因為實利堅固，且有一手保角的優點，在日本新布局时期一_PU 度流行_NN 。_PU 但由于_VV 其_NN 發展性_NN 低和_NN 位置_NN 低_VA ，_PU 所_AD 以_VV 现代棋局_NN 中_LC 較少_VV 出_CD 現以_NN 三三_CD 占角_NN 的_DEC 布局_NN 。_PU 三三_CD 定式_NN 的_DEG 数量及_NN 變化比_NN 较_AD 少_VA 。_PU 在_P 中国古_NR 代围棋_NN 中_LC ，_PU 由于_P 存_NN 在_VV 还棋头_NN 规则_VV ，_PU 三三_NT 并_AD 不_AD 常见_VA 。_PU
+
+另_NN 外_LC ，_PU 在_P 对手以_NN 星占角时_NN ，_PU 三三_CD 是_VC 夺取角地_NN 的_DEC 常见手段_NN 。_PU 由於_NN alphago_NN 的_DEG 出現_NN ，_PU 點三三_CD 成_VV 為第_NN 5_NN 手_NN 中_LC （_PU 佔角後_NN ）_PU 十_CD 分常_M 見_VV 的_DEC 一_CD 手_NN ，_PU 亦_NN 稱_OD “_PU 點三三_CD ”_PU 。_PU 对于_NN 點三三_CD 的_DEG 變化_NN ，_PU 主_AD 要_VV 有_VE 「_PU 交換定_NN 式_NN 」_PU ，_PU 小飛或跳_NN （_PU 同等概念_NN ）_PU ，_PU 或者_NN 繼續連_NN 扳_NN 。_PU
+
+

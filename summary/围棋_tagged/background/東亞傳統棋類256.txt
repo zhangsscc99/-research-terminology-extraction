@@ -1,0 +1,29 @@
+﻿應氏_NN 杯世界_NN 職業_NN 圍棋_NN 錦標賽_NN
+
+應氏杯_NN 世界_NN 職業_NN 圍棋_NN 錦標賽_NN ，_PU 簡稱應_NN 氏杯_VV ，_PU 是_VC 由_P 應昌期_NN 圍棋_NN 教育_NN 基金會_NN （_PU 應氏_NN 基金會_NN ）_PU 出資_VV 1988_CD 年創_NN 辦舉行_NN 的_DEC 圍棋賽事_NN ，_PU 現每四年一_NR 屆_NN 。_PU
+
+籌辦_NN 之初_NN ，_PU 應昌_NN 期即_NN 將應氏_NN 杯定義成_NN 「_PU 圍棋奧_NR 運會_NN 」_PU ，_PU 仿奧運會_NN 四_CD 年_PU 一_CD 屆_M ，_PU 獎金_NN 是_VC 所有_DT 棋賽中_NN 最_AD 高_VA 的_SP （_PU 冠軍_NN 40萬_CD 美元_NN ）_PU 。_PU 雖然_NN 創辦最早_NN ，_PU 卻被富士通_NN 杯_NN 捷_NN 足先登_NN ，_PU 搶先問世_NN ，_PU 但也因_NN 此_NN 引_NN 領圍棋_NN 活動_NN 進入_VV 世界化的_NN 領域_NN 。_PU 此_CD 後其他_NN 世界_NN 大賽陸_NN 續開辦_NN 。_PU 應昌_NN 期過世_NN 後其子_NN 應明_NN 皓繼_NN 續推廣_NN 應氏杯_NN 以及_NN 比賽_NN 使用_NN 的_DEC 与中国规则_NN 、_PU 日本_NN 规则_NN 均有_VV 不同的計點_JJ 規則_NN 。_PU 在_P 应氏杯_NN 的_DEC 正式比赛_NN 中_LC ，_PU 还_AD 要求_NN 使用_NN 有_NN 固定棋_NN 子数_NN 目的_NN 棋具对局_NN ，_PU 以准_NN 确地_VV 按照应_NN 氏规则_NN 完成_VV 对局后_NN 的_DEG 胜负_NN 计算_NN 。_PU
+
+
+應昌期_NN 發明了_NN 一_CD 套獨特_NN 的_DEC 計點_JJ 規則_NN ，_PU 稱為_NN 「_PU 應氏計_NN 點_OD 制_NN 圍棋_NN 規則_NN 」_PU ，_PU 簡稱_NN 「_PU 計_NN 點_OD 制_NN 」_PU 或_NN 「_PU 應氏規則_NN 」_NN 、_PU 「_PU 應氏棋規_NN 」_PU ，_PU 應昌期圍_NN 棋_NN 教育_NN 基金會_NN 制定_VV 詳細規則_NN ，_PU 並在應_NR 氏杯_NN 世界_NN 職業_NN 圍棋錦_NN 標賽中_NN 使用_NN 。_PU 應昌_NN 期過世_NN 後其子_NN 應明_NN 皓繼_NN 續推廣_NN 應氏杯_NN 以及_NN 比賽_NN 使用_NN 的_DEC 計_DT 點_CD 規則_NN 。_PU
+
+應氏計_NN 點_OD 制_NN 圍棋_NN 規則中_NN 的_NN “_PU 點_NN ”_PU 與中_NN 國數子_NN 制中_VV 的_DEC “_PU 子_NN ”_PU 的_DEG 意思_NN 相當_VV 。_PU 不_AD 过因_NN 为_VC 前者_NN 是_VC 出入_VV 计算法_NN （_PU 黑白互比_NN ）_PU 而_MSP 后者_VV 为_VC 归本_NN 计算法_NN （_PU 与盘面_NN 总点数_NN 的_DEC 一_CD 半作比较_NN ）_PU ，_PU 输赢结_NN 果_VV 看_NN 上_VV 去_NN 会_VV 相差_VV 一_CD 倍_M 。_PU
+
+黑棋貼_NN 8點_CD ，_PU 平點_JJ 黑勝_NN （_PU 相當於_JJ 黑貼_NN 7_CD 目半_NN 或_CC 黑貼_NN 3_CD 又_CC 3/_CD 4子_NN ）_PU 。_PU
+
+用時_NN ：_PU 三_CD 小時_NN 三十_CD 分鐘_NN ，_PU 不讀秒_NN ，_PU 每逾時_NN 35_CD 分鐘罰_NN 兩點_CD ，_PU 最多_CD 罰三次_M 。_PU
+
+
+
+
+
+
+
+
+
+
+第7_OD 届应_NN 氏杯本_NN 赛于_NN 2012年_CD 5月_NT 22日_NT 在_P 台北_NR 开幕_NN
+
+预选赛_NN 28_CD 人参加_NN ，_PU 包括_VV 中国_NR 10_CD 人_NN ，_PU 韩日各_NN 6_OD 人_NN ，_PU 台湾及美_NN 欧各_NN 2_OD 人_NN ，_PU 14_CD 位胜_NN 者及上_NN 届冠_NN 亚军_NN 范廷钰_NN 、_PU 朴廷桓_NN 组成_VV 本赛_NN 16_CD 强_NN 。_PU
+
+

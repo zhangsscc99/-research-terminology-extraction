@@ -1,0 +1,41 @@
+﻿世界_NN 围棋_NN 冠军_NN 锦标赛_NN 2019_CD
+
+世界_NN 围棋_NN 冠军_NN 锦标赛_NN 2019_CD 是由_NN 日本_NR 棋院主_NR 办_NN 的_VV 一_CD 项_M 国际围_NN 棋比赛_NN ，_PU 届次_NN 为_VC 第三_OD 届_M 。_PU 本次比_NN 赛分_CD 为_CD 预选赛_NN 和_P 本赛_NN ，_PU 预选_VV 赛_NN 分_NN 为_VC 两_CD 个_M 阶段_NN ，_PU 第_AD 一_CD 阶段_NN 为_VC 日本_NR 预选_NN 赛_NN ，_PU 于_P 2018年_CD 12月_NT 10_CD -_PU 11_CD 、_PU 17_CD -_PU 18_CD 、_PU 24_CD -_PU 25_CD 日_NN 进行_VV ，_PU 共产生_NN 26_CD 名晋级_NN 国际_NN 预选赛_NN 的_DEC 棋手_NN 。_PU 第二_OD 阶段_NN 为_VC 国际_NN 预选赛_NN ，_PU 于_P 2019年_NT 1月_NT 24-29日_NT 在_P 日本_NR 进行_VV ，_PU 93名棋_NT 手分为三组_NT ，_PU 每组_NR 产生_NN 1_OD 名_NN ，_PU 总共_NN 产生_VV 3_CD 名晋_NN 级本赛_NN 的_DEC 棋手_NN 。_PU 本赛共_NN 八_OD 名_NN 棋手_NN ，_PU 五_CD 名_NN 为_VC 种子棋_NN 手_NN ，_PU 其余_NN 三_NN 名_NN 来自_NN 预选赛_NN 。_PU 本赛_NN 采取_NN 单败淘_NN 汰制_VV ，_PU 对弈_NN 采用_NN 日本规则_NN ，_PU 执黑_NN 者贴_NN 六_CD 目半_NN ，_PU 日本_NR 预选_NN 赛每_NN 方用时_NN 一_CD 小时_NN 、_PU 国际_NN 预选赛_NN 为_VC 两_CD 小时_M 、_PU 本赛_NN 为_VC 三_CD 小时_M 。_PU 每方有_NN 五_CD 次_CC 一_CD 分钟_M 的_DEC 保留_NN 时间_NN ，_PU 读秒_VV 一_CD 分钟_M 一_OD 次_NN 。_PU
+
+第一_OD 组_NN
+第二_OD 组_NN
+第三_OD 组_NN
+第四_OD 组_NN
+第五_OD 组_NN
+第六_OD 组_NN
+第七_OD 组_NN
+第八_OD 组_NN
+第九_OD 组_NN
+第十_OD 组_NN
+
+第一_OD 组_NN
+第二_OD 组_NN
+第三_OD 组_NN
+第四_OD 组_NN
+第五_OD 组_NN
+第六_OD 组_NN
+
+第一_OD 组_NN
+第二_OD 组_NN
+第三_OD 组_NN
+
+第一_OD 组_NN
+第二_OD 组_NN
+
+第一_OD 组_NN
+第二_OD 组_NN
+第三_OD 组_NN
+
+第一_OD 组_NN
+第二_OD 组_NN
+
+选手_NN 名单_NN ：_PU
+选手_NN 名单_NN ：_PU
+选手_NN 名单_NN ：_PU
+
+

@@ -1,0 +1,7 @@
+﻿滾打_NN 包收_VV
+
+滾打_NN 包收_VV 是_VC 圍棋_NN 用語_NN 。_PU 是_VC 指連續_NN 採用撲_NN 、_PU 打吃_NN 、_PU 封等手_NN 法來_VV 使_VV 對手_NN 棋子_NN 成為_NN 無效率_NN 的_DEC 凝形再_NN 加以_VV 攻擊_NN 的_DEC 方式_NN 。_PU 其中_NN 滾打是_NN 指把對_NN 手棋子_NN 攻成_NN 凝形_NN ，_PU 包收_NN 是指進_NN 一_CD 步圍攻_NN 。_PU 滾打_NN 包收_NN 是圍棋_NN 攻擊_NN 常用_NN 的_DEC 手法_NN ，_PU 通常_JJ 首先_NN 以撲_NN 和_NN 連續打吃_NN 來破對_NN 方可_NN 能_VV 的_DEC 眼位並_NN 減_NN 少_NN 氣_LC ，_PU 其次再_NN 以迦_JJ （_PU 門吃）的_JJ 手法_NN 加以_VV 圍攻追擊_NN 。_PU
+
+滾打_NN 包收_VV 通常_JJ 發生在_NN 在_VV 己_AD 方_VA 的_DEC 一_CD 塊_NN 棋_AD 看_LB 似完_NN 整不_NN 易_AD 受_VV 攻而_NN 掉以_VV 輕心_NN ，_PU 但其實_NN 整塊棋_NN 的_DEC 連接不夠_NN 確_AD 實_VA ，_PU 眼位不_NN 真_VV 時_NN ，_PU 一_CD 次_M 嚴重_NN 的_DEC 滾打_NN 包收_VV 很_CD 可能_NN 決定_VV 一_CD 整盤_NN 的_DEC 局勢_NN 。_PU 因此棋_NN 諺有_VV -_PU {云}-：『滾打包收俱謹避。』_Err
+
+

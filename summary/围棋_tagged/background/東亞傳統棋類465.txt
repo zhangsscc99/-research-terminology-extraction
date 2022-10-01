@@ -1,0 +1,5 @@
+﻿长考_NN
+
+长考_NN 是围棋_NN 中_LC 的_DEG 一_CD 个_M 术语_NN ，_PU 指棋手_NN 花很长_NN 的_DEC 时间_NN 来下_VV 一_CD 步棋_NN 。_PU 现代围_NN 棋比赛_NN 通常设有_JJ 时间_NN 限制_VV ，_PU 但仍出现_VV 过棋手花_NN 几十_OD 分钟_M 思考一_NR 步棋_NN 的_DEC 情况_NN ，_PU 如第_NN 五_CD 届应_NN 氏杯_NN 世界_NN 职业_NN 围棋_NN 锦标赛_NN 第三_OD 局_NN 中_LC ，_PU 崔哲瀚几_NN 步棋_NN 都用_VV 了_AS 超过_VV 半_CD 个_M 小时_NN 时间_NN 。_PU 在_P 日本_NR ，_PU 为了配合报社_NR 连载_NN ，_PU 围_NN 棋_NN 对局_NN 通常_JJ 耗费_NN 很长_VV 的_DEC 时间_NN 。_PU 直_AD 到_P 现在_NT ，_PU 日本_NR 本因坊_NN 战_NN 、_PU 名人战_NN 都_AD 采用_VV 两_CD 日_NN 制_VV 对局_NN ，_PU 棋手_NN 经常_NN 长考_NN 。_PU 在_P 1988_CD 年_M 的_DEG 本因_NN 坊_NN 战_NN 中_LC ，_PU 武宫正_NN 树_NN 曾用_NN 五_CD 小_PU 时_NN 零七_CD 分钟_M 思考一_NR 步棋_NN 。_PU 而_MSP 在_P 无时间_NN 限制_VV 的_DEC 对局中_NN ，_PU 日本_NR 棋士曾_NN 经创下_NN 一_CD 手_CC 棋_CD 长考_NN 十六_CD 小时_NN 的_DEG 记录_NN 。_PU
+
+

@@ -1,0 +1,16 @@
+﻿世界_NN 女子_NN 圍棋賽_NN 正官庄杯_NN
+
+正官庄杯_NN ，_PU 由韩国_NN 棋院主办_NN ，_PU 韩国_NR 人参公_NR 社赞助_NN 的_DEC 世界_NN 女子_NN 围棋_NN 锦标赛_NN ，_PU 原_NN 为_VC 个人赛_NN ，_PU 从_P 第三_OD 届_M 开始改_NN 为_VC 三_OD 国_NN （_PU 团体_NN ）_PU 擂台赛_NN 。_PU 于_P 2011_CD 年停办_NN 。_PU
+
+比赛规则_NN ：_PU 每方_NN 1_CD 小时_VV ，_PU 40秒_NT 读秒_NN 3_OD 次_NN 。_PU
+
+比赛_NN 奖金_NN ：_PU
+
+中国_NR 队徐莹_NN 五_OD 段_AD 没有_VV 出_VV 场_NN
+
+韩国队_NR 主将_NN 朴智恩_NN 九_OD 段_NN 没有_VV 出_VV 场_NN
+
+中国_NR 队唐奕_NN 二_OD 段_NN 、_PU 王祥云_NN 初段_NN 和郑岩_NN 二_OD 段_AD 没有_VV 出_VV 场_NN
+
+
+

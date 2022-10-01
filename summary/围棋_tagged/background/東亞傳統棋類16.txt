@@ -1,0 +1,21 @@
+﻿_OD ELFOpenGo_NR
+
+ELFOpenGo_NN 是_VC FacebookAIResearch_NR 團隊_NN （_PU ）_PU 所開發的_JJ 電腦_NN 圍棋_NN 軟體及_NN 所_MSP 釋出_VV 的_DEC 資料_NN 。_PU
+
+ELFOpenGo_NN 是_VC FacebookAIResearch_NR 團隊_NN （_PU ）_PU 依照_NN DeepMind_NN 在_VV 科學期刊_NN 《_PU 自然_NN 》_PU 上對於_NN AlphaGoZero_NN 所_NN 發_VV 表_NN 的_DEC 論文_NN 《_NN 》_PU 與_NN AlphaZero_NN 的_DEC 論文_NN 《》_PU 所實做出_NR 的_DEC 開源電腦_NN 圍棋_NN 程式_NN ，_PU 也就_NN 是_VC 不_P 使用_NN 人類_NN 棋譜_NN 與累積_NN 的_DEC 圍棋知識_NN ，_PU 僅實做_NN 圍棋規則_NN ，_PU 使用單_NN 一_CD 類神經_NN 網路從_NN 自我_NN 對弈中_NN 學習（不像_JJ AlphaGo_NN 以人類_NN 角度_NN 思考_VV ，_PU 設計_VV 了_AS PolicyNetwork_NR 與_ETC ValueNetwork_NR ）_ETC 。_PU
+
+訓練_NN 網路_NN 使用_NN 20_CD blocksx_NR 2_DEC 24filters_NR ，_PU 在_P 2000_CD 個_M GPU_NN 下訓_VV 練_NN 兩_OD 週_NN ，_PU 相_NN 較_VC AlphaGoZero_NR 使用的_NN 20_CD blocksx256filters_M 版本略_NN 小_NN 一_AD 些_NN （_PU AlphaGoZero_NN 另外還有_NN 40_CD blocksx_NR 2_DEC 56filters_NR ）_ETC 。_PU
+
+由於_NN Facebook_NN 所_MSP 擁有_VV 的_DEC 計算_NN 資源_NN ，_PU 產生出_NN 高品質_NN 的_DEC 訓練_NN 網路_NN 資料_NN 與對局_NN 棋譜_VV ，_PU 許_AD 多_CD 基於_NN 相_NN 同_NN 演算法_NN 或_NN 是_VC AlphaGo_NN 相關論文_NN 內容_NN 的_DEC 圍棋_NN 軟體都_NN 積極_NN 測試_NN ELFOpenGo_NN 所_MSP 提供_VV 的_DEC 訓練_NN 資料_NN 。_PU
+
+LeelaZero_NN 是目前少_NN 數有_VV 公開_NN 程式碼_NN 並_NN 公_NN 開訓練_NN 網路_NN 資料_NN 的_DEC 圍棋軟體_NN ，_PU 且仍_NN 然有_VV 志願者_NN 持續_NN 投入_NN 資源_NN 計算演化_NN ，_PU 故_AD 經常_NN 被_SB 當作_VV 其他_NN 圍棋_NN 軟體_VV 的_DEC 基準_NN 。_PU
+
+由_P Facebook_NN 自行測試_NN ，_PU ELFOpenGo_NN 與_NN LeelaZero_NN 對戰_NN 的_DEC 成績為_NN 198_CD :_PU 2_CD 。_PU 在_P LeelaZero_NR 的_DEC 進度網_NN 站_NN 上_NN 也經_NN 常會_NN 比較_NN 現有_VV 訓練_NN 網路與_NN ELFOpenGo_NN 的_DEC 比較_NN 。_PU
+
+志願者_NN 在_VV CGOS_NN 上_NN 使用_NN LeelaZero_NN 的_DEC 程式引_NN 擎以及_NN 由_P ELFOpenGo_NR 公開_NN 的_DEC 訓練_NN 網路_NN （_PU v0_NN ）_PU 轉_AD 換成_VV LeelaZero_NN 格式_NN 的_DEC 訓練_NN 網路_NN （_PU 即_AD Hash_NN 值_NN codice_NN __NN 1_OD 的_DEG 訓練_NN 網路_NN ，_PU 帳號_NN codiceGo_NN 的_DEC 程式_NN 引擎_VV ，_PU 不清楚_NN ELFOpenGo_NN 的_DEC 訓練_NN 資料_NN 在_AD 轉_AD 換後_VV 的_DEC 影響_NN 。_PU ，_PU 對弈已經_NN 超_NN 過_VC 1000_CD 盤_M ，_PU BayesElo_NN 分_NN 數_P 約_NN 3770_CD 分_NN 。_PU
+
+Facebook_NN 與韩_NN 国棋_NN 院合作_NN ，_PU 以中_NN 國_NN 規_NN 則與_NN 韓國_VV 的_DEC 世界_NN 頂尖棋手_NN 對_NN 弈_ETC （_PU 貼目_NN 7_OD ._PU 5_OD 目_M ）_PU ，_PU 在_P 電腦每_NN 步限_NN 制_VV 50_CD 秒_NN （_PU 使用_NN 單_NN 機單張NVIDIATeslaV100），人類不限時間的前提下，每個人至少下兩局_PU ，_PU 達到_NN 14_CD :_PU 0_CD 的_DEG 成績_NN ，_PU 對弈對手_NN 包括_VV 金志錫_NN 、_PU 申真谞_NN 、_PU 朴永_NN 训以_NN 及崔_NN 哲瀚_NN 。_PU
+
+
+
+

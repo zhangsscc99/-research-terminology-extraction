@@ -1,0 +1,6 @@
+﻿東洋證_NN 券杯_NN 世界_NN 圍棋_NN 錦標賽_NN
+
+東洋_NN 證券杯_NN 世界_NN 圍棋錦_NN 標_AD 賽_VA ，_PU 是_VC 由_P 韩国棋_NR 院主管_NN 、_PU 韩国_NR 东洋_NN 集团_NN 的_DEC 东洋证_NN 券公司_NN 赞助_NN 的_DEC 世界_NN 围棋大_NN 赛_NN ，_PU 它原_NN 本是_NN 韩国_VV 的_DT 一_CD 项_M 国内棋战_NN ，_PU 从_P 1990_CD 年第_NN 三_NN 届_NN 开始改_NN 为_VC 国际_NN 棋战_NN 。_PU 1998_CD 年第_NN 九_OD 届_NN 比赛_NN 结束_VV 后_JJ 停办_NN 。_PU 东洋证_NN 券杯_NN 比赛_NN 采用韩_NN 国围棋_NN 规则_VV ，_PU 黑方贴_NN 5_CD 目半_NN ，_PU 每_DT 方用时_NN 3_CD 小时_VV ，_PU 5_AD 分钟_M 读秒延_NN 时制_VV 。_PU 赛制_VV 是_VC 24_CD 人_NN 单败淘_NN 汰制_VV ，_PU 决赛为_NN 五_OD 局_PU 三_OD 胜制_VV 。_PU
+
+
+

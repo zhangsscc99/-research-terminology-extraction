@@ -1,0 +1,12 @@
+﻿塔_NN 拉尼科_NN 夫_ETC 规_NN 则_NN
+
+塔拉尼_NN 科_NN 夫_NN 规则是_NN 连珠_NN 的_DEG 开局_NN 规则_VV 。_PU 塔拉尼科_NN 夫_NN 规则_NN 是_VC 由_P 俄罗斯_NN 棋手和_NN 连珠理论_NN 研究者_NN 尤里_NN ·_PU 塔拉尼_NN 科夫_NN 提出_VV 的_SP 。_PU
+
+塔拉尼科_NN 夫_AD 规则_VV 的_DEC 详细开_NN 局流_NN 程如下_NN ：_PU
+
+
+在_P 所有_DT 的典型_JJ 连珠开_NN 局_ETC 规_NN 则_NN 中_LC ，_PU 塔拉尼_NN 科_NN 夫_NN 规则_NN 提供_VV 了_AS 最_AD 多_JJ 数目的_NN 可_VV 战_NN 变化_VV 。_PU 然而_VV ，_PU 由于_P 一_CD 方棋手_NN 可以_VV 准_CD 备激烈_NN 复杂_VV 的_DEC 前_NN 5_CD 手_NN 变化_NN ，_PU 这_AD 一_CD 规则也_NN 存在_VV 巨_AD 大_VA 的_DEC 准备_NN 优势_VA 的_DEC 问题_NN 。_PU
+
+塔拉尼科_NN 夫_NN 规则有_VV 多_CD 个_M 变种_NN ，_PU 包括_VV 塔拉_NN -_PU 山口_NN 规则_NN 和_NN 塔拉_NN -_PU 山口_NN -_PU N_NN 规则_VV 。_PU
+
+

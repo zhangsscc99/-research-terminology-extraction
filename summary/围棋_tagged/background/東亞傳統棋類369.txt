@@ -1,0 +1,15 @@
+﻿碁所_NN
+
+-_NN {_PU 碁_NN }_PU -_PU 所_NN ，_PU 亦作圍_NN 棋所_VV ，_PU 日本江_NN 戶_OD 時代官職_VV ，_PU 全日_NT 本棋士_NN 總_NN 轄_NN 、_PU 主管御_NN 城_VV 碁_NN ，_PU 下_NN 轄_CD 於寺社_NN 奉行_VV ，_PU 五_AD 十_CD 石俸祿_NN 、_PU 二十人扶持_NN ，_PU 為日_NT 本當代_NN 圍_NN 棋_NN 最_AD 高_JJ 地位象_NN 徵_NN ，_PU 由於_P 只_CD 有象徵最_NN 高棋力_NN 的_DEC 名人_NN 可以_VV 擔任_VV -_PU {碁}-所，所以通常都將詞連用為名人-{碁}-所。將棋界亦有類似官職下轄於寺社奉行，由於棋可代表圍棋或將棋，而-{碁}-_PU 字則專_NN 指圍棋_NN ，_PU 因此_NN 應用_NN -_NN {_PU 碁_NN }_PU -_PU 字而非_NN -_NN {_PU 棋_NN }_PU -_PU 字_NN 。_PU
+
+-_NN {_PU 碁_NN }_PU -_NN 所_NN 的_DEC 來源可_NN 追溯_VV 至_VV 1588_CD 年豐_NN 臣秀吉_NN 賜予_VV 當_NN 時全國_NN 第一_OD 高手日海_JJ 朱印_NN 、_PU 俸祿二十石_NN 、_PU 十人扶持_NN ，_PU 並命日海_NN 制定_VV 圍棋_NN 相關_VV 規_NN 定與_NN 制度_NN ，_PU 位列_NN 眾棋士領_NN 頭_NN ，_PU 為_NN -_PU {_PU 碁_NN }_PU -_PU 所之_NR 開端_NN 。_PU 1612_CD 年德_NN 川家_NN 康授予_NN 當代圍棋_NR 、_PU 將棋高_NR 手俸祿_NN ，_PU 並_NN 制定_VV -_PU {制_VV }_PU -_PU 度使_NN 圍棋_NN 、_PU 將棋職_NN 業化_VV ，_PU 並設立_NN -_NN {_PU 碁_NN }_PU -_PU 將棋所_NN 統_VV 轄相關_JJ 事宜_NN 。_PU 同年碁將_NN 棋_NN 所_MSP 拆_VV 分為_NN -_NN {_PU 碁_NN }_PU -_PU 所與_NR 將棋_NN 所_NN ，_PU 而算_NN 砂把將_NN 棋_P 所_NN 讓_VV 予_NN
+
+但亦有_NR 研究_NN 指出此並_NN 非_NN -_PU {碁}-_PU 所_NN 、_PU 將棋所_NN ，_PU 認為應只_NN 是_VC 眾棋士_NR 領頭_NN ，_PU 尚未成_NR 為官職_NN ；_PU 1623_CD 年算_NN 砂去世_NN ，_PU 中村道_NN 碩_NN 繼_NN 任為名人_NN ，_PU 並亦_NN 繼承_VV 了_AS 眾棋_NN 士領頭_NN 資格_VV ；_PU 1630年_NT 道碩去世_NN ，_PU 沒有_VV 繼任_NN 的_DEC 名人_NN 。_PU 至_NN 1644_CD 年_CD 多_CD 年名_NN 人空缺_NN ，_PU 在_P 將軍德_NN 川家光_NN 安排下_NN ，_PU 舉辦名為_NN 「_PU -{碁}-所詮議」的會議，_PU 召見_NN 三_CD 家家督_NN ，_PU 決定新_NN 的_DEC 名人_NN ，_PU 為正史_NN 上_NN 首_NN 次記載_NN -_NN {_PU 碁_NN }_PU -_PU 所的_JJ 紀錄_NN ；_PU 之後舉_NN 辦首次_NN 為了_NN 爭奪名人_NN -_NN {_PU 碁_NN }_PU -_PU 所的爭_NR -_PU {碁}_NR -_ETC ，_PU 由_P 本因_NN 坊算_NN 悅與_NN 安井算知_NN 進行_VV ，_PU 但雙_NN 方實力_NN 相當_VV 而_MSP 無_VV 結果_NN 。_PU
+
+1662年_NT 確立由_NN 寺社_NN 奉行下轄_NN -_NN {_PU 碁_NN }_PU -_PU 所掌管_NN 棋界_NN 事宜_NN ，_PU 無_NN -_PU {_PU 碁_NN }_PU -_PU 所則由_NR 寺社_NN 奉行_NN 管理_NN ，_PU -{碁}-所成為正式的官職；由官方認可的棋四家家督推舉出代表當代第一的名人以勝任-{碁}-所_PU ，_PU 各種文書_NN 、_PU 段位證_NN 書均以_NN -_NN {_PU 碁_NN }_PU -_PU 所之_JJ 名發行_NN 。_PU 1668_CD 年安_NN 井算知_NN 受官_NN 方任_NN 命為_NN 正史_NN 記載_NN 中_LC 的_DEG 第一_OD 任_M -_PU {_PU 碁_OD }_PU -_OD 所_M ，_PU 不_AD 過_VV -_NN {_PU 碁_NN }_PU -_PU 所證書則到_NR 算知下_NN 一_CD 任_NN -_CD {_PU 碁_NN }_PU -_PU 所道_NN 策時才_NN 出現_VV 。_PU 此制度_NN 一_AD 路_VC 使用_NN 至江戶幕_NN 府垮台_NN ，_PU 世襲_NN 制度_NN 崩壞_NN 後才廢止_NN ，_PU 總共有_NR 六位棋_NN 士繼任此_NN 職位_NN 。_PU
+
+此_NN 外_LC ，_PU 由_P 於德川_NN 家康_NN 較喜_NN 歡圍棋_NN ，_PU 所以最_NR 初將圍棋_NR 棋士席_NN 次列_VV 在_VV 將棋_NN 棋士_NN 上位_NN ；_PU 之後沿用_NN ，_PU -{碁}-所地位因此較將棋所高，而在1737年引發不滿而造成碁將棋名順訴訟_PU 事件_NN ，_PU 但最終_NR 仍以_NN 圍棋為_NN 上位_NN 。_PU
+
+
+
+

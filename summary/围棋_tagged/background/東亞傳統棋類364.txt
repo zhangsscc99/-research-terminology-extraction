@@ -1,0 +1,7 @@
+﻿目_NN (_PU 圍棋_NN )_PU
+
+目是_NN 圍棋_VV 的_DT 一_CD 個用語_NN ，_PU 指_BA 某_DT 一_CD 方的_NN 活棋所_NN 围住_VV 的_DEC 空点_NN ，_PU 即_AD 等于_VV 所_MSP 围到_VV 的_DEC 实地_NN 。_PU
+
+当代日本_NN 规则_NN 采用比_NN 目法_NN ，_PU 只比_NN 较双方_NN 的_DEC 目数_NN 。_PU 中国_NR 规则_NN 采用_VV 数子法_NN ，_PU 子目皆地_NN ，_PU 即把_NN 活子和_NN 活子所_NN 围成_VV 的_DEC 空都_NN 计算为_NN 一_CD 方领地_NN 。_PU
+
+

@@ -1,0 +1,132 @@
+﻿象棋_NN 勝和_NN 定式_NN
+
+象棋_NN 勝和_NN 定式_NN ，_PU 是指中_NN 國象_NN 棋殘局_NN 中取_VV 勝_NN 或求_NN 和_NN 的_DEG 技巧_NN 及規律_NN 。_PU
+
+一_CD 場象棋_NN 大_NN 都_AD 會_LB 經過開_NN 局_NN 、_PU 中局_NN 、_PU 和殘局_NN 三_OD 個_NN 階段_NN ，_PU 據金启昌_NN 、_PU 杨典的_NN 《_PU 象_NN 棋残局胜_NN 和_P 定式_NN 》_PU 和薛_NN 榮賢_VV 的_SP 《_PU 象棋初學_NN 實戰_NN 指南_NN 》_PU ，_PU 依殘留_NN 棋種_VV 的_DEC 不同_NN ，_PU 殘局有_NR 以下_NN 分類_VV 。_PU
+
+
+單兵可_NN 否勝_VV 單_AS 士取決於_NN 王_NN 、_PU 兵與士_NN 的_DEG 相對_NN 位置_NN ，_PU 在_P 一_OD 般_M 情況下_NN ，_PU 兵不容_NN 易_AD 得勝_VV 。_PU
+此_NN 外_LC ，_PU 這個殘局_NN 有趣_VA 的_DEC 是_VC ，_PU 若紅方_NN 多_CD 一_CD 相_NN ，_PU 則_NN 可_VV 借_P 助帅力_NN 形成_VV 巧勝_NN ！_PU 可參考_JJ 古譜_NN 《_PU 運籌_NN 帷幄_NN 》_PU 。_PU
+
+屬例勝局_NN ：_PU <br>1.兵七進一將４退１<br>如改走將４進１，則帥四平五，接著再兵四平五_PU ，_PU 紅勝_NN 。_PU <br>2.帥四平五士５進４<br>3.兵四進一士４退５<br>4.兵四平五將４平５<br>5.兵五進一士６進５<br>6.兵七平六_PU ，_PU 紅勝_NN 。_PU
+
+屬例勝局_NN ：_PU <br>1.兵八平七將４平５<br>_PU 若將_NN ４_CD 退_CC １，_CD 則兵_NN 六_OD 進_PU 一_OD 將_NN ４_OD 平_NN ５_OD ，_PU 兵_NN 七_OD 進_NN 一_OD 將_NN ５_OD 平_NN ６_OD ，_PU 兵_NN 六_OD 平_NN 五_OD ，_PU 再用_NN 左兵殺將_NN 。_PU <_PU br_NN >_PU 2_CD ._PU 兵_NN 六_OD 平_M 五象５進３_NN <_PU br_NN >_PU 3_CD ._PU 帥_NN 五_OD 平_M 六象３退５_NN <_PU br_NN >_PU 4_CD ._PU 兵_NN 七_OD 平_NN 六_OD 將_NN ５_OD 平_NN ６_OD <_PU br_NN >_PU 5_CD ._PU 兵_NN 五_OD 平_NN 四_OD ，_PU 接著帥_NN 五_OD 平_NN 四_OD ，_PU 再用_NN 右兵殺將_NN 。_PU
+
+屬例勝局_NN ：_PU <br>1.兵七平六象５進３<br>2.兵三進一_PU 後象進_NN １_OD <_PU br_NN >_PU 3_CD ._PU 兵_NN 三_OD 平_NN 四象１退３_NN <_PU br_NN >_PU 4_CD ._PU 兵_NN 五_OD 平_NN 四_OD 後象進_NN １_OD <_PU br_NN >_PU 5_CD ._PU 後兵平_NN 三象１退３_NN <_PU br_NN >_PU 6_CD ._PU 兵_NN 三_OD 進_CD 一_CD 後象進_NN １_OD <_PU br_NN >_PU 7_CD ._PU 兵_NN 三_OD 進_NN 一_OD 象_NN １_OD 退_NN ３_OD <_PU br_NN >_PU 8_CD ._PU 兵_NN 三_OD 進_CD 一_CD 後象進_NN １_OD <_PU br_NN >_PU 9_CD ._PU 兵_NN 三_OD 平_NN 四_OD 士_NN ５_OD 退_NN ６_OD <_PU br_NN >_PU 10_CD ._PU 兵四進一_PU ，_PU 紅勝_NN 。_PU
+
+屬例勝局_NN ，_PU 須了_NR 解如_NN 何不被黑包所_NN 控制_VV 。_PU <_PU br_NN >_PU 1_CD ._PU 帥_NN 五_OD 進_NN 一_CD …_PU ………<br>_PU 運帥等_NN 著_NN ，_PU 避免_NN 受制_VV 於黑包_NN 。_PU <br>1.…………將５平４<br>如改走包５平９，則兵五進一將５平４，兵四進一包９進１，兵四進一_PU ，_PU 紅勝_NN 。_PU <br>2.兵五平六包５平４<br>3.兵六平七包４平５<br>4.兵四進一包５進１<br>5.兵七進一包５退１<br>6.帥五平四包５平９<br>7.兵四平五包９進１<br>8.兵七平六將４退１<br>9.兵五進一，再帥四平五_PU ，_PU 紅勝_NN 。_PU
+
+守和要_NN 點_OD ，_PU 用包_NN 蓋_NN 住_NN 中路_NN 。_PU 黑先_NN ：_PU <_PU br_NN >_PU 1_CD ._PU …………包８平５<BR>2.兵五平六將４平５<br>3.帥五進一包５退１<br>4.兵六平五將５平４（或平６）<br>4.帥五退一包５退１<br>_PU 和棋_NN 。_PU
+
+為基礎_NN 的_DEC 例勝局_NN ，_PU 需了解如_NN 何使對_NN 方欠行_NN 以_MSP 得勝_VV 。_PU 要_NN 點_OD 為_M 讓己_NN 方王搶_NN 得_NN 中路_NN ，_PU 限制對_NN 方王_NN 的_DEC 行動_NN ，_PU 再用_NN 傌取勝_NN 。_PU <_PU BR_NN >_PU 1_CD ._PU 傌_NN 七_OD 進_NN 八_OD 將_NN ５_OD 進_NN １_OD <_PU br_NN >_PU 2_CD ._PU 傌_NN 八_OD 退_NN 六_OD 將_NN ５_OD 平_NN ４_OD <_PU br_NN >_PU 如_AD 將_NN ５_OD 進_NN １_OD ，_PU 則_OD 傌_NN 六_OD 進_NN 七_OD ，_PU 黑_OD 欠行_VV 。_PU <_PU br_NN >_PU 3_CD ._PU 傌_NN 六_OD 退_NN 四_OD …_PU …_NN …_PU …_NN <_PU br_NN >_PU 阻止將回_VV 到_NN 中路_NN <_PU br_NN >_PU 3_CD ._PU …………將４退１<br>4.帥四平五…………<br>紅方搶得中路，限制黑將移動<br>4.…………將４進１<br>5.傌四退六…………<br>紅傌須繞至黑將一側，切記不可傌四退伍，否則將４平５，中路又被黑方搶走。<br>5.…………將４進１<br>6.傌六進七將４退１<br>7.傌七進八將４退１（進１勝法同）<br>8.帥五進一，走閒步乃獲勝關鍵，使黑方欠行，紅勝_PU 。_PU
+
+對方有_NN 一_CD 卒_NN ，_PU 則無法_NN 使_VV 對方_NN 欠行_VV ，_PU 無法得勝_NN 。_PU <BR>1.傌八進七將４進１<BR>2.傌七進八將４進１<br>3.帥五進一卒１平２<br>4.帥五退一卒２平１<br>_PU 和棋_NN 。_PU
+
+若紅傌轉_NN 而去攻_NN 擊黑卒_NN ，_PU 就_AD 可以_VV 得_CD 勝嗎_NN ？_PU 答案是_NN 不行_VV 。_PU <br>1.傌八退七將４進１<br>2.傌七退九將４退１<br>3.傌九退七卒１平２<br>4.傌七進九卒２平１<br>5.帥五進一將４進１<br>傌永遠吃不到黑卒_PU ，_PU 和棋_NN 。_PU
+
+屬例勝局_NN ，_PU 其要_NN 點_NN 是_VC 先設法_NN 讓將_VV 、_PU 士_NN 、_PU 傌連成_NN 一_CD 條_CD 橫線_NN ，_PU 如圖例_NN 一_OD ，_PU 则_AD 可_VV 七_CD 步取士_NN 。_PU <BR>1.傌四退五將４進１<br>_PU 若將_NN ４_CD 退_CC １，_CD 則傌_NN 五_CD 進_CC 七_CD 抽士_NN 。_PU <br>2.傌五進三士５進６（退４勝法同）<br>3.傌三退四士６退５<br>4.傌四進六士５退４（退６勝法同）<br>5.傌六進八士４进５<br>6.傌八進七_PU ，_PU 紅必得士_NN ，_PU 接著變_NN 成單傌_NN 勝_AD 單王_VV 的_DEC 局面_NN 。_PU
+
+圖例二_JJ 是象棋_NN 比賽_NN 中_LC 實際出現過_VV 的_DEC 局面_NN ，_PU 紅走傌_NN 三_OD 進_NN 四_OD ，_PU 希望_VV 黑走將_NN ４_CD 進_CC １，_CD 但黑_NN 方也_NN 知道_VV 這_NN 樣走會_NN 輸得_VV 更_AD 快_VA ，_PU 於是走將_NN ４_OD 平_PU ５_OD 。_PU 這場比_NN 賽最後_NN 因紅_NN 方無法_NN 得士_VV 而_CD 以和_NN 棋收場_NN ，_PU 而其勝_NN 法應如下_NN ：_PU <br>1.傌三進四將４平５<br>2.帥五進一…………<br>_PU 走閒步_NN ，_PU 乃獲_NR 勝關_NN 鍵_NN <_PU br_NN >_PU 2_CD ._PU …………將５平６（平４勝法同）<br>3.傌四退五士５進４<br>_PU 如黑_NN 誤走將_NN ６_CD 平_CC ５，_CD 則傌_NN 五_OD 進_NN 三_OD 可_VV 得士_VV 。_PU <_PU br_NN >_PU 如_AD 士_NN ５_OD 進_NN ６_OD ，_PU 則_OD 傌_NN 五_OD 進_NN 三_OD 將_NN ６_OD 進_NN １_OD ，_PU 帥_NN 五_OD 退_NN 一_OD 必_M 得黑士_NN 。_PU <br>4.傌五進三將６進１<br>5.帥五退一將６進１<br>6.傌三進四將６退１（士４退５同）<br>7.傌四退六士４退５<br>_PU 回到例_NN 一_OD 的_DEG 局面_NN 。_PU
+
+在絕大_NR 部分單傌_NN 對單象_NN 中_LC ，_PU 傌很難_NN 取勝_VV ，_PU 只有_VV 在_VV 少數狀_NR 況下_NN （_PU 棋子_NN 位置_NN 成巧勝_NN ）_PU 有_NN 低機率_NN 得勝_VV 。_PU
+
+屬例勝局_NN 。_PU 其要_JJ 點為：<br_NN >(_PU 1)_CD 兵先_NN 阻擋_VV 黑象往_NN 中路_NN 的_DEC 途徑_NN （_PU 如示_NN 意圖_NN 中_LC 的_DEG 位置_NN ）_PU <_PU br_NN >_PU (_PU 2_OD )_PU 將_OD 傌移_VV 到_CC 可_VV 鎖住_VV 象_AS 的_DEC 位置_NN （_PU 如_NN 示意圖_NN 中_LC 的_DEG 位置_NN ）_PU <_PU br_NN >_PU (_PU 3_CD )_PU 橫移兵_NN 吃象_NN （_PU 如示意圖_NN 中_LC 的_DEG 箭頭_NN 方向_NN ）_PU <_PU br_NN >(_PU 4)_CD 以兵換_NN 一_AD 士_VA ，_PU 形成_VV 傌必勝_NN 單士_VV 的_DEC 局面_NN 。_PU
+
+圖例一是最_NR 簡單_NN 的_DEG 形式_NN ，_PU 方法是_NN ：<_PU br_NN >_PU 1_CD ._PU 兵_NN 六_OD 平_NN 五_OD …_PU ………<br>_PU 兵_OD 控制_VV 了象往_NN 中路_NN 的_DEG 方向_NN <_PU br_NN >_PU 1_CD ._PU …………象５退３（象５退７則以線對稱的方式移動）<br>2.傌五進七將５平６<br>3.傌七進六象３進１<br>4.傌六退八<br>傌成功鎖象，象無法動彈，接著將兵往左移動吃象_PU 。_PU
+
+圖例二_NR ，_PU 先攻_NR 擊象_NN 。_PU <BR>1.兵六進一將５平４<br>2.兵六平五…………<br>_PU 兵_OD 控制_VV 了象往_NN 中路_NN 的_DEG 方向_NN ，_PU 接著_AD 動傌_VV 至_VV 可_VV 鎖象_VV 的_DEC 位置_NN <_PU br_NN >_PU 2_CD ._PU …………象５退３<br>3.傌二進四黑走閒步<br>4.傌四退五黑走閒步<br>5.傌五進六黑走閒步<br>6.傌六進八象３進１<br>_PU 成_VV 功鎖象_NN ，_PU 接_CS 著用兵_NN 吃象即_NN 可_VV 。_PU
+
+由於帥與_NN 將無_NN 法面_NN 對面_NN ，_PU 不能當_NN 做炮_VV 的_DEC 架子_NN ，_PU 故無法_NN 取勝_VV 。_PU
+
+要_NN 點_OD ：_PU 帥佔_NN 中路_NN ，_PU 以仕_NN 為架子_NN 。_PU 下面_NN 要_VV 學_NN 習_AD 如_LB 何驅_NN 逐佔_NN 中路_NN 的將_VV 。_PU <br>1.帥四進一將５進１<br>2.仕六退五將５退１<br>3.炮二退一將５進１<br>4.炮二平五將５平４<br>_PU 成_VV 功驅_NN 逐黑將_NN <_PU br_NN >_PU 5_CD ._PU 帥_NN 四_OD 進_NN 一_OD 將_NN ４_OD 退_NN １_OD <_PU br_NN >_PU 6_CD ._PU 帥_NN 四_OD 平_NN 五_OD …_PU ………<br>_PU 紅帥佔領_NN 中路_NN <_PU br_NN >_PU 6_CD ._PU …………將４進１<br>7.仕五進六…………<br>_PU 仕對準將_NN ，_PU 做架_NN 子用_NN 。_PU <br>7.…………將４退１<br>8.炮五平六_PU ，_PU 紅勝_NN 。_PU
+
+炮仕對_NN 上_NN 單_NR 士_NN 不_AD 易_AD 殺將_VV ，_PU 應先殺士_NN 。_PU <br>1.炮二平四士５進６<br>2.帥五進一，黑須送士_PU 。_PU
+
+屬例勝局_NN ，_PU 方法頗_NN 為_NN 複雜_VV 。_PU 局面_NN 如圖_VV 一_CD ，_PU 接_BA 著把雙_NN 士趕至有將_VV 一_CD 側_M ，_PU 如圖例_NN 二_OD 。_PU 最_NN 後局面_NN 會如_NN 圖例_NN 三_OD ，_PU 以悶_NN 宮殺_VV 的_DEC 方式_NN 取勝_VV 。_PU <_PU br_NN >_PU 1_CD ._PU 仕_NN 六_OD 進_NN 五_OD 將_NN ６_OD 平_NN ５_OD <_PU br_NN >_PU 2_CD ._PU 仕_NN 五_OD 進_NN 四_OD …_PU ………<br>仕對準黑將之出口，為第一要點。<br>2.…………將５平６<br>3.炮八平五…………<br>迫使黑方無法平將，而動士。<br>3.…………士５進６（將６進１勝法同）<br>4.炮五平四…………<BR>_PU 用炮_NN 打士_VV ，_PU 逼_CS 使_VV 黑方動_NN 另_AD 一_CD 士_NN ，_PU 使_VV 將_NN 與_VV 雙_NN 士位於_NN 同側_NN <_PU BR_NN >_PU 4_CD ._PU …………士４退５<br>形勢演變成圖例二<br>5.炮四退一將６進１（將６平５，_PU 則用_NN 炮打士_NN ）_PU <br>6.仕四退伍_PU ，_PU 如圖例_NN 三_OD ，_PU 紅勝_NN 。_PU
+
+如圖例_NN 四_OD ，_PU 若雙士_NN 不_AD 在_VV 高處_NN ，_PU 可用悶_NN 宮殺法_NN 來_NN 逼將_VV 。_PU <BR>1.炮三平七將５平６<BR>把將逼出來<BR>2.炮七進八將６進１<BR>_PU 迫使將_NN 上到_VV 二路線_NN <_PU br_NN >_PU 3_CD ._PU 仕_NN 六_OD 進_NN 五_OD 士_NN ５_OD 進_NN ４_OD <_PU BR_NN >_PU 4_CD ._PU 仕_NN 五_OD 進_NN 四_OD 後_NN 士進_NN ５_OD <_PU br_NN >_PU 5_CD ._PU 炮_NN 七_OD 退_NN 八_OD ，_PU 回到_NN 類似_NN 上述_JJ 的_DEG 局面_NN 。_PU
+屬例勝局_NN ：_PU <br>1.炮四平六將４退１<br>_PU 如將_NN ４_CD 進_CC １，_CD 則帥_NN 四_OD 平_NN 五_OD ，_PU 接著_NN 重炮殺_NN 。_PU <br>2.炮三平六將４平５<br>3.帥四平五…………<br>必要的一著_PU ，_PU 帥移至_NN 中路_NN ，_PU 限制_VV 黑士移動_NN 。_PU <br>3.…………將５平６<br>4.前炮平四將６平５<br>5.炮四進二…………<br>_PU 走閒步_NN ，_PU 使_VV 黑將_NN 回到_NN 無士_NN 之一_NN 側_NN 。_PU <br>5.…………將５平４<br>6.炮四平五…………<br>_PU 逼黑將上_NN 二路_NN ，_PU 進行雙_NN 炮殺_NN 。_PU <br>6.…………將４進１<br>7.炮五平六_PU ，_PU 紅勝_NN 。_PU
+守和要_NN 點_OD ，_PU 遇雙炮_NN 時用_NN 象檔_NN 中路_NN ，_PU 靈_CS 活用象_NN 使_VV 之免於炮_NN 的_DEC 威脅_NN 。_PU
+<_PU br_NN >_PU 1_CD ._PU 炮_NN 六_OD 進_M 七象５進７_NN <_PU br_NN >_PU 2_CD ._PU 帥_NN 五_OD 退_NN 一_OD 將_NN ６_OD 退_NN １_OD <_PU br_NN >_PU 紅走閒步_NN ，_PU 黑_CD 亦走閒步_NN 。_PU <br>3.炮五平四象３退５<br>_PU 象應盡_NN 可_VV 能_VV 保持_VV 在_NN 中路上_NN 。_PU <_PU br_NN >_PU 4_CD ._PU 炮_NN 六_OD 退_NN 二_OD 將_NN ６_OD 進_NN １_OD <_PU br_NN >_PU 5_CD ._PU 炮_NN 六_OD 平_NN 四_OD 將_NN ６_OD 平_NN ５_OD <_PU br_M >_PU 和棋_NN 。_PU
+屬例勝局_NN ，_PU 靈活_NN 動帥_NN 和閒著為_NN 要_NN 點_OD 。_PU 應先吃_NR 掉雙士_NN ，_PU 再攻_NN 擊象_NN 與將_NN 。_PU <br>1.仕五進四………_PU …_PU
+
+黑有_VV 三_CD 種_NN 應法_NN ：_PU
+
+
+
+這是_NN 很基礎_NN 的_DEC 勝局_NN ，_PU 要_NN 點_OD 是_VC 帥佔_NN 中路_NN ，_PU 俥當_NN 頭抓將_NN 。_PU <br>1.俥一平五將５平６<br>2.帥六平五…………<br>_PU 成_VV 功佔領_NN 中路_NN ，_PU 接著俥_NN 五_OD 平_CC 四_OD 封殺_VV 。_PU
+圖例一：_VV <_CD br_NN >_PU 1_CD ._PU 俥二_CD 平四將６平５<_JJ br_NN >_PU 2.帥五進一_PU ，_PU 黑欠行_NN 。_PU
+
+圖例二_JJ 為較複雜_NN 的_DEG 形式_NN ，_PU 取勝要_NN 點_OD 為_NN 逼將_NN 上_AD 有_VE 士_CD 一_CD 側_NN 的_DEG 二路_NN ，_PU 並靈活_NN 運用_NN 閒著_NN 。_PU <br>1.俥二進八將６進１<br>2.帥五進一………_PU …_PU
+
+黑有_VV 兩_CD 種_M 應法_NN ：_PU
+
+屬例勝局_NN 。_PU 要_NN 點_OD 是_VC 能_VV 夠_P 掌_NN 握黑_NN 雙象_NN 的_DEG 移動路徑_NN ，_PU 用俥_NN 加以_VV 封鎖_NN 。_PU
+
+圖例一：_VV <_CD br_NN >_PU 1_CD ._PU 俥_NN 八_OD 進_NN 六_OD 將_NN ４_OD 進_NN １_OD <_PU br_NN >_PU 2_CD ._PU 俥_NN 八_OD 平_NN 五_OD …_PU ………<br>_PU 黑若_NN 動象_NN 則失另_NN 一_OD 象_NN ，_PU 若將_NN ４_CD 進_CC １_CD 則俥_NN 五_OD 平_NN 六_OD 殺_NN 。_PU
+
+圖例二_JJ 較難_NN ，_PU 需要多花_VV 點_CD 腦筋_NN ，_PU 著法為_NN ：_PU <br>1.俥二平六將４平５<br>2.俥六進二象７退９<br>_PU 若將_NN ５_CD 平_CC ６，_CD 則俥_NN 六_CD 平_CC 四將６_CD 平_CC ５，_CD 俥_NN 四_OD 平_NN 三_OD 吃象_NN 。_PU <br>3.俥六平五象９退７<br>4.俥五平三將５平４<br>_PU 若象_NN ７_CD 進_CC ９，_CD 則俥_NN 三_CD 進_CC 二_CD 抓死_NN 黑象_NN 。_PU <br>5.俥三進三將４進１<br>_PU 如將_NN ４_CD 退_CC １，_CD 則俥_NN 三_OD 平_NN 五_OD ，_PU 黑只能_NN 移動_VV 中象_NN ，_PU 接著車_NN 五_CD 進_CC 一_CD 抽象勝_NN 。_PU <br>6.俥三平五象５進（退）３<br>7.俥五進一…………<br>為防止接下來俥五平六抓將，黑只好將４退１_PU ，_PU 俥吃象勝_NN 。_PU
+
+屬例勝局_NN ，_PU 應先_NR 抓士_NN ，_PU 有必要時_NR 可_VV 逼將上_NR 二路或_NN 三路_NN 。_PU <br>1.俥九平二…………<br>_PU 若走象_NN ３_CD 進_CC １，_CD 則俥_NN 二_OD 進_NN 七_OD 士_NN ５_OD 退_NN ６_OD ，_PU 帥_NN 五_OD 平_NN 四_OD 抓_NN 死士_NN ；_PU 若將_NN ５_CD 平_CC ６，_CD 則俥_NN 二_CD 進_CC 七_CD 抽象_NN ；_PU 若士_NN ５_CD 退_CC ６，_CD 則俥_NN 二_OD 進_NN 七_OD ，_PU 再帥四平五抓_NR 死黑士_NN ；_PU 若象_NN ５_OD 退_NN ７_OD ，_PU 則俥_NN 二_OD 進_NN 六_OD 抓_M 死黑士_NN 。_PU
+
+屬例勝局_NN 。_PU 通常_NN 來講先_NN 抓象_NN ，_PU 象以_NN 田字_NN 型移動_NN ，_PU 所以只要_NR 車佔_VV 了_AS 正確的_NN 位置_NN 就_AD 能_VV 輕鬆_VV 的_DEC 抓到它_NN ，_PU 如_AD 圖_P 例_NN 一_OD ：_PU <_CD br_M >_PU 1_OD ._PU 俥_NN 二_OD 進_NN 五_OD …_PU …_NN …_PU …_NN <_PU br>_NN 若象_NN ５_CD 退_CC ７，_CD 則俥_NN 二_OD 平_NN 三_OD ；_PU 若象_NN ５_CD 退_CC ３，_CD 則俥_NN 二_OD 平_NN 七_OD 。_PU
+
+圖例二_NR ，_PU 士若上_NR 了高處_NR （_PU 俗稱_NR 羊角士_NN ）_PU ，_PU 抓象_NN 反而不_NN 容易_VA ，_PU 此時可_NN 考慮_VV 先_CD 抓士_NN 。_PU 抓士_NN 的_DEC 方法如_NN 單車對單_NN 士圖例_NN 二_OD 。_PU <_PU br_NN >_PU 1_CD ._PU 俥_NN 二_OD 進_NN 七_OD 將_NN ４_OD 進_NN １_OD <_PU br_NN >_PU 2_CD ._PU 俥_NN 二_OD 平_NN 八_OD 象_NN ５_OD 進_NN ７_OD <_PU br_NN >_PU 3_CD ._PU 帥_NN 五_OD 平_M 六象７退９_NN <_PU br_NN >_PU 4_CD ._PU 俥_NN 八_OD 退_NN 一_OD 將_NN ４_OD 退_NN １_OD <_PU br_NN >_PU 5_CD ._PU 俥_NN 八_OD 平_NN 五_OD 吃士_VV 。_PU
+
+當將_NN 、_PU 士_NN 、_PU 象皆在_NN 低處和_NN 中央時_NN ，_PU 士象_NN 均有_VV 保護_NN ，_PU 單車無法_NN 取勝_VV 。_PU 然而當_NN 士象_NN 方棋_NN 子散亂_NN ，_PU 單俥就_NN 有_VE 機會得勝_NN 。_PU
+
+雙馬連環_NN ，_PU 黑將左_NN 右掩護_NN 可_VV 成_VV 和局_NN 。_PU <br>1.俥五平四將５平４<br>2.帥五進一將４進１<br>3.俥四平五將４平５<br>4.俥五退一將５平６<br>5.帥五平四將６平５<br>6.帥四平五將５平６<br>7.帥五退一將６退１<br>8.帥五平四將６平５<br>俥始終沒有機會吃馬_PU ，_PU 和局_NN 。_PU
+
+有一_JJ 包_NN 在_VV 將後_NN ，_PU 乃守和_NN 要_NN 點_OD 。_PU <_PU br_NN >_PU 1_CD ._PU 俥_NN 一_OD 進_NN 三_OD 包_NN ５_OD 平_NN ６_OD <_PU br_NN >_PU 2_CD ._PU 俥_DT 一_CD 進二將６進１_NN <_PU br_NN >_PU 3_CD ._PU 帥_NN 五_OD 進_NN 一_OD 前_NN 包進_VV 一<_CD br_NN >_PU 紅走閒_NN ，_PU 黑也走閒_NN 回應_NN 。_PU <br>4.俥一退四前包退一<br>5.俥一平四前包進一<br>_PU 俥始_NN 終吃不_NN 到_VV 包_NN ，_PU 和棋_NN 。_PU
+
+馬包對俥_NR ，_PU 包在_NR 將後_NN 為理_NN 想狀況_NN ，_PU 馬盡量_NN 遠離_NN 將以_NN 降低_NN 被抽吃_NN 的_DEC 機會_NN 。_PU <br>1.俥九進四將６進１<br>2.俥九進一將６退１<br>如誤走包６進１_PU ，_PU 則俥_NN 九_OD 退_NN 二_OD 殺_NN 。_PU <_NN br_NN >_PU 3_CD ._PU 俥_NN 九_OD 平_NN 六_OD 馬_NN ４_OD 退_NN ３_OD <_PU br_NN >_PU 俥抓不_NN 到_VV 馬_NN ，_PU 和棋_NN 。_PU
+
+屬例勝局_NN ，_PU 要_NN 點_OD 是_VC 讓馬處於_NN 無士_VV 之側_NN ，_PU 藉著_NN 攻擊馬_NN 的_DEC 同時引將_NN 上二_OD 路_M ，_PU 再以_NN 單俥_NN 勝雙士_NN 的_DEC 方法_NN 取勝_VV 。_PU <br>1.帥五平六………_PU …_PU
+
+黑有_VV 兩_CD 種_M 應法_NN ：_PU
+
+
+俥對包_NN 雙士_VV ，_PU 能否取勝_VV 決定_JJ 於包_NN 與士_VV 的_DEC 位置_NN 。_PU
+
+
+
+如_NN 三_OD 卒_NN 形成_VV 45_CD （_PU 56_CD ）_PU 路_NN 两_CD 卒_NN 保护前面_NN 一_OD 卒_NN 情况_NN ，_PU 根据_NN 形_NN 势_NN 左_JJ 右_JJ 摆动前卒_NN ，_PU 则_AD 可_VV 守_P 和_NN
+
+车底兵_NN 对单车_NN 的_DEC 情况_NN 与_P 炮车_NN 对单车_NN 类似_VA 。_PU 如果有_NN 底兵_NN 方车占_NN 中_LC ，_PU 则_AD 可_VV 利用_VV '_PU 海底捞_NN 月_NN '_PU 抽车_NN ；_PU 如果_NN 单车_NN 方占_NN 中_LC ，_PU 则无_NN 法_NN 使用_NN '_PU 海底捞_NN 月_NN '_PU ，_PU 和棋_NN 。_PU
+
+圖例一_NR ，_PU 紅車_NR 需佔_NN 中才能_NN 取勝_VV ，_PU 若黑_NN 車佔_NN 中則_NN 和棋_VV 。_PU
+
+1_OD ._PU 炮_NN 九_OD 進_NN 一_OD 車_NN 6_OD 進_NN 5_OD
+
+2_OD ._PU 帥_NN 五_OD 進_NN 一_OD 車_NN 6_OD 退_NN 1_OD
+
+3_OD ._PU 帥_NN 五_OD 退_NN 一_OD 車_NN 6_OD 進_NN 1_OD
+
+4_OD ._PU 帥_NN 五_OD 進_NN 一_CD …_PU ………_Err
+
+黑方不_NN 得長_VV 將_SP ，_PU 需變著_NN
+
+4_CD ._PU …………車6退3_Err
+
+5_OD ._PU 俥_NN 五_OD 進_NN 五_OD 將_NN 6_OD 進_NN 1_OD
+
+此時把_NN 炮調_VV 至_VV 右翼_NN
+
+6_OD ._PU 炮_NN 九_OD 平_NN 三_OD 車_NN 6_OD 進_NN 2_OD
+
+7_OD ._PU 帥_NN 五_OD 退_NN 一_OD 車_NN 6_OD 退_NN 2_OD
+
+8_OD ._PU 炮_NN 三_OD 進_NN 六_OD 車_NN 6_OD 退_NN 1_OD
+
+9_OD ._PU 炮_NN 三_OD 平_NN 四_OD …_PU ………_Err
+
+紅炮瞄_NN 準黑車_NN
+
+9_CD ._PU …………車6平4_Err
+
+10_OD ._PU 俥五退三_JJ …_NN ……_PU …_PU
+
+叫殺_VV ，_PU 黑車必須_NN 回_NN 守_NN 6路線_NN ，_PU 黑車必然_NN 受_VV 紅炮打_NN 擊_NN ，_PU 黑方丟_NN 車_AD 必敗_VV ；_PU
+而当_JJ 黑车守_NN 中_NN 时_LC ，_PU 将_BA 在_VV 一二_CD 楼_NN 则_AD 可_VV 守和_VV ，_PU 将_BA 在_VV 三_CD 楼_NN 可_VV 利用_VV 将_BA 位不正_NN 的_DEC 弱点巧_NN 胜_NN ，_PU 从红车_NN 出动开_NN 始需_NN 58_CD 步左_NN 右_JJ 绝_NN 杀_NN
+
+

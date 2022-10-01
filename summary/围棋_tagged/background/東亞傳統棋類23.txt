@@ -1,0 +1,55 @@
+﻿_OD LeelaZero_NR
+
+LeelaZero_NN 是由_NN 比利_NN 時程式_NN 設_NN 計_NN 師起頭_NN 所_MSP 開發_VV 的_DEC 電腦圍棋_NN 軟體_VV ，_PU 以及_NN 相關_VV 的_DEC 運算計畫_NN 。_PU 專案在_NN 2021年_CD 2月_NT 15日_NT 已經_NN 中止_VV ，_PU 並推薦_NN 改參與_NN SAI_NN 與_NN KataGo_NN 。_PU
+
+LeelaZero_NN 是依照_NN DeepMind_NN 在_VV 科學期刊_NN 《_PU 自然_NN 》_PU 上對於_NN AlphaGoZero_NN 所_NN 發_VV 表_NN 的_DEC 論文_NN 《》_PU 所實做出_NR 的_DEC 開源電腦_NN 圍棋_NN 程式_NN ，_PU 也就_NN 是_VC 不_P 使用_NN 人類_NN 棋譜_NN 與累積_NN 的_DEC 圍棋知識_NN ，_PU 僅實做_NN 圍棋規則_NN ，_PU 使用單_NN 一_CD 類神經_NN 網路從_NN 自我_NN 對弈中_NN 學習（不像_JJ AlphaGo_NN 以人類_NN 角度_NN 思考_VV ，_PU 設計_VV 了_AS PolicyNetwork_NR 與_ETC ValueNetwork_NR ）_ETC 。_PU
+軟體_NR 使用_NN 蒙特_NN 卡洛_NN 树搜索_NN （_PU MCTS_NN ）_PU 模擬與_NN ，_PU 在_P 蒙特_NN 卡洛_NN 树搜索_NN 模擬與_NN 自我訓_NN 練時都_NN 採用_NN Tromp_NN –_NN Taylor_NN 規則_NN ，_PU 這個規則_NN 的_DEC 貼目雖_NN 然與_NN 中國_NN 規則_NN 相同_VA ，_PU 都是由黑_NN 棋_P 貼_NN 7_OD ._PU 5_OD 目_M ，_PU 但_AD 在_P 某些_DT 情境_NN 下_NN 可_AD 能_VV 會有_VV 差異_NN 。_PU
+
+程式_JJ 碼部份_NN ，_PU 用戶_NN 端對弈_NN 的_DEC 程式碼_NN 與訓練_NN 的_DEC 程式_NN 碼以_VV GPLv3_NN 授_NN 權_NN 公開_NN ，_PU 分散式_NN 運算_NN 的_DEC 伺服器_NN 端程式_NN 則以_VV AGPLv3_NN 授_NN 權_NN 公開_NN ；_PU 資料_NN 的_DEC 部份_NN ，_PU 訓練_NN 對弈_NN 資料_NN 以及_NN 訓練對弈_NN 的_DEC 原始_NN 資料_NN 也_AD 可以_VV 公開下載_VV 。_PU
+
+初期時_NN LeelaZero_NN 在_NN 確認_NN 演算_NN 法以_NN 及程式_NN 是_VC 否實做_NN 正確_NN ，_PU 所_MSP 以_VV 對論文裡_NN 提到_VV 的_DEC 部份_NN 參數_NN 進行調整_NN ，_PU 以加快_JJ 驗證_NN 速度_NN ：_PU
+
+
+這些調_NN 整是_NN 希望_VV 在_VV 比較小_NN 的_DEC 網路與訓_NN 練_NN 盤_NN 數下_NN 快速確_NN 認程式_JJ 的_DEG 正確性_NN 。_PU 在_P 每個階段_NN 確_VV 認_NN 沒有_VV 重大_NN 問題_NN 以及_NN bug_NN 後會_NN 重新評估_NN 調昇_VV ，_PU 並且_NN 正式公_NN 開向_NN 社群_NN 尋求_NN 運算_NN 資源_NN 。_PU
+
+另_CS 外作者_NN 發現_VV 在_VV 原論文_NN 裡有_VV 瑕疵_NN ：_PU 論文裡_NN 的_DEC 第一_OD 層_M 輸入只有_NN 17_OD 個_M ，_PU 會導致白_NN 棋較容_NN 易_AD 看到_VV 棋盤_NN 邊緣_NN （_PU 指類神經_NN 網路_NN ）_PU ，_PU 這在_NR LeelaZero_NR 內被修正為_NN 18_CD 個_NN 。_PU
+
+早期_NN LeelaZero_NN 剛出來時_NN ，_PU Gian_NN -_PU CarloPascutto_NR 的_DEC 目標_NN 是_VC 重製_NN AlphaGoZero_NN 的_DEC 論文_NN 結果_NN 。_PU 在_P 後來_NN 受到_VV 更_AD 多_CD 關注後_NN ，_PU 有_AD 更_AD 多_VA 的_DEC 計算資源_NN 與人力_NN 投入_NN LeelaZero_NN 計畫之_NN 中_LC ，_PU 使得_VV LeelaZero_NN 的_DEG 強度_NN 迅速_NN 提昇_VV ，_PU 甚至已經_VV 超越_JJ 先前_NN 開發_VV 的_DEC Leela_NN 以及_CC 其_PN 他對_NN 手_NN 。_PU
+
+現_NN 在_VV 的_DEC 目標_NN 是_VC 希望在_NR 行動_NN 電話上_NN 也能_NN 夠有_VV 足夠強_NN 的_DEC 圍棋_NN 軟體_NN 可以_VV 使用_NN 。_PU
+
+由_P 於作者_NN 估算_NN 以當時_NN 的_DEC 高階_NN 硬體_NN （_PU 以_P Nvidia_NN 的_DEC GeForceGTX_NR 1_DEC 080Ti_NR 估算_NN ）_PU 大_NN 約需要_NN 1700_CD 年_M 的_DEG 計算量_NN 才能_NN 達到_VV AlphaGoZero_NN 自我學習_NN 2900萬_CD 盤的_NR 水平_NN ，_PU 所以_AD 在_VV 2017年_CD 十一月_NT 開始_VV ，_PU 讓_BA 自願者_NN 使用_NN 自己的_NN 硬體_NN ，_PU 透過作_NN 者群開發_NN 的_DEC AutoGTP_NN 程式參_NN 加_NN 分散式_JJ 運算計畫_NN （_PU 以_P GTP_NN 自動與_NN 伺服器溝_NN 通以_VV 取得_VV 計算_NN 工作_NN ）_PU ：_PU
+
+
+2018_CD 年初_NN ，_PU 志願者_NN 申請_VV 到_P 超級電腦_NN 的_DEC 部份_NN 計算_NN 資源_NN ，_PU 印第_NN 安纳_VV 大学_NN 的_DEG BigRedII_NN （_PU 申請到336_VV 0_CD cores_M ，_PU 約該台_NN 超級電腦_NN 的_DEG 10_CD ._PU 7%_CD 資源_NN ）_PU ，_PU 另_AD 外自_VV 0_CD ._PU 10_CD 版_NN 支援純_NN CPU_NN 版本_NN （_PU 不_AD 需_VV GPU_NN ）_PU ，_PU 現有演算法的_JJ 最佳化以_NN 及_NN 新_NN 演算法_NN 的_NOI 引入_VV ，_PU 這_BA 些因素_NN 大_NN 幅_AD 提昇_VV 了_AS 整體_NN 的_DEC 計算_NN 速度_NN 。_PU
+
+LeelaZero_NN 官方曾_NN 鼓_NN 勵_NN 參與者_NN 使用_NN GoogleColaboratory_NR 所_NN 提供_VV 的_DEC 免費_NN 運算_NN 資源_NN 幫助訓練_NN ，_PU 但後_NN 來因_NN 為文件裡_NN 的_DEC 操作_NN 步驟過_NN 時而失_NN 效而移_NN 除文件_NN 。_PU
+
+在_P 2019年_CD 十一月時_NT ，_PU 由_P 於個人_NN 時間_VV 的_DEC 限制_NN ，_PU 加上最近_VV 的_DEC 50萬_CD 盤沒有_NN 推進_VV ，_PU 而且_CC 其他_DT 的_DEG 專案有_NN 不_AD 錯_VA 的_DEC 前景_NN （_PU 包括_VV SAI_NN 與_NN KataGo_NN ）_PU ，_PU 宣佈先將_NN 訓_NN 練_NN 盤數_NN 加到_VV 75萬_CD 盤以_NN 確認是_NN 否到_VV 了_AS 極限_NN ，_PU 並_CD 暫定於_NN 2020年_CD 1月_NT 31日結_NT 束這次_NN 長達_NN 兩_CD 年_NN 的_DEG 訓練_NN 。_PU
+
+Minigo_NN 同樣_NN 也是依照_NN AlphaGoZero_NN 論文所_NN 獨_VV 立實_JJ 做出來_NN 的_DEC 軟體_NN ，_PU 而_CC Minigo_NN 專案_NN 取得_VV Google_NN 贊助_NN 的_DEC 計算_NN 資源_NN ，_PU 透過_NN 大量_NN 計算_NN 資源_NN 得到品_NN 質還_NN 不_AD 錯_VA 的_DEC 訓練_NN 網路_NN 資料_NN 。_PU 因此_NN LeelaZero_NN 的_DEC 團隊與_NN Minigo_NN 的_DEC 團隊基_NN 於雙方_NN 的_DEC 經驗_NN ，_PU 討論參數_NN 的_DEC 調整能_NN 帶來_VV 的_DEC 改善_NN ，_PU 以及雙_NN 方訓練_NN 資料_NN 共用_NN 的_DEC 可能性_NN 。_PU
+
+ELFOpenGo_NN 是_VC Facebook_NN 依照_NN AlphaGoZero_NN 與_NN AlphaZero_NN 所_MSP 實做出來_VV 的_DEC 軟體_NN ，_PU 由於_NN Facebook_NN 使用_NN 大量_NN 資源_NN 運算_NN （_PU 使用_NN 2000_CD 顆_M GPU_NN 計算_NN 兩_OD 週_NN ）_PU 並_NN 公_NN 開訓練_NN 網路_NN 資料_NN ，_PU LeelaZero_NN 團隊得_NN 以將_NN 資料_NN 轉換為_NN LeelaZero_NN 可以_VV 使用_VV 的_DEC 格式_NN （_PU Hash_NN 值_NN 為_VC codice_NN
+
+LeelaZero_NN 後來_NN 決定將_NN ELFOpenGo_NN 的_DEC 資料_NN 混入_NN 自我對弈_NN ，_PU 在_P 2018年_CD 5月_NT 7日後_NN 引入_VV 了_AS ELFOpenGo_NN 的_DEC 資料_NN 。_PU
+
+在_P CGOS_NN （_PU ）_PU 上會有_NR 志願者_NN 將每次_NN 演化_VV 的_DEC 版本掛_NN 上_NN 進_NN 行測試_NN （_PU 19_CD x19_NN ）_PU 以比較_NN 與_NOI 其_PN 他圍棋_NN 軟體_VV 的_DEC 差距_NN 。_PU
+
+程式名_NN 稱會以_NN codice_NN __NN 2_OD 或_M codice_NN __NN 3_CD 之類_NN 的_DEC 名稱命名_NN 。_PU 大致上有_NR 幾個_NN 不同_VA 的_DEC 版本_NN ，_PU 像是_NN 使用_NN 訓練_NN 網路_NN 的_DEC Hash_NN 值為名_NN （_PU 如_P codice_NN __NN 4_CD ）_PU ，_PU 或是_CC 使用訓_NN 練_AD 世代_VV 的_DEC 次數為名_NN （_PU 如_P codice_NN
+
+有_VE 幾個_NN 特別_NN 的_DEC 訓練_NN 網路不_NN 是_VC 自我訓練_NN 產生_VV ，_PU 而_CC 是_VC 透過人_NN 類_NN 頂_NN 尖棋手_NN 的_DEC 對弈棋譜_NN 產生_VV ，_PU 用以_NN 作_VV 為_NN 階段性_NN 的_DEC 指標_NN 。_PU
+
+名為_NN codiceZero_NN 的_DEC 程式_NN 加上_VV 以人類_NN 棋譜計_NN 算出_VV 的_DEC 20_CD blocksx256filters_NN 訓練_NN 網路所_NN 產生_VV 的_DEC 的_NN 版本_NN （_PU BayesElo_NN 約_NN 2650分_CD ）_PU 。_PU
+
+另_DT 一_CD 個_NN 帳號_NN 是_VC codiceblocksx_NR 2_DEC 56filters_NR 訓練_NN 網路_NN ，_PU 但_CC 以_P CGOS_NN 的_DEC 時間_NN 限制_VV ，_PU 找出_VV LeelaZero_NN 的_DEC 程式與人_NN 類_NN 棋譜_NN 訓練_VV 的_DEC 網路_NN 可以_VV 達到_VV 的_DEC 最高_JJ 成績_NN （_PU BayesElo_NN 約_NN 3610分_CD ）_PU 。_PU
+
+另外由於_NN CGOS_NN 可以_VV 任意_DT 註冊名稱_NN ，_PU 有些人_NR 會拿_NN 較強_VV 的_DEC 軟體摸魚_NN 混珠（而非_JJ 使用_NN LeelaZero_NN ）_PU ，_PU 因此_NN CGOS_NN 上面_NN 的_DEC 數據需_NN 要_VV 確認後才_VV 有_VE 參考_NN 價值_NN 。_PU 在_P CGOS_NN 上_NN 測試比_NN 較完整_NN 的_DEC 基準_NN 參數是_NN codice1_NN 、_PU Playouts160_NR 0_ETC ）_PU ，_PU 但目前_NN （_PU 2018年_NT 四月_NT ）_PU 已暫時_NN 沒有_VV 使用_NN 這個_NN 參數_NN 測試_NN 訓練_NN 網路_NN ：_PU
+
+
+2017年_NT 12月_NT 16日_NT ，_PU 贴吧上_NN 的_DEC 志願者以_NN codice_NN
+
+在預賽_NR 取得_VV 第三_OD 名_M ，_PU 僅輸給_NN PhoenixGo_NN 與絕藝_NN 。_PU
+
+
+
+

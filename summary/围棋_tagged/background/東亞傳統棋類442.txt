@@ -1,0 +1,10 @@
+﻿轉盤_NN 五子棋_NN
+
+轉盤_NN 五子棋_NN （_PU Pentago_NN ）_PU 是_VC TomasFlodén_NR 在_VV 2005_CD 年推出_NN 的_DEC 棋類遊戲_NN 。_PU 规则与_NN 五子棋類_NN 似_VA ，_PU 不过每次_NN 下完_VV 必须_VV 旋转_VV 一_CD 個棋盤_NN 九十_CD 度_NN 。_PU
+
+棋盤由_NN 四_CD 個_CC 3x3_CD 的_DEG 棋盤_NN 組成_VV 一_CD 個_NN 可_VV 活動_VV 的_DEC 正方形_JJ 棋盤_NN (_PU 整体_NN 大小_NN 为_VC 6x6_CD 的_DEG 空格_NN )_PU ，_PU 每_DT 个_M 正方形棋_NN 盤_NN 中_LC 含有_VV 九_CD 个_M 凹陷_NN ，_PU 用于_NN 放置_NN 棋子_NN ，_PU 共_NN 36_CD 個空格_NN 。_PU 棋子_NN 可_VV 用_P 黑白圍棋_NN 代替_VV ，_PU 雙方_NN 各有_VV 18_CD 顆_NN 棋子_NN 。_PU
+
+
+
+
+

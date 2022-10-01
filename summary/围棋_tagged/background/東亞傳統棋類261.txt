@@ -1,0 +1,7 @@
+﻿拆_NN (_PU 圍棋_NN )_PU
+
+拆是譯_NN 自日文_NN 的_DEC 圍棋術語_NN 。_PU 意指一手棋_NR 與另_VV 一_CD 個子_NN 之間跨越_NN 兩_OD 格_NN 或_CC 以上_NN 的_DEC 範圍_NN ，_PU 一_CD 邊用_NN 於邊上_NN 。_PU 若拆_VV 的_DEC 幅度_NN 之間又_NN 上_NN 下_NN 間隔_NN 一_AD 排_VA ，_PU 則稱_NN 之為飛_NN 。_PU
+拆以間_NN 距命名_NN 。_PU 間隔_NN 一_CD 行稱_NN 之為_NN 「_PU 一_CD 間拆_NN 」_PU ，_PU 兩_OD 行_M 稱為_NN 「_PU 二_CD 間拆_NN 」_PU 。_PU 一_CD 般以_NN 五_CD 間_NN 為限_NN ，_PU 過_P 此則不_NN 稱_VV 為_NN 拆_CD 。_PU
+圍棋_NN 中_LC 的_DEG 拆法種類_NN 繁_AD 多_VA ，_PU 以下只_NN 是_VC 較常見的_JJ 數例_NN 。_PU
+
+

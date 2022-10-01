@@ -1,0 +1,180 @@
+﻿围棋_NN
+
+围棋是_NN 一_ETC 種_NN 策_NN 略棋類_NN ，_PU 使用格_NN 狀_NN 棋盤_NN 及黑白_NN 二色_JJ 棋子_NN 進行_NN 對弈_NN 。_PU 起源于_VV 中国_NR ，_PU 中國古_NR 时有_VV “_PU 弈_NN ”_PU 、_PU “-{碁}-”_PU 、_PU “_PU 手谈_NN ”_PU 等多种称_NR 谓_ETC ，_PU 屬琴棋书_NN 画四_OD 艺_M 。_PU 西方稱_NN 之_AD 為_VA “_PU Go_NN ”_PU ，_PU 是源_NN 自日語_NN 「_PU 碁_NN 」_PU 的_DEG 发音_NN 。_PU
+
+相傳圍棋_NN 大約_VV 在_VV 西元前_NN 2300_CD 年左_NN 右_JJ 由_JJ 堯帝_NN 發明_NN ，_PU 他_NN 的_DEG 兒子_NN 丹朱_NN 驕傲_NN 自滿_NN ，_PU 暴躁任性_NN ，_PU 因此_AD 堯_DEV 帝便_VV 發明圍棋_NN 來_NN 陶冶_NN 兒子_NN 的_DEC 心性_NN 。_PU
+
+圍棋有_NR 黑白_NN 兩_OD 種_NN 棋子_NN ，_PU 規定由_NN 執黑_NN 色棋子_NN 的_DEC 先行_NN ，_PU 对弈双_NN 方_VV 在_P 十九_CD 乘_CC 十九_CD 條線_NN 的_DEC 棋盘_NN 网格_NN 上_LC 的_DEC 交叉点_NN 交_VV 替_PN 放置_VV 黑色及_NN 白色_JJ 的_DEG 棋子_NN 。_PU 落子_NN 完毕_VV 后_LC ，_PU 不_AD 能_VV 悔棋_VV 。_PU 对弈_NN 過程_NN 中_LC 圍_DEG 地吃子_NN ，_PU 以所圍_NN 「_PU 地_NN 」_PU 的_DEG 大小_NN 決_NN 定_NN 勝負_NN 。_PU
+
+围棋_NN 规则_NN 简洁_VV 而优雅_NN ，_PU 但玩法卻_NN 千_CD 變_CC 萬_CD 化_M ，_PU 欲精通_NN 其_NN 內涵需_NN 要_VV 大量_CD 的_DEG 練習與鑽_NN 研_NN 。_PU 国_NN 际象_NN 棋_AD 大_VA 师伊曼紐_NN ·_PU 拉斯_NN 克称_NN 赞说_NN ：_PU “_PU 若宇宙_NN 中_LC 另_AD 存其_VV 他智能_NN 生命_NN 形式_NN ，_PU 其幾_NN 乎必_NN 會围棋_NN 。_PU ”_PU 与此同时_NN ，_PU 围棋被_NN 认为_VV 是目前_NN 世界_NN 上_NN 最_AD 复杂_VA 的_DEC 棋盤游戏_NN 之一_NN ，_PU 其複_NN 雜度_NN 已於_NN 1978_CD 年被_NN Robertson_NR 與_DEC Munro_NR 證明為_NN PSPACE_NN -_PU hard_NN 。_PU
+
+截至_NN 2008_CD 年年_NN 中_LC ，_PU 全世界_NN 有超过_NN 四千万_CD 玩家_NN ，_PU 其中_NN 绝_NN 大_NN 多数在东亚_NN 。_PU 截至_NN 2020_CD 年底_NN ，_PU 国际围_NN 棋联盟_NN 共拥有_NN 77_CD 个_M 成员_NN 国和_NN 5_CD 个_M 协会会员_NN 。_PU
+
+围棋起_NN 源于_NN 中国_VV ，_PU 是_VC 世界_NN 上最_NN 古老_VV 的_DEC 棋类_NN 运动_NN 之一_NN 。_PU 推测_VV 起源_NN 时间_NN 为_VC 大_NN 约公_NN 元前_NN 23_CD 世纪_NN 。_PU 传说尧_NN 的_DEC 儿子_NN 丹朱顽_NN 劣_NN ，_PU 尧_NN 发明围_NN 棋以_VV 教育丹朱_NN ，_PU 陶冶其性_NN 情_NN 。_PU 目前围_NN 棋_NN 的_DEC 最早_NN 可靠记_NN 载见于_VV 春秋_JJ 时期_NN 的_NN 《_PU 左传_NN 》_PU ，_PU 战国_NR 时期_NN 的_DEC 弈秋_NN 是_VC 见于_P 史籍_VV 的_DEC 第一_OD 位棋手_NN ，_PU 最早_VV 的_DEC 围棋文物_NN 也_AD 可以_VV 追溯_VV 到_VV 这_DT 一_CD 時期_NN 。_PU 汉朝_NN 时棋盘_NN 为_VC 17_CD 路_M ，_PU 南北朝_NN 时_NN 候_LC ，_PU 棋盘定_NN 型_NN 为_VC 现在_JJ 的_DEG 19_CD 路_CD 棋盘_NN ，_PU 傳入朝_NN 鮮半島_NN ，_PU 并且_CC 出现_VV 了_AS 评定棋手_NN 水準_VV 的_DEC 围棋_NN 九_CD 品制_VV 。_PU 围棋逐_NN 渐成_VV 为中国_NN 知识阶_NN 层_NN 修_NN 身养性_NN 的_DEC 一_CD 项_M 必修课_NN 目_NN ，_PU 为_VC “_PU 琴棋书_NN 画_NN ”_PU 文人_NN 四_OD 艺_NN 之一_NN 。_PU
+
+中國古_NN 代對_VV 圍棋尚有_NN “_PU 弈_NN ”_PU 、_PU “-{碁}-”_PU 、_PU “_PU 手谈_NN ”_PU 、_PU “_PU 坐隱_NN ”_PU 、_PU “_PU 爛柯_NN ”_PU 、_PU “_PU 方圓_NN ”_PU 、_PU “_PU 黑白_NN ”_PU 、_PU “_PU 烏鷺_NN ”_PU 、_PU “_PU 大棋_NN ”_PU 、_PU “_PU 木野狐_NN ”_PU 等雅稱_NN ，_PU 下圍棋_NR 又稱對弈_NN 、_PU 博弈_NN 、_PU 奕棋_NN 。_PU 弈局_NN 指棋局_NN ，_PU 弈枰_VV 、_PU 弈楸_NN 、_PU 楸枰_NN 、_PU 河洛_NN 指棋盤_NN ，_PU 奕具_NN 泛指棋盤_NN 、_PU 棋子_NN 等棋具_NN ，_PU 弈譜_VV 、_PU 弈選_NN 、_PU 吳圖_NN 指棋譜_NN ；_PU 觀弈指_NN 看棋_VV ；_PU 弈林_NN 指圍_NN 棋圈_NN 。_PU 其中_NN “_PU 碁_NN ”_PU 為棋_NN 之異體字_NN ，_PU 在_P 古籍_NN 中_LC 專_CS 指圍棋_NN ，_PU 如_NN 《_PU 隋書‧經_NN 籍志_NN 》_PU 所_MSP 載_VV 棋譜_NN 目錄_NN ，_PU 均作碁_NN 。_PU
+
+古代圍_NN 棋並未_NN 发现_VV 完_NN 整明文_NN 的_DEC 規則_NN ，_PU 但_CC 规则在逻_VV 辑关_NN 系_NN 上极其_NN 简单_NN ，_PU 成_VV 書於_NN 北周_VV 的_SP 《_PU 敦煌棋经_NN 》_PU 中略_NR 有所述_NR 。_PU 中國古_NR 代唐宋_NN 使用_NN 数路法_NN ，_PU 日本_NN 比目_NN 法即_NN 由_P 此改变来_NN ，_PU 所_MSP 不_VV 同者_NN ，_PU 唐宋_NN 规则_NN 要扣除_NN 眼位_NN ，_PU 而日本_NN 规则_NN 不扣除_NN 眼位_NN 。_PU 明朝以_NN 後_NN ，_PU 改为子_NN 空合并_NN 计算_VV ，_PU 不需保_NN 留死子_NN ，_PU 扣除_NN 眼位的_NN 过程以_NN 还棋头_NN 实现_NN ，_PU 所_MSP 以_VV 明清_NN 时期_NN 的_DEC 圍棋規則_NN 被_SB 稱為_VV 數子法_NN 。_PU 当代中_NN 国围棋规_NN 则承_VV 继明清_NN 规则_VV ，_PU 仍称_NN 为_VC 数子_NN 法_NN 。_PU 不_AD 过_VV ，_PU 此数子_NN 法非_NN 彼_NN 数子_NN 法_NN ：_PU 從南北朝_NN 的_NN 《_PU 敦煌棋经_NN 》_PU 到_P 唐_NN 、_PU 宋_NN 、_PU 元_NN 、_PU 明_NN 、_PU 清_NN ，_PU 中国_NR 古棋一_NR 脉相承_NN ，_PU 为纯粹_NN 的_DEC 数“子”法_NN ；_PU 而民_NN 国以来_NN 的_DEC 中国_JJ 数子法实_NN 为_VC 「_PU 子空_NN 皆地_NN 」_PU 的_DEC 规则_NN 。_PU
+
+圍棋最_NN 遲_VV 在_P 唐朝初_NN 期_AD 傳到_VV 了_AS 西藏_NN ，_PU 相傳松贊_VV 干布_VV 的_DEC 大臣瓊_NN 波_NN ·_PU 邦色是_NN 一_OD 位_NN 圍棋高_NN 手_NN 。_PU 後來_NN 圍棋由_NN 藏族人_NN 改為_VV 西藏_NN 圍棋_NN 。_PU
+
+唐朝_NR 出现_VV 了_AS 棋待_NN 诏官职_NN 。_PU 著名棋手_NN 王积_NN 薪作_NN “_PU 围棋_NN 十_OD 诀_NN ”_PU 大_NN 多_CD 在_VV 现代_NN 围棋_NN 中_LC 依旧_VV 适用_NN 。_PU 北宋_NR 沈括_NN 《_PU 梦溪_NN 笔谈_NN 》_PU 中有_VV “_PU 四_OD 人_NN 分_NN 曹围棋_NN ”_PU 即_AD 四_CD 人围_NN 棋_NN 的_DEG 记载_NN 。_PU 明朝王_NN 世贞寫了_NN 一_OD 篇_NN 《_PU 弈問_NN 》_PU ，_PU 回答圍_NN 棋_NN 的_DEC 種種疑問_NN 。_PU
+
+清朝初年_NN ，_PU 中国古_NR 代围棋_NN 发_AD 展達_VV 到_P 前_NN 所_MSP 未有_VV 的_DEC 高峰_NN 。_PU 大_JJ 批著名_NN 棋_P 手_NN 涌现_VV ，_PU 留下_VV 大量_CD 名局棋_NN 谱_NN ，_PU 如_AD 黃龍士_NN 与_P 徐星友的_NN “_PU 血泪篇_NN ”_PU ，_PU 施襄_NN 夏与_NN 范西屏_NN 的_NN “_PU 当湖_NN 十_OD 局_NN ”_PU 。_PU 同时_NN ，_PU 围_NN 棋理论_NN 的_DEC 研究亦_NN 达到_VV 一_CD 个_M 高峰_NN ，_PU 代表作_NR 有徐星友_NN 的_NN 《_PU 兼山堂_NN 弈谱_NN 》_PU 、_PU 范西屏_NN 的_NN 《_PU 桃花泉弈_NN 譜_NN 》_PU 和施襄夏_NN 的_NN 《_PU 弈理_NN 指归_NN 》_PU 等_NN 。_PU 另_NN 外_LC ，_PU 《_P 官子譜_NN 》_PU 等圍棋_NN 高級_NN 技巧_NN 專書也_NN 在_P 此時期_NN 集_NN 結_AD 完成_VV ，_PU 可_VV 謂_NN 是_VC 棋_NN 之_NN 黃金盛世_NN 。_PU 但随后_NN ，_PU 中国_NR 围棋渐_NN 渐衰微_NN ，_PU 至_P 20_CD 世纪_NN 上_NN 半叶竞_NN 技水準_NN 完_NN 全无法与_NN 日本围棋_NN 相抗_VV ，_PU
+
+围棋在_NR 公元_NN 7_CD 世纪_NN 传入_NN 日本_NN ，_PU 很快就_NN 流行_VV 于宫廷_NN 和貴族_NN 之中_NN 。_PU 戰國_NN 末期_NN ，_PU 權臣_NN 丰臣_NN 秀吉设立_NN 碁所_VV 。_PU 德川幕府_NN 时代_VV ，_PU 出现_VV 了在_JJ 天皇_NN 或征夷_NN 大_NOI 将_BA 军面前_NN 对弈_VV 的_SP “_PU 御城棋_NN ”_PU ，_PU 日本围_NN 棋_NN 逐_NN 渐兴盛_NN ，_PU 出现_VV 了_AS 本因坊_NN 、_PU 安井_NN 、_PU 井上_NN 、_PU 林_NN 等围棋_NN 世家_NN 。_PU 其中_NN 坊门_NN 尤其_NN 人才_NN 辈出_VV ，_PU 先后_AD 出现_VV 了道策_NN 、_PU 丈和_NN 、_PU 秀和_NN 、_PU 秀策_NN 、_PU 秀甫_NN 、_PU 秀荣等_NN 杰出_VV 棋士_NN 。_PU 日本_NN 围棋_NN 由于_P 废除_VV 了_AS 中国古_NN 代围棋_NN 的_DEC 座子制_NN （_PU 中国_NR 古代围棋_NN 是_VC 放_P 四_CD 个_M 座子_NN ，_PU 就_NN 是_VC 两_CD 黑_NN 两_CD 白_CD 放在_NN 对角星_NN 的_DEC 位置_NN 上_LC ，_PU 双方在_NN 这个_NN 基础上_NN 开始布局_NN ）_PU ，_PU 布局理_NN 论得_VV 以极_NN 大_NN 发展_NN 。_PU
+
+同时_NN 由于_VV 日_NN 本棋手_NN 对_NN 唐代围棋_NN 数路法_NN 的_DEC 胜负_NN 判定规则_NN （_PU 以围_NN 地_NN 多_CD 少还是_NN 活子多少_NN 为_NN 目的_NN ——_PU 或者_NN 是否_NN 以_MSP 其它_DT 目的_NN 行_NN 棋_LC ，_PU 还_AD 可_VV 继续_VV 考证_VV ）_PU 产生_VV 了_AS 直观_NN 上_NN 的_NN 的_DEC 误解_NN ，_PU 从而_NN 产生_VV 对唐宋_NN 数路_NN 法扣除_NN 眼位和_NN 公气_NN 、_PU 明清_NN 数子_NN 法终局_NN 还棋头_NN （_PU 其_NN 本质_NN 是子多_NN 为_VC 胜_NN 、_PU 眼位不计_NN 的_DEC 胜负_NN 计算_NN 方法_NN ）_PU 的_DEC 疑惑_NN ，_PU 将_BA 其废除_NN ，_PU 从而_AD 产生_VV 了与_NN 中国_NR 古棋大_NN 为不同_NN 的_DEC 地多_NN 为_VC 胜_NN 的日式_JJ 围棋_NN ，_PU 并演变_NN 为_VC 现代_JJ 围棋_NN 。_PU
+
+明治维_NN 新以_VV 后_LC ，_PU 棋手失_NN 去幕府_NN 支持_NN ，_PU 开始_NN 谋求新_NN 的_DEC 谋生手段_NN ，_PU 导致_JJ 新闻_NN 棋战和_NN 现代段_NN 位制_VV 的_DEC 出现_NN ，_PU 并创立_NR 全国性_NR 的_DEC 日本_NR 棋院_NN 。_PU 昭和_NN 时代_NN ，_PU 吳清源_NN 和_NN 木谷_NN 实共_NN 同掀起_NN “_PU 新布局_VV ”_PU 的_DEC 潮流_NN ，_PU 开始现_NN 代围棋_NN 的_DEC 时代_NN 。_PU 其后日本_NR 棋界_NN 一流棋手_NN 辈出_VV ，_PU 如_CS 坂田荣男_NN 、_PU 藤泽秀行_NN 、_PU 高川格_NN ，_PU 及后来_NR 的_DEC 大竹_NR 英雄_NN 、_PU 石田_NN 芳夫_NN 、_PU 武宫_NN 正树_NN 、_PU 小林光_NN 一_NN 等_ETC 。_PU
+
+自晚清_NN 、_PU 民國以來_NN ，_PU 中国_NR 专业围_NN 棋水準_NN 相_NN 当低_VV 。_PU 从_NN 1960_CD 年_CD 开始_NN ，_PU 每年举_NN 办中_NN 日围棋_NN 友谊赛_NN 。_PU 其中_NN ，_PU 1961_CD 年第_NN 二_NN 届_NN 来华访_NN -_PU {}-问的日本围棋代表团中的55岁伊藤友惠五段_PU （_PU 女性_NR ）_PU 横扫_NN 中国_NR 当时_NN 顶尖棋手_NN ，_PU 八轮_NN 全胜_NN 。_PU 1964年_NT 改称_NN 中日围_NN 棋_NN 对_NN 抗赛_NN ，_PU 一_CD 直举办_NN 到_P 1992_CD 年_M 。_PU 1984_CD 年_LC ，_PU 第一_OD 届中_NN 日围_NN 棋擂_NN 台赛_NN 开幕_NN 。_PU 中國人聂_NN 卫平在前_NN 四_OD 届_NN 擂台赛_NN 中_LC 取得_VV 11_CD 连胜_NN ，_PU 极_AD 大_VA 的_DEC 推动中_NN 国围棋_NN 的_DEC 普及_NN 。_PU
+
+1982年_NT ，_PU 中国_NR 恢复_NN 实行段_NN 位制_VV 。_PU 1988年_NT 4月16_NN 日_NN 中国_NR 国家体_NN 委_AD 发布_VV 《_PU 围棋_NN 国家_NN 段位_NN 标准_NN 》_PU 《_PU 围棋_NN 国家_NN 段位_NN 标准_NN 实施_NN 细则_NN 》_PU 和_NN 《_PU 围_NN 棋地_NN 方段_NN 位制_VV 》_PU 。_PU
+
+1989年_NT ，_PU 韩国_NR 人曹_NN 薰铉_VV 在_P 第一_OD 届应氏杯_NN 世界_NN 围棋锦_NN 标赛_NN 中_LC 夺冠_VV ，_PU 同样引发_VV 韩_CD 国围棋_NN 的_DEC 热潮_NN 。_PU 此_CD 后_LC ，_PU 大量_CD 世界_NN 棋战_NN 出现_VV 。_PU 在_P 这些_DT 棋战中_NN ，_PU 韓_NN 國_NN 李昌鎬_NN 从_NN 众_AD 多_CD 棋手_NN 中_LC 脱颖_VV 而出_VV ，_PU 成为_VV 当时棋_NN 界_OD 第一_OD 人_M 。_PU 2006_CD 年后_M ，_PU 李昌_NR 鎬的_NN 状态_NN 有所下滑_VV ，_PU 李世乭_NN 、_PU 古力_NN 等_ETC 新_NN 锐势力_NN 开始_NN 对_NOI 其_PN 发起_NN 冲击_NN 。_PU 此_NN 后数_NN 年_NN 为_VC 古力_NN 、_PU 李世石_NN 双_NN 雄争霸_NN 的_DEC 年代_NN 。_PU
+
+日本第_NN 一_CD 人_NN 是_VC 連續奪_NN 得眾_VV 多_CD 頭銜_NN 的_DEC 井山裕太_NN ，_PU 成為_NN 日本_NR 第一_OD 個同_JJ 時擁有_NN 七_CD 冠_NN 頭銜_VV 的_DEC 棋士_NN ，_PU 但_CC 日本_NR 已經_NN 難_NN 以和_NN 中_NN 韓_NN 抗衡_NN ，_PU 在_P 國際賽_NN 上_NN 幾乎都_NN 是_VC 黯淡_VV 收場_VV 。_PU
+
+2010_CD 年代_NN ，_PU 中國眾多_NN 棋_P 手_NN 崛起_VV ，_PU 江維杰_VV 、_PU 范廷鈺_NN 、_PU 時越_NN 、_PU 羋昱廷_NN 、_PU 陳耀燁_NN 、_PU 周睿羊_NN 、_PU 檀嘯_NN 等年輕棋_NN 士接_NN 連贏得_NN 世界_NN 比賽冠_NN 軍_NN 。_PU 2015_CD 年_LC ，_PU 柯洁崛起_NN ，_PU 一_CD 時_M 風頭無_NN 兩_OD ，_PU 但其光_NN 芒迅_NN 速因_NN AlphaGo_NN 于_P 2016年_NT 的_DEG 横空出_NN 世而_NN 变得_VV 黯淡_NN 。_PU
+
+2018年_NT ，_PU 柯洁重_NN 整旗鼓_NN ，_PU 在_AD 三_CD 星_NN 杯與_NN 百_OD 靈_NN 杯皆_NN 取得_VV 冠軍_NN ,_PU 成為_NN 中國_NR 圍棋第_NN 一_OD 人_NN 。_PU 2019_CD 年_LC ，_PU 中國隊_NN 主將_NN 柯洁_NN 終結_NN 韓國隊_NN 主將_NN 朴廷桓_NN 帶領_NN 中_LC 國隊_VV 拿下_NN 農心杯_NN 世界_NN 冠軍_NN 榮耀_NN 。_PU
+
+2020年_NT ，_PU 11月3_NR 日第25屆三星杯_NR 三_OD 番棋_NR 決賽_NN ，_PU 中國_NR 圍棋_NN 第一_OD 人柯洁執黑_JJ 以半_NN 目優勢_NN 逆轉韓國_NN 第一_OD 人申_NN 真諝_NN ，_PU 在_NN 三_OD 番_NN 局_NN 中以_NN 2_CD -_PU 0零_CD 封奪冠_NN ，_PU 再_AD 創_AD 佳績_VV ，_PU 成為_NN 中_LC 國_NOI 圍棋史_NN 上_NN 最年_NT 輕的_VV 八_CD 冠王_M 。_PU
+
+目前职_NN 业围_NN 棋水準_NN 最_AD 高_VA 的_DEC 国家是_NN 中国_NR 和韩国_NN 。_PU 韓國雖然_NN 仍有_VV 少數頂尖_NN 高_JJ 手_JJ 支撐_NN ，_PU 但厚度_NN 不_AD 如_VV 中國_NN 。_PU
+
+围棋于_VV 19_CD 世纪_NN 晚期_NN 开始_VV 成_VV 规模_NN 的_DEC 传入欧洲_NN 。_PU 在_P 此进程_NN 中_LC 的_DEG 第一_OD 大站_NN 是_VC 德国_VV 。_PU
+
+日本_NR 为围_NN 棋_NN 在_P 全世界_NN 的_DEC 推广_NN 用力最_NN 早_NN 、_PU 最_AD 多_VA ，_PU 以致西文_NN 中_LC 的_DEG 围棋术_NN 语_VV 多_CD 来_M 自日_NN 语_LC 。_PU 1980_CD 年代_VV 以_MSP 降_VV ，_PU 中国_NR 、_PU 韩国_NR 也大力_NN 参与_VV 推广_NN 围棋_NN 。_PU
+
+1996年_NT ，_PU 美國宇_NN 航员_NN 丹巴利_NN （_PU DanielT_NN ._PU Barry_NN ）_PU 博士與_NN 日_NN 本宇_NN 航员_NN 若田光_NN 一_CD 博士_VV 在_VV 太空梭_NN 奮_NN 進號_NN 上_NN 進_NN 行首次_NN 太空_NN 圍棋對弈_NN ，_PU 他們_NN 使用_NN 一_NN 套_NN 特別_NN 設計_VV 的_DEC 太空圍_NN 棋_NN 棋具_NN ，_PU 由_P Wai_NN -_PU CheungWillsonChow_NR 所造_NN 。_PU 兩位對_NN 弈宇_NN 航员因_NN 此得_VV 到_P 日本棋_NR 院授予_NN 的_DEC 榮譽_NN 段位_NN 。_PU
+
+圍棋運動_NN 现已遍佈_NN 世界_NN 各地_NN ，_PU 唯日本_NR 、_PU 韓國_NN 、_PU 中国最_NR 為興盛_NN ；_PU 西方國_NN 家已漸熱_NN ；_PU 東南亞正_NN 在_P 發展中_NN 。_PU
+
+
+下棋_VV 时_LC ，_PU 对弈双_NN 方各执_NN 一_CD 种颜色_NN 的_DEC 棋子_NN ，_PU 黑先白后_NN ，_PU 轮流将_NN 一_CD 枚棋子_NN 放置于_VV 交叉点_NN 上_LC 。_PU 与_P 棋子_NN 直线_NN 相连_VV 的_DEC 空白_NN 交叉_NN 点叫_NN 做气_NN 。_PU 当这些_NN 气都_NN 被对方_NN 棋子_NN 占据后_NN ，_PU 该_DT 棋子就_NN 没有_VV 了_NN “_PU 气_NN ”_PU ，_PU 要被从_NN 棋盘_NN 上_NN 提掉_VV 。_PU 如果_NN 棋子_NN 的_DEG 相邻_NN （_PU 仅_NN 上下左右_VV ）_PU 直线_NN 交叉点_NN 上有_VV 了_AS 同色_VV 的_DEC 棋子_NN ，_PU 则_AD 这_P 两_CD 个_M 棋子_NN 被叫做_NN 相_NN 连的_VV 。_PU 任意_AD 多_CD 个_M 棋子_NN 可以_VV 以_P 此_NN 方式_NN 联成_VV 一体_NN ，_PU 连成_VV 一体_NN 的_DEC 棋子_NN 的_DEC 气的_NN 数目是_NN 所_AD 有_VV 组成_VV 这块棋_NN 的_DEC 单_CD 个_M 棋子_NN 气数_NN 之和_NN 。_PU 如果_CS 这些_NN 气都_NN 被异色_NN 棋子_NN 占领_NN ，_PU 这块_NN 棋子就_NN 要_VV 被一_JJ 起提掉_NN 。_PU
+
+在_P 任何_DT 情况下_NN ，_PU 均禁_NR 止棋_NN 手向_NN 棋盘_NN 连下_NN 两子_NN ，_PU 否则将_NN 立刻判负_NN 。_PU 因此_NN 较文雅_NN 的_DEC 中盘_NN 认输_NN 方法_NN ——_PU 投子_NN ，_PU 即是向_NN 棋盘_NN 摆下_VV 两_CD 枚_M 棋子_NN 。_PU
+
+<_NN /_NN div_NN >_PU
+<_NN /_NN div_NN >_PU
+
+劫是_NN 围棋_NN 中较_NN 特殊_NN 的_DEC 一_CD 种_M 情况_NN 。_PU 举例_VV 来_MSP 说_VV ，_PU 当黑_NN 方某_NN 一_CD 手提_NN 掉对_NN 方一_NN 子_NN ，_PU 而这_NN 一_CD 个_M 黑子恰好_NN 处_NN 于白_NN 方虎口_NN 之内_NN ，_PU 这时白_NN 方不_NN 能_VV 立即_JJ 提掉这_NN 一_CC 黑子_NN ，_PU 而_MSP 必须_VV 在_VV 棋盘_NN 其_NN 他地_NN 方着_NN 一_OD 手_NN （_PU 称_NN 为_VC “_PU 找劫材_NN ”_NN ）_PU ，_PU 使黑_NN 方不_NN 得_VV 不_AD 应_VV 一_CD 手_NN （_PU 称_NN 为_VC “_PU 应劫_NN ”_PU ）_PU ，_PU 然_CS 后白才_NN 能够_VV 提掉_VV 这_CD 个_M 黑子_NN 。_PU 故_AD 高_JJ 手下棋_NN 常常_JJ 會保留_NN 一些_CD 先手作_NN 為劫材_NN ，_PU 一_CD 旦_NN 形成_VV 打劫_NN ，_PU 劫材多_NN 的_DEG 一_CD 方打勝_NN 的_DEC 可能性較_NN 大_VA 。_PU
+
+劫_CD 依其_NN 重要性_NN 分_NN 為天_NT 下劫_VV 、_PU 死活劫_NN 、_PU 官子_NN 劫等_NN 。_PU 天下劫_NN 表示_VV 整盤_NN 棋最_NN 重要_VA 的_DEC 一_CD 個劫_NN ，_PU 意即_NN 不管選_NN 擇_OD 任何_DT 劫材威_NN 脅_NN ，_PU 對手都_NN 很_AD 可_VV 能_VV 直接_VV 消_CD 劫並_NN 得到_VV 巨_AD 大_VA 的_DEV 利益_VV ，_PU 例如_AD 黑白各_NN 50_CD 子_NN 的_NN 大龍_NN 形成_VV 攻殺_NN ，_PU 這時劫_NN 材很_NN 可能不_NN 被_SB 理會_VV 。_PU
+
+下子時_NN ，_PU 除非能_NN 令對_NN 方某_NN 些子_NN 失去_NN 所有_VV 的_DEC 氣_NN ，_PU 否則不_NN 得下子_NN 令自己某_NN 些子_NN 失去所_NN 有氣_VV ，_PU 這亦被稱為_NN 「_PU 禁止_NN 自殺規則_NN 」_PU 。_PU 應氏規則_NN 對_P 此_PN 略有_VV 不同_VA 。_PU
+
+一_CD 塊_NN 棋若_NN 能_VV 在_P 按正確_NN 的_DEC 走法應對_NN 之下永遠_NN 保持_NN 存活_NN ，_PU 則稱_NN 之為活_NN 棋_NN ，_PU 否則稱為_NN 死棋_NN 。_PU
+
+在圍棋_NR 當中_NN ，_PU 一_CD 方_NN 的_DEG 棋子_NN 在_NN 棋盤_NN 上_NN 所_AD 圍成_VV 的_DEC 一_CD 個_NN 或_AD 多_CD 個相_NN 連_NN 空白_JJ 交叉_NN 點_CD 稱作_NN 「_PU 眼位_NN 」_PU 或_NN 「_PU 實空_NN 」_NN 。_PU 當_NN 眼位只含_NN 一_OD 個_NN 點_OD 時_M ，_PU 如果_CS 該_NN 點_OD 的_DEG 斜向鄰_NN 點_OD 有_NN 超過_VV 一_CD 半皆_NN 不_AD 能_VV 被_SB 對方_VV 的_DEC 棋佔據_NN ，_PU 則稱為真_NN 眼_NN ，_PU 否則稱為_NN 假眼_VV 。_PU 只_AD 要_VV 一_CD 塊棋能_NN 形成_VV 包圍住_NN 兩_CD 個以上真眼_VV 的_DEC 形狀_NN ，_PU 則_NN 該_NN 塊棋就_NN 不_AD 會_VV 被_SB 對手_VV 吃_NN 掉_NN 。_PU
+
+如果_CS 在_VV 按照理_NN 想走法_NN 的_DEC 情況下_NN ，_PU 棋盤上_NN 的_DEC 某塊棋最_NN 終能_NN 形成_VV 包圍住_NN 兩_CD 個_NN 以上_NN 真眼_NN 的_DEC 形狀_NN ，_PU 則該塊棋_NN 就算是_NN 活棋_NN 。_PU 這種型_JJ 態的_NN 活棋最_NN 為常見_NN ，_PU 其它_NN 形式_NN 的_DEC 活棋則稱_NN 為雙活_NN 。_PU
+
+在對局_NR 過程_NN 中_LC ，_PU 任何_DT 一_CD 方皆可_NN 選擇棄權_VV 一_CD 手_M ，_PU 如果雙_NN 方都_NN 棄權_VV ，_PU 則對局_NN 結束_VV ，_PU 並依據_NN 裁判_NN 或對_NN 局雙方_NN 的_DEC 意見_NN ，_PU 將棋盤_NN 上_NN 的_DEC 棋子_NN 各_NN 自認定為_NN 死棋或_NN 活棋_NN 。_PU 接著_NN 進入_NN 決定勝負_NN 的_DEC 階段_NN 。_PU
+
+圍棋流_NN 傳多_VA 地_DEV ，_PU 各有變化_VV ，_PU 演變出_VV 不同_VA 的_DEC 規則_NN 。_PU 目前_NN 世界上_NN 使用_NN 较_AD 多_VA 的_DEC 有_NN 中_NN 国规则_NN 、_PU 日韩规则_NN 和_CC 应氏_NN 规则_VV 。_PU 其_PN 本质_NN 皆_NN 以围_NN 地_NN 为_VC 目的_NN 行_NN 棋_LC ，_PU 由于_P 对_NN ‘_PU 地_NN ’_PU 这_NN 一_CD 概念_NN 三_CD 者存_VV 在_VV 逻辑_NN 上_NN 互相_NN 平行_VV 的_DEC 不同_JJ 说明_NN ，_PU 一_CD 直有_M 分歧_NN 。_PU 经_NN 过改进_NN 对_NN “_PU 地_NN ”_PU 的定义_JJ 说明_NN ，_PU 去除人_NN 为硬性_NN 规定_VV ，_PU 现在三种_JJ 规则_NN 的_DEC 实践中_NN 差异很_NN 小_VA ，_PU 只在_NN 极端_NN 情形下_NN ，_PU 才_AD 会_VV 有胜_VV 、_PU 平_NN 、_PU 负_NN 的_NN 差别_NN 。_PU
+
+日韩_NR 规则_NN 中_LC ，_PU 棋子_NN 所围成_NN 的_DEC 空白_NN 交叉_NN 点叫做_NN 目_NN ，_PU 最终_JJ 以目_NN 多_NN 的_DEG 一_CD 方_NN 为_VC 胜方_NN ，_PU 所以_AD 日本的_NR 圍棋規_NN 則_NN 稱為比_NN 目法_NN 。_PU 对_CD 局时_NN 需_CD 保留_VV 死子_NN ，_PU 终局_NN 后双_NN 方将盘_NN 上_NN 死子_NN 及提掉_NN 的_DEC 死子_NN 填入_NN 对方_NN 实空中_NN ，_PU 再_AD 计算双_NN 方实空_NN 。_PU 黑棋贴_NN 给白棋_NN 6_CC 目半_NN （_PU 等於_JJ 3又1_NN /_PU 4子和_NN 7點_CD ）_PU 。_PU 如果白棋_NN 实空加_NN 上_NN 贴目_NN 后多_VV 于黑_NN 方则白胜_NN ，_PU 否则黑胜_VV 。_PU
+
+计算胜负_NN 时_NN ，_PU 中国_NR 规则与_NN 日韩规则_NN 有所不同_VV 。_PU 按照中_NN 国规则_NN （_PU 數子法_NN ）_PU ，_PU 一盘棋_NN 结束_VV 后_LC ，_PU 將死_NN 棋拿掉_NN ，_PU 如果双_NN 方对_NN 是否死棋_NN 产生_VV 争议_NN ，_PU 通过_P 实战_NN 解决_NN 。_PU 之后_VV ，_PU 如_CS 果黑_NN 方活棋_NN 加上_VV 包圍_VV 的_DEC 交叉_NN 點_AD 达到_VV 185_CD （_PU 黑棋_NN 由于_VV 先行优_JJ 势须贴_NN 给白棋_NN 3_CD 又_CC 3/_CD 4子_NN ，_PU 等於_NN 7_NN 目半和_NN 8_OD 点_NN ）_PU 则黑胜_NN ，_PU 少于_VV 此数_NN 目则白胜_NN 。_PU 。_PU
+
+而应_NN 氏规则是_NN ，_PU 数各方_NN 占据_NN 的_DEC 交叉点_NN 的_DEG 数目_NN ，_PU 称作_VV “_PU 计点_NN ”_PU 。_PU 其中_NN 黑棋贴_NN 8_OD 点_NN （_PU 等於_NN 7_CD 目_NN 半和_NN 3_CD 又_CC 3/_CD 4子_NN ）_PU ，_PU 占点多_NN 的_DEC 一_CD 方胜_NN ，_PU 和_P 棋黑勝_NN 。_PU 除去_NN 比赛_NN 组织_NN 和_NN 棋士_NN 组织_VV 的_DEC 一些_CD 规定_NN 外_LC ，_PU 就_AD 规则_VV 的_DEC 核心部_NN 分_NN 而_CC 言_NN ，_PU 应_NN 氏_NN 规则与_NN 中国_NR 规则并_NN 无_VE 明显_VA 区别_VV 。_PU
+
+比目法_NN 和_P 數子_NN 法_NN 在_P 大多_CD 數情況_NN 下_NN 結果_NN 相同_VV ，_PU 但也有少_VV 數例外：_JJ 比如雙活_NN 時_NN ，_PU 比目法_NN 不計地_VV 。_PU 數子_NN 法_NN 不_AD 必_VV 保存_VV 好提子_NN ，_PU 但_NN 是_VC 必_JJ 須把所_NN 有_VV 單官_NN （_PU 沒有_VV 目數差異_NN 的_DEC 官子_NN ）_PU 填滿_NN ，_PU 而且_NN 若黑_NN 下到_VV 整盤棋_NN 的_DEC 最後一個_JJ 單官_NN ，_PU 則會多一_NR 目_NN （_PU 比白子_NN 多_CD 下_DT 一_CD 手_NN ）_PU 。_PU
+
+在_AD 不_AD 贴_VV 目的_NN 时期_NN ，_PU 因为没_NR 有所谓_NR “_PU 贴目_NN ”_PU ，_PU 时有_JJ 和棋_NN ；_PU 自從_NN 加入_VV 了_AS 半目的_NN 貼目_NN （_PU 或_CC 四分之_CD 三子_NN ）_PU 後_NN ，_PU 計算_NN 目數_NN 時便_VV 不會和局_NN 。_PU
+但是仍_NN 然有_VV 一種_JJ 情況_NN 會无法_NN 分出_VV 胜_VV 负_NN ，_PU 无法_AD 终局_VV ，_PU 即_AD 所谓_JJ 无胜负_NN ，_PU 包括_VV 循環劫_NN （_PU 三_CD 劫_NN 循環_NN ，_PU 四_CD 劫_NN 循環等_NN ）_PU 长生_VV 、_PU 双提_NN 二_OD 子_NN 。_PU 当黑白_NN 一_CD 方如果_NN 捨棄_NN 循环_NN 劫則會輸_NN 时_LC ，_PU 雙方_NN 不_AD 能_VV 停止_VV 提劫_NN ，_PU 便无法终局_NN （_PU 无胜负_NN ）_PU 。_PU
+现代_JJ 較著_NN 名无_NN 胜负_NN 的_DEC 棋局有_NN 古力和_NN 李世石_NN 在_P 第17_OD 届_M 三_OD 星_M 财产杯_NN F_NN 组胜者_NN 组次轮_NN 下出_VV 一_OD 盘_NN 四_OD 劫_NN 循環_NN 无胜负_NN 。_PU
+但亦有_NR 某些_NN 規則_NN 不允許_NN 全局同型_NN 再現_NN （_PU 如应_NN 氏规则_NN ）_PU ，_PU 也就_NN 是_VC 棋_BA 盤不能_NN 和_P 這盤棋_NN 以_MSP 前的狀態_VV 一_CD 模一_NN 樣_NN ，_PU 從而_NN 限制_VV 无胜负_NN 的_DEG 出现_NN 。_PU
+
+其实中_NN 国规则_NN 一_CD 直原则_NN 上_NN 规定不允许同形_JJ 再现_NN ，_PU 但只是_NN 为了_P 解决_VV 某些_NN 常见的_NN “_PU 病态_NN ”_PU 棋形如_NN “_PU 假生_NN ”_PU 、_PU “_PU 盘角曲_NN 四_NN ”_PU 等而设_NN ，_PU 遇到_VV 三_CD 劫_NN 循环_NN 、_PU 长生等_NN 情况仍_NN 然_NN 按习惯_NN 法_NN 判_NN 无胜负_NN 。_PU
+
+围棋_NN 对弈_NN 进程_VV ，_PU 分布_VV 局_NN 、_PU 中盘_NN 、_PU 收官_NN 三_CD 个_M 阶段_NN 。_PU 而_CC 阶段_NN 之间并_NN 没有_VV 明显_VA 的_DEC 界线_NN 。_PU
+
+在布局_NR 阶段_NN ，_PU 对局双_NN 方各_NN 自抢占_NN 棋盘_NN 上_LC 的_DEC 空地_NN ，_PU 同时_NT 尽量_NN 阻止对_NN 方占地_NN ，_PU 由_P 此导入_NN 中盘_NN 战斗_VV 。_PU 此时_NN 落子_NN 尚少_NN ，_PU 盘面尚_NN 大_VA ，_PU 无法作_NN 精确_NN 的_DEC 计算_NN ，_PU 因而_AD 考验_VV 的_DEC 是棋手_NN 的_DEC 大局观_NN 和棋感_NN 。_PU
+
+以圍空_NN 效率_NN 而言_LC ，_PU 角上最_NR 高_ETC ，_PU 中腹最差_NN 。_PU 一_CD 局棋往_NN 往以_NN 佔角_NN 開始_NN ，_PU 繼_BA 之以_NN 守角_NN 和掛角_NN （_PU 阻止對_NN 方守角_NN ）_PU 形成_VV 角上_NN 的_DEC 攻防_NN ，_PU 然後_NN 是拆邊_NN 和分投_NN （_PU 阻止對_NN 方拆邊_NN ）_PU ，_PU 即所謂_NN 「_PU 佔大場_NN 」_PU 。_PU 佈局_NN 時行_VV 棋以_NN 三四_CD 線為主_NN 。_PU 其中_NN 经过人们_NN 长久以来的_JJ 经验_NN 累积_NN ，_PU 而_MSP 形成_VV 的_DEC 在_NN 某些_NN 情况_NN 下双_NN 方都会_NN 依循_VV 的_DEC 固定下法_NN 被称_VV 为_VC 定式_NN 。_PU
+
+中盤阶段_NN 时_LC ，_PU 双方_VV 为_VC 围地_NN 而作战_NN ，_PU 局面_NN 瞬息_NN 万_OD 变_NN 。_PU 中盘_NN 战术是_NN 对棋手攻_NN 守_NN 、_PU 死活_NN 、_PU 大局观_NN 等多_NN 方面_NN 的_DEC 考验_NN 。_PU
+
+一_CD 个_M 围棋_NN 边角_NN 上_NN 对战_NN 的_DEC 实例_NN （_PU 黑棋差_NN 一_OD 步_NN ，_PU 被_NN 白棋杀死_VV ）_PU ：_PU
+收官_NN 指双_NN 方经过_NN 中盘_NN 战斗_VV ，_PU 地盘_NN 及_NN 死活已_NN 经_AD 大致_AD 确定_VV 之后_AD ，_PU 确立_VV 竞逐边界_NN 的_DEG 阶段_NN 。_PU 此时要_NN 根据_NN 精密_NN 的_DEG 计算_NN ，_PU 以正确_NN 的_DEC 顺序收官_NN ，_PU 否则会_NN 遭受_VV 目数_NN 的_DEG 损失_NN 。_PU
+
+在過去_NR 的_DEC 日本_NR ，_PU 暫停棋_NR 局改天_NN 再下_VV ，_PU 稱為打掛_NN 。_PU 是_VC 棋力較_NN 高或_NN 是尊長持_NN 白棋者_NN 的_DEG 權力_NN 。_PU
+
+古代_VV 的_DEC 围棋_NN ，_PU 沒有_VV 团体_NN 讨论_VV 的_DEC 传统_NN 。_PU 對弈_NN 之中_NN ，_PU 棋中不_NN 語_NN ，_PU 對弈者_NN 和_P 旁觀者_NN 不_AD 會_AD 做_VV 討論_NN 。_PU 但_NN 是_VC 一_CD 盤棋_NN 如果_NN 中途暫停_NN ，_PU 改日再下_NN ，_PU 在_VV 休戰_NN 的_DEC 期間_NN ，_PU 難以_VV 限制棋_NN 手_NN 不_AD 和_VV 他人_NN 討論_VV 。_PU
+1933年_NT ，_PU 吴清源_NN 对本因_NN 坊秀哉_NN 的_DEC 對局_NN ，_PU 秀哉利_NR 用白_NN 棋_NN 的_DEG 特权_NN 频频_NN 打挂_VV ，_PU 每次打挂_VV 后就召集_NR 坊门_NN 弟子_NN 集体_NN 讨论_VV 。_PU 决定胜负_NN 的_DEC 一_CD 手_NN （_PU 第_NN 160_CD 手_NN ）_PU ，_PU 据瀨越_NN 憲作于_VV 1948_CD 年座_NN 談會_VV 的_SP “_PU 不能發表_NN ”_PU 之言_NN ，_PU 是秀哉_NN 的_DEC 弟子_NN 前田陈_NN 尔_AD 发现_VV 的_SP （_PU 但前_JJ 田拒_NN 不承認_NN ）_PU 。_PU 因此这_NN 一_OD 盘_NN 棋_LC ，_PU 实际上_NN 是本因_NN 坊团队_NN 与_P 吴清源_NN 一_CD 人_NN 的_DEG 较量_NN 。_PU 这局_NN 棋持续_NN 时间_NN 长_NN 达_VC 四_CD 个_M 月_NN ，_PU 最_AD 后吴_NN 清源_NN 二_NN 目败_NN 。_PU
+
+後世普_NN 遍認_NN 為打_NN 掛並不_NN 公平_VV ，_PU 白棋棋_NN 手想不出_JJ 應對_NN 可以_VV 宣_CD 告打掛_NN 回家_NN 思考_NN ，_PU 黑棋棋手_NN 卻_AD 不行_VV 。_PU 因此_NN 日本_NR 後來_NN 發明封手_NN 制度_NN ，_PU 黑白雙_NN 方都_NN 有_VE 機會_JJ 宣告_NN 打掛_NN ，_PU 同時_NN 提出_VV 打_JJ 掛_NN 一_CD 方應把_NN 要下的下_VV 一_CD 手棋寫_NN 下來_VV 密封_VV ，_PU 交給_NN 棋証_NN 保管_NN ，_PU 稱為_NR 封手_NN 。_PU 改日再_NN 戰時_VV ，_PU 把_BA 信封打_NN 開_NN 確認_NN 正確性_NN 之後_NN ，_PU 繼續_NN 對局_NN 。_PU 1938年_NT 秀哉的_NN “_PU 名人引_NN 退棋_NN ”_PU ，_PU 對手木_NN 谷實_VV 就_AS 強烈_NN 要求_NN 使用封_NN 手制_VV ，_PU 并_AD 最_AD 終得_VV 以實現_NN 。_PU
+
+圍棋一_NR 般規則為_NN 一_CD 對_CC 一_CD 進行_NN 對弈_NN 。_PU 一_CD 对多或多_NN 對_AD 多_VA 的_DEC 對弈_NN ，_PU 叫做_NN 聯棋_NN 或团_NN 队围棋_NN 。_PU
+
+联棋_NN 棋局_NN 進行中_NN ，_PU 隊友_VV 之間不會_NN 進行_VV 討論_NN 。_PU 常见_NN 的_DEC 赛制是_NN 四_OD 人_NN 联棋_VV ，_PU 例如_AD 甲_VA 、_PU 乙兩人一_NN 隊_NN 持黑_VV ，_PU 丙_NN 、_PU 丁_NN 兩_OD 人_NN 一_OD 隊持白_NN ，_PU 則下棋_NN 的_DEC 順序是甲下_NN 黑子_NN ，_PU 丙下_NN 白子_NN ，_PU 乙下_NN 黑子_NN ，_PU 丁下_NN 白子_NN ，_PU 如此_NN 周而復始_NN 。_PU 宋代学_NN 者沈括_NN 即谈_VV 到_P 过这种_NN 比赛_NN 形式_VV 。_PU 2003年_NT ，_PU 韓國舉辦_NN 過_VV 一_CD 项名为_NN “_PU 韩国四大天王_NR 联棋对_NN 抗赛_NN ”_PU 的_DEC 活动_NN ，_PU 由_P 曹薰铉_NN 、_PU 李昌镐師_NN 徒_NN 执白_NN 对阵李世_NN 石_NN 、_PU 刘昌赫_NN 。_PU 世界_NN 智力_NN 运动会_NN 等_ETC 多_CD 个_M 综合性_NN 智力_NN 运动会_NN 的_DEC 围棋混_NN 双_NN 赛_NN 项目亦_NN 皆_NN 为_VC 四_NN 人_NN 联棋_NN 。_PU 另_NN 外_LC ，_PU 2015_CD 年_CD 开始_NN 举办_VV 的_DEC 城市_NN 围棋联_NN 赛_NN 的_DEG 赛制是将_NN 一_CD 盘_NN 棋_AD 按_LB 手数_NN 分_NN 为_VC 数_CD 个_M 阶段_NN ，_PU 双_CD 方在_NN 每_DT 个_M 阶段派_NN 不同_VA 的_DEC 队员上_NN 场_NN ，_PU 并_AD 有换_VV 人_NN 名_NN 额_LC ，_PU 这被称_NN 为_VC 接力赛_NN ，_PU 同样_AD 是_VC 一_CD 种_M 联棋_NN 。_PU 一_CD 对_M 多_CD 的_M 联棋则_NN 经常_VV 出现_VV 在_VV 棋界的_NR 纪念_NN 仪式_NN 中_LC ，_PU 如_CS 吴清源_NN 1984_CD 年引退_NN 时_NN 即_AD 举行_VV 了_AS 吴对众_NN 棋士_VV 的_DEC 联棋_NN ，_PU 由吴_VV 的_DEC 师兄桥_NN 本宇太_NN 郎_NN 开局_VV ，_PU 桥本_VV 第一_OD 手打在_JJ 天元_NN 。_PU
+
+允_CD 许团队_NN 内部_NN 讨论_VV 的_DEC 团队_NN 围棋_NN 比赛_NN 也_AD 出现_VV 过_CD 。_PU 1933_CD 年吴_M 清源与_NN 秀哉名人_NN 的_DEG 对局_NN ，_PU 执白_NN 的_DEC 秀哉_NN 利用上_NN 手_NN 特权_NN ，_PU 多次宣布_NN 打挂_VV ，_PU 然_BA 后召_NN 集门人_NN 弟子_NN 集体_NN 讨论_VV 的_DEC 做法_NN ，_PU 即_AD 可_VV 视作_VV 一_CD 种_M 团队围棋_NN 。_PU 大约同一时期_NR ，_PU 以木谷实_NN 、_PU 吴清源_NN 为_VC 一_CD 方_M ，_PU 铃木_NN 为_VC 次郎_NR 、_PU 濑越宪_NN 作为_P 另_DT 一_CD 方_NN （_PU 铃木_NR 、_PU 濑越_NR 分别_NN 是_VC 木谷_NR 、_PU 吴的_NR 师傅_NN ）_PU 曾下_NN 过名为_NN 相谈棋_NN 的_DEC 比赛_NN 。_PU 中国_NR 国家_NN 围棋队_NN 内部_NN 一_CD 直有_VV “_PU 加压棋_NN ”_PU 的_DEC 传统_NN ，_PU 即_AD 一_CD 对_NN 多_CD 的_DEG 训练棋_NN ，_PU 以此来_NN 对即_VV 将_BA 参加重要_JJ 比赛_NN 的_DEC 那个人_NN 进行_VV 强化训练_NN 。_PU 2013年_NT 开始_NN 、_PU 举办过_NN 两_CD 届_NN 的_SP “_PU 珠钢杯_NN ”_PU 世界_NN 围棋_NN 团体赛_NN 的_DEC 决赛为_NN 3_OD 对_NN 3_OD 的_DEG 相谈棋赛_NN 。_PU 2017_CD 年中_NN 国乌_NN 镇围棋_NN 峰会中_NN 也_AD 举行_VV 过一对多的_JJ 团队围_NN 棋赛_VV ，_PU 由_P AlphaGo_NN 对阵中_NN 国_NN 五_CC 名_NN 顶尖_NN （_PU 人类_NR ）_PU 棋手_NR 。_PU 此_NN 外_LC ，_PU 互联网_NN 上_NN 也有_VV 提供_VV 团_AS 队围棋_NN 对弈_VV 的_DEC 平台_NN 。_PU
+
+《_PU 忘忧_NN 清乐集_NN 》_PU 中_NN 的_SP “_PU 图法_NN ”_PU 一_CD 节_M 提到_VV ：_PU
+
+《_PU 弈理_NN 指归_NN 》_PU 亦有_VV 介绍_NN ：_PU
+
+即_AD 从_P 左下角_NN 起顺_VV 时_CD 针将_NN 四角标记_NN 为_VC 平_NN 、_PU 上_NN 、_PU 去_NN 、_PU 入_NN 。_PU 先确定_NN 左角尖_NN 为_NN “_PU 平_NN 一一”_CD ，_PU 横行向_NN 右得_VV “_PU 平_BA 一二…_CD …_PU 平_NN 一九”_CD ，_PU 竖行向_NN 上得_VV “_PU 平_BA 二一…_CD …_PU 平_NN 十一”_CD 。_PU 其余_DT 三角_NN ，_PU 依此_NN 类_NN 推_LC ，_PU 如_NN “_PU 上_NN ”_PU ，_PU 则竖_NN 行向下_NN 顺_CD 数至_NN “_PU 上_NN 一九”_CD ，_PU 再向右_NN 横数至_NN “_PU 上_NN 十_P 一_NN ”_PU 之_NN ；_PU “_PU 去_NN ”_PU ，_PU 先从右上_NN 角向左_NN 横数至_NN “_PU 去_NN 一九”_CD ，_PU 再向下_NN 竖_CD 数至_NN “_PU 去_NN 十一”_CD ；_PU “_PU 入_NN ”_PU ，_PU 则向上_NN 竖_NN 数至_NN “_PU 入_NN 一九”_CD ，_PU 再_AD 横向_NN 左数至_NN “_PU 入_NN 十一”_CD 。_PU 定点法是_NN “_PU 平_NN ”_PU 先_NN 竖数_NN ，_PU 后横数_NN ，_PU 如_NN “_PU 平_NN 六三”_CD 则是_NN “_PU 平_NN 六一_CD ”_PU 与_NN “_PU 平_NN 一三”_CD 的_DEC 交点_NN ；_PU “_PU 上_NN ”_PU 先_NN 横数_NN ，_PU 后竖数_NN ，_PU 如_NN “_PU 上_NN 三七_CD ”_PU 在_NN “_PU 上_NN 星位_NN ”_PU 的_DEC 左下方_NN ；_PU “_PU 去_NN ”_PU 先_NN 竖数_NN ，_PU 后横数_NN ，_PU 如_NN “_PU 去_NN 八三_CD ”_PU 在_NN “_PU 去_NN 星位_NN ”_PU 的_DEC 右下方_NN ；_PU “_PU 入_NN ”_PU 先_NN 横数_NN ，_PU 后竖数_NN ，_PU 如_NN “_PU 入_NN 九三_OD ”_PU 就在“入_JJ 星位_NN ”_PU 的_DEC 左下方_NN 。_PU 这样_VV ，_PU 每_DT 个_M 枰点_NN ，_PU 即_AD 所谓_JJ 交叉点_NN ，_PU 都有且只有_VV 一_CD 个_M 代码了_NN 。_PU
+
+棋盘_NN 的_DEG 上方_NN 和_NN 下_NN 方用_NN 英文_NN 的_DEC 前_NN 19_CD 个_M 字母自_NN 左_JJ 至_JJ 右顺次_NN 标记它_NN 的_DEG 19_CD 条_M 纵线段_NN ，_PU 在_P 棋盘_NN 的_DEC 左边和_NN 右边用_NN 阿拉_NN 伯_CD 文_NN 的_DEC 前_NN 19_CD 个_M 自然数_NN 自下至_NN 上_NN 顺_NN 次标记_NN 它_NN 的_DEG 19_CD 条_M 横线段_NN 。_PU 按照笛_NN 卡儿_NN 坐标_NN 系_NN 原理_NN ，_PU 建立_VV 起_NN 坐標系_NN ，_PU 与_P 国际象_NN 棋_P 所_NN 使用_VV 的_DEC 坐标_NN 系_NN 相似_VA 。_PU
+
+字母_NN 和_NN 数字_NN 的_DEC 有序排_NN 列就_NN 是_VC 枰点_NN 的_DEC 坐标_NN （_PU 英文_NN 字母_NN 为_VC 横坐标_NN （_PU x_NN 軸_OD ）_PU ，_PU 阿拉_NN 伯_CD 数字_NN 为_VC 纵坐标_NN （_PU y_NN 軸_NN ）_PU ）_PU 。_PU 棋盘_NN 上_LC 的_DEG 每_DT 一_CD 个_M 枰点都_NN 可用它_NN 的_DEG 坐标_NN （_PU x,_CD y）_NN 来_MSP 表示_VV 。_PU 例如_AD ：_PU J10_NN 表_NN 示天元_NN ，_PU P16_NN 表示_VV 右上_NN 的_DEC 星位_NN ，_PU D4_NN 表示_VV 左下_NN 的_DEC 星位_NN 。_PU
+
+如下所示_NN :_PU
+
+即将_NN 棋盘_NN 分_NN 为_VC A_NN 、_PU B_NN 、_PU C_NN 、_PU D四_CD 个_M 区域_NN ，_PU 这样_AD ，_PU 便可只_NR 使用_NN 0_OD 、_PU 1_OD 、_PU 2_OD 、_PU 3_OD 、_PU 4_OD 、_PU 5_OD 、_PU 6_OD 、_PU 7_OD 、_PU 8_OD 、_PU 9十_CD 个_M 阿拉_NN 伯_NOI 数字来_NN 标记_NN 棋盘_NN 上_LC 的_DEG 每_DT 一_CD 个_M 枰点_NN ，_PU 使_VV 得记谱_NN 简便_VV 。_PU
+
+例如_AD ，_PU 右上_NN 星位的_NN 坐标_NN 为_VC A（4，4）_NN ，_PU 右上_VV 三三_CD 的_DEC 坐标为_NN A_NN （_PU 3_CD ，_PU 3）_CD ；_PU 左下_NN 星位_VV 的_DEC 坐标为_NN C_NN （_PU 4_CD ，_PU 4）_CD ，_PU 左下_NN 三三_CD 的_DEC 坐标为_NN C_NN （_PU 3_CD ，_PU 3）_CD ；_PU 上面边_NN 上_AD 星位_VV 的_DEC 坐标是_NN 上_NN （_PU 0_CD ，_PU 4）_CD ，_PU 左面边_NN 上_NN 星位_VV 的_DEC 坐标是_NN 左_NN （_PU 4_CD ，_PU 0）_CD ；_PU 天元_NN 的_DEC 坐标为_NN （_PU 0_CD ，_PU 0）_CD 。_PU
+
+（_PU 按笛_NN 卡尔_NN 直角_NN 坐标法_NN ，_PU 枰点_NN 坐标_NN 为有_VV 序数对_NN ，_PU 先横_NN （_PU "x"）_PU 后纵_NN （_PU "y"）：（"x，y"）_PU 。_PU ）_PU
+
+即棋盘_NN 的_DEG 上方_NN 和_NN 下_NN 方用_NN 英文_NN 的_DEC 前_NN 19_CD 个_M 字母自_NN 左_JJ 至_JJ 右顺次_NN 标记它_NN 的_DEG 19_CD 条_M 纵线段_NN ，_PU 在_P 棋盘_NN 的_DEC 左边和_NN 右边用_NN 英文_NN 的_DEC 前_NN 19_CD 个_M 字母自_NN 下_AD 至上顺次_VV 标记它_NN 的_DEG 19_CD 条_M 横线段_NN 。_PU
+
+其_CD 好处是_NN ：_PU k_NN 、_PU l_NN 、_PU m_NN 、_PU n_NN 、_PU o_NN 、_PU p_NN 、_PU q_NN 、_PU r_NN 、_PU s_NN 与_P 11_CD 、_PU 12_CD 、_PU 13_CD 、_PU 14_CD 、_PU 15_CD 、_PU 16_CD 、_PU 17_CD 、_PU 18_CD 、_PU 19_CD 相比_NN ，_PU 读或写_NN 都更_NN 简单_VA 。_PU
+
+有_VE 一_CD 些_NN 系统_NN 在_P 使用_NN 字母标_NN 记_NN 时_LC ，_PU 越_P 过字母_NN 「_PU I_NN 」_PU 或者_CC 「J」_CD （_PU 例如_AD IGS_NN 是越过_NN I_NN ）_PU 。_PU 其理_NN 由据说_NN 是_VC 怕引起_NR 混淆_NN ，_PU 实际_NN 使用_NN 中应_NN 先确认_NN 协议_NN 规定_NN 。_PU
+
+自从_NN 互联网_NN 的_DEC 兴起_NN ，_PU 网络_NN 下棋_NN 成为_VV 了_AS 大_JJ 众围棋_NN 对弈_VV 的_DEC 主要_NN 形式_VV 。_PU 網路_NN 圍棋_NN 比赛也_NN 日_NN 渐_NN 兴盛起来_NN 。_PU 网络_NN 围棋_NN 寻找_NN 棋友_NN 方便_VA ，_PU 对弈后_NN 资料_NN 保留_NN 妥当_NN 。_PU 网络_NN 围棋_NN 比赛_NN 方兴_NN 未艾_VV 。_PU 而且_NN 网络_NN 围棋_NN 可_VV 在_P 對弈時_NN ，_PU 模擬下_NN 步結果_NN 和_P 推演_NN ，_PU 加強_VV 戰略上_NN 的_DEC 發展_NN 。_PU 根據_NN 對局_NN 時間_NN 限制與否_NN ，_PU 網絡_NN 圍棋可_NN 大體_VV 劃_NN 分為即_NN 時_NN 對弈_NN 和非即時_NN 對_P 弈_NN 兩_OD 類_NN 。_PU 目前_NN 的_DEC 主流_NN 對弈_NN 平臺大多_NN 屬于_VV 「_PU 即_AD 時對弈_NN 平臺_NN 」_NN ，_PU 但_NN 「_PU 非即時對_NN 弈_NN 平臺_NN 」_PU 在_P 近幾年也_NN 逐漸_VV 開始_NN 流行_NN 。_PU
+
+最早的_JJ 国际性_NN 围棋网_NN 上_NN 对弈站_NN 点_NN 应该_VV 是_VC IGS_NN （_PU InternetGoServer_NR ）_PU ，_PU 为日本_NN PANDA_NN -_PU GO_NN 公司_NN 所有_VV ，_PU 现在_JJ 仍然_NN 是最大_NN 的_DEC 国际性_NN 围棋_NN 网站_NN 。_PU PANDA_NN -_PU GO_NN 公司同_NN 时_NN 出品_NN 用于_NN IGS_NN 的_DEC 对弈_NN 客户端_NN glGo_NN ，_PU 该_DT 软件_NN 可以_VV 实现_VV 网络_NN 对弈_NN ，_PU 也_CC 可以_VV 配合_VV 开源_NN 软件_NN GNUGo_NN 实现_VV 人机_NN 对_NN 弈_LC ，_PU 据称_NN GNUGo_NR 的_DEC 最高水準_NR 大_ETC 约在业余_NR 初段_NN 上下_VV 。_PU IGS_NN 同时也_NN 支持第_NN 三_AD 方_VA 的_DEC 客户端_NN ，_PU 例如_AD Sente_NN 开发_NN 的_DEC Goban_NN （_PU 仅_AD 运行于_VV MacOSX_NN 平台_NN ）_PU 。_PU
+
+除_CD IGS_NN 外_LC ，_PU 主要的_JJ 对弈_NN 网站_NN 还有_VV KGS_NN 、_PU 野狐_NN 、_PU Tom_NN 棋圣道场_NN 、_PU 弈城_NN 、_PU 新浪_NN 、_PU 联众_NN 、_PU LGS_NN 、_PU 台灣圍棋_NN 網_NN 、_PU QQ_NN 围棋_NN 、_PU 台灣棋_NN 院文化基_NN 金會_NN 、_PU OGS_NN 等等_NN ，_PU 多数_NN 网站都_NN 使用_NN 自己开发_NN 的_DEC 专属_NN 客户端_NN 。_PU
+
+與其它_NN 棋類_NN 遊戲相比_NN ，_PU 電腦_NN 模擬_NN 的_DEC 圍棋人_NN 工智_NN -_PU {zh-cn:能;zh-tw:慧;}-棋力進展相對緩慢。在1997年，就有電腦可以擊敗世界西洋棋棋王卡斯帕洛夫，但圍棋軟-{zh-cn:件;zh-tw:體;}-_PU 直到_NN 2016_CD 年才_NN 有_NN 辦法擊_NN 敗_NN 頂_NN 尖圍棋_NN 棋士_VV 。_PU 這是由_NN 於_NN -_PU {zh-cn:_PU 国际_NN 象棋_NN ;_PU zh_NN -_PU tw_NN :_PU 西洋棋_NN ;_PU }-目標明確，只要殺死國王即可_PU （_PU 係出_NR 同源_NN 的_DEC 象棋_NN 、_PU 將棋狀況_NN 也_NN 差_NN 不_AD 多_CD ）_PU ，_PU 因此_NN -_PU {zh-cn:_PU 算法_NN ;_PU zh_NN -_PU tw_NN :_PU 演算法_NN ;_PU }-_PU 較為簡單_NN ；_PU 但圍棋_NN 目標不_NN 一_OD 定_NN -_PU {_NN zh_NN -_PU cn_NN :_PU 需_NN ;_PU zh_NN -_PU tw_NN :_PU 須_NN ;_PU }-要圍殺對_PU 方棋子_NN ，_PU 每_DT 一_CD 步有數_NN 百_OD 種_NN 以上_NN 的_DEC 走法_NN ，_PU 黃山谷_NN 有詩_VV ：_PU 「_PU 心似_NN 蛛絲游_NN 碧落_VV ，_PU 身如蜩_NN 甲化枯枝_NN 。_PU 」_NN ，_PU 因此_NN -_PU {zh-cn:_PU 算法_NN ;_PU zh_NN -_PU tw_NN :_PU 演算法_NN ;_PU }-的困難度明顯要高得多_PU 。_PU
+
+在_AD 宋代_VV 的_SP 《_PU 梦溪笔谈_NN 》_PU 中探討了_NN 圍棋_VV 的_DEC 局數_NN 變化_VV 數目_NN ，_PU 作_CD 者沈括_NN 稱_NN 「_PU 大_NN 約連_NN 書_NN 萬_CC 字_NN 四十三_CD 個_NN ，_PU 即_NN 是_VC 局_NN 之_NN 大數_NN 」_PU ，_PU 意思_NN 是_VC 說要寫_NR 4_ETC 3個萬字_NR （_PU 一個萬即10_NR ，_PU 共43個10_NR ，_PU 即為_NR 10_CD ）_PU 。_PU 實際數字_NN 約為_NN 3_CD =_CC 3_CD ≈_M 1.74_CD ×_PU 10_CD 。_PU 根据_NN 围棋规则_NN ，_PU 没有_VE 气的子_NN 不能存活_NN ，_PU 扣除_NN 这些_NN 状态后_NN 的_DEC 合法_NN 状态_NN （_PU 占_NN 1.196%_CD ）_PU 约有_VV 2_CD ._PU 08_CD ×_PU 10_CD 种_M 。_PU Robertson_NN 与_P Munro_NN 在_P 1978_CD 年证_M 得围棋_NN 是_VC 一_CD 种_M PSPACE_NN -_PU hard_NN 的_DEC 问题_NN ，_PU 其必胜_NN 法_NN 之记忆_NN 计算量在_NN 10_CD 以上_NN ，_PU 這遠遠_NN 超過可_NN 觀測宇宙_VV 的_DEC 原子_NN 總數_NN 10_CD 。_PU
+
+1985_CD 年台_NN 湾著名_NN 实业_NN 家应_NN 昌期懸_NN 賞_P 一百萬_CD 美元_NN ，_PU -{zh-cn:_PU 寻找_NN ;_PU zh_NN -_PU tw_NN :_PU 找尋_NN ;_PU }-能夠打敗職業棋士的電腦程-{zh-cn:序;zh-tw:式;}-而不可得。「_PU 深藍_NN 」_PU 設計人許_NN 峰雄_VV 在_P 2007年_CD 10月_NT 一期_NT 的_SP 《_PU IEEESpectrum_NN 》_PU 杂志上_NN 表示_VV ，_PU 相信_VV 10_CD 年内以_NN 穷举搜索_NN 为基础_NN 的_DEC 超级_NN 电脑_NN 将能_NN 挑战_VV 世界_NN 冠军_NN 级别_NN 的_DEC 棋手_NN 。_PU 早年_NN （_PU 上_NN 世纪_NN 90_CD 年代_NN ）_PU 中国_NR 陈志行_NN 开发_VV 的_DEC 手谈_NN 曾屡获_NN 世界_NN 计算_NN 机围_NN 棋_NN 大_NN 赛冠军_NN ，_PU 到_VV 了_NN -_PU {_NN zh_NN -_PU cn:二十;zh_NN -_PU tw_NN :_PU 廿_CD ;_PU }-一世纪初，較著名的圍棋對弈軟-{zh-cn:件;zh-tw:體;}-分別有法國的MoGo、韩国的KCCIGO（_PU 银星）_NR 、_PU 日本的_NR 等電腦圍_NN 棋程_NN -_PU {_PU zh_NN -_PU cn_NN :_PU 序_NN ;_PU zh_NN -_PU tw_NN :_PU 式_NN ;_PU }_NN -_PU 。_PU 其中_NN Zen_NN 在_NN 連續幾_NN 年_NN 的_DEG 電腦圍_NN 棋_AD 大_VA 賽_DEV 上_VV 均_NN 獲_OD 第一_OD ，_PU 與台灣_NR 職業_NN 九_OD 段_NN 周俊勳_NN 對_AD 弈_VA ，_PU 在_AD 被_LB 讓_NN 四_OD 子_NN 的_DEG 情況下_NN 可_VV 贏_P 十_CD 目以上_NN ，_PU 被_NN 評定已有_VV 業_CD -_PU {zh-cn:余;zh-tw:餘;}-5段的水準；而最普遍应_PU 用且_NN 功能_NN 較齊全_NN 的_NN 是_VC 开源围_NN 棋程序_NN GNUGo_NN 。_PU
+
+2016年_NT 1月27_NN 日_NN ，_PU 《_NN 自然_NN 》_PU 的_DEC 封面_NN 论文_NN 报道_VV 了_AS GoogleDeepMind_NR 开发_NN 的_DEC 新围棋_NN 軟_NN -_PU {_NN zh_NN -_PU cn_NN :_PU 件_NN ;_PU zh_NN -_PU tw_NN :_PU 體_NN ;_PU }-AlphaGo，_PU 文中寫明_NN ，_PU AlphaGo_NN 在_AD 没有_VE 任何_DT 让子_NN 的_DEC 情况_NN 下以_VV 5_CD :_PU 0_CD 完_M 胜曾獲欧_NN 洲_AD 冠军_VV 的_DEC 职业围棋_NN 二_CD 段樊麾_NN 。_PU 这_NN 是_VC 有_JJ 史以_NN 来围棋_NN 軟_NN -_PU {zh-cn:件;zh-tw:體;}-第一次在公平比赛中战胜职业棋手，_PU 被視為人_NN 工智能_NN 的_DEC 里程碑_NN 。_PU AlphaGo_NN 的_DEC 核心是_NN 两_CD 种_M 深度神_NN 经网络_NN ——_PU 策略_NN 网络_NN 和价值_NN 网络_NN 。_PU 2016年_NT 3月_NT ，_PU AlphaGo_NN 挑戰韩_NN 国職業_NN 九_OD 段_NN 李世乭_NN ，_PU 以_NN 4_OD ：_PU 1_OD 擊_M 敗了對手_NN 。_PU 2016年_NT 12月_NT 29日至_NT 2017年_NT 1月_NT 4日_NT 间_LC ，_PU AlphaGo_NN 以_NN “_PU Master_NN ”_PU 为_VC 账号在_NN 围_NN 棋_NN 对弈网站_NN 上_LC ，_PU 以快棋_NN （_PU 20_CD 秒_M ～_PU 30_CD 秒_NN ）_PU 击_NN 败了_NN 中國_NN 和_NN 韓國排名_NN 第一_OD 的_DEG 柯洁_NN 、_PU 朴廷桓_NN ，_PU 以及_CC 其_PN 他多名_NN 顶尖_NN 的_DEC 棋手_NN ，_PU 创造_VV 了_AS 60_CD 连胜_NN 的_DEC 记录_NN 。_PU 2017_CD 年_PU 5_CD 月_M ，_PU AlphaGo_NN 在_P 中国乌_NR 镇围棋_NN 峰会_VV 的_DEC 三局比赛_NN 中击败_NN 当时_NN 世界_NN 排名第_NN 一_OD 的_DEC 中国_NR 棋手柯_NN 洁_NN 。_PU
+
+AlphaGo_NN 之后_VV ，_PU 其_PN 公開_NN 的_DEC 論文_NN ，_PU 促成_VV 了_AS 中国的_NR 绝艺_NN 、_PU 星陣_NN ，_PU 日本_NR 的_DEC DeepZenGo_NR 以及_NN 台灣_VV 的_DEC CGI_NN 也_AD 达到_VV 甚至超_NN 过了人_NN 类_NN 顶尖_NN 职业_NN 高_JJ 手_NN 的_DEG 水準_NN 。_PU
+
+在_P Unicode_NN ，_PU 黑白子_NN 分別記_NN 載於_NN 幾何圖_NN 形區塊_VV 。_PU
+而记录_NN 符號則_NN 分別_VV 記_NN 載於雜項_NN 符號_NN 區塊_NN 。_PU
+
+围棋在长_NR 达数_NN 千_CD 年_NN 的_DEG 流传_NN 过程_NN 中_LC ，_PU 逐渐产_NN 生众多_NN 的_DEG 术语_NN 。_PU 其中_NN 有_DT 一_CD 些已经_NN 进入_VV 大众词_NN 汇_NN ，_PU 例如_AD “_PU 收官_NN ”_PU 等_NN 。_PU 围棋_NN 的_DEG 每_DT 一_CD 步_NN ，_PU 几乎都有_NN 相关_VV 的_DEC 术语表_NN 达_NN ，_PU 甚至_NN 已经_NN 可以_VV 完_CD 整地_NN 用文_NN 字_NN 描述_VV 一_CD 场局部_NN 战斗_NN 。_PU 例如_VV ：_PU 黑右上角_NN 占据_NN 星位_NN ，_PU 白小飞挂_NN ，_PU 黑_NN 二_OD 间_M 高夹_NN ，_PU 白_DT 一_CD 间跳_NN ，_PU 黑跟着_NR 跳_ETC ，_PU 白小飞_NN 进角_VV ，_PU 黑_BA 三三_CD 挡住_NN ……_PU 这段话_NN 用围_NN 棋术语_NN ，_PU 生动地_NN 描写_VV 常见_VA 的_DEC 定式_NN 进程_NN 。_PU
+
+
+目前_NT 留存_NN 的_DEC 最早的_JJ 围棋_NN 专著是_NN 《_PU 弈旨_NN 》_PU ，_PU 为西漢_NN 班固_VV 所_MSP 著_VV 。_PU 梁朝时_NN ，_PU 梁_NN 武_NN 帝蕭衍_NN 曾_AD 著_VA 《_PU 圍棋賦_NN 》_PU 《_PU 圍棋品_NN 》《_PU 棋法_NN 》_PU 。_PU 至唐_NN 、_PU 宋盛世_NN ，_PU 有_CS 王積薪著_NN 《_PU 围棋_NN 十_OD 诀_NN 》_PU ，_PU 張擬著_NN 《_PU 棋經_NN 》_PU ，_PU 劉仲甫著_NN 《_PU 忘忧集_NN 》_NN 、_PU 《_PU 棋势_NN 》_PU 、_PU 《_PU 棋诀_NN 》_PU 、_PU 《_PU 造微_NN 》_PU 、_PU 《_PU 精理_NN 》_PU （_PU 今仅_NR 《_PU 棋诀_NR 》_PU 存_NN ）_PU 及李逸民_NN 編_NN 《_PU 忘忧_NN 清乐集_NN 》_PU 。_PU 元朝嚴_NN 師和晏天_NN 章_CD 曾作_NN 《_PU 玄玄_NN 棋經_NN 》_NN 。_PU 明_NN 、_PU 清_NN 两_CD 朝有_VV 王世_NN 貞著_NN 《_PU 弈問_NN 》_PU ，_PU 过_NN 百_OD 龄_NN 著_OD 《_PU 官子谱_NN 》_NN 、_PU 《_NN 三子譜_NN 》_PU 、_PU 《四子譜_NN 》_PU ，_PU 徐星友著_NN 《_PU 兼山堂_NN 弈譜_NN 》_PU ，_PU 施襄_NN 夏著_NN 《_PU 弈理_NN 指歸_NN 》_PU 。_PU
+
+
+
+
+现存_NN 的_DEG 主要世_NN 界围棋_NN 大赛_VV ：_PU
+
+
+
+
+
+
+
+
+
+
+

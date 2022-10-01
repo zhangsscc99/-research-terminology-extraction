@@ -1,0 +1,119 @@
+﻿象棋_NN
+
+象棋是_NN 中國_JJ 大陸_NN 、_PU 香港_NN 、_PU 台灣_NN 、_PU 马来西亚_NN 、_PU 新_NN 加坡_VV 、_PU 越南_NN 、_PU 琉球地區_NN 所_MSP 流行_VV 的_DEC 傳統的_NN 2_CD 人_NN 對弈棋類_NN 遊_NN 戲_NN 。_PU 中國大陸_NN 为_VC 了_NN 进行_VV 区分称此_NN 为_NN 中_NN 國象棋_NN ，_PU 将_BA 西方的_NN 「_PU Chess_NN 」_PU 称_CS 為国际_NR -_PU {}-_NR 象棋_NN ；_PU 台灣將_NN 「_PU Chess_NN 」_PU 翻譯為_NN 「_PU 西洋_NN -_PU {}-棋」。類似的中國象棋的還有韓國將棋_PU 、_PU 日本_NR 將棋_NN 等_ETC 。_PU 韓國將_NN 棋起_VV 源於中_NN 國象棋_NN ,_PU 是_VC 中國象棋_NN 的_DEC 一_CD 種_M 。_PU 日本_NR 將棋_NN 或_CC 起源於_NN 唐代_VV 寶_NN 應象棋_NN 。_PU
+
+中国_NR 象棋与_NN 国际象棋_NN 及围棋_NN 并列_VV 世界_NN 三大棋_NN 类_NN 之一_NN 。_PU 象_NN 棋主_NN 要流_NN 行于_VV 全球華人_NN 、_PU 越南人_NN 及_NN 琉球人社_NN 區_NN ，_PU 是首屆_NN 世界_NN 智力_NN 運動會_NN 的_DEC 正式比賽_NN 項目_VV 之一_NN 。_PU
+
+象棋_NN 、_PU 象戲_NN ，_PU 在_P 中文_NN 有_VE 多_CD 種含意_NN ：_PU 從古到_NR 今_NN 可_VV 指_NN 六_OD 博_NN 、_PU 彈棋_NN 、_PU 圍棋_NN 、_PU 雙陸_NN 、_PU 象徵_NN 的_DEC 遊戲_NN 、_PU 中國象_NN 棋簡稱_NN 、_PU 各種象_NN 棋類_NN 遊戲_NN 。_PU
+
+
+除了_NN 从春秋战_NN 国时期_NN 的_NN “_PU 六_NN 博_NN ”_PU 演绎而_NN 来_VV 的_DEC 说法_NN 外_LC ，_PU 还_AD 有_VE 另_CD 一_CD 种_M 说法_NN 。_PU
+波斯象棋_NN 傳入中_NN 國成_VV 寶應象棋_NN 。_PU 最後_NN 中國人_NN 在_VV 宋代_JJ 改造_NN 成中_NN 国象棋_NN 。_PU 德国国_NR 际象_NN 棋历_NN 史学家_NN PeterBanaschak_NR 指出_NN ，_PU 唐代宰_NR 相牛僧孺_NR 的_ETC 《_PU 玄怪录_NN 》_PU 内没有_NN “_PU 炮_NN ”_PU 的_DEC 寶應象_NN 棋是中_NN 國象棋_NN 的_DEC 真正_NN 来源_NN 。_PU
+
+民間相_NN 傳象棋_NN 是始創_NN 於韓信_NN 。_PU 韓信被_NN 呂后監禁_VV ，_PU 本欲_NN 著作_NN 兵法_NN ，_PU 但被禁止_NR ，_PU 於是取_NR 紙筆_NN 發明_NN 一_OD 種_NN 「_PU 紙上_NN 談兵_NN 」_PU 的_DEC 遊戲與獄_NN 卒_AD 玩_VA ，_PU 棋盤中_NN 以_MSP 鴻溝為界_VV （_PU 楚_OD 河_OD 漢_OD 界_OD ）_PU ，_PU 韓信被_NN 殺死_VV 之_NN 後_NN ，_PU 獄_NN 卒_NN 退隱_NN ，_PU 並把此種_NN 遊_NN 戲定名為_NN 「_PU 象棋_NN 」_PU 。_PU
+
+在中國_NR 能確認屬_NR 於象_NN 棋類_NN 遊戲_VV 的_DEC 棋類是_NN 唐代_VV 寶_NN 應象棋_NN 。_PU 唐代至_NR 宋朝時_NN 逐漸_NN 演變現_NN 在_VV 的_NN 中國象棋_NN 。_PU 明朝_NN 方以智_NN 《_PU 通雅_NN 》_PU :「象棋始於唐_PU ，_PU 周武之_NN 《_PU 象經_NR 》_PU ，_PU 非今_NN 之象戲也_NN 。_PU 」_PU
+
+有說法_NN 稱有_VV 一_CD 幅唐宋_NN 之間_NN 、_PU 主題_NN 為棋_NN 琴書畫_NN 的_DEC 蘇州織錦_NN ，_PU 棋盤圖是_NN 八_OD 乘_NN 八_OD 的_DEG 黑白棋盤_NN ，_PU 認為是_NN 唐朝_VV 的_DEC 象棋棋盤_NN ，_PU 是_VC 將宋錦_NN 誤會是_NN 宋代_VV 生產_NN 的_DEC 織錦_NN 。_PU 該圖_NN 案乃_NN 中華_NN 人民_NN 共和_NN 國建國後_NN ，_PU 由生產_NN 宋錦_NN 的_DEC 苏州织_NN 锦廠新_JJ 設計的_NN 七_CD 彩_NN 重锦_NN 「_PU 琴棋书_NN 画锦_NN 」_PU ，_PU 棋盤圖_NN 是_VC 取_JJ 自國_NN 際象棋_NN ，_PU 並非唐_NN 宋古物_NN 圖案_NN 。_PU
+
+宣稱_NN 唐代武則_NN 天_NN 夢見_NN 与_P 大罗天_NN 女下_VV 寶應象棋_NN 的_DEC 說法_NN ，_PU 則為以_NN 訛傳訛_NN ，_PU 根據_NN 《_PU 唐國_NN 史補_NN 》_PU 、_PU 宋元话_NN 本小说_NN 《_PU 梁公_NN 九_OD 谏_NN 》_PU 中_NN 〈_PU 第六_OD 諫_M 〉_PU 、_PU 《_PU 狄仁_NN 傑傳_NN 》_PU 、_PU 《_PU 天中記_NN 》_NN 、_PU 《_PU 淵鑑_NN 類函_NN 》_PU ，_PU 武則天_NN 是_VC 夢_JJ 見下雙_NN 陸棋_VV 。_PU
+
+北宋_NN 的_DEC 象棋有_NN 大象戲_NN 與_NN 小象戲_NN 。_PU 據朝_NN 鮮李_NN 圭景_NN 說法_NN 《_PU 象戱圖_NN 法_NN 》_PU 記載_NN 小象戲_NN 没有_VE 象_NN ，_PU 而_CC 有_VE 弩这兵种_NN ，_PU 其他则_NN 是_VC 将_BA 、_PU 士_NN 、_PU 马_NN 、_PU 车_NN 、_PU 砲_NN 、_PU 卒_NN （_PU 另_NN 一_CD 方_NN 寫成步_VV ）_PU 。_PU
+
+之後象_NN 棋更_NN 平民化_NN ，_PU 不_AD 少文人_NN 雅士_VV 都_CD 喜愛_NN 下象棋_NN ，_PU 下象棋者_NN 更成_VV 為_DT 一_CD 種職業_NN 。_PU 北宋_NR 末至_NN 南宋時_NN ，_PU 已_AD 成_VV 為現_NN 代象棋_NN 的_DEG 形式_NN ，_PU 將帥待在_VV 九_CD 宮底_NN ，_PU 棋子_NN 有用_NN 陶瓷_NN 或銅質_NN ，_PU 後者稱_NN 為象_NN 棋钱_NN ，_PU 為花錢_NN 的_DEC 一_CD 種_NN ，_PU 有_NN 圖有_VV 文_NN ，_PU 錢文寫將_NN 、_PU 士_NN 、_PU 象_NN 、_PU 馬_NN 、_PU 砲_NN 、_PU 車_NN 、_PU 卒_NN ，_PU 并无帥_NN 、_PU 仕_NN 、_PU 相_NN 、_PU 傌_NN 、_PU 炮_NN 、_PU 俥_NN 等異體字_NN 區分_NN ，_PU 下棋时_NR 可能是_NN 一_CD 方_NN 执字面_NN ，_PU 一_CD 方执图面_NN ；_PU 若_CD 两_CD 面_NN 全字_NN 的_DEC 棋钱可_NN 能以_VV 涂朱_VV 砂等_NN 方式从_NN 颜色上_NN 区_NN 分_LC 。_PU 南宋晚_NN 期陳_NN 元靚_NN 所著_VA 的_DEC 《_PU 事林廣記_NN 》_NN 中_LC ，_PU 記載_VV 了_AS 最早的兩局_JJ 完整_NN 的_DEC 象棋棋譜_NN 和_NN 最_NN 古老_NN 的_DEC 排局_NN 「_PU 二_CD 龍出_NN 海勢_NN 」_PU 。_PU
+
+元朝_NN 至明_NN 朝初期_NN ，_PU 象棋_NN 的_DEC 發展_NN 處於_NN 低潮_VV 。_PU 明朝中_NN 葉起_VV ，_PU 象_BA 棋再度_NN 發_AD 展起來_VV ，_PU 並_NN 跨_NN 越明_NN 、_PU 清_NN 兩_OD 代_NN ，_PU 盛況持續_NN 約_NN 三百_CD 年_NN 。_PU 明朝最_NN 著名_VV 的_DEC 棋手_NN 是_VC 李_JJ 開先_NN （_PU 1502_CD -_PU 1568年_CD ）_PU ，_PU 棋力遠勝_NN 當時_VV 的_DEC 國手_NN 。_PU 李開先_NN 留下_VV 《_PU 象棋歌_NN 》_PU 兩_CD 首_M ，_PU 描述他_NN 的_DEG 對局_NN 場面_NN 及心得_NN ，_PU 可惜並_JJ 未留下_NN 棋譜_VV 。_PU
+
+明朝_NN 編著或_NN 出版_VV 的_DEC 象棋譜有_NN 《_PU 夢入_NN 神機_NN 》_PU 、_PU 《_PU 適情雅趣_NN 》_NN 、_PU 《_NN 橘_NN 中秘_NN 》_PU 、_PU 《百_CD 變象_NN 棋譜_NN 》_PU 、_PU 《_PU 自出洞_NN 來無敵手_NN 》_PU 等_NN 。_PU
+
+康熙年間_NN 著名_VV 的_DEC 圍棋國手_NN 徐星友（1650-？）也是一_PU 位象_NN 棋國手_NN ，_PU 他遨遊燕_NN 趙齊魯等_NN 地_NN ，_PU 盡數_NN 擊敗_NN 當地名手_NN ，_PU 有_NN 「_PU 錢_NN 塘雙絕_NN 」_PU 之譽_NN 。_PU 康熙末年_NN ，_PU 徐星友_NN 被_P 另_NN 一_OD 位_NN 圍_OD 棋_NN 、_PU 象棋雙_NN 棲_NN 的_DEC 青年棋_NN 手程_NN 蘭如_NN （_PU 約_NN 1692_CD -_PU ？_NN ）_PU 擊敗_NN ，_PU 讓出象棋_NN 的_NN 「_PU 棋王_NN 」_PU 頭銜_NN 。_PU 到_P 了乾隆中_NN 葉_NN ，_PU 象棋大_NN 為盛行_NN ，_PU 人才_NN 輩出_VV ，_PU 著名_VV 的_DEC 棋手有_NN 九_CD 派_CC 十一_CD 人_NN ，_PU 其中_NN 武進_NN 周廷_NN 梅尤為_NN 傑出_VV 。_PU 他走遍南_NN 北_AD 各省_VV ，_PU 擊敗_VV 各_CD 派名手_NN ，_PU 門生多達_NN 二百_CD 餘人_NN 。_PU
+
+清朝編著_NN 的_DEC 象棋譜有_NN 《_PU 梅花譜_NN 》_NN 、_PU 《_NN 韜略_NN 元機_NN 》_PU 、_PU 《五_CD 大_NN 臣象_NN 棋譜_NN 》_PU 、_PU 《_PU 心武_NN 殘編_NN 》_PU 、_PU 《百_CD 局象_NN 棋譜_NN 》_PU 、_PU 《_PU 竹香_NN 齋象_NN 戲譜_NN 》_PU 、_PU 《_PU 淵深_NN 海闊_NN 》_PU 、_PU 《_PU 爛柯神機_NN 》_NN 、_PU 《_PU 反梅花譜_NN 》_PU 等_NN ；_PU 其中_NN 《_PU 心_CD 武殘編_NN 》_PU 、_PU 《百_CD 局象棋_NN 譜_NN 》_PU 、_PU 《_PU 竹香_NN 齋象戲_NN 譜_NN 》_PU 、_PU 《_PU 淵深海闊_NN 》_PU 號稱_NN 「_PU 四_CD 大_M 排局譜_NN 」_NN 。_PU
+
+四_CD 大_NN 排局譜_NN 幾乎_VV 在_VV 同_DT 一_CD 時代產生_NN ，_PU 由_P 於內容_NN 多_CD 挑選_NN 自當時_NN 流行_NN 的_DEC 民間棋局_NN ，_PU 故有_VV 一_CD 些_NN 重覆者_NN 。_PU 代表清_NR 朝排_NN 局_NN 藝術_NN 高度_NN 水準_VV 的_DEC 棋局為_NN 「_PU 七_CD 星_M 聚會_NN 」_PU 、_PU 「_PU 蚯蚓降龍_NN 」_NN 、_PU 「_PU 野馬_NN 操田_NN 」_PU 、_PU 「千_CD 里獨行_NN 」_PU ，_PU 因其編_NN 排精巧_NN 、_PU 變化多_NN 端而引_NN 人入_VV 勝_SP ，_PU 號稱_NN 「_PU 四_CD 大_M 名局_NN 」_PU 。_PU
+
+清末至_NN 中華民國_NN 大_NN 陸時期_NN ，_PU 時局紛擾_NN ，_PU 象棋發展_NN 一_CD 時_NN 受挫_VV 。_PU 1930年_NT 代前_NT 期_AD ，_PU 曾出現過_VV 短_CD 暫_NN 的_DEG 盛況_NN 。_PU 1930_CD 年_PU 9月_CD ，_PU 「_PU 華東_NN 、_PU 華南分_NN 區_AD 大_VA 棋戰_NN 」_PU 在_P 香港_NN 舉行_VV 。_PU 華東代表_NN 為_OD 上海_VV 的_DEC 周德裕_NN 、_PU 林弈仙_NN ，_PU 華_NN 南_NN 代_LB 表_NN 為廣州_NN 的_DEC 李慶全_NN 、_PU 馮敬如_NN 。_PU 雙方大_NN 戰_VV 十六_CD 局_NN ，_PU 最_NN 終_NN 平手_NN 。_PU 其中_NN 華南主將_NN 李_NN 慶_NN 全係唯_NN 一_AD 不_AD 敗者_VA ，_PU 獲授_NN 「_PU 無敵_NN 」_PU 稱號_NN 。_PU
+
+次年初_NN ，_PU 「_PU 華東_NN 、_PU 華北分區_NR 棋賽_NN 」_PU 在_P 上海_NR 舉行_NN 。_PU 華東代_NN 表為_NN 周德裕_NN 、_PU 萬_CD 啟有_VV ，_PU 華北代表_VV 為_NN 趙文宣_NN 、_PU 張德魁_NN 。_PU 比賽_NN 結果_NN 華東_NN 周德裕_NN 積_NN 分_NN 最_AD 高_VA ，_PU 由於當時_NN 華_AD 北有_VV 五_CD 省_M ，_PU 華東指江_NN 、_PU 浙_NN 兩_OD 省_NN ，_PU 因此_AD 棋友尊稱_VV 周德_NN 裕為_NN 「_PU 七_CD 省_M 棋王_NN 」_PU 。_PU
+
+籌辦上述_NN 兩_OD 次_NN 分區_NN 棋賽_VV 的_DEC 象棋活_NN 動_NN 家謝俠_NN 遜本_NN 身既_NN 是象棋_NN 名_NN 手_LC ，_PU 同時也_NN 是_VC 西_JJ 洋棋國手_NN 。_PU 他曾於_NN 1935_CD 年_M 、_PU 1937_CD 年_PU 兩_CD 次_M 遠赴南洋_NN ，_PU 名聲因_NN 而擴及_NN 海外_NN 。_PU 他還編輯_NN 了_NN 《_PU 象棋譜_NN 大_NN 全_ETC 》_PU 、_PU 《_PU 新編象_NN 棋譜_NN 》_NN 、_PU 《_NN 南_NN 洋象棋_NN 專輯_NN 》_PU 等棋書_NN 。_PU
+
+中華人民_NN 共和國_NN 成_VV 立後_NN ，_PU 楊官璘_NN 、_PU 陳松順_NN 、_PU 何順安_NN 、_PU 李義庭_NN 、_PU 王嘉良_NN 等棋手先_NN 後站_VV 到_P 棋壇_NN 的_DEC 第一_OD 線_M 。_PU 1956年_CD 1月_NT ，_PU 國家體委_NN 宣佈_NN 將棋類_NN 列入_VV 體育_NN 運動_NN 項目_NN 。_PU 同年_NN 12_CD 月_NN ，_PU 在_P 北京舉行_NR 首屆_NN 「_PU 全國象_NN 棋錦_NN 標賽_NN 」_PU ，_PU 由當時_NN 的_DEC 棋壇_NN 「_PU 第一_OD 人_M 」_PU 楊官璘_NN 獲得_VV 冠軍_NN 。_PU 隨後_NN ，_PU 他又於_NN 1957_CD 、_PU 1959、1962年三_NN 次_NN 獲得_VV 全國冠軍_NN ，_PU 此時期號_NN 稱為象_NN 棋史上_NN 的_NN 「_PU 楊官璘_NN 時代_VV 」_PU 。_PU
+
+到_VV 了_AS 1960_CD 年代_NN ，_PU 楊官璘_NN 的_DEC 霸主_NN 地位逐_NN 漸_NN 被_SB 來自_VV 上海的小_NR 將胡_NN 榮_NN 華_AD 取代_VV 。_PU 1960年_NT ，_PU 年僅_NN 15_CD 歲_NN 的_NN 胡榮華_NN 初次參_JJ 加全_NN 國比賽_NN 即_AD 奪得個人_VV 冠_CD 軍_NN 。_PU 至_NN 1979_CD 年_PU ，_PU 他連奪_NN 十_OD 次_M 全國冠軍_NN （_PU 其中_NN 僅_NN 1962_CD 年與楊_NN 官_NN 璘_NN 並列_NN ）_PU ，_PU 有_NN 「_PU 棋_NN 壇_NN 十_CD 連霸_NN 」_PU 之稱_NN 。_PU 1980_CD 年_M ，_PU 來自湖北_NN 的_DEC 柳大華打_NN 破胡榮_NN 華_NN 的_DEC 連霸而_NN 奪_NN 冠_LC ，_PU 並於隔年_NN 再_AD 獲冠軍_VV 。_PU 此後_VV ，_PU 棋_BA 壇_NN 呈_VV 現群雄_NN 並立_VV 的_DEC 局面_NN ，_PU 李_NN 來_OD 群_NN 、_PU 胡_NN 榮_OD 華_NN 、_PU 呂_NN 欽_NN 、_PU 徐天紅_NN 、_PU 趙國榮_NN 、_PU 許銀川_NN 、_PU 陶漢明_NN 等_ETC 人先後_NN 在_VV 該項比賽_NN 稱_AD 雄_VA 。_PU
+
+象棋_NN 的_DEC 棋盤由_NN 9_OD 條_NN 纵線和_NN 10_CD 條橫線_NN 相交_VV 而成_VV 。_PU 棋子放_NN 在_P 各條線_NN 的_DEC 相交_JJ 點_NN 上_NN ，_PU 並_NN 在_P 線_NN 上_NN 移動_NN 。_PU 棋盤_NN 中_LC 間的_VV 一_CD 行沒有畫_NN 上_NN 纵線_VV ，_PU 稱為_NN 「_PU 河界_NN 」_PU ，_PU 通常標上_NN 「_PU 楚河漢界_NN 」_PU 字樣_NN ，_PU 象徵_NN 楚漢相_NN 爭時_VV 的_DEC 鴻溝_NN 。_PU 據刘国_NN 斌考證_NN 古_NN 書_NN 與古_NN 棋具_NN ，_PU 棋盤_NN 寫有_VV 楚河_NN 漢界_NN 是_VC 在_P 1920年_NT 代到_VV 1930_CD 年代_NN 之間才開_NN 始有_VV 。_PU 河界亦_NN 有_VE 標_NN 上_LC 「_PU 觀棋不_NN 語真_NN 君子_NN ，_PU 起手無_NR 回大_NN 丈夫_NN 」_PU 字樣_NN 。_PU
+
+現行的_NN 中式_NN 記錄_NN 方法是_NN ：_PU 9_CD 條_M 纵線_NN ，_PU 紅方從_NN 右到_VV 左用_NN 漢字_NN 「_PU 一_CD 」_PU 至_CD 「_PU 九」_CD 表示_VV ，_PU 黑方_VV 在_VV 自己_NN 的_DEC 那_DT 一_CD 面從_NN 右到_VV 左用數_NN 字_OD 「_PU 1_OD 」_PU 至_OD 「_PU 9_OD 」_PU 表示_VV 。_PU 也就是_NN 說_NN ，_PU 紅方_NN 的_DEC 纵線_NN 「_PU 一_CD 」_PU 就_AD 是_VC 黑方_NN 的_DEC 纵線_NN 「_PU 9」_CD ，_PU 以此類推_NN 。_PU 第四_OD 條纵線_NN （_PU 或第_NN 6_OD 條_NN 纵線_NN ）_PU 和第_NN 六_OD 條_NN 纵線_NN （_PU 或第_NN 4_OD 條_NN 纵線_NN ）_PU 稱為_NN 「_PU 兩_CD 肋_M 」_PU 、_PU 「兩_CD 肋線_NN 」_PU ，_PU 簡稱_NN 「_PU 肋_NN 」_PU 。_PU 棋盤上_NN ，_PU 劃有_VV 斜_CD 交叉_NN 線而_NN 構成_VV 「_PU 米_NN 」_PU 字形_NN 方格_NN 的_DEC 地方_NN ，_PU 雙方_NN 各有_VV 一_CD 塊_M ，_PU 稱為_NN 「_PU 九_CD 宮」，是將_M （_PU 帥_NN ）_PU 和士_NN （_PU 仕_NN ）_PU 活動的_NN 區域_NN 。_PU
+
+棋子_NN 的_DEC 顏色分_NN 为_VC 紅色_NN 和黑色_NN （_PU 也有_VE 綠色_JJ 和藍_NN 色代_VV 替黑色_NN ）_PU 。_PU
+
+在古代_NR 因為_NN 特殊_NN 顏色_VV 的_DEC 顏料_NN 價格較高_NN ，_PU 故_NN 使用_NN 同_NN 意_NN 字或近_NN 音字_NN 來代表另_NN 一_CD 方同等_NN 的_DEC 棋子_NN ，_PU 但最_NN 後也_NN 演變為_NN 特色_NN 。_PU
+
+雙方各有_NN 16_CD 枚棋子_NN ：_PU
+
+分別是_NN 一_OD 枚_NN -_PU {_PU 將_NN }_PU -/-{帥}-_PU 、_PU 2枚士_NN /_PU 仕_NN 、_PU 2_NN 枚象_NN /_PU 相_NN 、_PU 2_NN 枚_NN -_PU {_PU 馬_NN }_PU -/-{傌}-_PU 、_PU 2枚-_NN {_PU 車_NN }_PU -/-{俥}-、2枚-{砲}-/炮、5枚卒/兵_PU 。_PU
+
+棋子_NN 通常_NN 用木材_NN 、_PU 金屬或_NN 塑膠_NN 製造_NN 。_PU 圓形的_JJ 棋子_NN 上_NN 刻有文字_VV ，_PU 另_AD 一_CD 面_NN 空白_NN 。_PU 這個_NN 特色產_NN 生了中_NN 國象_NN 棋變體_NN ，_PU 特別_NN 是暗棋_NN 。_PU
+
+後來亦_NN 有出現立體_VV 的_DEC 棋子_NN ，_PU 以人物_NN 雕_NN 刻_NN （_PU 尤其_NN 是電影_NN 和_P 漫畫人物_NN ）_PU 、_PU 物件_NN 等_ETC 形象_NN 出_VV 現_NN ，_PU 但_NN 不_AD 普_VV 及_NN ，_PU 較_NN 多_CD 時會_NN 作_VV 為擺設裝_NN 飾_VA ，_PU 很_AD 少有_VV 人_NN 會拿_NN 來用_NN 。_PU
+
+對_NN 一_OD 般_M 棋局來_NN 說_NN ，_PU 只要_CS 一_CD 方_M 「_PU 欠行_NN 」_PU 或者_CC 被_SB 「_PU 將死_VV 」_PU ，_PU 又或者_NN 自動認輸_NN ，_PU 另_DT 一_CD 方即_NN 可_VV 得勝_VV 。_PU 欠行_NN 和將_NN 死定_NN 義如下_NN ：_PU
+
+
+被將軍_NN 的_DEC 一_CD 方必須_NN 應將_VV ，_PU 即移_NN 動將帥_NN 或別_VV 的_DEC 棋子_NN 來化解_NN 。_PU 無法_NN 應將_VV 的_DEC 情况稱_NN 為_NN “_PU 被將死_NN ”_PU 。_PU
+比賽_NN 時除_VV 了_AS 以上_NN 的_DEC 一_CD 般_NN 情況_NN ，_PU 還有_VV 其他_NN 方法判_NN 定_NN 勝負_VV ，_PU 略述_JJ 如下_NN 。_PU
+
+符合_NN 以下_NN 情况该_NN 局将_NN 做和_NN ：_PU
+
+棋盤上_NN 的_DEC 坐标_NN 是_VC 對_JJ 每個棋手_NN 由_P 右至左_NN 的_DEG 9_OD 條_M 直線_NN 分_NN 別_P 為_NN 1_OD 至_M 9路_NN 。_PU 红_NN 方用_NN 汉字_NN （_PU 一_OD 、_PU 二_OD 、_PU 三_OD …_PU …_OD ）_PU 书_OD 写_NN ，_PU 黑_NN 方用_NN 阿拉伯_NR 数字_NN （_PU 1_OD 、_PU 2_OD 、_PU 3_OD ）_PU 书写_VV 。_PU
+
+中式_JJ 記譜法_NN 一_CD 般_NN 使用_NN 四_NN 個_NN 字來記_NN 錄棋子_NN 的_DEG 移動_NN ：_PU
+
+如果_CS 記譜只_NN 包括_VV 中局或_NN 殘局_NN 部分_NN ，_PU 一_CD 開始就_NN 輪到_VV 黑_NN 方走子_NN ，_PU 那麼_NN 紅方_NN 的_DEC 步数_NN 會_CD 標_AD 上省略號_VV 。_PU 以下是_NN 一_OD 個_NN 比_NN 較完整_NN 的_DEC 例子_NN ，_PU 記載中_NN 炮_NN 屏_NN 風馬對_NN 三_OD 步虎_VV 的_DEC 頭_NN 3_OD 步_NN ：_PU
+
+（_PU 「_PU 炮二平_NR 五_ETC 」_PU 表示_VV 紅炮從_NN 二路平_NN 移到_VV 五路；_NN 「_PU 馬_NN 8_OD 進_NN 7_OD 」_PU 表示_VV 黑馬從_NN 8路向_NN 前走_VV 到_VV 7路。_NN ）_PU
+
+为了_P 适应形_JJ 势需要_NN ，_PU 提高_VV 记录_NN 速度_NN ，_PU 有_NN 人_NN 对原来_NN 的_DEC 中式_JJ 记谱法_NN 记录_NN 进行_VV 了_AS 改革_NN ：_PU
+
+
+如_NN ：_PU 炮_NN formula_NN __NN 1_OD （_PU 炮_NN 6_OD 退_NN 2_OD ）_PU 、_PU 车_NN formula_NN __NN 2_OD （_PU 车_NN 七_OD 平_NN 二_OD ）_PU 、_PU 后车_NN formula_NN
+
+西式記_NN 法將_NN 中式_JJ 記法_NN 轉成_VV 英文_NN 字母_NN 和_NN 數字_NN 。_PU 各種_NN 棋子_NN H_NN （_PU Horse_NN -_PU 馬_NN ）_PU 、_PU R_NN （_PU Rook_NN -_PU 車_NN ）_PU 、_PU C_NN （_PU Cannon_NN -_PU 炮_NN ）_PU 和_NN P_NN （_PU Pawn_NN -_PU 兵_CD ）_PU 代替_VV 。_PU 「_PU 平_NN 」_PU 用_NN 「_PU =_NN 」_PU 或_NN 「_PU ._NN 」_PU 代替_VV ；_PU 「_PU 進_NN 」_PU 、_PU 「_PU 退_NN 」_PU 和_NN 「_PU 前_NN 」_PU 、_PU 「_PU 後_NN 」_PU 分_NN 別用「+_JJ 」_NN 、_PU 「_NN -_PU 」_PU 取代_VV 。_PU
+
+
+象棋_NN 的_DEC 全局_NN 通常會_JJ 被分為開_NN 局_NN 、_PU 中局_NN 、_PU 殘局_NN ，_PU 這_NN 三_OD 個_NN 階段_NN 。_PU 各阶段_NN 之间无明显_NN 分界_VV 。_PU 大_JJ 抵雙_NN 方各走_NN 八_OD 至_NN 十二_CD 步為開_NN 局_NN ，_PU 至雙_NN 方只餘_NN 一_OD 、_PU 兩_OD 隻_NN 大子_NN （_PU 車_NN 、_PU 馬_NN 、_PU 炮_NN ）_PU 為殘局_NN ，_PU 其間為_NN 中_AD 局_VA 。_PU
+
+開局主要_NN 是_VC 布置_VV 棋子_NN 的_DEC 去向_NN ，_PU 為_CS 之後_NN 的_DEC 作戰打好基礎_NN ，_PU 作好準備_AD 。_PU 因為在_NR 棋局開_NN 始時_VV ，_PU 棋子_NN 的_DEC 位置_NN 是_VC 規定_VV 的_SP ，_PU 所以_AD 出現_VV 了_AS 林林總總_NN ，_PU 五_CD 花_M 八_CD 門_NN 的_DEC 常見開_NN 局_NN 。_PU
+
+
+
+中局與開_NN 局_AD 不同_VA ，_PU 無以_NN 跟從_NN 棋譜_NN 走法_NN 。_PU 並且_NN 中_AD 局_VA 的_DEC 棋子很_NN 多_VA ，_PU 變化很_NN 大_VA 。_PU 故此_NN 中_LC 局往_VV 往需要_NN 花費最多_VV 的_DEC 時間來_NN 思考_VV 。_PU
+
+
+
+殘局承繼_NN 開局和_NN 中局_NN ，_PU 走到_VV 棋局_NN 的_DEC 尾聲_NN 。_PU 通常雙_JJ 方各_NN 剩下_VV 兩_CD 隻_M 強子_NN （_PU 車_NN 、_PU 馬_NN 、_PU 炮_NN ）_PU 時_NN ，_PU 就_AD 可_VV 說是_VV 進入_NN 殘局_NN 階段_NN 。_PU
+
+經過在_NR 中局雙_NR 方的_NN 吃子_NN ，_PU 使_VV 棋盤上_NN 的_DEC 棋子減_NN 少_VA ，_PU 比起_NN 中_LC 局變化較_VV 少_CD ，_PU 大多_CD 可以_VV 根_BA 據盤面_NN 預測_NN 勝負_NN 。_PU
+
+殘局一般可_NR 分為_VV 兩_CD 種_M ：_PU 第一_OD 種_M 是定式_JJ 殘局_NN （_PU 就_NN 是_VC 有_NN 譜_NN 可_VV 依_NN 的_SP ，_PU 例如_AD 「_PU 單馬勝單_NN 士_NN 」_PU 、_PU 「_PU 單車不_NN 勝_VV 馬_NN 雙仕單缺_NN 相_NN 」_PU 等_NN ）_PU ，_PU 第二_OD 種為實_NN 戰殘局_NN （_PU 就_AD 是_VC 無譜_NN 可從_VA 的_DEV ）_PU ，_PU 例如_AD 「_PU 馬炮雙_NN 兵_NN 仕_NN 相全對雙_NN 炮_NN 雙卒_NN 士象全_NN 」_PU 。_PU
+
+定式_JJ 殘局_NN 可分為兵_JJ 類(單兵_NN 、_PU 雙兵_NN 、_PU 三兵)_NN 、_PU 單馬類_NN 、_PU 馬兵類_NN (_PU 馬單兵_NN 、_PU 馬雙兵_NN )_PU 、_PU 雙馬類_NN 、_PU 單炮類_NN 、_PU 炮兵類_NN (_PU 炮單兵_NN 、_PU 炮雙兵_NN )_PU 、_PU 雙炮類_NN 、_PU 馬炮類_NN 、_PU 馬炮兵類_NN (_PU 馬炮單兵_NN 、_PU 馬炮雙兵_NN )_PU 、_PU 單車類_NN 、_PU 車兵類_NN (_PU 車單兵_NN 、_PU 車雙兵_NN )_PU 、_PU 車馬類_NN 、_PU 車馬兵類_NN 、_PU 車炮類_NN 、_PU 車炮兵類_NN 、_PU 雙車類_NN 。_PU
+
+棋譜是_NN 一_ETC 盤_NN 棋_NN 局發展_NN 的_DEC 流程紀錄_NN ，_PU 多是古今_NN 中外_VV 的_DEC 對局_NN ，_PU 或者_NN 是某人_NN 排擬_VV 的_DEC 棋局_NN 。_PU 目前_NN 這些_NN 棋譜都_NN 會刊_NN 輯成_VV 書供人_NN 閱讀_VV 。_PU 由_P 古至今_NN ，_PU 出_CD 現過_NN 不_AD 少_VA 的_DEC 象棋_NN 棋譜_NN 。_PU 不過比較_NN 出名_VV 的_SP ，_PU 多數是_NN 古代_VV 流傳下來_NN 的_DEC 棋譜_NN ，_PU 例如_AD 《_PU 橘中秘_NN 》_PU 和_NN 《_PU 梅花譜_NN 》_PU 等_NN 等_ETC ，_PU 而且_NN 大多_CD 是_VC 手_NN 抄_NN ，_PU 很_AD 少_AD 有_VE 刻印_VV 的_DEC 版本_NN ，_PU 到_P 了近數十年_NT 才大量出_JJ 版成書_NN 。_PU 網路興起_NN 後_NN ，_PU 也有_VV 以電子_NN 棋譜_NN 形態_VV 存放_VV 在_P 網際_NN 網路供_NN 人閱讀_NN 。_PU
+
+另外很_NR 多象棋大_NN 師_NN 、_PU 著者_NN 都撰寫過_NN 很多_CD 棋譜_NN 研究_NN 不同_VA 的_DEC 開局_NN 、_PU 中局_NN 、_PU 殘局_NN 。_PU 胡榮華著_NN 的_NN 《_PU 反宮_NN 馬專集_NN 》_PU 和楊官_NN 璘著_VV 的_SP 《_PU 弈林精華_NN 》_NN 、_PU 《_PU 弈林新編_NN 》_PU 便_NN 是_VC 好例子_NN 。_PU
+
+主要_JJ 象棋_NN 古譜_NN ：_PU
+
+近年来_NN ，_PU 由于_P 下象棋_NN 可以_VV 提升_VV 孩子_NN 脑力_NN 发展_VV ，_PU 象棋_NN 用作_NN 教育在_NN 各_AD 大_VA 城市_NN 显得_NN 非常普遍_NN 。_PU 在_P 发展_NN 象棋_VV 的_DEC 工程_NN 中_LC ，_PU 象棋棋院_NN 扮_NN 演_NN 着非常_NN 重要_VA 的_DEC 角色_VV ，_PU 世界_NN 各地_NN 棋院_NN 如雨_VV 后春笋_NN 。_PU 中国_NR 大陆近_NR 代设立多_NR 家官办_NN 及民办_NN 的_DEC 象棋棋院_NN ，_PU 香港则_NN 有_NN 中_NN 国香港棋_NN 院_NN 等等_VV ，_PU 在_VV 海外例_NN 如_P 东南亚_NN 国家中_NN ，_PU 马_NN 来西亚_NN 首间_NN 专业_NN 棋院_NN 的_DEC 弈智棋_NN 院则_VV 在_VV 发展_NN 象棋_NN 教育办_NN 得非常出色_VV ，_PU 也使_VV 到_VV 象_NN 棋这中_NN 华文化得_NN 以传播_NN 。_PU
+
+琉球象棋_NN （_PU ）_PU 实与中_NN 国象_NN 棋无异_NN ，_PU 而与_NN 日本_NN 将棋_NN 相_NN 差_NN 甚远_NN 。_PU
+
+自古以來_NN ，_PU 無數棋手_NN 鑽_NN 研棋法_NN ，_PU 尋找必勝_NN 之法_NN 。_PU 到_P 二十一_CD 世紀初_NN ，_PU 依然沒有_NR 報告指_NN 出有_VV 任何_DT 棋手未_NN 嘗_NN 一_OD 敗_NN 。_PU 但_NN 在_P 博弈論_NN 中_LC ，_PU 可以_VV 通过_P 数学_NN 归纳法_NN 可以_VV 证明_VV 如下_JJ 定理_NN （_PU 策梅_NN 洛定理_NN ）_PU ：_PU 任何能_NN 在_VV 有限_JJ 步内_NN 结束_VV 的_DEC 二_NN 人_NN 棋類遊戲_NN ，_PU 都_AD 必定存_NN 在_VV 著_P 一_CD 方_NN 有_VE 必不敗_NN 之法_NN 。_PU 也就是_NN 說_NN ，_PU 中國象_NN 棋是部_NN 份解構_VV 的_DEC 已解遊戲_NN 。_PU
+
+
+
+
+
+

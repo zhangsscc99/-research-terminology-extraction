@@ -1,0 +1,7 @@
+﻿上_NN 海棋_NN 院_NN
+
+上海棋_NR 院又名_NN 上_NN 海市_NN 棋牌_NN 运动_NN 管理_NN 中心_NN ，_PU 是_VC 中華人民_NN 共和國_NN 第一_OD 家棋藝_NN 機構_VV ，_PU 位於_NN 上海_NR ，_PU 由上海_NR 市體育局_NR 領導_NN ，_PU 負責_NN 管理_NN 上_NN 海市象_NN 棋队_NN 、_PU 上海_NN 市围棋_NN 队_NN 、_PU 上_NN 海市国_NN 际象_NN 棋队以_NN 及_NN 《_PU 围棋月刊_NN 》_PU 社_NN 。_PU
+
+上海_NR 棋院成_NR 立於_NN 1960_CD 年_M 。_PU 當時名為_NN 上_NN 海棋社_NN ，_PU 位於吴_NN 兴路_NN 87_OD 号_M 。_PU 1975_CD 年一度改名_NN 上_VV 海市棋社_NN 。_PU 1995年_NT ，_PU 上海棋_NR 社更_NN 名為上_NN 海棋院_NN 。_PU 2017年_NT 6月_NT ，_PU 位於_NN 南京_NN 西路_NN 595_CD 号的_NN 上_NN 海棋院新_NN 大_NN 楼_NN 投入_NN 使用_NN 。_PU 新大楼_NR 内有近_NR 1000_CD 平方米_NN 的_DEC 中國首家_NN 综合性_NN 上_NN 海棋牌_NN 文_NN 化博_NN 物馆_NN 。_PU
+
+

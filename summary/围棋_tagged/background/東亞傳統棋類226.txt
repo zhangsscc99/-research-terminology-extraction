@@ -1,0 +1,12 @@
+﻿小目_NN
+
+小目_NN 是圍棋_NN 棋盤上_NN 第三_OD 線和第_NN 四_AD 線_VA 的_DEC 交叉_NN 點_OD ，_PU 一_OD 個_NN 角落有_VV 兩_CD 個_M ，_PU 整個棋盤_NN 中_LC 共有_VV 八_CD 個_NN 位置_NN 稱作_NN 小目_NN 。_PU （_PU 如以_NN 棋盤左_NN 上角作_NN (_PU 1_CD ,_PU 1)_CD 算起_NN ，_PU 這_NN 八_OD 個_NN 點_OD 的_DEG 座標_NN 位置_NN 分別_AD 是_VC (_PU 3_CD ,_PU 4)_CD (_PU 4,3_CD )_PU (3_CD ,_PU 16_CD )_PU (4_CD ,_PU 17_CD )_PU (16_CD ,_PU 3)_CD (_PU 16_CD ,_PU 17_CD )_PU (17_CD ,_PU 4)_CD (_PU 17_CD ,_PU 16_CD )_PU ）_PU
+小_JJ 目因_NN 為_NN 兼具_NN 第三_OD 線_NN 的_DEG 重視實利_NN 以及第_NN 四_OD 線_NN 重視_NN 外勢的_VV 兩_CD 個優_M 點_CD ，_PU 因此成為_AD 圍棋_VV 開_CD 局佔角_NN 時_NN 經_NN 常下_NN 的_DEC 位置_NN 。_PU 在_P 19_CD 世紀_NN 及以_VV 前_AS 的_DEC 日本_NR 圍棋_NN 比賽_NN 中_LC ，_PU 因較_NN 重視_NN 實利_NN ，_PU 因此大_NN 多數_VV 的_DEC 開局都_NN 是_VC 以佔小_JJ 目開局_NN ，_PU （_PU 當時_NN 的_DEC 中國圍棋_NN 規則_NN 是_VC 採用_NN 星位的_NN 座子_NN ，_PU 因此不_NN 可_VV 能_VV 先佔小目_VV ）_PU 尤其_VV 秀策_NN 流布局_NN ，_PU 更_NN 是_VC 以執_JJ 黑先_NN 下時_VV ，_PU 連佔_NN 三個角_NN 的_DEC 小目而_NN 著名_VV 。_PU
+
+20_OD 世紀_NN 上半葉_NN ，_PU 受新布局_NR 觀念_NN 的_DEG 影響_NN ，_PU 大_CS 家開始_NN 較_NN 為重視_NN 外勢_NN ，_PU 因此_NN 佔角_NN 時下_VV 在_CD 星位_NN ，_PU 甚至_NN 目外_NN 、_PU 高_JJ 目的_NN 情形變多_NN 。_PU 根據統計_NN ，_PU 近年來_NN 的_DEC 棋賽中_NN ，_PU 先佔_NN 星位和_NN 小目的_NN 比例_NN 大致_AD 相當_VV 。_PU
+
+雖然小_JJ 目和_NN 星位在_NN 現代圍_NN 棋中_NN 同_AD 樣受_VV 到_VV 重視_NN ，_PU 但_NN 星位因_NN 為_NN 左_JJ 右_JJ 對_CD 稱_NN ，_PU 因此_AD 佔角_VV 、_PU 掛角_NN 之後_NN 的_DEC 變化較為_NN 簡單_VV ，_PU 而_CC 小_JJ 目的_NN 變化較_NN 為複雜_NN ，_PU 也因此_NN 現_NN 今_AD 所有_DT 的定式_JJ 中_NN ，_PU 小_NN 目定式_NN 的_DEG 數量最_NN 為_NN 龐_AD 大_JJ 而複雜_NN 。_PU
+
+小目高_NN 挂_P 一_CD 间低_NN 夹托退_NN 后_AD 直接_AD 拆二的下法_VV ，_PU 是_VC 由_P 张栩最_NN 早普及_NN 的_NN ，_PU 被称之_NN “_PU 张_NN 栩定式”。_JJ 这手棋_NN 也_AD 被_SB 现代_VV AI_NN 所_NN 认_AD 可_VV 。_PU
+
+

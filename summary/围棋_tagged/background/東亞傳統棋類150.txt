@@ -1,0 +1,10 @@
+﻿吃子棋_NN
+
+吃子棋_NN （_PU CaptureGo_NN ）_PU ，_PU 英文多稱為_NN TheCaptureGame_NR 、_PU FirstCaptureGo_NR 、_PU AtariGo_NR ，_PU 日文稱_NR 為ポン_NN 抜き囲碁_NN ，_PU 是_VC 採用_NN 圍棋規則_NN ，_PU 但以先_NN 提對_NN 方棋子到_NN 一定_JJ 數量_NN 為勝_NN 的_DEC 棋類_NN 。_PU 此遊戲常_NN 在_P 訓_NN 練_NN 孩童_NN 熟悉_NN 圍棋如_NN 何吃子時_NN 使用_NN 。_PU
+
+
+
+
+
+
+

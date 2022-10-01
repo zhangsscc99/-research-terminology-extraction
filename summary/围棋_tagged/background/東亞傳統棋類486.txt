@@ -1,0 +1,13 @@
+﻿飞_NN (_PU 围棋_NN )_PU
+
+飛是_NN 圍棋_NN 中_LC 的_DEG 一_CD 種_NN 行棋_NN 方式_NN ，_PU 是指將_NN 棋下_VV 在_VV 原有己_NR 方棋子_NN 的_DEC 斜側_NN 方向_NN 但彼_VV 此_NN 不接觸_NN 的_DEC 情況_NN （_PU 接觸_NN 稱作尖_NN ）_PU ，_PU 且所_NN 下棋_VV 的_DEC 四周沒_NN 有對方_NN 的_DEC 棋子_NN （_PU 否則_NN 稱作碰_NN ）_PU 但_CD 如果_NN 兩_CD 個己_NN 方棋子_NN 距離_NN 過遠則_NN 一般_JJ 不稱作飛_NN 。_PU
+
+一_CD 般_NN 常用_NN 的_DEC 飛可分作_JJ 小飛_NN 、_PU 大飛_NN 、_PU 超大飛_NN 、_PU 象飛_NN 四_OD 種_NN ，_PU 狹義_NN 的_DEC 飛也就僅_NN 指_VV 這_NN 四_OD 種_NN 。_PU
+
+飛相較於_NN 尖_NN 、_PU 跳_NN 等下法_NN 而言_VV ，_PU 棋子間_NN 的_DEC 連繫較差_NN ，_PU 容易被對_NR 方切斷_NN ，_PU 陣地較_NN 不_AD 穩固_VV ，_PU 但其_NN 行動_NN 速度_NN 較快_VV ，_PU 在_VV 擴張_NN 外勢_NN 和_NN 實地_NN 、_PU 包圍_NN 攻擊對_NN 手棋子_NN ，_PU 以及_NN 侵入_VV 對方領_NN 地時都_NN 是_VC 很_NN 常_NN 使用_NN 的_DEC 手法_NN 。_PU
+
+各種飛_NN 的_DEC 方式隨_NN 實際需要_NN 而_CC 運用_NN ，_PU 相較而_NR 言小_NN 飛最_NN 為堅實_NN ，_PU 而超大飛_NN 進度最_NN 快但_NN 聯繫最差_NN ，_PU 象飛_NN 則因_NN 對手可_NN 輕易_VV 穿象眼_NN （_PU 下在_JJ 象飛_NN 兩_CC 棋子_NN 中_AD 間_VA 的_DEC 位置_NN ）_PU 來切斷_NN 二_CC 個棋子_NN ，_PU 因此僅_NN 在_VV 特定_NN 周圍局勢_NN 時_NN 才_AD 會_LB 使用_NN 。_PU
+
+20_OD 世代_NN 棋圈_NN 中也_NN 可用_NN 於棋_NN 手_NN 互稱_NN 。_PU 譬如_NN 擅長_NN 小飛_VV 的_DEC 張姓棋手_NN 與_NN 李姓棋_NN 手切_NN 磋棋藝_NN 。_PU 若感相_NN 弈甚歡_VV ，_PU 會_BA 自稱李_NN 小_JJ 飛_NN 。_PU
+
+

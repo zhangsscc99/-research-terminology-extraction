@@ -1,0 +1,14 @@
+﻿_CD AQ_NN (_PU 圍棋_NN 軟體_NN )_PU
+
+AQ_NN 是日本_NN 程式_NN 設計_NN 師山口_NN 祐所開發_VV 的_DEC 電腦圍棋_NN 軟體_NN 。_PU
+
+軟體_NR 本身_NN 使用_NN C_NN ++撰寫_NN ，_PU 並_NN 使用_NN TensorFlow_NN 實作_NN 類神經_NN 網路_NN 的_DEC 部分_NN 。_PU GPU_NN 版本_NN 僅透過_NN CUDA_NN 支援_NN Nvidia_NN 顯示卡_NN 。_PU
+
+
+2017年_NT 的_DEG 第一_OD 屆世界_NN 智能圍_NN 棋_NN 公_NN 開賽初賽_NN 取得_VV 第七_OD 名_M 。_PU 2017_CD 年_M 的_DEG AI_NN 龍星戰_NN 預選賽取_NN 得第_NN 六_OD 名_NN ，_PU 並_VV 在_P 本賽_NN 取得_VV 第四_OD 名_NN 。_PU
+
+AQ_NN 的_DEC 各版本在_NN CGOS_NN 上_NN 都_AD 有_VE 相_NN 當好_VV 的_DEC 成績_NN ，_PU 對於_NN 2018年_CD 一月_NT 所_MSP 釋出_VV 的_DEC 最_NN 新版_NN v2.1.1_NN ，_PU 在_P CGOS_NN 上_NN 的_DEC codice_NN
+
+
+
+

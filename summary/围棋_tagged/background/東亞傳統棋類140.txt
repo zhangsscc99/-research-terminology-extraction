@@ -1,0 +1,11 @@
+﻿双提_NN 二子_NN
+
+双提_JJ 二子_NN 是围棋_NN 中_VV 一_CD 种_M 特殊_NN 局面_LC ，_PU 具有_VV 类_NN 似劫_NN 的_DEC 性质_NN 。_PU
+
+如_AD 图_NN 1_OD 所_MSP 示_VV ，_PU 黑_NN 1_OD 走_NN a_OD 位_NN ，_PU 白_NN 2_OD 走_NN b_OD 位_NN ，_PU 黑_NN 3_OD 走_NN c_NN 位提白_NN 二_OD 子_NN ，_PU 白_NN 4_OD 走_NN d_NN 位提黑_NN 二_AD 子_VA ，_PU 得到图_NN 2_CD 局面_NN 。_PU 之_NN 后双方_NN 5_OD 至_PU 8_OD 手_NN 可_VV 分别_AD 下在e-h位_VV ，_PU 再_AD 分别_AD 提对方_VV 二_CD 子_M ，_PU 返回初_NN 始局面_NN 。_PU
+
+如果_CS 双方继_NN 续_AD 走下去而不_VV 在_P 此_NN 让_VV 步_NN ，_PU 且_NN 规则_NN 不_AD 禁止_VV 全局_NN 同型_JJ 再现_NN ，_PU 则该盘_NN 会_VV 判为_VV 无胜负_NN 。_PU
+
+如果_CS 规则禁止_NN 全局同_NN 型_AD 再现_VV ，_PU 且黑_NN 方劫_NN 材不_NN 利_NN ，_PU 则黑_NN 3_AD 可_VV 改走_VV d_NN 位提白_NN 2_OD ，_PU 继而白_NN 4_OD 走_NN c_OD 位_NN 提黑_NN 1_NN ，_PU 于_NN 是_VC 循环打破_NN ，_PU 两_CD 方双活_NN 。_PU
+
+

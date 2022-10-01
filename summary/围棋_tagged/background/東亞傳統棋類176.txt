@@ -1,0 +1,5 @@
+﻿国_NR 际业_NN 余围_NN 棋混双赛_NN
+
+国际业_NN 余围_NN 棋混双赛_NN 由_P 日本混_NN 双围棋协_NN 会_NN 、_PU 国_NN 际业余_NN 混_ETC 双_NN 赛_NN 实行_NN 委员会_NN 主办_VV 。_PU
+
+

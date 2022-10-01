@@ -1,0 +1,8 @@
+﻿井上_NN 家_NN
+
+為日本_NN 江戶_NN 時代_VV 的_DEC 圍棋_NN 四_AD 大_VA 家_SP (_PU 本因坊_NN 家_NN 、_PU 安井家_NN 、_PU 井上家_NN 、_PU 林家_NN )_PU 之一_NN 。_PU
+傳至第_NN 十六_OD 世井_NN 上因_NN 碩時_VV ，_PU 日本_NR 棋院已_NR 經_ETC 非常成熟_NR ，_PU 圍棋四大_NR 家僅_NN 存_NN 一_OD 家_NN ，_PU 這種世襲_NN 制度_NN 、_PU 江戶_NN 時期_VV 的_DEC 產物_NN ，_PU 自然已_NN 經_AD 不_AD 符合時代_VV 潮流_NN ，_PU 日本_NR 棋院多_NR 次勸誘_NN 十六_CD 世因_NN 碩放下井_NN 上家元_NN ，_PU 則_NN 授_NN 與名譽_NN 九_OD 段_NN ，_PU 但_NN 遭拒絕_NN ，_PU 十六_CD 世因_NN 碩去世後_NN ，_PU 其徒弟_NN 津_NN 田_NN 義孝_NN 自稱承_NN 襲_NN 為_OD 第十七_OD 世井_NN 上因碩_NN ，_PU 但_NN 是_VC 普遍不受_JJ 世人認_NN 可_VV ，_PU 所以井上_AD 家_DEV 多_CD 記作_NN 傳承_NN 十六_CD 世_NN 。_PU
+
+<_PU divclass_NN =_NN "_PU references_NN -_PU small_NN "_PU >_PU
+
+

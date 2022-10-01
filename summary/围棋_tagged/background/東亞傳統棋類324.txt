@@ -1,0 +1,33 @@
+﻿模仿棋_NN
+
+模仿棋_NN ，_PU 一_CD 種圍棋_NN 戰術_VV ，_PU 以模仿_NN 對手_VV 的_DEC 棋路為主_NN ，_PU 依照對_NN 手落子_NN 的_DEC 位置_NN ，_PU 在_P 對稱_NN 的_DEC 鏡像_NN 位置_NN 落子_NN 。_PU 相傳最早_NN 使用這_NN 種_AD 戰術_VV 的_DEC 人_NN ，_PU 是中國北_NN 宋時_VV 的_DEC 蘇東坡_NN ，_PU 因此古稱_NN 東_AD 坡棋_VV 。_PU 日本_NR 豐臣_NN 秀吉_NN 也喜歡_NN 使用_NN 這種戰術_NN ，_PU 因此在日本_NR 又稱_NN 太閤棋_NN 。_PU 根據執棋_NN 的_DEG 不同_NN ，_PU 又有_VV 黑棋_NN 模仿_NN 棋和_NN 白棋_NN 模仿棋_NN 兩_AD 大類_VV 。_PU 現代_NN 使用_NN 模仿_NN 棋戰術_NN 的_DEC 職業棋手_NN 不_AD 多_VA ，_PU 其中_NN 以藤澤_NN 朋齋最_NN 為著名_NN 。_PU
+
+黑棋東_NN 坡棋_VV 的_DEC 戰術_NN ，_PU 通常_AD 在_VV 第一_OD 手下_JJ 天元_NN ，_PU 之後完_NN 全仿_NN 照對手_NN 的_DEG 下子_NN 。_PU 在_P 貼目規_NN 則出現後_VV ，_PU 又出_VV 現白_NN 棋東_NN 坡棋_NN 。_PU 白棋東坡_NN 棋執_NN 白子後_NN 下_VA ，_PU 完全仿_NN 照對手_NN 的_DEG 下法_NN ，_PU 再伺_NR 機取得_NR 對自己_NN 有利_VA 的_DEC 局面_NN 。_PU
+
+1929年_NT ，_PU 吳清源首_NN 次_NN 對戰木_NN 谷實_VV ，_PU 執黑子_NN 先手_NN ，_PU 就_P 採用_NN 模仿_NN 棋戰術_NN ，_PU 第一_OD 手下在天元；_JJ 之後_NN ，_PU 吳清源_NN 在_P 前_NN 63_OD 手_M ，_PU 皆仿_NN 效木_NN 谷實_VV 的_DEC 下法_NN 。_PU 這_NN 是_VC 在_P 日本職_NR 業圍_NN 棋史上_NN ，_PU 首次有_NR 人_NN 使用_NN 模仿棋_NN ，_PU 這個_NN 棋局_NN 也成_VV 為_JJ 日本圍_NR 棋史_NN 上_NN 很著名_NN 的_DEC 一次_JJ 比試_NN 。_PU 這次_NN 比賽_NN 促成_VV 日本_NN 圍棋界_NN 採用貼_NN 目規則_NN 。_PU
+
+周俊_NN 勳於_NN 2017年_CD 1月_NT 4日與_NN Master_NN 對弈_NN ，_PU 起手下在天_NR 元就_NN 是用_NN 東坡棋_NN ！_PU
+
+黑_OD 69_OD 之後_NN ，_PU 白_NN 70_CD ，_PU 周俊勳就_NN 停止_VV 東坡棋_NN ！_PU
+
+當_OD Master_NR 白_NN 70_CD 時_NN ，_PU 再_AD 模仿_NN 下去_VV ，_PU 棋越來_NN 越厚_VV ，_PU 天元_NN 的_DEC 效力就_NN 會_AD 被_SB 消減_VV ，_PU 於是黑7_VV 1_CD 黏_M ，_PU 停止_NN 模仿了_NN ，_PU 然_BA 後白_NN 72_CD 也黏_NN ，_PU 在_P 右邊_NN 開始發_NN 生戰鬥_NN ！_PU
+
+黑_NN 73_OD 擋_NN 、_PU 白_NN 74_CD 跳_NN 、_PU 黑_NN 75_CD 黏_NN ，_PU 黑_NN 75_CD 不能在_NN A_NN 位_NN 擋_LC ，_PU 會_NN 被征子_NN ，_PU ！_PU
+
+這時白棋_NN 78_CD 靠是_NN 很_AD 好_VA 的_DEC 一_CD 手_NN ！_PU 使得_VV 在_P 天_NN 元_NN 的_DEC 黑子_NN 一_CD 直_NN 沒_AD 有_VE 發揮_NN 效用_NN ！_PU
+
+70_OD ~_PU 92_OD 手_M ，_PU
+白棋_NN 86_OD 長_M ，_PU 黑棋_NN 87_CD 在_VV 右下方_NN 補_VV 一_CD 手_NN ，_PU 白_NN 88_CD 在_P 右邊要_NN 出頭_VV ，_PU 黑_BA 89_CD 擋_NN ，_PU 白_NN 90_CD 互斷_NN ，_PU 黑_NN 91_CD 叫吃_NN ，_PU 白_NN 92_CD 黏_NN 。_PU
+
+此時白_NN 棋_VV 在_P 右邊很_NN 容易_VA 活_SP ，_PU 黑棋_NN 卻有_VV 幾手要_NN 補_NN ！_PU
+
+93_CD ~_PU 104_CD 手_NN
+
+黑_NN 103_CD 選擇斷_NN ，_PU 白_NN 104_CD 叫吃_NN 三_OD 子_NN ，_PU 唉呀_NN ，_PU 黑棋大勢_NN 不_AD 妙_VA ！_PU
+
+105_CD ~_PU 118_CD ，_PU
+
+白_NN 108_CD 在_P 右下角擠_NN ，_PU 然後白_NN 112_CD 勝券_NN 在握_VV ，_PU 脫離_NN 戰鬥去_NN 圍_AD 大_VA 場_SP ！_PU
+白棋勝_NN ！_PU
+
+

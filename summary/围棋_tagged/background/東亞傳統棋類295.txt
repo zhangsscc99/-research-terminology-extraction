@@ -1,0 +1,5 @@
+﻿日本_NN 將棋_NN 聯盟_NN
+
+日本_NN 將棋_NN 聯盟_NN 是_VC 日本_NR 职业_NN 将棋_VV 的_DEC 主要_NN 组织_NN 机构_NN 。_PU 1924年_NT 9月8日_NN ，_PU 东京的_NR 棋手_NN 联合起_NN 来_MSP 成立_VV 东京将_NR 棋连盟_NN ，_PU 这是_NN 日本_NN 將棋_NN 聯盟_VV 的_DEC 雛形_NN 。_PU 1927年_NT ，_PU 东京将_NN 棋连盟_NN 改名_NN 为_VC 日本_NN 将棋_NN 连盟_NN 。_PU
+
+

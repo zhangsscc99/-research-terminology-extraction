@@ -1,0 +1,12 @@
+﻿_OD “_PU 天府杯_NR ”_PU 世界_NN 围棋_NN 职业_NN 锦标赛_NN
+
+“_PU 天府杯_NN ”_PU 世界_NN 围棋_NN 职业_NN 锦标_NN 赛于_VV 2018年_NT 9月20_NN 日起_VV 开战_NN 。_PU 由中_NN 国围_NN 棋协会_NN 、_PU 中国_NR 棋院_NN 、_PU 四川天_NN 府新区_NN 成都管_NN 理_NN 委员会_NN 主办_VV ，_PU 由_P 四_CD 川天_M 府银行_NN 有限_JJ 公司_NN 、_PU 天府_NN 管理_NN （_PU 集团_NN ）_PU 有限_NR 公司_NN 、_PU 天府_NN 基金管_NN 理有_VV 限责任_NN 公司_NN 、_PU 四川天_NN 府金融_NN 租赁股_NN 份有_VV 限_NN 公司_NN 、_PU 万腾实业_NN 集团_NN 有限_NR 公司_NN 承办_VV 。_PU 每方_NN 2_CD 小时后_NN 5_CD 次_CC 1_CD 分钟_M 读秒_NN ，_PU 超时判负_NN 。_PU 奖金_NN （_PU 税前_NR ）_PU ：32_CD 强败者_NN 获得_VV 3万_CD 元人_NN 民币_VV ，_PU 16_NT 强败者_NN 5万_CD 元_NN ，_PU 8_CD 强败者_NN 8万_CD 元_NN ，_PU 4_CD 强败者_NN 15万_CD 元_M ，_PU 亚军_NN 70万_CD 元_M ，_PU 冠军_NN 200万_CD 元_NN 。_PU
+
+首届天府_NN 杯_AD 采取_VV 一_OD 次_M 抽签定_NN 位制_VV ，_PU 首轮_NN 抽签同_NN 国回避_NN 。_PU 天府杯_NN 在_VV 赛制中_NN 采取_VV 了_AS 此前从_NN 未_AD 出现_VV 过_AS 的_DEC 分_CD 组_NN 赛制_VV 。_PU 32_NT 名选手_NN 被_SB 分为_VV 两_CD 个_M 小组_NN ，_PU 各_CD 个_M 小组_VV 在_CD 小组决_NN 赛前_VV 为_VC 单败淘汰_NN ，_PU 而小_NN 组决_NN 赛失利_NN 一_CD 方不会_NN 被_SB 淘汰_VV ，_PU 两_CD 个_M 小组的_NN 冠_NN 、_PU 亚军将_NN 进入最_NN 终决赛_NN 阶段的_NN 四_OD 强_NN 。_PU 决赛阶_NN 段半决赛_NN 的_DEC 对阵_NN 为_VC A_NN 组冠军对_NN B_NN 组亚军_NN ，_PU B_NN 组冠军对_NN A_NN 组亚军_NN ，_PU 比赛_NN 为单盘_NN 决胜_VV ，_PU 决赛为_NN 半决赛获_NN 胜双方_NN 进行_VV 三番棋_NN 决出胜负_VV 。_PU 这样的_JJ 赛制为_NN 棋手_NN 提供_VV 了_AS 一定_JJ 容错率_NN ，_PU 在_P 小组_NN 决赛_NN 失利_VV 的_DEC 棋手_NN 也有_VV 获得_VV 冠军_NN 的_DEC 机会_NN ，_PU 例如_AD 首届天_NN 府杯_VV 的_DEC 冠亚军陈_NN 耀_AD 烨_VA 、_PU 申真谞_NN 分别_AD 为_VC A_NN 组和_NN B_NN 组_NN 的_DEC 小_JJ 组亚军_NN 。_PU
+
+
+初赛_JJ 阶段_NN ：_PU 2018年_NT 9月20_NN 日_NN 至_PU 27_CD 日_NN ，_PU 北京_NR
+半决赛_NN ：_PU 陈耀烨_NN 执白_NN 178_CD 手_NN 中盘_NN 胜_NN 朴廷桓_NN ，_PU 申真谞_NN 执黑_NN 265_CD 手胜_NN 江维杰_NN
+决赛_NN ：_PU 陈耀烨_NN 2_OD :_PU 1_OD 申_M 真谞_NN
+
+

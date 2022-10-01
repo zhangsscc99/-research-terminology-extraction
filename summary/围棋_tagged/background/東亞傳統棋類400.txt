@@ -1,0 +1,9 @@
+﻿美国_NN -_PU 加拿_NN 大围棋_NN 对抗_NN （_PU 擂台_NN ）_PU 赛_NN
+
+美国_NR -_PU 加拿大_NR 围棋_NN 对抗_NN （_PU 擂台_NN ）_PU 赛_NR ，_PU 美国和_NR 加拿大_NN 之间_NN 的_DEC 围棋_NN 团体_NN 对抗赛_NN （_PU 逢双届_NN 为_VC 擂台赛_NN ）_PU ，_PU 在_P KGS_NN 围棋_NN 服务器_NN 的_NN "_PU USAvsCanadaTeamTournament_NN "_PU 房间_NN 举行_VV 。_PU
+
+第一_OD 届美国_NN -_PU 加拿_NN 大围棋_NN 对抗_NN 赛于_NN 2007年_CD 10月_NT 26-29日_NT 举行_VV ，_PU 美国_NR 队7_NN :_PU 4_CD 获胜_NN 。_PU
+第二_OD 届美国_NN -_PU 加拿_NN 大围棋_NN 擂台_NN 赛跨越_NN 2009年_CD 6月_NT 13日_NT -_PU 9_CD 月_PU 12_CD 日_M ，_PU 加拿大队_NN 10_CD :_PU 8_CD 获胜_NN 。_PU
+第三_OD 届美国_NN -_PU 加拿_NN 大围棋_NN 对抗_NN 赛于_NN 2011年_CD 6月_NT 举行_VV ，_PU 加拿大队_NN 8_CD :_PU 7_CD 获胜_NN 。_PU
+
+

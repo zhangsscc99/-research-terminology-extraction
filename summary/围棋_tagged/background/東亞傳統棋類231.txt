@@ -1,0 +1,12 @@
+﻿山口_NN 规则_NN
+
+山口_NN 规则是_NN 连珠_NN 的_DEG 开局_NN 规则_VV 。_PU 山口_NN 规则_NN 是_VC 由_P 日本棋_NR 手山口_NN 釉水_NN 提出_VV 的_SP 。_PU
+
+山口规则_NN 的_DEC 详细开_NN 局流_NN 程如下_NN ：_PU
+
+
+山口_NN 规则与_NN 传统的_NN RIF_NN 规则非常_NN 接近_VV ，_PU 因此更易_AD 被_SB 接受_VV 。_PU 相比_NN RIF_NR 规则_NN ，_PU 它_AD 提供_VV 了_AS 更_AD 多_CD 新_M 的_DEG 平衡开局_NN ，_PU 但_NN 其中_NN 某些_NN 开局_NN （_PU 如_CS 彗星_NN 、_PU 游星_NN ）_PU 是_VC 不适合开_NN 的_NN 。_PU 而_MSP 且_VV ，_PU 这_CD 个_M 规则仍_NN 然无法_NN 避免_VV 像瑞星_NN 和_CC 棋定式_JJ 一_CD 类_NN 的_DEG 变化_NN 。_PU
+
+在_P 2009_CD 年到_NN 2016_CD 年间_NN ，_PU 山口_NN 规则作_NN 为世界_NN 连珠_NN 锦标_NN 赛和_NN 世界_NN 连珠_NN 团体_NN 锦标赛_NN 的_DEC 官方开_NN 局_AD 规则_VV 。_PU
+
+

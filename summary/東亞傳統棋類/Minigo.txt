@@ -1,0 +1,24 @@
+﻿Minigo
+
+Minigo是一套電腦圍棋軟體。
+
+Minigo是一套依照DeepMind在《自然》上對於AlphaGo Zero所發表的論文《》所實做出的開源電腦圍棋程式，也就是不使用人類棋譜與累積的圍棋知識，僅實做圍棋規則，使用單一類神經網路從自我對弈中學習（不像AlphaGo以人類角度思考，設計了Policy Network與Value Network）。
+
+軟體是基於Brain Lee的MuGo繼續開發，使用Python與C++撰寫，並且透過TensorFlow實做類神經網路的部份。程式碼以Apache License 2.0釋出，訓練資料以公有领域（）釋出。
+
+專案的目標包括了：
+
+
+除此之外，專案也希望藉由獨立另外實做，驗證Leela Zero所產生的疑問。
+
+這個計畫雖然是掛在TensorFlow的GitHub下（且TensowFlow是由Google研發出的軟體），而且主要的專案貢獻者Andrew Jackson與Tom Madams都是Google員工，但官方一再強調這並非TensorFlow專案的一環，也不是DeepMind的AlphaGo官方版本，而是由獨立的團隊依照AlphaGo Zero的論文而實做出的版本。
+
+雖然Google與DeepMind沒有正式參與Minigo計畫，但Andrew Jackson使用的是Google所提供的20%時間，並且得到Google贊助提供硬體資源進行運算，供Minigo團隊確認程式正確性：
+
+
+Leela Zero同樣也是依照AlphaGo Zero論文所獨立實做出來的軟體，而Minigo專案取得Google贊助的計算資源，透過大量計算資源得到品質還不錯的訓練網路資料。因此Leela Zero的團隊與Minigo的團隊基於雙方的經驗，討論參數的調整能帶來的改善，以及雙方訓練資料共用的可能性。
+
+Minigo的第二階段在CGOS上以codice_1開頭的名稱參與19x19的對戰，排名最高的帳號為codice_3，取得約2600分的BayesElo成績。
+
+
+

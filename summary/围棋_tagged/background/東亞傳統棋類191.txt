@@ -1,0 +1,12 @@
+﻿圍棋譜_NN
+
+圍棋譜_NN ，_PU 圍棋_NN 對弈_NN 過程_NN 的_DEC 記錄_NN （_PU 棋譜）_NR ，_PU 在紙上_NR 畫上或_NN 印刷棋盤_NN （_PU 一_CD 般為_NN 19_OD 路_M ）_PU ，_PU 並在黑_NR 、_PU 白棋雙_NN 方落子_NN 的_DEC 位置_NN 上_NN 註明該_NN 手_NN 手數_VV ，_PU 印刷圍棋_NN 譜會繪上_NN 黑_NN 、_PU 白棋子_NN 並_NN 在_P 其_NN 上_NN 註明該_NN 手_NN 手數_VV 。_PU 現今除_NN 印刷_NN 版本_VV ，_PU 亦有_VV 以電子_NN 棋譜_NN 形態_VV 留_CD 存在_NN 網際_NN 網路供_NN 人參閱_NN 。_PU
+
+
+網絡圍棋_NN 使用_NN 稱為_NN SmartGameFormat_NR （_PU 簡稱_NR SGF_NN ）_PU 的_DEC 檔案格_NN 式作_VV 為記_NN 錄圍_NN 棋棋局_NN 的_DEC 格式_NN ，_PU 很_AD 多_CD 電腦圍_NN 棋程式_JJ 都支援該_NN 格式_NN 。_PU
+
+
+
+
+
+

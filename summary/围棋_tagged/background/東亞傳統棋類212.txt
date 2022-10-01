@@ -1,0 +1,160 @@
+﻿妖刀_NN 定式_NN
+
+妖刀_NN 定式是_NN 一_OD 类_NN 围棋_NN 定式_VV 的_DEC 统称_NN 。_PU
+
+圍棋_NN 中_LC 的_DEG 妖刀_NN 定式_NN 的_DEC 手順_NN 通常_AD 是_VC 從白棋_NN 小_NN 目締角_NN 開_NN 始_LC ，_PU 然_P 後黑_NN 1一_CD 間高掛_M 、_PU 白_NN 2二_CD 間高夾_NN 。_PU
+
+傳統在_NR 分析黑_NN 3_OD 的_DEG 應手時_NN ，_PU 有A_VV 到_NN G_NN 以及_CC 脫先等_NN 八_OD 種_NN 應法_NN ，_PU 其中_NN 以_MSP D位_VV 的_DEC 大飛和_NN F_NN 位_NN 的_DEG 跳比較_NN 常_AD 見_VA 。_PU
+
+AlphaGo_NN 的_DEG 下法_NN 是_VC D_NN 位_NN 大飛_NN 。_PU
+
+AlphaGo三_NN 次下_VV 妖_CD 刀定式_NN ，_PU 均是執_NN 白棋_VV 。_PU
+
+這是黑1以_VV 一_CD 間高掛_NN 小目開_NN 始_NN ，_PU 白_NN 2_OD 以_NN 二_OD 間_M 高夾_NN ，_PU 黑_NN 3_OD 大_NN 飛_LC ，_PU 俗稱妖_NN 刀定式_JJ 。_PU
+
+根據黃士_NN 傑博士_NN 2017年_CD 8月_NT 7日臉書_NN 的_DEC 資訊_NN ，_PU 他以妖_NN 刀定式_JJ 基本型_NN ，_PU 說明_NN AlphaGo_NN 的_DEC 分析_NN 結果_NN 。_PU
+
+AlphaGo_NN 對黑_NN 3_OD 的_DEG 建議是_NN 大_NN 飛_LC ，_PU 也就是_NN 下_VV 在_P 基本型的_JJ D位；_NN 而_CC 白_NN 4_OD 跳_NN 是_VC 最_AD 佳_JJ 應手_NN 。_PU
+
+前_CD 圖黑_NN 3_CD 大飛_VV 、_PU 白_NN 4_OD 跳_NN 、_PU 黑_NN 5_OD 則_NN 在_P 左_NN 邊_AD 擋_VA ，_PU 一_AD 直下_VV 到_P 白_NN 8_OD 長_NN 、_PU 黑_NN 9_OD 長_NN ，_PU 白_NN 10_CD 補_CD 一_CD 手_NN ，_PU AlphaGo_NN 計算後_NN ，_PU 認_CS 為這_NN 是_VC 妖_NN 刀定式_JJ 的_DEG 雙方最_NN 佳下法_NN 。_PU
+
+前圖_NN 的_DEC 黑5如_JJ 果改在_NN 上邊對_NN 白4_OD 擋_M ，_PU 也會_NN 形成_VV 戰鬥_NN ，_PU 黑_NN 7_OD 、_PU 白_OD 8_OD 互_M 斷_NN ，_PU 黑_NN 9_OD 長_NN 、_PU 白_NN 10_CD 長_NN 、_PU 黑_NN 11_CD 長_NN ，_PU 白_NN 12_CD 飛_M ，_PU AlphaGo_NN 計算後_NN ，_PU 認為局面_NN 白棋稍_NN 微_AD 有利_VA 。_PU
+
+實戰中_NN AlphaGo_NN 認為如_NN 果黑_NN 3_AD 大飛之後_VV ，_PU 白_NN 4_OD 直_M 接去_NN 靠黑_NN 1_NN ，_PU 馬_NN 上_NN 會引_NN 發激烈_NN 戰鬥_VV 。_PU
+
+白4_OD 靠_NN 、_PU 黑_NN 5_OD 擋_NN 、_PU 白_NN 6_OD 長_NN ，_PU 下_NN 至_VV 黑_NN 19_CD 拆邊_M ，_PU AlphaGo_NN 計算後_NN 白棋_VV 的_DEC 勝率_NN 下_NN 降近_VV 15_CD 個_CC 百分點_CD ，_PU 因此不建議白_AD 4_OD 靠_NN 。_PU
+
+AlphaGo_NN 在_VV 網路上_NN 60_CD 局_NN ，_PU 很_AD 巧地都_NN 是_VC 執_NN 白_NN 棋_LC ，_PU 人_NN 類受_VV 了_AS 很_AD 大_VA 的_DEC 教訓_NN ！_PU 在_P 此_PN 以_NN 三_OD 局_NN 介紹妖_NN 刀定式_NN ！_PU
+
+第35_OD 局_M ：_PU 江維傑_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU
+
+第41_OD 局_M ：_PU 金志錫_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU
+
+第55_OD 局_M ：_PU 陳耀燁_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU
+
+左上角_NN 本來_NN 是_VC 典型_VA 的_DEC 『_PU 妖刀_NN 定式_NN 』_PU ，_PU 但是_NN Master_NN 白_NN 24_CD 、_PU 白_NN 26_CD 衝_NN ，_PU 白_NN 30_CD 硬吃黑_NN 棋一_OD 子_M ！_PU
+
+此時_NR 黑棋_NN (_PU 人類_NN )_PU 樂得_VV 外勢雄厚_NN ，_PU 白棋如_NN 果是人_NN 類_NN 職_NN 業棋手_NN ，_PU 一般是不_AD 會這麼下_VV 的_SP ！_PU 然而_NN Master_NN 在_P 60_CD 局_NN 中_LC ，_PU 一_CD 共_NN 下出_VV 了_AS 3_OD 次_M ！_PU
+
+緊接_NN 著白_NN 34_CD 侵分_NN ，_PU 白_NN 36_CD 馬上_NN 削弱_VV 了_AS 黑棋外勢_NN ！_PU
+
+黑_CS 棋有_VV 點_CD 誤_M 判局勢_NN ，_PU 認為_NN 厚勢_NN 已得_VV ，_PU 黑_BA 37_CD 遂脫離_NN 戰場_VV ，_PU 改下在_NN 右下角_NN ！_PU
+
+白38實_NT 在_P 是好棋_NR ，_PU 它盯住_NR A位的_NN 動出_NN 。_PU 所_MSP 以_VV 黑棋_NN 必須_VV 在_P 此_PN 再_AD 加上_VV 一_CD 手_NN ，_PU 以_MSP 防止_VV 白棋_NN 跑出_VV 。_PU
+
+黑39跳_NT ，_PU 白40也跳_NR ，_PU 一直下_NR 到黑47粘_NR ，_PU 此時黑_NR 棋外勢_NN 反而變_NN 成厚_NN 上_LC 加厚_VV ，_PU 效率_NN 就_AD 不高_VV 了_SP 。_PU
+
+然後白_NN 48_CD 脫離戰_NN 爭_VV 在_P 左下角拐_NN ，_PU 這_AD 一_CD 手_NN 十分_CD 實_CD 惠_NN ！_PU 接著人類_NN 的_DEC 黑_NN 49_CD 卻成_VV 了_AS 問題手_NN 。_PU
+
+黑_OD 9二_OD 間高夾_NR 、_PU 白10_NR 大飛_NN 、_PU 黑_NN 11_CD 靠出_VV ，_PU Master_NN 在_VV 白_NN 16_CD 時又_NN 是_VC 衝斷_NR 。_PU
+
+黑_NN 17_CD 粘擋_NN ，_PU 白_NN 18_CD 到_CC 白_NN 22_CD 提_CD 一_CD 子_NN ，_PU 黑_NN 23_CD 斷_NN 、_PU 黑_NN 25_CD 粘_NN ，_PU 下到白2_VV 6_CD 時_M ，_PU 感覺_NN 黑棋_NN (_PU 人類_NN )_PU 取得外勢_VV ，_PU 這似乎_NN 是白棋_NN (_PU Master_NN )_PU 的_DEG 策略_NN ，_PU 但是_CC 也占得_NR 大場又_NN 是_VC 先_NN 手_NN 。_PU
+
+跟第_NN 35_CD 局的黑3_JJ 7一_NN 樣_NN ，_PU 人類認為_NN 厚勢_NN 已定_VV ，_PU 黑_BA 27_CD 此時脫_NN 離_NN 戰_NN 鬥選擇_NN 在_P 左下角跳_NN ，_PU 這已_NN 經是人_NN 類的_VV 二_OD 次_M 失誤_NN ！_PU 所_MSP 以_VV 當白_NN 28_CD 往中間_NN 大飛_CD 時_NN ，_PU 白_NN 12_CD 的_DEC 效果又_NN 立即_JJ 顯示出來了_NN 。_PU
+
+黑_NN 29_CD 繼續_NN 下_NN 在_P 左下角_NN ，_PU 白_NN 30_CD 碰_NN 。_PU
+
+黑_NN 37_CD 打入_VV ，_PU 意圖_NN 攻擊白_NN 10_CD 、_PU 白_NN 26_CD 、_PU 白_NN 28三_CD 子_NN ，_PU 白_NN 38_CD 輕快地_NN 飛來接應_VV ，_PU 又_CC 可以_VV 盯著A位_VV ，_PU 白_BA 12_CD 的_DEC 效果更_NN 顯著_VA 。_PU
+
+這時候人_NN 類下_VV 了_AS 黑_P 39_CD 無理手_NN 。_PU
+
+黑_NN 39_CD 反擊_NN ，_PU 可_VV 惜是_VV 無理手_NN 。_PU 雙方發_NN 生戰鬥_NN ，_PU 自然_NN 是黑棋_NN 吃虧_VV 。_PU
+
+白40碰_NT ，_PU 黑_NT 41_CD 、_PU 白_NN 42_CD 互斷_NN ，_PU 白_NN 44_CD 、_PU 白_NN 46_CD 設了_NN 包圍_VV 圈_NN ，_PU 黑_NN 47_CD 逸出_VV ，_PU 白_NN 48_CD 碰_NN ，_PU 黑_NN 37_CD 危險_NN ，_PU 黑棋_NN 陷入_VV 苦戰_NN ！_PU
+
+況且白棋_NN 在_P A_NN 位還_VV 有_VE 優勢_NN ！_PU
+
+本局序_NN 盤走_VV 的_DEC 跟第_NN 35_CD 局一模一樣，_JJ Master_NN 還是白_NN 24_CD 衝_NN 、_PU 黑_NN 25_CD 擋_NN 、_PU 白_NN 26_CD 斷_NN 。_PU
+
+但是陳_NN 耀_NN 燁_NN 已經跟_NN Master_NN 下過_VV 二_OD 盤_NN ，_PU 黑_NN 27_CD 不走_NN A_NN 位_NN ，_PU 改下在_NN 左邊_VV 。_PU
+
+上邊黑29拐_NR ，_PU 白30_NR 叫吃_NN ，_PU 黑_NN 31_CD 黏_NN 。_PU 目前_NT 局勢_NN 是_VC 白棋專取_NR 實利_NN ，_PU 黑棋則取_NN 外勢_NN 。_PU
+
+按照_NN 常理_NN ，_PU 人類_NN 會覺得_NN 黑棋優勢_NN 。_PU
+
+白_OD 36_OD 之後_NN ，_PU 黑_NN 37_CD 下_NN 在_P 左_NN 上_VV 角_NN ，_PU 硝_NN 煙_NN 四_OD 起_NN ，_PU 可_VV 能_VV 會_CD 引發_NN 戰_NN 爭_LC ，_PU 白_NN 38_CD 回防_M ，_PU 此時黑_NN 39_OD 竟_M 然脫離_NN 戰鬥_VV 在_VV 左下角長_NN ，_PU 沒想_VV 到_P AlphaGo_NN 有_NN 白_NN 40_CD 飛這_M 一_CD 手_NN ，_PU 黑棋很難_NN 對付_NN 。_PU 目前_NN 全盤並_NN 沒有_VV 一_CD 處_M 薄棋_NN 。_PU
+
+黑_NN 43_OD 長_NN 、_PU 白_NN 44_CD 黏_NN ，_PU 黑_NN 45_CD 脫離戰_NN 場_NN ，_PU 改_NN 在_P 下邊拐_NN ，_PU 白_NN 46_CD 尖_NN ，_PU 黑_NN 47_CD 還_NN 是_VC 在_P 右_NN 下_LC ，_PU 似乎_VV 在_VV 這個_NN 階段_NN 人類_NN 都想要_NN 取得_VV 厚勢_NN 。_PU
+
+最後_JJ 是白_NN 56_CD 接出白_NN 20_CD ，_PU 局勢突變_NN 。_PU
+
+AlphaGo_NN 在_VV 網路上_NN 60_OD 局_M ，_PU 其中_NN 有_NN 四_OD 局_NN 被_OD 劉小光(_VV 九_CD 段_M )_PU 評論_NN ，_PU 在_P 中盤階_NN 段下_VV 出_CD 妖刀_NN ！_PU
+
+第11_OD 局_M ：_PU 陳浩_NN 五_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU
+
+第14_OD 局_M ：_PU Master_NN (_PU 黑_NN )_PU 與嚴在明_NN 三_OD 段_NN (_PU 白_NN )_PU
+
+第32_OD 局_M ：_PU 古力_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU
+
+第38_OD 局_M ：_PU Master_NN (_PU 黑_NN )_PU 與柁_NN 嘉熹_NN 九_OD 段_NN (_PU 白_NN )_PU
+
+黑_NN 33_OD 時_M ，_PU 基本_NN 上白棋_NN 的_DEC 直覺會_NN A_NN 爬_NN ，_PU 因為_NN B_NN 貼會與左_NN 上角_NN 的_DEC 厚勢_NN 形成_VV 重複_NN ，_PU C_NN 鎮則太_NN 為_AD 嚴厲_VV 。_PU
+
+Master_NN 白_NN 34_CD 逼住_NN (_PU 拆_BA 二)_CD ，_PU 讓敵_NN 方衝下_NN ，_PU 感覺是_NN 初學者_NN 的_DEC 一_CD 手_NN 。_PU
+
+其實劉_NN 小光_NN (_PU 九_CD 段_M )_PU 評價這_NN 一_OD 手_NN 「_PU 太_NN 妖了_NN 」_PU ！_PU
+
+第3_OD 3_M ~_PU 52_CD 手_NN
+
+白_NN 34_CD 逼住_NN 、_PU 黑_NN 35_CD 貼_NN 、_PU 白_NN 36_CD 跳出_VV ，_PU 黑_NN 37_CD 跳回_NN ，_PU 可_VV 惜_P 價值_NN 不_AD 大_VA 。_PU
+
+白38取_NT 得先手_NN ，_PU 至白_NN 44_CD 形態_NN 堅實_VV 。_PU
+
+白_NN 46_CD 虎是_NN 全盤_NN 最_AD 大_VA 的_SP ，_PU 左下角_NN 已_AD 形成_VV 巨大_NN 模樣_NN 。_PU
+
+此時_NN 可以_VV 看出_VV 白_AS 34_CD 、_PU 白_NN 36_CD 這_CC 兩手_CD 棋_BA 正閃閃_NN 發光著_NN 。_PU
+
+第1_OD ~_PU 35_OD 手_NN
+
+一_CD 開始_NN ，_PU 左邊就發_NN 生戰鬥_NN ，_PU 白_NN 34_CD 時_M ，_PU 戰鬥_NN 延伸_VV 到_NN 中央_NN 。_PU
+
+黑_NN 35_OD 飛_M ，_PU 之後再長_NN ，_PU 這_DT 一_CD 著實是_NN 要_NN 點_CD 。_PU
+
+第3_OD 5_M ~_PU 43_CD 手_NN
+
+黑_OD 35_OD 之_M 後黑_NN 37_CD 下飛_NN ，_PU 完全_JJ 不顧_NN 中央_JJ 的_NN 要_NN 點_CD ，_PU 這_NN 一_OD 著_NN 相_NN 當靈活_NN 。_PU
+
+因為白_NN 38_OD 扳_M 之後_NN ，_PU 還要白40_JJ 飛來補_NN 一_OD 手_NN ，_PU 價值_NN 沒_AD 有_VE 想像中_NN 高_VA 。_PU
+
+因此劉_NN 小光_NN (_PU 九_CD 段_M )_PU 評黑_NN 37_CD 這_CD 一_CD 手_NN ，_PU 說_NN 「_PU 妖刀啊_NN 」_PU ！_PU
+
+黑_NN 43二四_CD 侵分_NN ，_PU 相當嚴厲_NR 。_PU 黑棋外_NR 圍厚實_NN ，_PU 白棋不利_NN 。_PU
+
+93_CD ~_PU 108_CD 手_M (_PU 黑∆_NN 是_VC 黑_P 11_CD 、_PU 白☐_NN 是_VC 白_P 20_CD )_PU
+
+黑_NN 93_OD 黏_NN 、_PU 白_NN 94_CD 打入_NN 、_PU 黑_NN 95_CD 是接著_NN 黑∆連扳_NN 。_PU 通常白_NN 96_OD 會在A位打吃黑∆，然後在黑97黏_PU 。_PU
+
+可_VV 是_VC Master_NN 畢竟不_NN 是_VC 人_NN 類_NN ，_PU 當初_NN 的_DEC 白_NN 20_CD 扳_M (_PU 白☐_NN )_PU 只_NN 是_VC 一_CD 個_M 幌子_NN ，_PU 它_NN 在_P 白_NN 96_OD 跳_M ，_PU 非常靈活_NN ，_PU 劉小光_NN (_PU 九_CD 段_M )_PU 評價這_NN 一_OD 手_NN 「_PU 靈活_NN 的_DEC 近乎妖_NN 」_PU ！_PU
+
+白_NN 98_CD 逼黑_NN 99_CD 吃白☐_NN (_PU 白_NN 20_CD )_PU 其實_NN 是_VC 很無奈的_NR ，_PU 立即白_NR 100_CD 也是_NN 亮眼_VV 的_DT 一_CD 著_NN 。_PU 黑_NN 101_CD 是_VC 必死_VV 的_DEC 反擊_NN 。_PU
+
+白_NN 106_CD 、_PU 白_NN 108_CD 連扳_NN 。_PU
+
+109_CD ~_PU 114_CD 手_NN
+
+白_NN 106_CD 、_PU 白_NN 108_CD 連扳_NN 之後_NN ，_PU 黑_NN 109_CD 在_P 右下角擋_NN ，_PU 白_NN 110_CD 補活_NN 。_PU
+
+白_NN 114_CD 侵蝕_NN 中央_JJ 地盤_NN 。_PU
+
+第1_OD ~_PU 13_OD 手_NN
+
+在_P 人類_VV 的_DEC 棋譜裡_NN ，_PU 黑_NN 13_CD 大都_NN 是_VC A_NN 位跳_NN 或_NN 是_VC B位飛_NN ，_PU 最_AD 多也是_NN C_NN 位覷_VV 。_PU
+
+但是_NN Master_NN 在黑_VV 13_CD 飛_M ，_PU 是容易_NN 被_SB 忽略_VV 的_DEC 好棋_NN 。_PU
+
+第1_OD 3_M ~_PU 19_CD 手_NN
+
+黑_NN 13_OD 飛_NN 、_PU 白_NN 14_CD 夾_NN 、_PU 黑_NN 15_CD 再飛_M ，_PU 擴張_VV 了_AS 左上角_NN 的_DEC 實力_NN ，_PU 白_NN 16_CD 跳出_VV ，_PU 價_NN 值_NN 很_AD 小_VA 。_PU
+
+白14如_NT 果走_NN A_NN 位_NN 、_PU 白_NN 16_CD 走C位_M 、_PU 黑棋就走_NN B_NN 位_NN 、_PU D位跟_NN 著長_VV ，_PU 明_BA 顯黑棋_NN 有利_VA 。_PU
+
+白46黏_NT 之後_NN ，_PU 黑_NN 47_CD "_PU 刺_NN "_PU ，_PU 這一_JJ 手劉_NN 小光_NN (_PU 九_CD 段)說_M 「_PU 堪稱_NN 妖刀_NN 」_PU ，_PU 而且_NN 「_PU 令白棋很_NN 麻_NN ！_PU 」_PU
+
+第4_OD 7_M ~_PU 51_CD 手_NN
+
+黑_NN 47_OD "_PU 刺_NN "_PU ，_PU 實戰_NN 中_LC 白_AD 48_CD 選擇黏_NN ，_PU 但是_CC 留有_VV 黑棋_NN A_NN 位托_NN 的_DEC 先手_NN 。_PU
+
+白_NN 48_CD 如果_NN 在_P B_NN 位黏_VV ，_PU 黑棋在_NN C位壓_NN ，_PU 也是有先手_VV 的_DEC 便宜_NN ，_PU 而且_NN 白棋會_NN 被_SB 封鎖_VV 在_VV 裡面_NN 。_PU
+
+
+

@@ -1,0 +1,34 @@
+﻿招_NN 商地_NN 产杯中_NN 韩围棋对_NN 抗赛_NN
+
+招商地_NR 产杯中_NN 韩围棋_NN 对抗赛_NN ，_PU 是_VC 一_OD 项_NN 中国_NR 与韩国_NN 之间_NN 的_DEC 围棋比_NN 赛_NN ，_PU 由_P 招商地_NN 产赞助_NN ，_PU 于_P 2011年_NT 3月_NT 开赛_NN 。_PU
+中韩两国_JJ 各派_NN 6_OD 名_NN 棋手_NN ，_PU 共赛_VV 两_CD 轮_M ，_PU 每轮双_NN 方各选_NN 5_OD 人_NN 参加_VV 对_NN 抗_OD 。_PU 从_OD 第四_OD 届_M 开始_NN ，_PU 改成_VV 每轮双_NN 方各选_NN 7_OD 人_NN 参加_VV 对_NN 抗_OD 。_PU
+如总_NN 比分打平_NN ，_PU 以主将_NN 交手_NN 结果_NN 定_NN 胜负_VV 。_PU 比赛_NN 用时_NN 为每方_NN 保留_VV 时间_NN 2_CD 小时_NN 45_CD 分_NN ，_PU 读秒_NN 1_NN 分_PU 钟_NN 5_OD 次_NN 。_PU
+
+冠军_NN 奖金_NN 60万_CD 人民币_NN ，_PU 亚军_NN 40万_CD 人民币_NN 。_PU 从_P 第四_OD 届_M 开始_NN ，_PU 奖金_NN 提升_VV 到_VV 冠军_NN 100万_CD 元人民_NN 币_NN ，_PU 亚军_NN 50万_CD 元人_NN 民币_VV 。_PU
+
+中国队_NR ：_PU 孔杰_NR （_PU 免选_NN ）_PU ，_PU 古力_NN （_PU 免选_NN ）_PU ，_PU 周睿羊_NN （_PU 选拔_NN ）_PU ，_PU 江维杰_NN （_PU 选拔_NN ）_PU ，_PU 刘星_NN （_PU 选拔_NN ）_PU ，_PU 谢赫_NN （_PU 外卡_NR ）_PU 。<br>_Err
+韩_CD 国队_NN ：_PU 朴廷桓_NN （_PU 免选_NN ）_PU ，_PU 崔哲瀚_NN （_PU 免选_NN ）_PU ，_PU 许映皓_NN （_PU 免选_NN ）_PU ，_PU 朴永训_NN （_PU 选拔_NN ）_PU ，_PU 姜东润_NN （_PU 选拔_NN ）_PU ，_PU 尹峻相_NN （_PU 选拔_NR ）_PU 。_PU
+
+
+中国_NR 队以_NN 6_CD :_PU 4_CD 获胜_NN 。_PU
+
+第2_OD 届招_NN 商地_NN 产杯_VV 两_CD 轮对_NN 抗赛_NN 2012年_CD 3月_NT 23日_NT 、_PU 25日在_NR 北京_NN 进行_VV 。_PU
+：_PU 朴文垚_NN 九_OD 段_NN 、_PU 彭立峣_NN 五_OD 段_NN 、_PU 时越_NN 五段_VA 、_PU 陈耀烨_NN 九_OD 段_NN 、_PU 范廷钰_NN 三_OD 段_NN 孔杰_NN 九_OD 段_NN <_PU br_NN >_PU
+：_PU 朴廷桓_NN 九_OD 段_NN 、_PU 崔哲瀚_NN 九_OD 段_NN 、_PU 元晟溱_NN 九_OD 段_NN 、_PU 金志锡_NN 七_OD 段_NN 、_PU 李志贤_NN 二_OD 段_NN 、_PU 赵汉乘_NN 九_OD 段_NN
+
+中国_NR 队_NN 7：3_CD 获胜_NN
+
+于_P 2013年_CD 3月_NT 19日_NT 、_PU 21_CD 日在_M 北京_NR 康莱德_NN 酒店_NN 举行_VV
+：_PU 江维杰_NN 九_OD 段_NN 、_PU 陈耀烨_NN 九_OD 段_NN 、_PU 柁嘉熹_NN 三_OD 段_NN 、_PU 檀啸_NN 七_OD 段_NN 、_PU 范廷钰_NN 九_OD 段_NN <_PU br_NN >_PU
+：_PU 金志锡_NN 八_OD 段_NN 、_PU 金升宰_NN 五_OD 段_NN 、_PU 朴廷桓_NN 九_OD 段_NN 、_PU 崔哲瀚_NN 九_OD 段_NN 、_PU 赵汉乘_NN 九_OD 段_NN
+
+
+决赛于_VV 3月20_JJ 日在中国_NR 棋院_NN 举行_VV 。_PU 比赛每_NN 方_AD 1_CD 小时_NN 包乾_VV 。_PU
+
+在杭州_NR 浙江宾馆_NN 进行_VV
+
+2014年_NT 3月21_NN 日_PU 10_CD :_PU 00_CD 首轮_NN
+2014年_NT 3月23_NN 日_NN 9_CD :_PU 30_CD 次轮_NN ：_PU
+
+
+

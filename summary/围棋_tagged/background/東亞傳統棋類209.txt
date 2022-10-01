@@ -1,0 +1,24 @@
+﻿女子_NN 名人戰_NN
+
+女子_NN 名人_NN 战是中_NN 国围_NN 棋女子_NN 棋手唯_NN 一_OD 的_DEG 围棋头衔_NN 比赛_VV 。_PU 最早_VV 在_P 1989－1991_CD 年举_NN 办过_VV 三_OD 届_M 后停办_NN 。_PU 而_CC 后_P 2001_CD 年_PU －2005_CD 年由_M 山东齐_NN 鲁晚_NN 报围_NN 棋俱_NN 乐部_NN 主办_VV 了_AS 三届_NN 女子名_NN 人战_NN 。_PU 从_NN 2010_CD 年起_NN ，_PU 由_P 江苏省_NN 姜堰_NN 市和_NN 中国_NN 棋院共同_NN 主办_VV 的_DEC 女子_NN 名人_NN 战冠名_NN 为_VC 「_PU 黄龙士_NN 佳源杯_NN 」_NN 。_PU
+
+1989年_NT －1991年_NT 举办_VV 的_DEC 三届_NN 女子_NN 名人战_NN ，_PU 称为_VV 旧女子_NN 名人战_NN ，_PU 采用积_NN 分循_VV 环淘_NN 汰制_VV ，_PU 取前六名_VV 。_PU
+
+1989年_NT ，_PU 由中日友_NN 好围棋_NN 会_VV 馆_NN 、_PU 中国建_NN 设银_NN 行北京_NN 前门_NN 支行_NN 、_PU 中国_NR 福利_NN 企业总_NN 公司_NN 联合_NN 主办_NN 的_DEC 首届中_NN 国围_NN 棋女子_NN 名人赛_NN ，_PU 于_P 8月12日_NT 至20日_NT 在_P 北京举行_NR ，_PU 这是中国_NR 女棋手_NN 第一_OD 头衔赛_NN 。_PU
+
+比赛_NN 参赛者_NN 包括_VV 国家队_NN 全部女_NN 国手_NN 以及来_NN 自地_NN 方队_NN 的_DEC 各路精英_NN 。_PU 首届比赛_NN 中_LC ，_PU 日本_NR 女流_NN 名_NN 人宫_NN 崎志_NN 摩子_NN 二段_NN ，_PU 英屬_NN 香港简莹_NN 初段_NN 也应_NN 邀参赛_NN 。_PU 第三_OD 届_NN 比赛_NN 中_LC ，_PU 日本_NR 女流_NN 鹤圣_NN 青木_NN 喜久代_NN 四_OD 段_MSP 获得_VV 了_AS 第2_OD 名_M 。_PU
+
+在_P 间隔_NN 10_CD 年之后_M ，_PU 中国_NR 围棋_NN 女子_NN 名人_NN 战_NN 在_P 中国_NR 围棋协会_NN 和_CC 山东_NN 齐鲁晚_NN 报共_VV 同_NN 主_NN 办下_NN 而_MSP 复活_VV 。_PU 比赛邀请_NN 16_CD 名国_NN 内女子_NN 棋手_NN 参赛_VV ，_PU 采用_NN 单败淘_NN 汰制_VV ，_PU 第1_OD 、_PU 2_OD 届_NN 决赛_NN 采用_VV 一_CD 番胜负_NN ，_PU 第3_OD 届_M 决赛_NN 采用_VV 三_CD 番_NN 胜负_NN 。_PU 冠亚军_NN 奖金为_NN 3万_CD 、_PU 1万_CD 元人_NN 民币_VV 。_PU
+
+2010年_NT ，_PU 由中_NN 国围_NN 棋协会_NN 和姜_VV 堰市_NN 人民_NN 政府共同_NN 主_NN 办_VC 「_PU 黄龙士_NN 佳源杯_NN 」_PU 全_NN 国女子_NN 围棋名人_NN 赛_NN ，_PU 凡中_NN 国围棋_NN 协_AD 会_VV 注册_VV 的_DEC 职业_NN 女子棋_NN 手_NN 均_AD 可_VV 报名_VV 参赛_VV 。_PU 比赛由_NN 江苏棋院_NN 、_PU 姜堰_NN 市体育_NN 局承办_NN ，_PU 姜堰_NN 佳缘房_NN 地_NN 产开发有_VV 限_CD 公司_NN 和_NN 姜堰黄_NN 龙_NN 士_NN 研究会_NN 协办_VV 。_PU
+
+本赛_NN 采用_NN 16_CD 人_NN 单败淘_NN 汰赛_VV ，_PU 决赛_VV 一_CD 番胜负_NN ，_PU 冠亚军_NN 奖金为_NN 10万_CD 、_PU 4万_CD 元人_NN 民币_VV 。_PU
+
+第2_OD 届_M 女子_NN 名人战_NN 冠亚_NN 军将_NN 自动获得_NN 「_PU 黄龙士_NN 佳源杯_NN 」_PU 世界_NN 女子_NN 围棋_NN 团体赛_NN 的_DEC 参赛_NN 资格_NN 。_PU
+
+冠军李赫_NN 三段和_NN 亚军陈_NN 一_CD 鸣_NN 初段同_NN 时_NN 获得_VV 黄龙士_NN 佳源杯_NN 世界_NN 女子_NN 围棋_NN 团体赛_NN 的_DEC 参赛_NN 资格_NN 。_PU
+
+总决赛_NN （_PU 三番棋_NN ）_PU 于_P 2020年_NT 11月_NT 11-14日_NT 在_P 四_OD 川_M 阆中古_NN 城_NN 进行_VV ，_PU 周泓余_NN 2_CD :_PU 1_CD 战胜_NN 上_NN 届女名人_NN 陈_NN 一_CD 鸣_NN
+
+
+

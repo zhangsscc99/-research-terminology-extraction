@@ -1,0 +1,20 @@
+﻿塔拉_NN -_PU 山口_NN 规则_NN
+
+塔拉_NN -_PU 山口_NN 规则是_NN 连珠_NN 的_DEG 开局_NN 规则_VV 。_PU 作为_VV 塔拉尼科_NN 夫_AD 规则_VV 的_DEC 一_CD 种_M 改进_VV ，_PU 它_AD 由_P 日本棋_NR 手山口_NN 釉水_NN 提出_VV 。_PU 规则_VV 的_DEC 名字由_NN 这_NN 两_CD 名_NN 棋手_NN 的_DEC 名字_NN 组合命名_NN 。_PU 它有_VV 一_CD 个_M 变种_NN ，_PU 塔拉_NN -_PU 山口_NN -_PU N_NN 规则_NN 。_PU
+
+塔拉_NN -_PU 山口_NN 规则_NN 的_DEC 详细开_NN 局流_NN 程如下_NN ：_PU
+
+
+接下来_NN ，_PU 假黑_NN 方有_VV 两_CD 种_M 选择_NN 。_PU 选择_NN 1_CD ：_PU
+
+
+选择_NN 2_CD ：_PU
+
+
+这_NN 一_CD 规则_NN 提供_VV 了_AS 更多新的_JJ 平衡开局_NN ，_PU 包括_VV 一_CD 些_M 在_P 山口_NN 规则中_NN 不_AD 能_VV 使用_VV 的_DEC 开局_NN ，_PU 如_AD 游星_NN 、_PU 彗星_NN 、_PU 山月_NN 、_PU 新月_NN 。_PU
+
+另_DT 一_CD 方面_NN ，_PU 这_DT 一_CD 规则对_NN 开局也_NN 存在_VV 限制_NN ，_PU 只有_VV 5_OD 打_M 不必胜_NN 的_DEG 开局才_NN 可_VV 战_NN ，_PU 这使_NN 得溪月_NN 、_PU 峡月和_NN 一些_CD 其他_NN 开局_NN 变得_VV 不宜_NN 使用_NN 。_PU 塔拉_NN -_PU 山口_NN -_PU N_NN 规_NN 则_AD 解决_VV 了_AS 这_CD 个_M 问题_NN 。_PU
+
+2012年_NT ，_PU 塔拉_NN -_PU 山口_NN 规则作_NN 为世界_NN 连珠通_NN 信锦_NN 标赛_NN 的_DEC 正式规则_NN 。_PU 自_NN 2010_CD 年起_NN ，_PU 欧洲_VV 连珠锦_NN 标赛_NN 开始_NN 使用此_NN 规则_VV 。_PU 此_NN 外_LC ，_PU 一些_CD 其他_NN 国际_NN 比赛也_NN 使用此_NN 规则_VV 。_PU
+
+

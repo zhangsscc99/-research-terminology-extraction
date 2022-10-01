@@ -1,0 +1,33 @@
+﻿_OD DeepZenGo_NR
+
+DeepZenGo_NR ，_PU 有译为_NR “_PU 深禅”_NR ，_PU 是日本_NR 程序员_NN 、_PU 加藤英_NN 树等_NN 开发_VV 的_DEC 电脑围_NN 棋程序_NN ，_PU 是_VC 在_P 旧版本_NN 的_DEG Zen_NN 围棋_NN 软件基础_NN 上_NN 加入_VV 了深度学_NN 习技术_NN 后开发_NN 的_DEC 新版本_NN ，_PU 由_P 日本_NN DWANGO_NN 公司_NN 、_PU 东京大学_NN 、_PU 日本棋_NN 院_OD 提供_VV 支持_NN 。_PU 在_P 2016_CD 年_CC 11_CD 月_NN 第二_OD 届围棋_NN 电王战_NN 中_LC 分先以_VV 1_CD :_PU 2_CD 不_M 敌赵治勋_NN 九_OD 段_NN 。_PU 在_NN 2017_CD 年_PU 3月_CD 18_CD -_PU 19_CD 日在_M 日本_NR 举办的_NR 第_NN 10_CD 届_NN UEC_NN 杯世界_NN 電腦圍_NN 棋_AD 大_VA 會_DEV 上_VV 获得_VV 亚军_NN 。_PU 在_P 2017_CD 年_PU 3_CD 月_PU 21_CD -_PU 23_CD 日_NN 的_DEC 世界最_NN 强棋士_NN 决定战_NN 上以一胜_VV 二_CD 负_M 的_DEG 成绩名_NN 列_OD 第_NN 三_OD 名_NN 。_PU 在_NN 2017_CD 年_PU 3月_CD 26_CD 日的_M 第5_OD 届_M 电圣战_NN 上_NN 分先_AD 战胜_VV 了_AS 日本的_NN 一_CD 力_NN 辽_AD 七_CD 段_NN 。_PU
+
+根据_NN 电王战_NN 三场比赛_NN 的_DEC 结果_NN ，_PU GoRatings_NN 网站_NN 计算出_NN DeepZenGo_NN 的_DEC Elo_NN 等_ETC 级分为_NN 3060_CD 。_PU 其对应_NN 的_DEC 配置为_NN
+
+对比_NN AlphaGo_NN ，_PU 2016年_NT 11月时_NT 的_DEG 上述_JJ 配置下_NN 的_DEC 单机版_NN DeepZenGo_NN 的_DEC 棋力大_NN 约_AD 相当于_VV 2015_CD 年_CC 10_CD 月时_VV 的_DEC 764_CD CPU_NN 核+_NN 112_CD GPU_NN 配置下_NN 的_DEC 分布式版_JJ AlphaGo_NN 的_DEG 棋力_NN 。_PU
+
+第二_OD 届围棋_NN 电王战_NN 后_VA ，_PU DeepZenGo_NN 以略_NN 低于_VV 电王战_NN 中_LC 的_DEG 配置_NN ，_PU 以_P Zen19L_NN 的_DEC 名字在_NN KGS_NN 上与_NN 棋友_NN 们下棋_NN 。_PU 上线后_NN 不_AD 久_VA ，_PU Zen19L_NN 就打_NN 上_NN 了_NN KGS9d_NN 。_PU
+
+2016年_NT 年底_NN ，_PU DeepZenGo_NN 进入中国_NN 的_DEC 弈城网_NN 络围棋_NN 对战_NN 平台_NN 公测_VV 。_PU
+
+2017年_NT 2月_NT ，_PU DeepZenGo_NN 进入中国_NN 的_DEC 腾讯野_NN 狐围棋_NN 网_AD 公测_VV 。_PU
+
+2017年_NT 4月_NT 底_LC ，_PU DeepZenGo_NN 再_NN 次_NN 进入中_NN 国_NN 的_DEG 弈城围_NN 棋_NN 网以_NN DEEPZEN_NN 的_DEC 網名_NN 公测_VV ，_PU 曾取得过_VV 22_OD 連勝_VV 的_DEC 佳績_NN 。_PU
+
+DeepZenGo_NN 参加_VV 了_NN 2017年_NT 3月_NT 18-19日_NT 在日本_NR 举办_NN 的_DEC 第1_OD 0_OD 届_M UEC_NN 杯世界_NN 電腦_NN 圍棋大會_NN 。_PU 1_CD 8日_M ，_PU DeepZenGo_NN 在_AD 采用_VV 瑞士_NN 制的_VV 预赛_JJ 阶段先_NN 后_AD 战胜_VV naiver1_NN 、_PU Julie_NN 、_PU nlp_NN 、_PU AQ_NN 、_PU Rayn_NN 和_NN Kugutsu_NN ，_PU 败于_VV 绝艺_NN ，_PU 六_CD 胜_CD 一_CD 败排名第_NN 二_OD 进入_VV 16_CD 强单败淘_NN 汰赛_VV 的_DEC 决赛阶段_NN 。_PU 19日_NT ，_PU DeepZenGo_NR 先_ETC 后击败_NR ManyFacesofGo_NN 、_PU CGIGoIntelligence_NN 和_NN AQ_NN 后_NN 进入_VV 决赛_NN ，_PU 再度_NN 不敌中_NN 國_NN 的_DEG AI_NN 绝艺_NN 而_MSP 获得_VV 亚军_NN 。_PU
+
+2017年_NT 3月21-23_NN 日_NN ，_PU 日本_NN 举办_VV 了_AS 世界_NN 最强_NN 棋士_NN 决定战_NN ，_PU 参赛者_NN 包括_VV DeepZenGo_NR 、_PU 中国_NR 棋手芈_NN 昱_OD 廷_NN 九_OD 段_NN （_PU 20_CD 岁_NN ）_PU 、_PU 日本棋_NN 手_NN 井_NN 山裕太_NN 九_OD 段_NN （_PU 27_CD 岁_M ）_PU 和韩_NN 国棋手朴_NN 廷_OD 桓_NN 九_OD 段_NN （_PU 23_CD 岁_NN ）_PU 。_PU 这是_NN 世界_NN 上首_NN 次有_VV 人_NN 工智能_NN （_PU AI）_CD 参加_VV 的_DEC 世界_NN 围棋大_NN 赛_NN 。_PU DeepZenGo_NN 负于_NN 芈昱廷_NN 、_PU 朴廷桓后_NN ，_PU 战胜_VV 了_AS 井山裕太_NN ，_PU 以_MSP 一_CD 胜_NN 二_AD 负_VA 的_DEC 成绩名_NN 列_OD 第三_OD 名_NN 。_PU
+
+DeepZenGo_NN 因获得第_NN 10_OD 届_M UEC_NN 杯世界_NN 電腦_NN 圍棋大_NN 會亚军_NN ，_PU 而获得_NN 参加_VV 第5_OD 届_M 电圣战_NN 的_DEC 资格_NN ，_PU 于_P 2017年_NT 3月26_NN 日_NN 分先_VV 战_CD 胜了_NN 日本_VV 的_DT 一_CD 力辽_NN 七段_VA 。_PU
+
+DeepZenGo_NN 获得_VV 了_AS 由梦_NN 百_NN 合_NN 杯主办_NN 方发放_NN 的_DEG 外卡_NN ，_PU 于_P 2017年_NT 6月19_NN 日_NN 参加_VV 第3_OD 届_M “_PU MLILY_NN 梦_NN 百_CC 合_NN 杯_NN ”_PU 世_NN 界围_NN 棋_NN 公开_VV 赛本赛_NN 64_CD 强战_NN 。_PU DeepZenGo_NN 成為_VV 了_AS 有史以來_NN 第一_OD 個参加_JJ 世界_NN 围棋大_NN 赛杯赛_NN 的_DEC 围棋人_NN 工智能_NN 。_PU 对此_VV ，_PU 棋手_VV 们观点不_NN 一_NN ，_PU 有_NN 的_DEG 认_NN 为_VC 挺_NN 好_NN ，_PU 有_NN 的_DEG 则认_NN 为_VC 不妥_NN 。_PU 比如_NN ，_PU 聂卫平认_NN 为_VC ：_PU “_PU ZEN_NN 获_NN 外_CS 卡挺好_NN ，_PU 也_CC 有_VE 可能拿冠_NN 军_NN 。_PU ”_PU 而柯洁则_NN 认为_VV ：_PU “_PU 非常不_NN 妥_NN ，_PU 人与人_NN 的_DEG 比赛还_NN 是_VC 别_JJ 让电脑_NN 参加_VV 为_VC 好_VA ，_PU 可以_VV 让冠军与_VV AI_NN 进行_VV 特别_NN 对局_VV 的_SP 。_PU ”_NN “_PU 我对_NN DeepZenGo_NN 的_DEC 参赛不_NN 支持_NN 、_PU 不赞成_NN 、_PU 也不想接受_NN ，_PU 但我也_NN 没有_VV 办法_NN ”_NN 。_PU 梦_NN 百_OD 合_M 杯主办_NN 方解释说_NN ，_PU “_PU AI_NN 参加_VV 世界_NN 公开_NN 赛只是_NN 一次性_JJ 的行为_NR ，_PU 并非常_NR 规化_VV 。_PU ”_PU 孔令文_NN 是_VC 实际_VV 操办人_NN ，_PU 他向记者_NN 透露说_NN ：_PU 日本_NR 棋院_NN 和_NN 韩_NN 国棋_NN 院本来_NN 对把_VV 外_JJ 卡授予_NN AI_NR 有些顾虑_NN ，_PU 但_NN 在_P 梦_NN 百_OD 合_M 杯主办_NN 方解释说_NN 这_NN 并_AD 非_P 常规行为_JJ 之后_NN ，_PU 日韩棋_NR 院就_NN 同意_VV 了_NN ；_PU 另_NN 外_LC ，_PU 在_P 具_NN 体选_NN 择向哪_NN 家_CC AI_NN 发放外_NN 卡时_NN ，_PU 考虑_VV 到_P AlphaGo_NN 不_NN 可_AD 能_VV 参加_VV 这样_VA 的_DEC 比赛_NN ，_PU 绝艺_NN 的_DEC 实力_NN 又太强_NN ，_PU 而_CC DeepZenGo_NN 的_DEC 实力与_NN 人_NN 类_NN 高手_NN 的_DEG 实力大_NN 致_NN 相当_VV ，_PU 便最_VV 终将外_NN 卡_CD 颁发给了_VV DeepZenGo_NR 。_PU
+
+2017年_NT 6月19_NN 日_NN ，_PU DeepZenGo_NN 在_P 64_CD 强战中_NN 执白_NN 中盘_NN 胜_NN 韩_NN 国棋手_NN 申旻埈_NN 五_OD 段_M ；_PU 21_CD 日_NN ，_PU 在_P 32_CD 强战_NN 中_LC 执黑_VV 半目负于_NN 中国_NR 棋手王_NN 昊_OD 洋_NN 六_OD 段_NN 。_PU
+
+DeepZenGo_NN 击败_NN CGI_NN 夺冠_NN 。_PU
+
+根据_NN 加藤_NN 英树_NN 的_DEC 賽後訪問_NN ，_PU 其配置_NN 为_VC ：_PU
+
+是次比赛_NN 为_VC DeepZenGo_NN 退役_NN 之战_NN ，_PU 共_NN 三_OD 番棋_VV ，_PU 分别_AD 在_VV 中国_NR 、_PU 韩国_NR 及日_NN 本举行_NN 。_PU
+
+

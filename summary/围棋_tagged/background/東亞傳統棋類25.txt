@@ -1,0 +1,24 @@
+﻿_OD Minigo_NR
+
+Minigo_NN 是_VC 一_NOI 套電腦圍_NN 棋軟體_NN 。_PU
+
+Minigo_NN 是_VC 一_NOI 套依照_NN DeepMind_NN 在_NN 《_PU 自然_NN 》_PU 上對於_NN AlphaGoZero_NN 所_NN 發_VV 表_NN 的_DEC 論文_NN 《》_PU 所實做出_NR 的_DEC 開源電腦_NN 圍棋_NN 程式_NN ，_PU 也就_NN 是_VC 不_P 使用_NN 人類_NN 棋譜_NN 與累積_NN 的_DEC 圍棋知識_NN ，_PU 僅實做_NN 圍棋規則_NN ，_PU 使用單_NN 一_CD 類神經_NN 網路從_NN 自我_NN 對弈中_NN 學習（不像_JJ AlphaGo_NN 以人類_NN 角度_NN 思考_VV ，_PU 設計_VV 了_AS PolicyNetwork_NR 與_ETC ValueNetwork_NR ）_ETC 。_PU
+
+軟體_NN 是基於_NN BrainLee_NN 的_DEC MuGo_NN 繼續開發_NN ，_PU 使用_NN Python_NN 與_NN C_NN ++撰寫_NN ，_PU 並且_NN 透過_NN TensorFlow_NN 實做_NN 類神經_NN 網路_NN 的_DEC 部份_NN 。_PU 程式_NN 碼以_VV ApacheLicense_NR 2.0_CD 釋出_NN ，_PU 訓練_NN 資料_NN 以_MSP 公有_VV 领域_NN （_PU ）_PU 釋出_VV 。_PU
+
+專案_NN 的_DEC 目標_NN 包括_VV 了_SP ：_PU
+
+
+除此之_NN 外_LC ，_PU 專案也_NN 希望_VV 藉_CD 由獨立_NN 另_NN 外_LC 實做_NN ，_PU 驗證_NN LeelaZero_NN 所_MSP 產生_VV 的_DEC 疑問_NN 。_PU
+
+這個_NN 計畫雖然_NN 是_VC 掛在_NR TensorFlow_NR 的_DEC GitHub_NN 下_NN （_PU 且_CC TensowFlow_NR 是由_NN Google_NN 研發出_NN 的_DEC 軟體_NN ）_PU ，_PU 而且_NN 主要_VA 的_DEC 專案_NN 貢獻者_NN AndrewJackson_NR 與_ETC TomMadams_NR 都是_NN Google_NN 員工_NN ，_PU 但官方_NN 一_CD 再_CC 強_CD 調這_NN 並_NN 非_AD TensorFlow_NR 專案_NN 的_DEC 一_CD 環_NN ，_PU 也_NN 不_AD 是_VC DeepMind_NN 的_DEC AlphaGo_NN 官方版_NN 本_NN ，_PU 而_NN 是_VC 由_P 獨立的_NR 團隊_NN 依照_NN AlphaGoZero_NN 的_DEC 論文而_NN 實做出_VV 的_DEC 版本_NN 。_PU
+
+雖然_JJ Google_NN 與_NN DeepMind_NN 沒有正式_JJ 參與_NN Minigo_NN 計畫_NN ，_PU 但_CC AndrewJackson_NR 使用_NN 的_NN 是_VC Google_NN 所_MSP 提供_VV 的_DEC 20%_CD 時間_NN ，_PU 並且_NN 得到_VV Google_NN 贊助_NN 提供_VV 硬體_NN 資源_NN 進行_NN 運算_NN ，_PU 供_P Minigo_NN 團隊確_NN 認程式_JJ 正確性_NN ：_PU
+
+
+LeelaZero_NN 同樣也_NN 是_VC 依照_NN AlphaGoZero_NN 論文所_NN 獨_VV 立實_JJ 做出來_NN 的_DEC 軟體_NN ，_PU 而_CC Minigo_NN 專案_NN 取得_VV Google_NN 贊助_NN 的_DEC 計算_NN 資源_NN ，_PU 透過_NN 大量_NN 計算_NN 資源_NN 得到品_NN 質還_NN 不_AD 錯_VA 的_DEC 訓練_NN 網路_NN 資料_NN 。_PU 因此_NN LeelaZero_NN 的_DEC 團隊與_NN Minigo_NN 的_DEC 團隊基_NN 於雙方_NN 的_DEC 經驗_NN ，_PU 討論參數_NN 的_DEC 調整能_NN 帶來_VV 的_DEC 改善_NN ，_PU 以及雙_NN 方訓練_NN 資料_NN 共用_NN 的_DEC 可能性_NN 。_PU
+
+Minigo_NN 的_DEC 第二_OD 階段在_NN CGOS_NN 上以_NN codice_NN __NN 1_CD 開頭_NN 的_DEC 名稱參與_NN 19_CD x19_NN 的_DEC 對戰_NN ，_PU 排名最高_NN 的_DEC 帳號為_NN codice_NN
+
+
+

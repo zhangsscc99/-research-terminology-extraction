@@ -1,0 +1,7 @@
+﻿星位_NN
+
+星位是_NN 一_OD 個_NN 圍棋_VV 的_DEC 名詞_NN ，_PU 狹義是_NN 指_NN 從_NN 棋盤角_NN 部起_VV ，_PU 橫_NN 、_PU 豎都是_NN 第四_OD 路_M 的_DEG 位置_NN ，_PU 整個_NN 棋盤_NN 共有_VV 四_CD 個_NN 星位_NN 。_PU 廣義而言_NN ，_PU 則_AD 包括_VV 四_CD 個角_NN 上_NN 星位_NN 之間_NN 的_DEC 中點_JJ 和正_NN 中_LC 央的_VV 一_CD 點_M （_PU 天元_M ）_PU ，_PU 亦即整個_NN 棋盤_NN 上有_VV 九_CD 個_NN 星位_NN （_PU 四_OD 個_M 角星_NN ，_PU 四_CD 個_M 邊星和_NN 中央_JJ 天元_NN ）_PU ，_PU 一般在_JJ 棋盤_NN 八_CD 個_NN 星位以_NN 及天元_NN 會以_VV 較_CD 為粗深_NN 的_DEG 點_OD 來_M 標示_NN 。_PU 主要_VA 的_DEC 用意_NN 是_VC 便_BA 於判_NN 別棋子_NN 在_P 棋盤_NN 上_LC 的_DEG 相_NN 對_NN 位置_NN 。_PU
+
+在圍棋_NR 的_DEC 佈局_NN 中_LC ，_PU 星位是_NN 一_OD 個_NN 經_NN 常會_NN 先佔_VV 的_DEC 位置_NN ，_PU 在_P 中國清_NN 代以_VV 前_NN 的_DEG 圍棋中_NN ，_PU 對_NN 弈_NN 開始時_NN 要置_NN 放座子_NN 即位於_NN 四_OD 個_NN 星位_VV ，_PU 後來_NN 日本_NR 圍棋_NN 廢除_NN 座子_NN ，_PU 小目_NN 取代_VV 星位成_JJ 為開局_NN 佔角_NN 的_DEC 最常見_JJ 位置_NN ，_PU 直到_NN 20_CD 世紀_NN 30_CD 年代新佈局的_JJ 發展_NN ，_PU 對於_NN 外勢_NN 和_CC 第四_OD 線_NN 的_DEG 價值_NN 開始_NN 重視_NN ，_PU 佔星位_NN 的_DEC 情況都_NN 加許_VV 多_CD ，_PU 後來_NN 棋士_NN 武宮_NN 正樹等人所_NN 習用_VV 的_DEC 三_NN 連_NN 星布局_NN ，_PU 即_NN 是_VC 這_LB 種思考_NN 的_DEC 產物_NN 。_PU 除此之_NN 外_LC ，_PU 雖然已_NN 廢除_NN 座子_NN ，_PU 但_CC 在_VV 讓子棋_NN 中_LC ，_PU 黑棋先_NN 放置_NN 的_DEC 位置_NN 仍_NN 是_VC 在_VV 星位_VV ，_PU 因此_AD 星位_VV 布局_NN 和_NN 定石_VV 的_DEC 研究和_NN 探討變得_NN 非常重要_NN 。_PU
+
+

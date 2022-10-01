@@ -1,0 +1,6 @@
+﻿世界_NN 智力_NN 運動_NN 會圍_NN 棋比賽_NN
+
+在_P 2008_CD 年世界_NN 智力_NN 运动会創_NN 辦時_VV ，_PU 圍棋就_NN 是正式_JJ 比賽項_NN 目_VA ，_PU 共有_VV 六_CD 個分項目_NN ：_PU 男子_NN 、_PU 女子_NN 个人比_NN 赛_NN 、_PU 男子_NN 、_PU 女子_NN 團體賽_NN 、_PU 個人公_NN 開賽和_NN 混合雙_NN 人賽_VV 。_PU
+
+
+

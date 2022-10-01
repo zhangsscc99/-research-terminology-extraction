@@ -1,0 +1,18 @@
+﻿_CD Leela_NN
+
+Leela_NN 是由_NN 比利_NN 時程式_NN 設_NN 計師所_NN 開發_VV 的_DEC 電腦圍棋_NN 軟體_NN 。_PU
+
+軟體_NR 使用_NN 中_LC 國_AD 規則_VV ，_PU 支援_NN 7x7_CD 、_PU 9x9_NN 、_PU 13_CD x13_NN ，_PU 以及標_NN 準_NN 19x19_CD 棋盤_NN ，_PU 最_AD 大可_VV 到_P 25x25_CD ；_PU 支援在_NN Windows_NN 、_PU macOS_NN 以及_CC Linux_NN 平台_NN 上_NN 使用_NN ；_PU 支援多_NN CPU_NN 及_CC GPU_NN 加速計算_NN （_PU 透過_NN OpenCL_NN 界面_NN ，_PU 需_P OpenCL_NR 1.1_CD 以上_NN 版_NN 本_ETC ）_PU ；_PU 難度_NN 可以_VV 透過_VV 計算時間_NN 、_PU 讓子_NN 與貼_NN 目調整_NN ；_PU 並提供_NN 分析_NN 界面讓_NN 操作者_NN 可以_VV 得知_VV Leela_NN 對_NN 每_DT 一_CD 步_NN 的_DEG 勝率_NN 估算_NN 。_PU
+
+
+Leela_NN 在_P 2008_CD 年_M 的_DEG 奧林匹亞_NN 電腦遊_NN 戲程式_JJ 競賽中_NN ，_PU 圍_NN 棋_AD 19x19_CD 項目_NN 得到_VV 第三_OD 名_M ，_PU 圍棋_NN 9x9_CD 項目_NN 得到_VV 第二_OD 名_M 。_PU 並且在_NN 2017_CD 年_NN 的_DEC 第一_OD 屆_M 世界_NN 智能围_NN 棋_NN 公开赛初賽_VV 取_CD 得第_NN 八_OD 名_NN 。_PU
+
+目前在_NN CGOS_NN 上最強_NN 的_DEC 帳號為_NN codiceRyzen1700與_NN NvidiaGeForceGTX1080Ti_NN 運算_NN ，_PU BayesElo_NN 約_NN 3590_CD 分_NN 。_PU
+
+目前最_NN 新_JJ 版_NN 0_CD ._PU 11_CD ._PU 0_OD 版_NN 中_LC ，_PU 表_NN 現_OD 最_AD 好_VA 的_DEC 帳號是_NN codice_NN
+
+另_AD 外有_VV 志願者將_NN 0_CD ._PU 11_CD ._PU 0_CD 版_NN 設定_NN 特殊_NN 參數_NN 放到_NN CGOS_NN 上_NN 與其_NN 他軟_NN 體比較_NN （_PU 即_AD codiceZero_NR 比較_NN ，_PU 所以_VV 使用與_NN LeelaZero_NN 測試時_NN 相同_VA 的_DEC 參數_NN 。_PU 這個_NN 版本_NN BayesElo_NN 約_NN 3070_CD 分_NN 。_PU
+
+
+
+

@@ -1,0 +1,10 @@
+﻿世界_NN 围棋大_NN 赛_NN
+
+世界_NN 围棋大_NN 賽列表_NN ：_PU
+
+世界_NN 女子_NN 圍棋賽_NN
+
+获得_VV 冠军_NN 数量_NN 相同_VA 的_DEC 棋手_NN ，_PU 以获_NN 得最_VV 后_DT 一_CD 个_M 冠军的_NN 时间_NN 排序_NN 。_PU
+
+
+

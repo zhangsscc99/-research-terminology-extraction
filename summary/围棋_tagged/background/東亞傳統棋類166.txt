@@ -1,0 +1,25 @@
+﻿围棋_NN 九品制_NN
+
+圍棋_NN 九品制是_NN 古代中_NN 國_NN 對_NN 圍棋_NN 棋手_VV 的_DT 一_CD 種棋力_NN 評定_VV ，_PU 最早_JJ 紀錄見於_NN 三_OD 國_NN 曹魏邯_NN 鄲淳_VV 的_SP 《_PU 藝經_NN ·_PU 棋品_NN 》_NN 。_PU
+
+1_OD ._PU 入神:_NR （_PU 上上_NR ）_PU 變化_NR 不測_NN ，_PU 而能先知_NN ，_PU 精義入_NR 神_ETC ，_PU 不戰而屈人_NN 之棋_VV ，_PU 無與_NN 之敵者_NN 。_PU
+
+2_OD ._PU 坐照_NN :_PU （_PU 上中_NR ）_PU 入神饒_NR 半先_NN ，_PU 則不_NN 勉而中_NN ，_PU 不思而得_VV ，_PU 至虛_AD 善應_VV 。_PU
+
+3_OD ._PU 具體_VA :_PU （_PU 上下_NN ）_PU 入神饒_VV 一_CD 先_M ，_PU 臨局_NN 之際_NN ，_PU 造形_JJ 則悟_NN ，_PU 具入_VV 神_NN 之體而_NN 微者也_NN 。_PU
+
+4_CD ._PU 通幽_NN :_PU （_PU 中上_NR ）_PU 受高者兩_NR 先_ETC ，_PU 臨局之_NN 際_NN ，_PU 見形_JJ 阻能善應_NN 變_NN ，_PU 或戰或_NN 否_NN ，_PU 意_AD 在_P 通幽_VV 。_PU
+
+5_OD ._PU 用智_NN :_PU （_PU 中中_NR ）_PU 受饒三子_NR ，_PU 未能通幽_NR ，_PU 戰則用_NR 智以_NN 致其功_NN 。_PU
+
+6_OD ._PU 小巧_NN :_PU （_PU 中下_NN ）_PU 受饒_VV 四子_NN ，_PU 不務遠圖_NN ，_PU 好施小巧_NN 。_PU
+
+7_OD ._PU 鬥力_NN :_PU （_PU 下上_NR ）_PU 受饒_NR 五子_NN ，_PU 動則必戰_NN ，_PU 與敵相抗_NN ，_PU 不用其_NN 智而專_NN 鬥力_NN 。_PU
+
+8_OD ._PU 若愚_NN :_NN （_PU 下_NN 中_LC ）_PU
+
+9_OD ._PU 守拙_NN :_PU （_PU 下下_NR ）_PU
+
+
+
+

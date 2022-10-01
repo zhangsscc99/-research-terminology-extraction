@@ -1,0 +1,7 @@
+﻿尖_NN (_PU 围棋_NN )_PU
+
+尖是_NN 圍棋_NN 中_LC 的_DEG 一_CD 種行棋_NN 的_DEC 方式_NN ，_PU 指_AD 在_P 已有_VV 的_DEC 已_NN 方棋子_NN 的_DEC 斜角_NN 的_DEC 位置_NN 行_NN 棋_LC ，_PU 而_CC 該位置_NN 的_DEC 四周也並_NN 無已_NN 方或_NN 對方_NN 的棋_VV 。_PU （_PU 如果_NN 有對方_NN 的_DEC 棋的話依其_JJ 位置_NN 稱作_NN 碰或_NN 撞_NN ）_PU
+
+尖_NN 的_DEG 下法_NN ，_PU 因為與_NN 已有_VV 的_DEC 己方_NN 棋子連_NN 結緊密_NN （_PU 不像飛_NN 會有_VV 被對方_NN 切斷_VV 的_DEC 可能_NN ）_PU ，_PU 是_VC 一_OD 種_M 厚實_NN 穩固_VV 的_DEC 下法_NN ，_PU 但因_NN 其腳_NN 步較慢_NN ，_PU 通常_NN 是_VC 在_P 對方_NN 棋子_NN 接近_NN ，_PU 如_CS 被夾或_NN 掛角時_NN ，_PU 才會_NN 用尖_NN 的_DEC 手法_NN ，_PU 一_CD 方面穩_NN 固自_VV 身勢力_NN ，_PU 一_CD 方面蓄_NN 積力量_NN 反攻對_NN 手接近_NN 的_DEC 棋子_NN ，_PU 最_AD 著名_NN 的_DEC 尖的_NN 下法_NN ，_PU 是日本_NN 棋士_NN 秀策_VV 在_VV 對手_NN 小_NN 馬_NN 步掛_NN 小_NN 目時_NN 的_DEC 下法_NN ，_PU 被稱作_NN 秀策的_NN 尖_NN ，_PU 即_NN 是_VC 一_CD 個_M 雖稍嫌_NN 緩_NN 慢_NN 厚實但_NN 攻守_NN 俱佳_VV 的_DEC 棋步_NN 。_PU
+
+

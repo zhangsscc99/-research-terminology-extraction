@@ -1,0 +1,11 @@
+﻿_NN 七_OD 死_NN 八_OD 活_NN
+
+七_CD 死_NN 八_CD 活是圍_NN 棋裡_VV 的_DT 一_CD 個術語_NN ，_PU 是死活_NN 中_LC 的_DEG 常見_NN 棋形_VV ，_PU 七_OD 和_NN 八_OD 指_NN 的是_VV 在_P 二_OD 路_M 連成_NN 直線_NN 的_DEC 棋子數_NN 。_PU 如果在_NN 周圍_NN 被圍死_NN 的_DEC 情況下_NN ，_PU 七子_NN 是先手活_NN 、_PU 後手死_NN ，_PU 八子可_NN 以_MSP 後手活_VV 。_PU 但是_VV ，_PU 该术语并_NN 不_AD 适用于_VV 所有_DT 情况_NN 。_PU 当该_NN 条直线_NN 最边缘_NN 的_DEC 棋子_NN 处_NN 在_P 棋盘_NN 的_DEG 一_CD 线_NN 时_LC ，_PU 即_AD 使_VV 只有_VV 七子_NN 连成_NN 直线_NN 也是先_NN 手活_VV 。_PU
+
+圖_NN 一_NN 中_LC 的_DEG 黑棋_NN 只有_VV 七子_NN ，_PU 最_AD 後_JJ 還原_NN 成_VV 直_NN 三_OD ，_PU 沒辦法_NN 後_JJ 手_NN 活_CD 。_PU 注意_VV ，_PU 黑下_NN A_CD 位沒_VV 有用_VA ，_PU 白_AD 可_VV 下_P 1_CD 位_M 撲_NN 、_PU 破眼_NN 。_PU
+
+圖二_OD ，_PU 黑棋_JJ 改變_NN 下法_VV ，_PU 最後_JJ 還是_NN 還原成直_NN 三_OD ，_PU 沒辦法_NN 後手活_VV 。_PU
+
+圖_NN 三_OD ，_PU 黑棋先_NN 手活_VV ，_PU 最_AD 後成為直_NN 四_OD 。_PU
+
+

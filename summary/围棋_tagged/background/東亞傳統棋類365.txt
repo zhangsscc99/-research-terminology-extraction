@@ -1,0 +1,5 @@
+﻿目外_NN
+
+目外_NN 是_VC 在_P 圍棋中_NN 第三_OD 線與第_NN 五_AD 線_VA 的_DEC 交叉_NN 點_NN ，_PU 整個棋盤_NN 中有_VV 八_CD 個_NN 點_AD 是_VC 目外_NN 。_PU 目外是_NN 開_NN 局_NN 佔角_NN 的_DEC 可能_NN 位置_NN 之一_NN ，_PU 使用_NN 頻率與_NN 高目接近_NN 。_PU 目外_NN 佈局_NN 是_VC 指目外與_NN 高目_NN 、_PU 三三_NN 等_NN 互相_NN 配合_VV ，_PU 或_CC 連走_NN 兩_CD 手_NN 目外_VV 的_DEC 佈局_NN ，_PU 其_PN 特色_NN 是_VC 較_BA 重視_NN 外勢_VV 的_DEC 獲取_NN 及邊_NN 上_LC 的_DEC 發展_NN 。_PU
+
+

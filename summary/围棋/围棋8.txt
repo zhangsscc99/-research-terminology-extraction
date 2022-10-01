@@ -1,0 +1,20 @@
+﻿AlphaZero
+
+AlphaZero是DeepMind所開發的人工智能軟體。
+
+AlphaZero使用與AlphaGo Zero類似但更一般性的演算法，在不做太多改變的前提下，並將演算法從圍棋延伸到将棋與國際象棋上。AlphaZero與AlphaGo Zero不同之處在於：
+
+
+AlphaZero基於蒙特卡洛树搜索，每秒只能搜尋8萬步（西洋棋）與4萬步（將棋），相較於每秒可以7000萬步，以及每秒可以3500萬步，AlphaZero則是利用了類神經網路提昇了搜尋的品質。
+
+AlphaZero使用了5,000顆第一代的TPU進行訓練。
+
+在4小時的訓練後（約自我訓練4400萬局），AlphaZero以28勝72和0敗的成績打敗。
+
+在12小時的訓練後（約自我訓練2400萬局），AlphaZero以90勝2和8敗的成績打敗。
+
+在34小時的訓練後（約自我訓練2100萬局），AlphaZero以60勝40敗的成績打敗AlphaGo Zero。
+
+
+
+

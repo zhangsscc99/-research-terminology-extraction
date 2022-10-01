@@ -1,0 +1,14 @@
+﻿象_NN 棋殘局_NN
+
+中國象_NN 棋殘局_NN ，_PU 是雙_NN 方經過_NN 多_CD 輪移_NN 動及_NN 攻防_NN 之後_NN ，_PU 象棋_NN 遊戲_NN 進入_NN 尾聲_NN 。_PU 殘局_NN 承繼_VV 了_AS 開局和_NN 中局_NN ，_PU 而因_NN 為經過_NN 中局_VV 的_DEC 攻防_NN 之後_NN ，_PU 棋盤上_NN 的_DEC 棋子減_NN 少_VA ，_PU 雙方_NN 的_DEC 實力減_NN 弱_VA ，_PU 因此能_NN 使用_NN 的_DEC 策略_NN 相對減少_VV ，_PU 棋局能起_NN 變化_VV 的_DEC 機會也_NN 較小_VV 。_PU
+
+通常_JJ 雙方各_NN 剩下_VV 兩_CD 隻_M 強子_NN （_PU 車_NN 、_PU 馬_NN 、_PU 炮_NN ）_PU 時_NN ，_PU 就_AD 可_VV 說是_VV 進入_VV 了_AS 殘局_NN 階段_NN 。_PU
+
+殘局一般可分_NR 為定式_JJ 殘局_NN 和_NN 實戰殘局_NN 兩_OD 種_NN 。_PU
+
+定式殘局_NN ，_PU 即其_NN 殘局_NN 佈局是_NN 設定_VV 的_SP ，_PU 並_AD 且有譜可依_VV 。_PU 因此會_NN 有_VE 破解_NN 定式殘局_NN 的_DEC 答案_NN 。_PU 定式_JJ 殘局_NN 會用_NN 來訓練學_NN 生怎樣_NN 在_P 不同_JJ 情況_NN 的_DEC 殘局_NN 下成_VV 功反敗_NN 為勝_VV 。_PU
+
+實戰殘局_NN ，_PU 即其_NN 殘局_NN 佈局_NN 是_VC 因_DT 一_CD 輪移動及_NN 攻防_NN 後演變_NN 而成_VV 。_PU 實_BA 戰殘局_NN 的_DEC 佈局_NN 千_CD 變_CC 萬_CD 化_M ，_PU 因此是無_NN 譜_AD 可_VV 從的_VV 。_PU
+
+
+

@@ -1,0 +1,22 @@
+﻿手割_NN
+
+手割_NN （_PU 日文_NN 手_NN 割_NN 為解剖_NN 之意_NN ）_PU 為圍棋_NN 分析局_NN 勢的_VV 一_CD 種_NN 方法_NN ，_PU 為棋子_NN 效率_NN 的_DEC 評估_NN 。_PU
+
+手割為_NN 日_NN 本江戶_NN 時代棋聖_VV 本因_NN 坊道策_NN 所_MSP 創_VV ，_PU 改變_VV 了_AS 當時棋壇_NN 拘_NN 泥局部_NN 戰鬥_VV 的_DEC 下法_NN ，_PU 藉_CS 由_P 手割_NN 分析_VV 而_MSP 使_VV 布局_NN 、_PU 定石得_NN 以全局均_NN 衡_AD 發展_VV ，_PU 亦_AD 可_VV 由_P 手_CD 割分析_NN 新創_VV 的_DEC 定石_NN 變化_VV 是_VC 否較優_NN ；_PU 另可分析_NR 並進_NN 行棄子_NN 爭_NN 先_LC ，_PU 於收官時_NN 也_AD 可_VV 分析著手_VV 好_CD 壞_NN 。_PU 手_NN 割_NN 的_DEC 創_NN 立_NN 被_LB 視_NN 為圍棋水_VV 準_CD 發展_NN 的_DEC 第一_OD 次_M 大_NN 躍進_NN 。_PU
+
+由於圍棋_NN 為雙方_NN 一_OD 來_PU 一_OD 往_NN ，_PU 所以_AD 可以_VV 藉由_P 一_CD 次_NN 增加_VV 一_CD 黑_M 一_CD 白_NN ，_PU 或是_CC 減_VV 少_NN 一_OD 黑_NN 一_OD 白_NN ，_PU 而_MSP 達到_VV 其他_NN 已_AD 知_VV 的_DEC 定石或_NN 兩分_CD 型態_M ，_PU 並比較_NN 增減_VV 的_DEC 棋子_NN 黑與白_NN 的_DEC 好壞_NN ，_PU 此即為手_NN 割原理_NN 。_PU 例如_AD 去掉_NN 的_DEC 黑子_NN 為單官_NN ，_PU 而去掉_NN 的_DEC 白子雖_NN 然_NN 不_AD 好_VV 但_AS 多_CD 少_M 有價值_NN ，_PU 去掉_VV 黑白_NN 後成為_VV 兩_CD 分型態_M ，_PU 則我們_NN 可以_VV 說去掉前_VV 的型_JJ 態白好_NN ；_PU 增減_NN 的_DEC 棋子_NN 不必_NN 是_VC 剛好連_NR 續手順_NR 的_DEC 棋子_NN ，_PU 可以_VV 是_VC 局部_NN 上_NN 手_NN 順無關_NN 的_DEC 一_CD 黑_NN 一_OD 白_NN 。_PU 另_NN 外也_NN 可以_VV 只_CD 增減單_NN 色棋子_NN ，_PU 代表_NR 對手在_NR 此處手_NN 拔_NN ，_PU 但分析_NN 上_NN 較為_NN 困難_NN 。_PU 該增_NN 減何_NN 子因人而_NN 異_NN ，_PU 因此手割_NN 並_AD 非_AD 絕對_VV ，_PU 與棋力_NN 、_PU 經驗_NN 的_DEC 累積有關_NN 。_PU
+
+圖_NN 一_OD 。_PU 此圖_NR 黑用_NN 1_OD 以下_JJ 二線扳擋_NN 黏_VA ，_PU 造成後手_NN ，_PU 白棋_NN 可以_VV 下到_VV 別_NN 的_DEC 官子_NN 。_PU
+
+圖二_OD 。_PU 此時將_NR 手順_NN 去掉_VV ，_PU 只看_VV 最_NN 終畫面_NN 。_PU
+
+圖_NN 三_OD 。_PU 回到圖_NN 一_OD 狀_NN 態_LC ，_PU 改由立下_NN ，_PU 白棋若_NN 是_VC 在_P 2_OD 位_M 擋住_NN ，_PU 則黑棋_NN 得到_VV 先手_NN ，_PU 雖然_NN 比起_NN 圖_NN 一_CD 扳稍損_NN ，_PU 但是獲_NN 得_NN 先手_NN 價值_NN 更大_VV 。_PU
+
+圖_NN 四_OD 。_PU 若_NN 是_VC 白_LB 棋不_NN 願_NN 意_NN 落後手_NN 而_CC 不_AD 應_P 黑_NN 1_OD ，_PU 此_OD 時黑_NN 可以_VV 用黑_VV 3_OD 跳_M 入白陣_NN ，_PU 比單下_NN 在_P a_NN 拐還要_NN 好_VA 。_PU
+
+圖_NN 五_OD 。_PU 圖_NN 四_OD 中_LC ，_PU 黑棋跳較_NN 好_VA ，_PU 不會下在_NN 此圖_VV 的_DEC 黑_NN 3_LC ，_PU 被白_NN 4_CD 擋住_VV 。_PU
+
+圖_NN 六_OD 。_PU 圖_OD 五_OD 不_M 看手順_NN ，_PU 則會_NN 發現與圖_NN 二一_CD 模一_NN 樣_NN ，_PU 所以_AD 可以_VV 知道圖一_VV 的_DEC 下_NN 法造成_NN 的_DEC 圖_NN 二_OD 是_VC 不_AD 好_VA 的_SP ，_PU 因_JJ 為黑棋_NN 單_NN 立下會有圖四_JJ 中_NN 更_AD 好_VA 的_DEC 選擇_NN 。_PU 此即_NN 為用_NN 手割_NN 分析棋步_NN 。_PU
+
+
+

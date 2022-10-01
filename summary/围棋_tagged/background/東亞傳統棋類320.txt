@@ -1,0 +1,11 @@
+﻿棋靈_NN 王盃_NN
+
+棋靈王盃_NN ，_PU 台灣_NN 的_DEC 圍棋比賽_NN 。_PU 台灣棋院_NN 主辦_NN 。_PU
+
+第一_OD 屆棋靈王盃於_JJ 2002_NN 年_NN 舉行_VV 。_PU 終止於_NN 2004_CD 年共_NN 三_OD 屆_NN 。_PU
+
+第1_OD ，_PU 3_OD 屆_NN 3_OD 番_NN 棋_OD ，_PU 第2_OD 屆_M 5_OD 番_M 棋_NN
+
+
+
+

@@ -1,0 +1,6 @@
+﻿締角_NN
+
+締角_NN 指圍棋_NN 序盤_NN 中鞏_NN 固角隅_NN 的_DEC 手法_NN 。_PU
+締角_NN 一_CD 般_NN 以首先_NN 佔據角隅_NN 的_DEC 子與締角_NN 之子_NN 的_DEC 關係命名_NN 。_PU 如_NN ：_PU 小目小_NN 馬_NN 步締角_NN （_PU 因其_NR 堅實性_NN ，_PU 又_NN 稱_NN 無憂角_NN ）_PU 、_PU 星位大_NN 飛締角等_NN 。_PU
+
+

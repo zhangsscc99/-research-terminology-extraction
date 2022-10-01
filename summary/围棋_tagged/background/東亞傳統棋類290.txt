@@ -1,0 +1,7 @@
+﻿日本_NN 圍棋_NN 千_OD 勝_NN 棋士列_NN 表_NN
+
+以下_NN 是_VC 日本圍_NR 棋職_NN 業生涯_NN 中達成_NN 共計_NN 1000_CD 勝以上_NN 的_DEC 棋士_NN 。_PU
+
+
+
+

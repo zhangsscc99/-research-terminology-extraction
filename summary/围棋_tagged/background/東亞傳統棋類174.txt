@@ -1,0 +1,32 @@
+﻿围棋_NN 段位制_NN
+
+围棋_NN 段位制_NN 是_VC 现代_JJ 围棋所_NN 使用_NN 的_DEC 棋力分_NN 级_CD 制度_NN ，_PU 可_VV 分为_VV 职业_NN 段位与_NN 业余_NN 段位_NN 两_CD 个_M 系统_NN 。_PU
+
+围棋职_NN 业选_NN 手_NN 分为_AD 从低到高_VV 九_CD 个_M 段位等级_NN ，_PU 九_CD 段最高_NN ，_PU 地位大致_NN 相当于_VV 象_NN 棋界_NN 的_DEG 特级大_NN 师_NN ；_PU 初段最低_NN ，_PU 一般为棋_AD 手_DEV 获得_VV 职业选_NN 手身份_NN 之初_NN 被_SB 授予_VV 的_DEC 段位_NN 。_PU 段位_NN 只升_NN 不_AD 降_VA ，_PU 棋手_NN 根据各_NN 自所属_NN 棋士_NN 组织_NN 的_DEC 规定获得_NN 段位_NN 晋升_NN 资格_NN 。_PU
+
+现代各国_NN 的_DEC 职业围_NN 棋段_NN 位制度_NN 均源_NN 自日本_NN 江户_NN 时代_NN 的_DEC 段位制_NN ，_PU 而后者_NN 又_AD 可_VV 追溯_VV 至_VV 中国_NR 古代_NN 的_DEC 官制_NN 九品中_NN 正制_NN 。_PU
+
+业余段_NN 位制_VV 仿照_NN 职业_NN 段位制建_NN 立_NN ，_PU 而棋力_NN 标准则_NN 远低于_VV 职业_NN 段位_NN 。_PU
+
+在中国_NR ，_PU 职业段_NR 位用_NN 中文小_NN 写数字_NN 来表示_NN （_PU 初段_NR 、_PU 二段_NR 、_PU ……九段），_PU 业余段_NN 位用_NN 阿拉_NN 伯_NOI 数字表示_NN （_PU 1_CD 段_M 、_PU 2_OD 段_NN 、_PU ……7段）_PU ，_PU 以作区_NN 分_NN 。_PU
+
+除段位外_NN ，_PU 表示_VV 围棋_NN 棋手_VV 的_DEC 棋力_NN 等级_VV 的_DEC 还有_JJ 级位_NN ，_PU 与_P 段位制_NN 配合_NN 使用_NN ：_PU 1_CD 段_M 以下为_NN 1_OD 级_NN ，_PU 1_CD 级_NN 以下_NN 为_VC 2_CD 级_M ，_PU 以此_NN 类推_NN 。_PU 各_CD 个_M 职业_NN 围棋_NN 组织_VV 的_DEC 段位制大_NN 都_AD 没有_VV 附带_NN 正式_NN 的_DEC 级位制_NN ，_PU 而业余_NN 级位则_NN 常常_NN 被_SB 授予_VV 业余爱_NR 好者_NN 。_PU 相邻_NN 级位_NN 之间_NN 的_DEG 棋力差_NN 也_AD 没有_VV 统_NN 一_OD 的_NN 规定_VV 。_PU 某些_NN 围棋_NN 培训_NN 机构_NN 将_BA 刚刚学_NN 会围棋_NN 规则_VV 的_DEC 人_NN 的_DEG 棋力估计_NN 为_VC 20_CD 级_NN 。_PU
+
+1879年_NT 成立_VV 的_DEC 方圆社_NN 的_DEC 段位称_NN 为_VC 级位_NN ：_PU 一_CD 级最高_NN ，_PU 相当于_VV 九_CD 段_M ，_PU 九_OD 级_NN 最_AD 低_VA ，_PU 相当于_VV 初_NN 段_OD 。_PU
+
+台湾应_NN 昌期_NN 基金会则_NN 将_BA 职业_NN 段位称_NN 为品_NN ：_PU 一品最高_NN ，_PU 相当于_VV 九_CD 段_M ，_PU 九品最低_NN ，_PU 相当于_VV 初段；而对_JJ 于业余_NN 强手设_NN 九_CD 个_M 段位_NN ，_PU 段位以_NN 下设_VV 十_CD 八_CD 个_M 级位_NN 。_PU 规定业余_NN 七_CD 段等_NN 同于_VV 职业_NN 九品_NN ，_PU 九段等_NN 同_NN 职业_NN 五品_NN ，_PU 采接_NN 叠制_VV 。_PU 这样_JJ 算来_NN ，_PU 从最高_NR 的_DEC 一品到_NR 最低的_NN 十八_OD 级_M ，_PU 共_AD 有_VE 33_CD 个_M 等级_NN 。_PU
+
+在_NN 三_OD 国_NN 时期_NN ，_PU 魏人邯_NN 鄲淳_NN （_PU 132年_NT －_PU ？）就在其著作《_PU 艺经_NN ·_PU 棋品_NN 》_PU 里提_NN 出围棋的_NN 九品制_NN ，_PU 所谓“_JJ 棋分_NN 九_CD 品_NN ”_PU 。_PU
+
+在南北_NR 朝时_NN ，_PU 围棋_VV 进入_VV 了_AS 一_CD 个_M 重要_VA 的_DEC 发展期_NN 。_PU 南朝刘_NN 宋明_NN 帝时设立_NN “_PU 围棋_NN 州邑_NN ”_PU ，_PU 是个_NN 管理_NN 组织_NN 围棋_NN 活动的_NN 机构_NN ，_PU 它主要_NN 负责各地_JJ 围棋人才_NN 的_DEC 举荐_NN 、_PU 考核_VV ，_PU 以及_NN 棋谱_VV 的_DEC 搜集_NN 整理_NN 工作_NN ；_PU 梁武帝_NN 设立_VV “_PU 棋品_NN 制_NN ”_PU ，_PU 按棋艺_NN 的_DEC 高低将_NN 棋_JJ 手_NN 分_NN 为_VC 9_CD 个_M “_PU 等级_NN ”_PU ，_PU 也是现_NN 代围_NN 棋段_NN 位制_VV 的_DEC 雏形_NN 。_PU
+
+而_CD 自唐代起_NN ，_PU 曾_AD 在_P 翰林院_NN 设立棋待诏_VV 一_CD 职_M ，_PU 不_AD 过_VV ，_PU 它_PN 的_DEG 主要_JJ 目的_NN 是_VC 招_JJ 揽围棋_NN 高_JJ 手陪_NN 皇帝下棋_NN ，_PU 棋手并_NR 无具体_NN 权力_NN ，_PU 也未_NN 得到_VV 政府在_NN 资金上_NN 或_CC 是制度_NN 上_LC 的_DEG 大力扶_NN 持_NN 。_PU 至_NN 16_CD 世纪末_NN 的_DEC 明代_NN ，_PU 翰林院_NN 中_LC 已_AD 不_AD 见_VV 棋待诏_NN 。_PU 可以_VV 说_VV ，_PU 政府及_NN 民间不_NN 重视_NN 围棋_NN 。_PU
+
+现在_JJ 盛行的_NN 「_PU 围棋_NN 段位制_NN 」_PU 則源_NN 自於日_NN 本_VA ，_PU 相传为_NN 四_OD 世_NN 本因_NN 坊道策_NN 所_MSP 创_VV ，_PU 然记载_NN 语焉不_NN 详_NN 。_PU 现代棋史_NN 研究者_NN 普遍_NN 相信_VV ，_PU 第一_OD 世_M 本因_NN 坊算_NN 砂时代_NN 的_DEC 两_CD 个_M 等级_NN “_PU 名人_NN ”_PU 和_NN “_PU 上手_NN ”_PU 为围棋_NN 段位制_NN 之滥觞_NN 。_PU 其中_NN “_PU 名人_NN ”_PU 即后来的_NR “_PU 九段”_NR ，_PU “上手_NR ”_PU 为后来_NR 的_ETC “_PU 七_NN 段_NN ”_PU 。_PU 按江_NN 户_LC 时代_VV 的_DEC 规_NN 定_NN ，_PU 相_NN 邻_NN 段位_NN 之间_NN 的_DEG 棋力_NN 相_NN 差_NN 半子_NN ，_PU 因此名人_AD 与_P 初段_NN 之间棋力_NN 相_NN 差_NN 四子_NN ，_PU 与名人_NN 的_DEG 差距在_NN 四_CD 子_NN 以上_LC ，_PU 便_NN 不_AD 被_SB 认为_VV 具备_JJ 职业棋_NN 士_AD 资格了_VV 。_PU 这些_PN 规定_NN 一_CD 直沿_NN 袭到_VV 1923_CD 年日本_NN 棋_AD 院成_VV 立_NN 以前_LC 。_PU 日本_NR 棋院成立后_NR ，_PU 开始举_NR 办围_NN 棋升段赛_NN ，_PU 从那时起_NR 规定相邻_NN 段位_VV 之间_NN 相_NN 差_NN 1_CD /_PU 3_CD 子_M ，_PU 名人让_NN 初段_NN 3子_NN 。_PU 但让子_NN 的_DEC 规定随着_NN 职业棋手_NN 之间水平越来_NN 越_AD 接近_VV 而很快_NN 失去_NN 可行性_NN 。_PU 战后_NR 举办_NN 的_DEC 新闻_NN 棋战_VV 一_CD 律以分先_JJ 棋份_NN 对局_NN 。_PU
+
+目前_NN 世界_NN 各國_NN 各地区_NN 乃至于_VV 各_CD 个_M 棋士组织_NN 對於_NN 「_PU 圍棋_NN 段位_NN 」_PU 的_DEG 制定_NN （_PU 职业_NN 及业余_NN ）_PU 不盡相同_NN 。_PU
+
+中国在_NR 民国初年曾有若_NR 干棋手_NN 获得_VV 日本_NN 授予_VV 的_DEC 段位_NN 。_PU 到_VV 了_AS 1960_CD 年代_NN ，_PU 中國大_NN 陸也曾_NN 通过_VV 比赛授_NN 予部_NN 分棋手_NN 职业_NN 段位_NN 。_PU 1982年_NT ，_PU 中国_NR 大陸恢_NR 复并普_NN 遍施_NN 行围_NN 棋段_NN 位制_VV ，_PU 首批被_NN 授予_VV 九_CD 段_NN 的_DEC 棋手共_NN 三_OD 位_NN ：_PU 陈祖德_NN 、_PU 吴淞笙_NN 、_PU 聂卫平_NN 。_PU 数年之后_NN ，_PU 又开_VV 始向业余_NN 爱好者_NN 授_NN 予业余_NN 段位_NN 。_PU
+
+
+

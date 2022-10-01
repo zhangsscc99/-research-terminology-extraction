@@ -1,0 +1,61 @@
+﻿大斜_NR 定式_NN
+
+大_OD 斜定式是_JJ 有名_NN 的_DEC 围棋定式_NN 之一_NN ，_PU 其变化复杂_NN ，_PU 有_NN “_PU 大_NN 斜_NN 千_OD 变_NN ”_PU 之称_NN 。_PU
+
+大斜出现_VV 在_P 17_CD 世纪末_NN 的_DEC 日本_NR ，_PU 最早出現在_NR 本因_NN 坊道知_NN 的_DEC 對局_NN ，_PU 但尚_NN 未成_VV 為定式_NN ；_PU 幾_CD 十_CD 年後於_NN 相原_NN 可碩_VA 的_DEC 對局_NN 中_LC 出現_VV 大_JJ 斜定_JJ 式_NN 。_PU
+
+在几十年的_NR 时间_NN 内_NN ，_PU 尽管_NN 可_AD 能_VV 被小_VV 范围_NN 地_DEC 研究过_NN ，_PU 它_CS 却并_NN 没有_VV 流行起来_NN 。_PU 随后_VV 在_P 19_CD 世纪_NN 40_CD 年代_NN ，_PU 人们_NN 开始探索_NN 大_JJ 斜定式，例如_JJ 本因_NN 坊丈和_NN 、_PU 井上幻_NN 庵因碩_NN 等_ETC 高手都_NN 曾下_VV 過_CD 複雜_NN 的_DEC 大斜_NN 定式_VV 。_PU
+
+因其_NN 可能导_NN 致征子_NN 和劫争_NN ，_PU 它成为_VV 了_CD 最_AD 复杂_VV 的_DEC 定式_NN ，_PU 直到_NN 20_CD 世纪_NN 被_SB 大雪_VV 崩定式_JJ 所取代_NN 。_PU
+
+黃士_NN 傑博_NN 士曾_NN 經匿_NN 名為_NN Master_NN 在_NN 網路_NN 上_NN 用_P AlphaGo_NN 與職業棋_NN 士_NN 對局_VV 。_PU 實戰中_NN ，_PU 職_NN 業棋_NN 士用_NN 三間低夾_NN ，_PU AlphaGo_NN 遂以大_NN 斜定式_JJ 回應_NN ，_PU 可見大斜定式_JJ 還是有_NN 出現_VV 的_DEC 價值_NN 。_PU
+
+因目_NN 外占角_NN 不常见_NN ，_PU 而_CC 且适_NN 用面_NN 较窄_VV ，_PU 所以_AD 大_BA 斜定式_JJ 较少_NN 出现_VV 在_NN 当代_NN 的_DEC 比赛中_NN 。_PU
+
+這是大_NN 斜定式的_JJ 基本型_NN ，_PU 但是根據_NN 黃士_NN 傑博士在_NN 2017年_CD 8月_NT 9日的_NN 臉書資訊_NN ，_PU AlphaGo_NN 經過計算_NN ，_PU 認為白_NN 1_OD 大_NN 斜飛不_NN 如_VV A_NN 位飛壓_NN ，_PU 看_NN 來_NN AlphaGo_NN 並_NN 不_AD 建_VV 議_AS 人類_NN 直接_AD 去下大_VV 斜定式_JJ 。_PU
+
+AlphaGo_NN 會建議_NN 先對付右_NN 上角_NN 星位的_NN 黑棋_NN ，_PU 白_NN 1_OD 下在三路的_JJ 馬步_NN ，_PU 通常_JJ 黑棋會來_NN 個黑_NN 2_OD 飛_NN 也下在_NN 3路_NN ，_PU 然後白_NN 3_OD 立即_JJ 回來_NN 攻防_NN 右下角_NN 。_PU 這是個_NN 很常見的_JJ 序盤_NN ！_PU
+
+黃士_NN 傑曾_NN 經匿_NN 名為_NN Master_NN 在_NN 網路_NN 上_NN 用_P AlphaGo_NN 與職業棋_NN 士_NN 對局_VV 。_PU 實戰中_NN ，_PU 白_NN 1_OD 之後_LC ，_PU 職_NN 業_NN 棋士_NN 用黑_NN 2三_CD 間低夾_NN ，_PU AlphaGo_NN 才下_VV 在_P 白_NN 3_OD ，_PU 走_OD 了_AS 大斜_CD 定式_NN ，_PU 可見大斜定式_JJ 還是有_NN 出現_VV 的_DEC 價值_NN 。_PU
+
+黑棋再_NN 來有_VV A_NN 、_PU B_NN 、_PU C三種_NN 回應_NN ，_PU 其中_NN A_NN 、_PU B兩_NN 個比_NN 較簡單_NN ，_PU C_NN 比較複_NN 雜且_CC 會引伸出_NN 四_OD 種_NN 狀況_VV ，_PU 所以共有_VV 六_CD 種_NN 發展_NN 。_PU
+
+前圖_NN 中_LC 黑_BA 棋走_NN A位_VV ，_PU 黑_NN 1_OD 下_NN 在_P 左下角_NN 馬_VV 步_NN ，_PU 白_NN 2_OD 跳_NN 、_PU 黑_NN 3_OD 飛_NN ，_PU 然後白_NN 4_OD 尖_NN 。_PU AlphaGo_NN 認為雙_NN 方序盤_NN 平衡發展_NN 、_PU 勢均力敵_NN 。_PU
+
+前圖_NN 中_LC 黑_BA 棋走_NN B_NN 位時_NN ，_PU 黑棋選_NN 擇黑_NN 1_CD 尖頂_VV ，_PU 白_NN 2_OD 就_NN 擋_OD ，_PU 一_OD 直_NN 走到_VV 黑_NN 9_OD 跳_NN 、_PU 白_NN 10_CD 回補_NN 一_OD 手_NN ，_PU AlphaGo_NN 計算後_NN ，_PU 認為白棋_NN 的_DEC 局面稍_NN 佔_NN 優勢_VV 。_PU
+
+前圖_NN 中_LC 黑_BA 棋走_NN C位_VV ，_PU 黑_NN 1_OD 碰_M ，_PU 再來白_NN 2_OD 有_PU D_NN 、_PU E_NN 有_NN 兩種_NN 應法_NN ，_PU 各_P 自又產生_NN 兩_CC 種走法_NN ，_PU 一_OD 共_NN 四_OD 種_NN 。_PU
+
+前圖_NN 中_LC 黑_BA 棋走_NN C位_VV ，_PU 黑_NN 1_OD 跳_NN ，_PU 去碰白棋_NN ，_PU 白_NN 2_OD 在_NN D_OD 位_NN 擋_NN 、_PU 黑_NN 3_OD 長_NN 、_PU 白_NN 4_OD 也_M 往角落_NN 裡長_VV 、_PU 黑_NN 5_OD 長_M 引發戰_NN 鬥_NN ，_PU 白_NN 6_OD 碰_NN ，_PU 黑_NN 7_OD 則有_VV F_NN 、_PU G兩_NN 種下法_NN 。_PU
+
+黑7_OD 下在F位：_JJ 黑7長_NR 、_PU 白8長_NR 、_PU 黑9長_NR 、_PU 白10_NR 衝斷_NN ，_PU 一_AD 直下_VV 到_P 白_NN 18_OD 止_M ，_PU 雙方各_NN 棄_VV 一_CD 子_M ，_PU 白取得右_NN 上_NN 角落_VV ，_PU 黑棋_VV 在_P 上邊也_NN 不_AD 錯_VA ！_PU (AlphaGo_NN 認為雙_NN 方勢_NN 均力敵_NN )_PU
+
+黑7_OD 下在G位：_JJ 黑7擋_NR 、_PU 白8斷_NR 、_PU 黑9叫吃_NR 、_PU 白10長_NR ，_PU 黑13叫_NR 吃時_NN ，_PU 白_NN 14_CD 下_NN 在_P 左下角_NN 、_PU 黑_NN 15_CD 提子_NN ，_PU 白_NN 16_CD 再補一手_M ！_PU (AlphaGo認為黑棋稍差)_Err
+
+前圖_NN 中_LC 黑_BA 棋走_NN C位_VV ，_PU 黑_NN 1_OD 碰_M ，_PU 再來白_NN 2_CD 在_P E_NN 位_NN 應_LC ，_PU 在_VV 右_NN 邊斷_VA 、_PU 黑_VV 3_CD 叫吃_M 、_PU 白_NN 4_OD 連_NN 、_PU 黑_NN 5_OD 連_NN ，_PU 一_AD 直下_VV 到_P 黑_NN 9_OD 扳_NN 、_PU 黑_NN 11_CD 擋是手_NN 段_VA ，_PU 再來_NN 的_DEC 白棋有_NN H_NN 跟_NN J兩_NN 種下法_NN ！_PU
+
+白棋下在_NN H位_VV ：_PU 白_BA 12_CD 、_PU 白_NN 14_CD 限制_VV 了_AS 三_OD 個_M 黑子往_NN 下_NN 的_DEG 發展_NN ，_PU 黑_NN 15_CD 斷_NN ，_PU 一_CD 直_NN 下到白2_VV 2_CD 提子_NN ，_PU 黑_NN 23_CD 攔_NN 。_PU (_NN AlphaGo_NN 認為雙_NN 方勢_NN 均力敵_NN )_PU
+
+白棋下在_NN J位_VV ：_PU 當白_NN 12_CD 下_NN 在另_VV 一_CD 邊時_NN ，_PU 於是黑13飛_NR 、_PU 白14_NR 叫吃_NN 、_PU 黑_NN 15_CD 棄子_NN 、_PU 白_NN 16_CD 提子_NN ，_PU 黑_NN 17_CD 引出_VV 。_PU (_NN AlphaGo_NN 認為雙_NN 方勢_NN 均力敵_NN )_PU
+
+AlphaGo_NN 在_NN 網路_NN 上下_VV 了_AS 60_CD 局_M ，_PU 在_P 此以_NN 二_NN 局_NN 介紹大_NN 斜定式_JJ ！_NN
+
+第27_OD 局_M ：_PU Master_NN (_PU 黑_NN )_PU vs_NN 范廷鈺_NN (_PU 九_CD 段_M )_PU
+
+第28_OD 局_M ：_PU Master_NN (_PU 黑_NN )_PU vs_NN 孟泰齡_NN (_PU 六_CD 段_M )_PU
+白10夾_NT ，_PU 黑11選_NR 擇走大_NN 斜_OD 定式_VV 。_PU
+
+白_NN 20_OD 跳_NN 、_PU 黑_NN 21_CD 夾白_NN 10_CD ，_PU 然_BA 後黑_NN 23_CD 、_PU 黑_NN 25_CD 入_NN 侵左_NN 上角_VV 的_DEC 白地_NN 。_PU
+
+孟泰_NN 齡白_NN 20_CD 連爬_NN ，_PU 范廷鈺_NN 的_DEC 白_NN 20_CD 則是_NN 跳出_VV ，_PU 但_NN 是_VC 執黑_NN 的_DEC Master兩_NN 盤_NN 都_NN 堅持_NN 走黑_NN 21_CD 夾白_NN 10_CD ，_PU 絲毫不_NN 擔心白_NN 棋_VV 在_P 下方_NN 扳起_VV 。_PU
+
+然_CD 後黑_NN 23_CD 、_PU 黑25入侵左上角的白地_PU 。_PU
+
+黑31拆_NT 二_OD ，_PU 上_NN 方黑_NN 棋_NN 形_NN 勢堅強_NN 。_PU 白_NN 32_CD 扳起_NN 。_PU
+
+白_NN 10_OD 夾_NN 、_PU 黑_NN 11_CD 大_CD 飛時_NN ，_PU 大_BA 斜定式_JJ 傳統下_NN 法白_NN 12_CD 會走_NN 靠出_VV ，_PU 然後發展_VV 至白_NN 28_CD 。_PU
+
+至此黑_NR 棋取_NN 角地穩固_NN ，_PU 外圍_NN 也堅實_NN ，_PU 而且_NN 是先手_NN ，_PU 白棋劣勢_NN 。_PU
+
+
+

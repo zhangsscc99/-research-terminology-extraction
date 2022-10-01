@@ -1,0 +1,107 @@
+﻿围棋史_NN
+
+围棋起_NN 源于_NN 中国_VV ，_PU 其具_NN 体年代_NN 不得而知_VV ，_PU 最早_JJ 记载_NN 见于_VV 春_NN 秋时期_NN 。_PU 两_CD 汉时期_NN 为_VC 17_CD 路_BA 棋盘_NN ，_PU 南北朝_NR 时扩_NN 大到_VV 19_CD 路_M ，_PU 传入朝鲜_NN 半岛_NN 。_PU 唐朝_NR 时围_NN 棋_NN 获得_VV 了_AS 很_AD 大_JJ 发展_NN ，_PU 并_AD 传入_VV 日本_NN 。_PU 日本从_NN 16_CD 世纪_NN 晚期_NN 的_DEC 安土_NN 桃山_NN 时代开始_NN ，_PU 渐次_NR 发展_NN 出_NN 职业围_NN 棋制度_NN ，_PU 名家辈出_NN 。_PU 从_NN 19_CD 世纪晚_NN 期有_VV 围棋_NN 国际_NN 交流_NN 开始_NN ，_PU 到_P 1990年_NT 代初期_NN ，_PU 日本一_NR 直_NN 在_VV 世界_NN 棋坛_NN 居于_VV 统治_NN 地位_NN 。_PU 朝鲜_NN 半岛古时_NN 也有围棋_VV ，_PU 但_BA 规则与_NN 中_NN 日_NN 两_CD 国_NN 差异_NN 较_AD 大_VA 。_PU 韩国_NR 现代围棋_NN 从_P 1940_CD 年代起步_M ，_PU 1990_CD 年代_NN 中_LC 期到_VV 2000_CD 年代_VV 前_AS 半制霸国_NN 际赛场_NN 。_PU 中国_NR 古棋_NN 至清代前期_NN 达到_VV 一_CD 个_M 高峰_NN ；_PU 后经_NN 晚清_NN 的_DEC 衰落_NN ，_PU 直到_NN 现代逐_NN 渐复兴_NN ，_PU 目前_NN 为_VC 世界_NN 围棋最强_NN 国_NN 。_PU 围棋从_NN 19_CD 世纪_NN 晚期开_NN 始向东亚_NN 以_NN 外地_NN 区传_NN 播_VA ，_PU 至今棋迷_NN 已_AD 遍布_VV 全球_NN 。_PU 2016年_NT ，_PU 英国_NN DeepMind_NN 公司_NN 研发_VV 的_DEC 人_NN 工智_NN 能围_NN 棋程序_NN AlphaGo_NN 在_NN 分先比_NN 赛中_NN 战胜人_NN 类世界_NN 冠军_NN ，_PU 围棋迎_NN 来新纪元_VV 。_PU
+
+传说_NN 中尧_NN 看到_VV 儿子丹朱_NN 不_AD 够_AD 聪明_VV ，_PU 便_BA 发明围_NN 棋_NN ，_PU 并_NN 教_NN 他下围_NN 棋_NN 。_PU 晋代张华_NN 《_PU 博物志_NN 》_PU 中_NN ，_PU 有_NN “_PU 尧造围棋_NN ，_PU 以教子_NN 丹朱_NN ”_PU 与_NN “_PU 舜以子_NN 商_NN 均愚_VA ，_PU 故作_NN 围棋_NN 以_MSP 教之_VV ”_PU 的_DEC 记载_NN 。_PU 《_PU 史记_NN ·_PU 五_CD 帝_M 本纪_NN 》_PU ：“尧知子丹朱之不肖_PU ，_PU 不足授_NN 天下_VV ，_PU 于_NN 是_VC 乃_JJ 权授舜_NN 。_PU ”_PU 也有另_VV 一_CD 种_M 看法_NN ，_PU 认为_NR “_PU 夏人乌_NR 曹作赌_NN 博围棋_NN 。_PU ”（《潜确类书》_PU ）_PU
+
+围棋最早_NN 的_DEG 可靠记_NN 载见于_VV 春_CD 秋时期_NN 的_NN 《_PU 左传_NN ·_PU 襄公_NR 二十五_CD 年_NN 》_PU ：“……_PU 大叔_NN 文子闻_NN 之曰_NN ：_PU 呜呼_NN ……_PU 今宁子_NN 视君_NN 不_AD 如_AD 弈棋_VA ，_PU 其何_NN 以免乎_NN ？_PU 心不_NN 免矣_NN ！_NN ”_PU ，_PU 讲到_NN 宁喜拥立_NN 卫殇公_NN 后_NN 又_NN 打算_NN 废掉_VV ，_PU 正如_NN 围棋_NN 的得_VV 而复弃_NN 。_PU
+
+春秋时_NN ，_PU 孔子也_NN 提到_VV 了围棋_NN ：_PU “_PU 饱食终日_NN ，_PU 无所用_NR 心_ETC ，_PU 难矣哉_NN ！_PU 不_AD 有_VV 博弈者乎_NN ，_PU 为之_VV ，_PU 犹_BA 贤乎已_NN ！_NN ”_PU （_NN 《_PU 论语_NN ．_PU 阳货_NN 》_PU ）_PU
+
+《_PU 左传_NN 》_PU 和_NN 《_PU 孟子_NN 》_PU 也_AD 都_AD 有关于_VV “_PU 弈_NN ”_PU （_PU 即围棋_NN ）_PU 的_DEG 记载_NN 。_PU
+
+早期围_NN 棋_NN 的_DEC 棋盘规_NN 格_NN 多_AD 样_VA ，_PU 黑先还_NN 是_VC 白_JJ 先也_NN 没有_VV 一定_JJ 之规_NN （_PU 至清初_NN 才_NN 约定俗成_NN 为白先黑_NN 后_NN ）_PU ，_PU 像是西藏_NN 圍棋仍_NN 是白先_NN 黑後_VV 。_PU 势子_NN 的_DEC 摆放与_NN 现代围棋_NN 也_AD 有所不同_VV ，_PU 例如_AD 《_PU 玄玄碁經_NN 》_PU 中著名的_NN 「_PU 天地覆載_NN 圖_NN 」_PU 。_PU
+
+在_P 此期间_NN ，_PU 围棋_NN 常常与_NN 以掷_NN 色子_NN 为主_VV 的_DEC 六_OD 博_M 并称_NN 为_VC 博弈_NN ，_PU 成_VV 为上层_NN 社_NN 会_VV 中常见的_JJ 游戏_NN 。_PU 但_NN 是_VC ，_PU 在_P 西汉年_NN 间_LC ，_PU 以赌赛_NN 运气_NN 为主_VA 的_DEC “_PU 六_OD 博_NN ”_PU ，_PU 远远流_NN 行于比_NN 赛智力_NN 为主_VV 的_SP “_PU 弈_NN ”_PU 。_PU 直到东_NN 汉_NN ，_PU 这种_JJ 情况_NN 方才_NN 得到_VV 改善_NN ，_PU 围棋_NN 由于_VV 其_NN 与_P 军事的_NN 类_NN 似_LC ，_PU 受到_VV 了_AS 日益_NN 重视_NN 。_PU 班固的_VV 《_PU 弈旨_NN 》_PU 被认为_NN 是世界_NN 第一_NN 部围棋_NN 专业_NN 书籍_NN ，_PU 马融则_NN 在_VV 其_PN 《_PU 围棋赋_NN 》_PU 中首次_NN 提出_VV 了_SP “_PU 三_OD 尺_M 之局兮_NN ，_PU 为_VC 战斗场_NN ”_PU 的_DEC 思想_NN ，_PU 当时_NT 的_DEG 著名人物_NN ，_PU 如曹操_NN 、_PU 孙策_NN 、_PU 王粲等_NN ，_PU 都_NN 是围棋_NN 高_JJ 手_NN 。_PU
+
+中国_NR 目前_NN 现存最早_NN 的_DEC 棋谱是_NN 三_OD 国_NN 时_NN 的_LC “_PU 孙策_NN 诏吕_NN 范弈棋_NN 图_NN ”_PU 。_PU 但是_NN 根据_NN 在_VV 东汉墓_NR 葬出土_NN 的_DEC 棋具_NN 和_NN 曹魏邯_NN 郸淳_VV 的_SP 《_PU 艺经_NN 》_PU 记载_NN ，_PU 这_CD 个_M 时期_NN 的_DEC 棋盘是_NN 十七_CD 道的_M ，_PU 棋子_NN 也是方_NN 形_NN 。_PU 因_NN 此_NN ，_PU 有_NN 人据此_NN 提出_VV ，_PU 十_NT 九_CD 道_NN 的_SP “_PU 孙策诏_NN 吕_NN 范弈棋_NN 图_NN ”_PU 是后人_NN 假托_VV 。_PU 这_CD 个_M 时期_NN ，_PU 在_P 中国_NR ，_PU 对角星_NN 的_DEC 势子摆_NN 放已经_NN 固定_NN 。_PU
+
+在_P 这_CD 个_M 时期_NN ，_PU 围棋在南_NN 方成_NN 为文人_NN 雅士_VV 的_DEC 时尚_NN 活动_VV ，_PU 棋盘_NN 扩大_VV 到_P 十九_OD 道_M ，_PU 棋子仍_NN 为_VC 方形_NN 。_PU 南朝设_NN 棋品_NN 制度_NN 和围棋_NN 州_CD 邑制度_NN ，_PU 将_BA 专业_NN 围棋手_NN 分为_VV 不同_VA 的_DEC 级别_NN ，_PU 予以_VV 一定_JJ 的_DEG 待遇_NN 。_PU
+
+南朝宋_NN 的_DEC 褚胤_NN 七_OD 岁_NN 就_AD 达到_VV 高品_NN ，_PU 棋艺冠_NN 绝当_VV 时_LC ，_PU 被_NN 宋文帝誉_VV 为_CD 天下_NN 五_OD 绝_NN 之一_NN ，_PU 但_CC 在_P 宋_NN 孝_NN 武帝_NN 年间因_NN 父_NN 谋_NN 反受牵_NN 连伏诛_NN ，_PU 时_NN 人_NN 痛惜_NN 。_PU
+
+梁武帝_NN 亲做_NN 《_PU 围棋赋_NN 》_PU ，_PU 提倡围棋_NN ，_PU 使_VV 围棋_NN 进入_VV 了_AS 一_CD 个_M 黄金时_NN 期_NN 。_PU
+
+傳入朝_NN 鮮半島_NN 。_PU
+
+梁武帝_NN 甚_AD 至_VV 举办过_NN 一_OD 次_NN 全国性_NN 的_DEC 围棋大_NN 赛_NN 。_PU 这也_NN 是_VC 有据_P 可_VV 查的_VV 最早的一次_JJ 全国性_NN 比赛_NN 。_PU 参赛人_NN 数众多_NN 。_PU 在_P 比赛_NN 结束_VV 后_LC ，_PU 被评上品_NN 级_VA ，_PU 也就_NN 是_VC 入段的_NR 棋手_NN 就有_VV 278_CD 人_NN 。_PU
+
+圍棋最_NN 遲_VV 在_P 唐朝初_NN 期_AD 傳到_VV 了_AS 西藏_NN ，_PU 相傳松贊_VV 干布_VV 的_DEC 大臣瓊_NN 波_NN ·_PU 邦色是_NN 一_OD 位_NN 圍棋高_NN 手_NN 。_PU 後來_NN 圍棋由_NN 藏族人_NN 改為_VV 西藏_NN 圍棋_NN 。_PU
+
+中国到_NR 了唐朝时_NN ，_PU 围棋_NN 迅速发展_NN 。_PU 宫中_NN 设立_VV 了_AS 棋待诏_NN 一_AD 职_VA ，_PU 专门供_NN 养棋_NN 士陪_NN 皇帝下棋_NN 。_PU 王积薪_NN 是开_NN 元盛_NN 世得_VV 第一_OD 国手_NN ，_PU 他总_NN 结出_VV 的_DEC 围棋_NN 十_OD 诀_NN ：_PU “_PU 不得_JJ 贪胜_NN ，_PU 入_NN 界宜缓_NN ，_PU 攻彼顾我_NN ，_PU 弃子_NN 争先_NN ，_PU 舍小就_NN 大_VA ，_PU 逢危须弃_NN ，_PU 慎勿轻速_NN ，_PU 动_CD 须相_NN 应_NN ，_PU 彼强_NN 自保_NN ，_PU 势孤取_NN 和_NN ”_PU ，_PU 被认为_NN 是围棋_NN 的_DEC 经典理论_NN 。_PU 传说中_NN ，_PU “_PU 王积_NN 薪梦_NN 青龙_NN 吐棋经_NN 九部授己_NN ，_PU 其艺_NN 顿时精_NN 进_NN ”_PU 。_PU 唐朝天宝_NN 年间_NN ，_PU 为躲避_NN “_PU 安史_NN 之乱_NN ”_PU ，_PU 王积薪_NN 来到_VV 四_CD 川_M ，_PU 遇到_NN 骊山老媪_NN 的_DEC 婆媳_NN 对弈_NN （_PU 传说_NN ）_PU 。_PU 宋朝的_NN 《_PU 忘忧_NN 清乐集_NN 》_PU 记载了_NN 王积薪_NN 的_NN “_PU 一_CD 子解_NN 双征_NN ”_PU 棋谱_NN （_PU 有_CD 争议_NN ，_PU 一_CD 说_NN 是_VC 顾师言对_NN 日本_NN 王子局_NN ）_PU 。_PU
+
+围棋在_NR 唐朝_NN 传入_VV 了_AS 日本_NN 。_PU 当时在_NN 长_AD 安有_VV 很多_CD 公费_NN 和_NN 自费的_NN 日本_NR 留学生_NN 。_PU 他们_PN 在_P 中国学_NR 习各种_NN 先进_VV 的_DEC 知识_NN ，_PU 其中_NN 也_AD 包括_VV 棋艺_NN 。_PU 《_PU 美国_NR 百科_NN 全书_NN 》_PU 1977_CD 年版_NN 《_PU 围棋_NN 在_VV 世界_NN 的_DEC 流传_NN 》_PU 条目中_NN 确认_VV 的_DEC 时间_NN 条_NN 目说_NN ，_PU 公元_NN 735_CD 年前_VV 后_LC ，_PU 中国_NR 唐代围棋_NN 传入_NN 日本_NN 的_DEG 时间_NN 。_PU 而_MSP 在_VV 唐朝_NN 以前_NT 的_DEG 魏晋时_NN 期_VA ，_PU 围棋已经_NN 传入朝_NN 鲜半岛_NN 。_PU 1200_CD 多年中_NN 日_NN 韩围棋_NN 三_OD 国_NN 演义_NN 的_DEC 萌芽_NN 自此_NN 形成_VV 。_PU
+
+开元_NN 25_CD 年_M ，_PU 即公元_NN 738_CD 年_LC ，_PU 棋手杨季_NN 鹰随同_NN 特使_NN 出使新罗_NN ，_PU 也就_NN 是现_VV 在_VV 的朝鲜_NR ，_PU 结果杨_NR 季鹰棋_NN 高_JJ 一_CD 招_NN ，_PU 新_NN 罗棋手_NN 无_VE 人_NN 能敌_VV 。_PU 100多年_NT 以后_LC ，_PU 第一_OD 次较_NN 为_VC 正式的_NN 中日围棋_NN “_PU 对_NN 抗赛_NN ”_PU 在_P 长安_NN 进行_VV 。_PU 对弈双_NN 方是顾_NN 师_NN 言和_NN 日本_NN 王子_NN “_PU 高岳_NN 亲王_NN ”_PU 。_PU 顾师_NN 言就_NN 是_VC 在_P 这局_NN 棋中_NN 下出_VV 了_AS 被称为神来_NN 之笔_VV 的_SP “_PU 三十三_CD 招镇神头_NN ”_PU ，_PU 一_OD 举_NN 锁定_VV 了_AS 胜局_NN 。_PU
+
+宋代_NN 张拟_NN 模仿_NN 《_PU 孙子_NN 兵法_NN 》_PU 撰_CD 写了_NN 《_PU 棋经十三篇》_NR ，_PU 对后世_NR 的_DEC 围棋理_NN 论及_NN 实践有_NN 深远_JJ 影响_NN 。_PU 北宋_NR 时期_NN 的_DEC 刘仲甫_NN 对围棋_NN 著述_JJ 甚多_NN ，_PU 有_NN 《_PU 忘忧_NN 清乐集_NN 》_NN 、_PU 《_PU 棋势_NN 》_PU 、_PU 《_PU 造微_NN 》_PU 、_PU 《_PU 精理_NN 》_PU 、_PU 《_PU 棋诀_NN 》_PU 等_NN 。_PU 北_NN 宋时期_NN 的_DEG 范仲淹_NN 、_PU 欧阳修_NN 、_PU 司马光_NN 、_PU 王安石_NN 、_PU 苏东坡_NN 、_PU 黄庭坚_NN 等文人_NN 、_PU 忠臣_NN ，_PU 也_AD 都有_VV 很_AD 高_VA 的_DEC 围棋造诣_NN 。_PU
+
+元朝_NN 的_DEC 严德甫_NN 、_PU 晏天章_NN 编写_VV 了_SP 《_PU 玄玄棋经_NN 》_PU ，_PU 收录_VV 了_AS 前人_NN 大量_CD 的_DEG 理论著_NN 述以及_NN 大量_CD 围棋死_NN 活题_NN 、_PU 定式_NN 。_PU
+
+明末著名_NN 国手过_NN 百_OD 龄_NN 写下_NN 著名_VV 的_SP 《_PU 官子谱_NN 》_PU ，_PU 收录_VV 了_AS 各种_JJ 围棋手筋_NN 。_PU 不过_VV ，_PU 民间_NN 用棋_NN 赌博_VV 的_DEC 风气_NN 一度很兴盛_NN ，_PU 明太_NN 祖朱_NN 元璋甚_NN 至_VV 颁布_NN 过禁棋令_NN 。_PU
+
+清初盛世_NN ，_PU 围棋高_NN 手也_NN 层出不穷_VV 。_PU 康熙_NN 年间_NN ，_PU 棋聖_NN 黄龙_NN 士獨_NN 步天下_NN ，_PU 让學生_NN 徐星友_NN 三子_NN 大战_NN 十_OD 局_NN ，_PU 写下著名_NN 的_NN 《_PU 血泪篇_NN 》_PU ，_PU 為讓子棋_NN 的_DEC 名譜_NN 。_PU 乾隆四年_NR （_PU 1739年_NT ）_PU ，_PU 施定_NN 庵与_NN 范西屏雙_NN 雄爭霸_NN ，_PU 在_P 浙江_NN 平湖_NN 傳下_VV 了_AS 著名_NN 的_DEC 当湖_NN 十_OD 局_NN ，_PU 棋局_NN 驚心動魄_NN ，_PU 招法妙絕_NN 古今_VV ，_PU 為中國古_NN 棋_NN 巔峰_VV 之作_NN 。_PU
+
+明清_NN 时期_NN 的_DEC 众多棋_NN 手除_VV 了下_JJ 指导棋_NN 、_PU 传授_NN 弟子_NN 外_LC ，_PU 收入主_NN 要_VV 依_P 靠_NN 观棋者_NN （_PU 大_CD 部分_NN 是_VC 显宦_VV 、_PU 富商_NN 和上_NN 层文人_NN ）_PU 的_SP “_PU 帮彩_NN ”_PU 和_NN “_PU 赌彩_NN ”_PU 。_PU 这显然_NN 是_VC 一_CD 种_M 靠天吃饭_NN 的_DEG 收入_NN 模式_NN 。_PU 如果是_NN 处于_VV 太平盛世_NN ，_PU 达官显贵_NN 们有_VV 很_AD 多_VA 的_DEC 闲情冶志_NN ，_PU 民间_NN 的_DEC 围棋_NN 活动就_NN 会_VV 多_CD 一_CD 些_NN ，_PU 棋_NN 手_NN 的_DEC 生活_NN 也_AD 会_VV 十_CD 分_NN 稳定_VA 。_PU “_PU 诸子_NN 争雄竞_NN 霸_NN ，_PU 累局不_NN 啻_NN 千_OD 盘_NN ”_PU ，_PU “_PU 海内国_NN 手_NN 几_NN 十数辈_NN ，_PU 往来江淮_NR 之间_NN ”_PU ，_PU 王燮在_NN 《_PU 弈墨_NN ·_PU 序_NN 》_PU 就是这样_NN 描述_VV 的_DEC 清初_NN 棋坛_VV 的_DEC 盛况_NN 。_PU 而_DT 一_CD 旦民_NN 生凋敝_NN ，_PU 棋手_NN 生活_NN 拮据_NN 。_PU 围_NN 棋水平_NN 自然也_NN 就_AD 每_AD 况_CD 愈下_NN ，_PU 后继乏人_NN 。_PU
+
+从乾隆_NR 后期_NN 开始_NN 中_LC 國圍_VV 棋水平_NN 急速_NN 下降_VV ，_PU 晚清最後_NN 一位_JJ 大國手_NN 周小_NN 松評_NN 價當湖_NN 十_OD 局_NN ：_PU 用意精深_NN ，_PU 不便隨意評解_NN ，_PU 自欺欺人_NN 。_PU 之後_NN 的_DEC 國手如_NN 汪云峰等_NN ，_PU 据估_NN 计更_NN 要_NN 被_SB 授_VV 二_CD 子才能_NN 與周_VV 小_JJ 松抗衡_NN 。_PU 清末民_NN 初_NN ，_PU 日本_NR 棋手多_NR 次訪華_NN 交流_NN ，_PU 高部_NN 当时段_NN 位_P 仅_NN 四_OD 段_NN （_PU 1912_CD 年升_NN 五_OD 段_NN ）_PU ，_PU 却可以讓_JJ 中國_NN 一_CD 流國手_NN 兩子_NN 。_PU
+
+清末到_NN 北洋政_NN 府时期_NN ，_PU 段祺_NN 瑞府_NN 上聚拢了_NN 一_CD 批_NN 当时中_NN 国_NN 最_AD 强_VA 的_DEC 棋手_NN ，_PU 包括_VV 汪云峰_NN 、_PU 顾水如_NN 、_PU 刘棣怀_NN 、_PU 过旭初_NN 等_ETC 人_NN 。_PU 其中_NN 顾水如_NN 曾到_NN 日_NN 本学_NN 棋数_NN 年_NN 并_AD 被_SB 授予_VV 四_CD 段_M 段位_NN 。_PU 1914_CD 年_LC ，_PU 吴清源_NN 出生_VV 。_PU 1926年_NT ，_PU 吴清源_NN 执白胜刘_NN 棣_AD 怀_VA ，_PU 成_VV 为_VC 中国_NR 实际上_NN 的_DEC 第一_OD 人_M 。_PU 1928_CD 年_LC ，_PU 吴清源赴_NN 日_NN 。_PU
+
+按日本_NN 传统_NN 说法_NN ，_PU 围棋系_NN 由遣唐_NN 使_VV 吉备_NN 真备带回_NN 。_PU
+
+日本战_NN 国时代_NN 的_DEC 日海和_NN 尚成_VV 为_VC 当时统_NN 治性_JJ 的_NN 高_NN 手_LC ，_PU 受到_VV 织田_NN 信长_NN 的_DEC 推崇_NN 和赞助_NN ，_PU 以后又_NR 继续_NN 得到_VV 丰臣秀吉_NN 、_PU 德川家康_NN 的_DEG 重视_NN 。_PU 日海后_NR 来成_VV 为寂光寺_NN 的_DEC 住持_NN ，_PU 居于_VV 本因坊_NN ，_PU 而_MSP 改名_VV 本因坊_NN 算_AD 砂_VA 。_PU 算砂_NN 为_VC 本因_NN 坊家_VV 的_DEC 创始人_NN ，_PU 而他的_VV 几_CD 个_M 弟子又_NN 自_JJ 立_NN 门户_NN 建立_VV 了_AS 安井家_NN 、_PU 井上家_NN ，_PU 加上_VV 林利_NN 玄创始_NN 的_DEC 林家_NN ，_PU 合称江_NR 户围_NN 棋_NN 四_OD 大_NN 家_OD 。_PU 四_OD 大_NN 家皆_NN 实行_NN 指定_NN 继承人_NN 的_DEG 世袭_NN 制度_NN 。_PU
+
+明治维新_NN 取消_VV 了_NN 四_OD 大_NN 家_OD 的_DEG 俸米_NN ，_PU 职业棋手_NN 不_AD 得不自谋_VV 出路_NN ，_PU 人数_NN 大_NN 为_VC 萎缩_NN 。_PU 1879年_NT ，_PU 村濑秀甫_NN 、_PU 中川龟_NN 三_OD 郎_NN 、_PU 小林铁_NN 次郎_VV 等人_JJ 组建_NN 方圆社_NN ，_PU 这是_VV 一_CD 个_M 近代化_NN 的_DEC 围棋_NN 组织_VV 。_PU 1923年_NT 9月_NT 发生_NN 关东_NN 大地震_NN ，_PU 1924_CD 年日_NN 本棋院_NN 在_AD 整合_VV 了_AS 原本因_NN 坊家_VV 、_PU 方圆社_NN 的_DEG 势力_NN 的_DEC 基础_NN 上成立_VV 。_PU
+
+目前_NN 职业棋_NN 手以_VV 日本_NR 、_PU 韩国_NR 、_PU 中国_NR 大陆_CD 及台_NN 湾為主_NN ，_PU 但近_NN 期歐美_NN 國家也_NN 在_VV 迅速_JJ 发展_NN 。_PU 业余围_NN 棋_AD 则有上_VV 百_CD 个_M 国家参与_NN 。_PU
+
+现代围_NN 棋以_VV 吴清源_NN 和_P 木谷实發_NN 起_AD 新布局为_VV 前_NN 奏_NN ，_PU 以_NN 本因_NN 坊_NN 秀_NN 哉名人_NN 于_P 1938_CD 年引退_NN 为起点_NN 。_PU
+
+吴清源_NN 时代始于_VV 1939_CD 年鐮倉_NN 十_OD 番_NN 棋战_NN 胜木谷实_NN 。_PU 生涯共_NN 十_OD 次_CC 十_OD 番棋_VV ，_PU 把日_NN 本當_NN 時其他七位_VV 一流_JJ 棋手_NN 全部打_NN 降級_VV ，_PU 號稱_NN 「_PU 十_CD 番棋_NN 之王_NN 」_PU ，_PU 日本人_NN 尊其為_VV 「_PU 昭和_NN 棋聖_NN 」_PU 。_PU
+
+坂田_NN 榮男_NN 1961_CD 年和_NN 吳清源_NN 並列第_NN 三_OD 屆_NN 日本最_NN 強決定戰_NN 冠軍_VV ，_PU 1961年_NT 和1964年_NT 兩次七_JJ 冠王_NN ，_PU 為其_NN 全盛期_NN 。_PU 1965_CD 年和_NN 1968_CD 年被吳_NN 清源_NN 弟子_NN 林海_NN 峰先_VV 后_JJ 夺去名人_NN 和_CC 本因坊_NN 頭_AD 銜_VA 。_PU
+
+超一_JJ 流棋手_NN 時代始於_VV 1965_CD 年林_NN 海峰奪_NN 得名_VV 人_NN ，_PU 止於趙治_NN 勳_P 2003_CD 年奪得_NN 三_OD 星_NN 杯世界_NN 冠軍_NN 。_PU 吴清源_NN 门下_VV 的_DEC 林海峰_NN 及_CC 木谷_NN 实门下_NN 的_DEC 大竹英_NN 雄_NN 、_PU 石田芳夫_NN 、_PU 加藤_NN 正夫_NN 、_PU 武宫正树_NN 、_PU 赵治勋_NN 、_PU 小林光_NN 一_OD 瓜_NN 分_VV 了_AS 日本這一_NR 時_NN 期_VV 的_DEC 大多_CD 数頭_NN 銜_NN 战_NN 冠军_NN 。_PU 不过_VV ，_PU 此_PN 阶段_NN 的_DEC 日本围_NN 棋_NN ，_PU 前期_NN 有_NN 大豪如_NN 坂田榮男_NN 、_PU 藤澤_NN 秀行_NN 等宝_NN 刀不老_NN ，_PU 后期_NN 亦有_VV 依田紀_NN 基_NN 、_PU 柳時熏_NN 、_PU 王立誠_NN 、_PU 小林覺_NN 等_ETC 后起_NN 之秀羽翼_NN 渐丰_VV 。_PU 此阶段_NN 也_AD 是_VC 世界_NN 比赛创_NN 办_NN 、_PU 围棋真_NN 正迎来国_NN 际化_VV 的_DEC 时代_NN （_PU 见后_NR 文_ETC ）_PU 。_PU
+
+韩国_NR 自古围_NN 棋_AD 盛行_VV ，_PU 但都是_NN “_PU 巡将_NN ”_PU 围棋_VV ，_PU 其规_NN 则与_NN 中日_NN 两_CD 国差_NN 异较_NN 大_VA 。_PU 李朝_NN 结束_VV 后_LC ，_PU 日式_NR 围棋_NN 开始_NN 引入_VV 朝鲜_NN ，_PU 并很快_NR 变得_NN 与巡_NN 将围棋_NN 同样_JJ 流行_NN 。_PU 韩_CS 国职_NN 业围_NN 棋_NN 的_DEG 开创者_NN 为_VC 赵南哲_NN （_PU 1923－2006_CD ）_PU 。_PU 赵是木_NN 谷_NN 实门下_NN ，_PU 1941_CD 年入段_NN ，_PU 1943_CD 年回国_NN 。_PU 为_VC 了推广_NN 日式围_NN 棋_VA ，_PU 赵南哲_NN 曾把_NN 棋具_NN 放_VV 在_P 小车里_NN ，_PU 推着_NN 车走街_NN 串巷_VV 挨家_NN 挨户_NN 去免费教人_NN 下棋_VV 。_PU 1945年_NT ，_PU 赵南哲创_NN 立汉_JJ 城棋院_NN ，_PU 并_AD 曾先_VV 后_CD 改名_NN 为朝鲜棋_NN 院_NN 、_PU 大_NN 韓棋院_NN 。_PU 之_CD 后旋即_NN 毁于_VV 朝鲜_NN 战争_NN 。_PU
+
+1954_CD 年韩_NN 国棋院_NN 成立_VV 。_PU 职业头_NN 衔_NN 战_NN 开始_NN 举办_VV 。_PU 赵南哲_NN 自然是_NN 长期_NN 居于_VV 统治_NN 地位_VV ，_PU 直到金_NN 寅于_VV 1963_CD 年从_NN 日本归_NN 国_NN 。_PU 之后便_NN 是金寅_NN 时代_NN 。_PU 1972_CD 年曹_NN 薰铉归国_NN ，_PU 韩_BA 国又_NN 进入_VV 曹薰铉_NN 时代_VV ，_PU 一直到_VV 世界_NN 锦标_NN 赛创设_NN 、_PU 李昌镐_NN 崛起_NN 。_PU
+
+1949年_NT 中华_NN 人民_NN 共和_NN 国建立后_NN ，_PU 中国_NR 专业围_NN 棋水平_NN 相_NN 当低_NN 。_PU 从_NN 1960_CD 年_CD 开始_NN ，_PU 每年举_NN 办中_NN 日围棋_NN 友谊赛_NN 。_PU 其中_NN ，_PU 1961_CD 年第_NN 二_NN 届_NN 来华_NN 访问_NN 的_DEC 日本围_NN 棋代_NN 表团_NN 中_LC 的_DEG 55_CD 岁伊藤_NN 友_P 惠_NN 五_OD 段_NN （_PU 女性_JJ ）_PU 横扫中_NN 国当_NN 时顶_NN 尖棋手_NN ，_PU 八轮_NN 全胜_NN 。_PU 1964年_NT 改称_NN 中日围_NN 棋_NN 对_NN 抗赛_NN ，_PU 一_CD 直举办_NN 到_P 1991_CD 年_NN 。_PU
+
+1962_CD 年全_NN 国个人_NN 赛后_VV 根据_NN 成绩_NN 授予_VV 43_CD 人以_NN 专业_NN 段位_NN ，_PU 最高_JJ 五段_NN ，_PU 这是_NN 中国_NR 首次_NN 实行段_NN 位制_VV 。_PU 不久之_NN 后围棋_NN 段位_NN 制随_VV 着_AS 各种_NN 等级制_NN 一起_AD 被_SB 撤销_VV 。_PU 1982年_NT ，_PU 中国_NR 恢复_NN 实行段_NN 位制_VV 。_PU
+
+中日圍_NN 棋擂台赛_NN 时代_VV :_PU 1985_CD 年至_NN 1988_CD 年_LC ，_PU 中國主將_NN 聶衛平_NN 擂台賽_NN 11_CD 連勝_NN ，_PU 中國前_NR 三屆三連勝_NN ，_PU 中國掀起_NN 圍棋熱_NN ，_PU 並催_NN 生世界_NN 大賽應_NN 氏杯_NN 和富士_NN 通杯_VV 的_DEC 創辦_NN 。_PU
+
+1989年_NT 「_PU 圍棋皇帝_NN 」_PU 曹薰鉉_NN 3_OD -_PU 2_OD 擊_M 敗聶衛_NN 平_NN ，_PU 奪得_VV 首屆應氏_NN 杯世界_NN 冠軍_NN ，_PU 開啟_VV 了_AS 韓國流_NN 時代_NN 。_PU
+李昌镐_NN 时代_NN ：_PU 1992_CD 年曹_NN 薰鉉_NN 弟子_NN 李昌_NN 鎬以_NN 16_CD 歲奪_NN 得东_NN 洋证_VV 券杯_NN 世界_NN 冠軍_NN ，_PU 並_AD 在_P 1996_CD -_PU 2005十_CD 年_CD 之間_NN ，_PU 獨孤求敗_NN ，_PU 建立_VV 「_PU 李昌鎬王_NN 朝_NN 」_PU 。_PU
+韓流_NN 時代_NN ，_PU 始於_NN 1989_CD 年曹_NN 薰鉉_NN 奪得_VV 應氏_NN 杯冠軍_NN ，_PU 止於_NN 2012_CD 年李_NN 世石_NN 奪得_VV 三_OD 星_M 杯冠軍_NN 。_PU
+
+李世石_NN 全盛期_NN ：_PU 始於_NN 2002_CD 年奪_NN 得富士通_NN 杯_NN 世界_NN 冠軍_NN ，_PU 止於_NN 2012_CD 年奪得_NN 三_OD 星_NN 杯世界_NN 冠軍_NN 。_PU
+古力_NN 全盛期_NN ：_PU 始於_NN 2006_CD 年奪得_NN LG_NN 杯世界_NN 冠軍_NN ，_PU 止於_NN 2015_CD 年奪_NN 得春蘭_NN 杯世界_NN 冠軍_NN 。_PU 李古雙雄_NN ，_PU 年齡_NN 相同_VA ，_PU 戰蹟_NN 相當_VV ，_PU 號稱_NN 「_PU 一_CD 代雙驕_NN 」_CD 。_PU 2012_CD 年_PU 三_CD 星_M 杯決賽_NN ，_PU 李世石以_NN 兩_OD 個_NN 半目_NN ，_PU 總_CS 比_NN 分_NN 2_CD -_PU 1_CD 戰_M 勝古力奪_NN 冠_NN ，_PU 為_NN 兩_OD 人_NN 生涯巔峰_NN 之作_VV 。_PU 2014年_NT 古力李_NN 世_OD 石_NN 十_OD 番_NN 棋_LC ，_PU 李世石_NN 以總比_NN 分_NN 6_CD -_PU 2_CD 取勝_M ，_PU 但當時_NN 兩_OD 人_NN 都_AD 已_AD 不_AD 在_VV 巔峰_NN 。_PU
+
+2013年_NT ，_PU 中國連奪_NN 六_OD 個_NN 世界_NN 大賽_NN 冠軍_VV ，_PU 至_VV 2014_CD 年初_NN ，_PU 中國在_NN 連續_NN 七_OD 個_NN 世界_NN 大賽奪_NN 冠_NN ，_PU 而且_NN 七_CD 個冠軍分屬_VV 七_OD 位_M 年輕棋手_NN （_PU 只有陳耀_VV 燁_CD 是_VC 1989_CD 年出生_M ，_PU 其餘都_NN 是_VC 90_CD 後_NN ）_PU ，_PU 中國誕_NN 生_NN 七_OD 位_M 年輕_NN 「_PU 一_CD 冠群_NN 」_PU ，_PU 特別_NN 是_VC 陳_BA 耀燁和_NN 唐韋星_NN 在_P 決賽擊敗_NN 李世石_NN ，_PU 象徵新_NN 時代_VV 到_VV 來_NN 。_PU
+
+
+围棋于_VV 19_CD 世纪_NN 晚期_NN 开始_VV 成_VV 规模_NN 的_DEC 传入欧洲_NN 。_PU 在_P 此进程_NN 中_LC 的_DEG 第一_OD 大站_NN 是_VC 德国_VV 。_PU
+
+日本_NR 为围_NN 棋_NN 在_P 全世界_NN 的_DEC 推广_NN 用力最_NN 早_NN 、_PU 最_AD 多_VA ，_PU 以致西文_NN 中_LC 的_DEG 围棋术_NN 语_VV 多_CD 来_M 自日_NN 语_LC 。_PU 1980_CD 年代_VV 以_MSP 降_VV ，_PU 中国_NR 、_PU 韩国_NR 也大力_NN 参与_VV 推广_NN 围棋_NN 。_PU
+
+1996年_NT ，_PU 美國_NN 宇航员_NN （_PU DanielT_NN ._PU Barry_NN ）_PU 博士與_NN 日_NN 本宇_NN 航员_NN 若田光_NN 一_CD 博士_VV 在_VV 太空梭_NN 奮_NN 進號_NN 上_NN 進_NN 行首次_NN 太空_NN 圍棋對弈_NN ，_PU 他們_NN 使用_NN 一_NN 套_NN 特別_NN 設計_VV 的_DEC 太空圍_NN 棋_NN 棋具_NN ，_PU 由_P Wai_NN -_PU CheungWillsonChow_NR 所造_NN 。_PU 兩位對_NN 弈宇_NN 航员因_NN 此得_VV 到_P 日本棋_NR 院授予_NN 的_DEC 榮譽_NN 段位_NN 。_PU
+
+圍棋運動_NN 现已遍佈_NN 世界_NN 各地_NN ，_PU 唯日本_NR 、_PU 韓國_NN 、_PU 中國大_NN 陸和台_NN 灣最_NN 為興盛_NN ；_PU 西方國_NN 家已漸熱_NN ；_PU 東南亞正_NN 在_P 發展中_NN 。_PU
+
+泰國因_NN 「_PU 泰國圍棋_NN 之父_NN 」_PU 蔡绪锋_NN 的_DEC 大力推_NN 廣_NN ，_PU 使_VV 泰國自_NN 1993_CD 年成_VV 立協會開_NN 始至今_NN ，_PU 學棋_NN 人口_NN 達超過_NN 百萬_CD 人眾_NN 。_PU
+
+新加坡_JJ 圍棋協_NN 會在_JJ 新加坡_NN 設立_VV 了_AS 兩_OD 個_M 棋所_NN ，_PU 提供_VV 圍棋教學_NN 的_DEC 服務_NN ，_PU 當中_NN 更有_VV 一_CD 些_NN 從中_NN 國_AD 大_VA 陸_SP 、_PU 台灣_NN 特聘_NN 而來_VV 的_DEC 職業棋士_NN 。_PU
+
+馬來西_NN 亞圍棋_NN 在_P 發展_NN 之中_NN ，_PU 在_P 西馬_NN 吉隆_NN 坡有_VV 一_CD 圍_M 棋協會_NN ，_PU 常參與新_NN 馬_NN 泰_NN 圍棋_NN 交誼賽_NN 。_PU 除了_NN 吉隆坡_NN 外_LC ，_PU 西马_NN 霹雳_NN 州怡保在_NN 2011_CD 年也_M 成立_VV 了_DT 一_CD 间怡_NN 保围_NN 棋棋院_NN ,_PU 目前_NN 极力_NN 推广_NN 着围棋_NN 教育_NN 。_PU 推广_NN 期间_NN ，_PU 怡_NN 保围_NN 棋棋院_NN 在_P 霹雳州_NN 各地_NN 举办_VV 了_AS 各_DT 个_M 赛事_NN 及围棋_NN 推广_NN 讲座_NN ，_PU 其中_NN 怡保围_NN 棋棋院_NN 与马来西_NN 亚围棋协_NN 会_VV 在_P 2015_CD 年_AD 举办_VV 了_AS 一_CD 个_M 马来西_NN 亚有_VV 史以_NN 来最_NN 大型_VA 的_DEC 围棋_NN 比赛_NN -_PU -_PU 第一_OD 届亚_NN 洲围_NN 棋锦_NN 标赛_NN -_PU 富达杯_NN 。_PU 在_P 東馬有_NR 妙手圍_NN 棋_VV 在_P 各地_NN 推廣_NN 兒童_NN 圍棋_NN 教育_NN 。_PU
+
+汶萊_NN 圍棋仍_NN 有待發展_VV ，_PU 目前还_NN 没有建立_VV 圍_CD 棋協_NN 會_NN ，_PU 有_VE 一_CD 群熱愛圍_NN 棋分子_NN ，_PU 學棋者_NN 多_CD 數是大_NN 学_NN 生及少_NN 年_LC ，_PU 兒童圍棋_NN 市_NN 場仍小_NN 。_PU
+
+印尼有_NR 許多人開_NN 始愛_NN 上_NN 圍_AD 棋_VA ，_PU 然而_NN 目前_NT 苦無_NN 英文圍_NN 棋教材_NN 的_DEC 翻译不_NN 便_NN ，_PU 使_VV 之圍棋_NN 教育暫_NN 時_OD 滯止難前_VV ，_PU 目前已_NN 有_AD 改善_VV ，_PU 學棋_NN 人口_NN 漸漸_NN 增加_VV 。_PU
+
+
+
+

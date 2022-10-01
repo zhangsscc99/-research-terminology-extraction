@@ -1,0 +1,9 @@
+﻿_NN 五_OD 子_M 连珠_NN (_PU 电子_NN 游戏_NN )_PU
+
+是1983年_NT 在日本_NR 红白机_NN 发行_VV 的_DEC 五子_NN 连珠游_NN 戏_NN ，_PU 后来_VV 在_VV VirtualConsole_NR 平台再_NN 版_NN 。_PU 游戏还_NN 收录于_VV 2001_CD 年_PU GameCube_NN 游戏_NN 《_PU 动物_NN 之森+_NN 》_PU 中_NN 。_PU
+
+如同_JJ 五子_NN 连珠_NN 的_DEC 玩法_NN ，_PU 游_BA 戏黑_NN 白双_NN 方交替_NN 在_P 棋盘_NN 交叉点_NN 上_VV 落子_NN ，_PU 先_AD 连成_VV 5子的_NN 一_CD 方取得_NN 当局_NN 胜利_VV ，_PU 每场游_NN 戏有_VV 6_CD 局_M 。_PU 游戏_NN 的_DEC 珠型由_NN 电脑_NN 随机指_NN 定_NN ，_PU 即_AD 前_P 3_CD 手_M 由电脑_NN 自动_NN 布置_VV ，_PU 白_BA 方直接_NN 行_NN 走第_NN 4_OD 手_NN 。_PU 游戏_NN 有黑方_NN 三三_CD 等禁手_NN 规则_VV 。_PU
+
+游戏有_NR 单人对_NN 局和双人_NN 对_NN 局_AD 两_CD 种_M 模式_NN 。_PU 单人对局_NN 电脑又_NN 分初级_VV 、_PU 中级和_NN 上_VV 级_NN 三_OD 种_M 模式_NN ，_PU 初级有四三棋型_JJ 闪烁_NN 提示等_NN 功能_NN ，_PU 中级取_NR 消了_NN 提示_NN 功能_NN ，_PU 上级更有_VV 行棋_JJ 时间_NN 限制_NN 。_PU
+
+

@@ -1,0 +1,38 @@
+﻿死活_NN
+
+死活是圍_NN 棋_NN 術語_VV ，_PU 即_AD 一_CD 塊圍棋_NN 棋形_JJ 是死是_NN 活_NN 的_DEG 問題_NN ，_PU 也_AD 是_VC 圍棋_NN 中最_NN 重要_VA 的_DEC 基本_NN 概念_NN 。_PU 在_P 棋局_NN 開始以_NN 後_NN ，_PU 雙方_NN 棋子不_NN 可_VV 能_VV 馬上做活_VV 。_PU 所_MSP 以_VV 死活問題_NN 從序盤_NN 開始_NN ，_PU 就_DT 一_CD 路貫串_NN 到_P 終盤為止_NN 。_PU 在_P 這個_NN 過程_NN 中_LC ，_PU 黑白雙_NN 方必須_NN 要_VV 掌_NN 握時機_NN ，_PU 率先_NN 殺對方_NN 的_DEC 棋子_NN ，_PU 或_CC 為我方_NN 的_DEC 棋子做_NN 活_NN 。_PU
+
+死活_NN 的_DEC 難易度_NN 從_AD 最_AD 簡單_VV 到_VV 非常複_NN 雜_NN 的_DEG 都_AD 有_CD 。_PU 簡單_VV 的_DEC 棋形_NN ，_PU 只需_VV 一_CD 子就可_NN 看出_VV 棋形_NN 是死是活_NN ；_PU 複雜的_NN ，_PU 往往要_NN 幾_NN 十_OD 手_M 才看得_NN 清楚_NN 。_PU 終局以_NN 後_NN ，_PU 勝負就_NN 以_MSP 棋形_VV 的_DEC 死活作_NN 為計_VA 地_DEV 的基礎_VV 。_PU
+
+圍棋大師_NN 吳_NN 清源曾_NN 經_NN 過說_VV ：_PU 「_PU 死活就_NN 是_VC 填塞_NN 」_PU 。_PU
+
+一塊_CS 被_SB 包圍_VV 棋子_NN 要做活_NN ：_PU
+
+包圍_VV 對方_NN 的_DEC 棋子_NN 要殺棋_NN ：_PU
+
+當_OD 一_OD 塊_M 棋需要_NN 靠打_VV 劫_CD 來做活_NN 時_NN ，_PU 稱為_NN 「_PU 劫活_NN 」_PU ；_PU 如果已經_NN 做出_VV 兩_CD 個_NN 真眼_NN ，_PU 或是_CC 一定可以做出兩個_JJ 真眼_NN ，_PU 則稱為_NN 「_PU 淨活_NN 」_PU 。_PU
+當_NN 一_OD 個_NN 大眼_VV 的_DEC 形狀_NN 可以_VV 後手活棋_VV ，_PU 這個形狀_NN 則_NN 稱為_NN 「_PU 活形_NN 」_PU ；_PU 對方先_NN 手_AD 會死_VV ，_PU 己方先_NN 手會_VV 活棋_NN ，_PU 則稱為_NN 「_PU 急形_VV 」_PU ；_PU 既使_NN 先手還_NN 是_VC 會死的_NR 大眼_NN ，_PU 稱為_NN 「_PU 死形_NN 」_NN 。_PU
+兩_CD 塊_NN 相鄰_VV 、_PU 互相_NN 分斷_VV ，_PU 且沒有淨_VV 活的_JJ 棋子_NN ，_PU 通常_NN 可以_VV 透過_VV 吃掉對_NN 方來_NN 活棋_NN ，_PU 當出現_NR 這種_NN 棋子時_NN ，_PU 雙方都_NN 會互_VV 相_NN 「_PU 緊_NN 氣_VA 」_PU 試圖殺_NN 掉對方_NN ，_PU 這_AD 種_P 情形就_NN 稱_AD 為_VA 「_PU 對殺_NN 」_PU 。_PU 對殺_NN 的_DEC 時候_NN ，_PU 只有_VV 其中_NN 一_CD 方擁有_NN 的氣_VV ，_PU 稱為_NN 該方_VV 的_SP 「_PU 外氣_NN 」_PU ；_PU 兩_OD 邊_M 共同_NN 擁有_VV 的_DEC 氣_NN ，_PU 當_NN 一_CD 方_NN 在_VV 這裡_NN 落子_NN ，_PU 雙方_NN 的_DEC 氣都會_NN 變少_VV ，_PU 則稱作_NN 「_PU 公氣_NN 」_PU 。_PU
+
+對殺獲勝_NN 的_DEC 條件為_NN ：_PU A_NN 外氣_NN -_PU B_NN 外氣≥_NN 公氣_VV ；_PU 則對殺_NN A_NN 方獲勝_NN 。_PU
+
+當對殺_NN 的_DEC 其中_NN 一_CD 方先_NN 做出_VV 一_CD 個眼時_NN ，_PU 在_P 走法_NN 上有所優勢_VV ，_PU 稱為_VV 「_PU 有_BA 眼殺瞎_NN 」_PU 、_PU “_PU 有眼杀无_NN 眼_NN ”_PU 。_PU 此时公_NN 气只_NN 能算_NN 作有_VV 眼_DT 一_CD 方的气_NN ，_PU 因为无眼_VV 一_CD 方不_NN 能_VV 在_AD 没有_VV 填满公气_NN 的_DEC 情况下_NN 填入_NN 对方_NN 的_DEC 眼_NN 。_PU
+
+有_VE 時候會_NN 出現_VV 有_VE 很多_CD 公氣_NN ，_PU 兩_CD 邊_M 都沒有_NN 兩_NN 個_NN 真眼_NN ，_PU 但_CC 都_AD 殺_AD 不_AD 死敵_VA 方_SP ，_PU 稱作_NN 雙活_NN 。_PU
+
+下面_NN 是_VC 在_P 角地_NN 對殺_VV 的_DEC 例子_NN ，_PU 形成_VV 「_PU 有_BA 眼殺瞎_NN 」_PU ，_PU 黑棋勝_NN 。_PU
+以下_NN 是_VC 大眼有_NR 3_ETC -_PU 6_CD 目時_NN 的_DEC 死活情_NN 形_NN ，_PU 5_CD 目與_NN 6_CD 目除_VV 了_AS 下面_NN 提到_VV 的_DEC 梅花_NN 五_NN 、_PU 刀把_NN 五_OD 、_PU 拳頭_NN 六_OD 之_DEG 外都是_NN 活形_VV ，_PU 當_AD 一_CD 個_NN 大眼有_VV 7_CD 目_M 以上_NN 時_VA ，_PU 一_AD 般_NN 是_VC 活形_JJ 。_PU 不過在氣緊_JJ 或是在_NN 角落_VV 的_DEC 時候_NN ，_PU 活形也_NN 有_VE 可能變成_JJ 死棋_NN ，_PU 例如_AD 「_PU 盤角曲_NN 四_OD 」_PU 。_PU
+
+下面_NN 的_DEC 圖中_NN ，_PU AB兩點_NN 見合_VV ，_PU 只要_JJ 黑棋_NN 下到_VV 其中_NN 一點_CD 就_AD 可以_VV 活棋_VV 。_PU
+以下_NN 棋形_VV ，_PU A位被_NN 白占_VV 到_VV 则死_NN ，_PU 被黑占_NN 到_P 则_NN 活_NN
+黑棋_NN 先走_NN 也無法_NN 做_VV 活_NN
+
+有_VE 時棋形雖_NN 被_SB 破眼_VV ，_PU 但還_VV 有_VE 對殺時_NN ，_PU 這些_NN 單眼棋形_NN 可以_VV 提供_VV 很多_CD 內氣_NN ，_PU 因_AD 为_VC 要紧气_NN 必须_VV 要_VV 逐_CD 个_M 地填_NN 大_AD 眼_VA 的_DEC 眼位_NN 。_PU 如拳頭_NN 六_CD 有_CC 12_CD 口氣_M ，_PU 刀把_NN 五_NN 和_NN 梅花_NN 五_CD 有_CC 8口_CD 氣_NN ，_PU 方_NN 四_OD 和_NN 笠帽_NN 四_OD 有_NN 5_OD 口_NN 氣_OD 。_PU
+
+
+特殊_NN 棋形_NN ：_PU
+
+
+
+
+

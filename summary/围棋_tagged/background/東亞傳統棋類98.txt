@@ -1,0 +1,68 @@
+﻿五_OD 子_M 棋_NN
+
+五子棋_NN 是_VC 一_CD 种_M 两_CD 人_NN 对弈_NN 的_DEC 纯策略型_JJ 棋类游戏_NN ，_PU 通常双_JJ 方分别_NN 使用_NN 黑_NN 白_NN 两_CD 色_NN 的_DEG 棋子_NN ，_PU 轮流_NN 下_NN 在_P 棋盘_NN 直线_NN 与横线_NN 的_DEC 交叉点_NN 上_LC ，_PU 先_VV 在_P 横线_NN 、_PU 直线_NN 或_NN 斜_NN 对角线_NN 上_LC 形成_VV 恰_NN 好_OD 為_NN 5_OD 子_NN 的_DEG 连线者_NN 获胜_NN 。_PU 　　_NN 　　_NN
+因为_NR 棋子_NN 在_NN 落子_NN 后不_NN 能_VV 移动_JJ 或拿掉_NN ，_PU 所以_AD 也_AD 可以_VV 用纸_VV 和_CC 笔来_VV 进行_VV 游戏_NN 。_PU
+
+五子棋在_NN 日本_NN 是颇_NN 受_NN 人們_NN 歡迎_NN 的_DEC 棋類_NN ，_PU 早期_NN 書籍_NN 如土_NN 井聱_NN 牙於_NN 安政_NN 五_CD 年_NN （_PU 1847_CD 年_NN ）_PU 的_NN 《_PU 格_NN 五_OD 新_NN 譜_OD 》_PU 、_PU 松柳舎於_NN 安政_NN 三_CD 年_NN （_PU 1856_CD 年_NN ）_PU 的_NN 《_PU 五_CD 石_M 定蹟集_NN 》_NN 。_PU 自_NN 1899_CD 年日_NN 本棋_NN 士黑岩_NN 淚香_NN 證明了_NN 原始_NN 規則_VV 的_DEC 五子棋_NN 先下必_NN 勝後_VV ，_PU 五子棋_NN 邁入_VV 一条_JJ 不断改良_NN 的_DEC 道路_NN ，_PU 經過數_NN 十_CD 年_NN 的_DEG 修改_NN 、_PU 驗證_NN 、_PU 再修改_NN ，_PU 最終_JJ 發展出_NN 加入_NN 禁手_NN 的_DEC 五子棋_NN ，_PU 並經過公_NN 開徵名_NN ，_PU 稱為連珠_NN ，_PU 因此規則_NN 在_P 日本成_NR 型_ETC ，_PU 又稱為_NN 日式_JJ 規則_NN 或連珠_NN 規則_VV 。_PU
+
+原始_NN 規則依_NN 然有_VV 人_NN 在_VV 玩_NN ，_PU 也_AD 被_P 稱為_VV 無_AS 禁規則_NN 、_PU 自由規則_NN ，_PU 有軟體_NR 可_VV 驗證黑_NR 棋先手_NN 必勝_VV 。_PU
+
+連珠_NN 規則禁止_NN 先下_VV 的_DEC 黑棋_NN 下出雙活_VV 三_CD 、_PU 雙四_CD 、_PU 長連_NN （_PU 超過_NN 五子_NN 以上_NN 的_DEC 連線_NN ）_PU ，_PU 下出則判_NR 敗_ETC ，_PU 此舉_NN 限制_VV 黑棋的_JJ 取勝_NN 方式_NN ，_PU 白棋則_NN 增加_VV 逼_NN 迫黑子_NN 下出禁手來_VV 取勝_VV 的_DEC 手段_NN ，_PU 使_VV 黑棋_NN 的_DEC 優勢稍稍_NN 減少_VV 。_PU 对_NN 初学者_NN 来_VV 说_VV 禁_CD 手也_NN 许是_VV 一_CD 种_M 障碍_NN ，_PU 但相較於_NN 原始規則_NN ，_PU 禁手使_NR 得双_NN 方棋手_NN 必須_VV 更_CD 精准_NN 的_DEC 掌握_NN 棋子_NN 落点_NN ，_PU 增加_VV 了_AS 连珠_NN 的_DEC 技术_NN 性_NN 、_PU 复杂性_NN 及趣味性_NN 。_PU
+
+又過了幾_VV 十_CD 年_M ，_PU 人們_NN 發現_NN 单单_NN 加入_VV 禁手_NN ，_PU 尚无法完_NN 全_AD 平衡黑棋_VV 一_CD 子_M 之先_NN 的_DEC 优势_NN ，_PU 因此在_NR 世界_NN 连珠_NN 锦标赛_NN 使用的_NN 「_PU RIF_NN 规则_NN 」_PU ，_PU 其是_NN 在_P 連_NN 珠_NN 規則_NN 的_DEC 基礎上_NN ，_PU 又_CC 加入_VV 了三_JJ 手_NN 交换及_NN 五_OD 手_NN 兩_OD 打_NN ，_PU 算_NN 第一_OD 個_NN 可_VV 以_P 真_NN 正合乎_NN 公平_JJ 競技的_NN 五子_NN 棋專_NN 業規則_NN 。_PU
+
+過去在_NR 中國稱為_NR 五子棋_NN 的_DEC 傳統棋類_NN ，_PU 並非現_NN 在_P 屬於_NN 連棋類_NN 的_DEC 五子棋_NN ，_PU 而_CC 是_VC 挑夾棋_NN 之類_NN 的_DEC 夾擔棋_NN 遊戲_VV 。_PU
+
+中國文獻_NN 中_LC ，_PU 能_VV 確定_VV 是_VC 屬於連_NN 棋類_VV 的_DEC 五子棋_NN ，_PU 最_AD 早紀錄_NN 之一_NN 是_VC 清末黃_NN 遵憲_VV 在_P 1898_CD 年赴日_NN 參_CD 訪後_NN ，_PU 在_P 著作_NN 《_PU 日本_NR 国志_NN 》_PU 寫_NN ：_PU 「_PU 亦有格_NR 五_ETC ，_PU 其法_NN 布子_NN 成行_NN 以_MSP 得_VV 五_CD 者胜_M 。_PU 」_PU 當時_NN ，_PU 中國也從_NN 日本_NR 引進了_NR 五子_NN 棋書_NN ，_PU 如_NN 《_PU 五_CD 連_M 指南_NN 》_PU ，_PU 書中_NN 的_DEC 棋盤_NN 採用_NN 圍棋棋盤_NN ，_PU 並且第_NN 一_CD 著_NN 由黑_NN 方下_VV 在_CD 天元_NN 。_PU
+
+中華人民_NN 共和_NN 國建國後_NN ，_PU 地_NN 方志_NN 紀_NN 錄_NN 五子_NN 棋是_NN 1950_CD 年代與陸_NN 军_AD 棋_VA 、_PU 中國跳棋_NN 等_ETC 新棋种一_JJ 同出現_NN ，_PU 是中國_NN 近代_VV 才_NN 開始流_NN 傳_NN 的_DEC 棋類_NN 。_PU
+
+在台灣_NR 的_DEC 流傳則_NN 是_VC 由_P 日本_NN 人引進_NN ，_PU 1917年_NT 6月_NT 在_P 台灣創刊_NN 《_PU 聯珠新報_NN 》_PU ，_PU 創刊_NN 編輯_NN 是聯珠新_NN 報_NN 社_NN 臺北_NN 支局_NN 的_DEC 吉田野人_NN 。_PU
+
+五子棋_NN 的_DEC 另_DT 一_CD 个_M 分枝在_NN 欧洲_NN 发展_NN 为_VC Gomoku_NN 。_PU Gomoku_NN 仅_NN 使用_NN “_PU 交换_NN ”_PU 来平_NN 衡黑子_NN 的_DEC 优势_NN 。_PU 他_CD 们推崇_NN 自由开局_NN 、_PU 可_VV 交换_VV 。_PU 大_BA 部分_NN 的_DEC 规则未_NN 限制_VV 天元_NN 开局_VV ，_PU 因此_AD 开局_VV 的_DEC 变化很_NN 大_VA ，_PU 在_VV 难以掌握_NN 对手_NN 开局_VV 的_DEC 情况_NN 下_LC ，_PU 使_VV 定式_NN 、_PU 研究_NN 的_DEC 分量降_NN 低_VA ，_PU 较_AD 为_VC 简单易懂_NN 。_PU 其主要_NN 的_DEC 规则是_NN Swap2_NN 等_ETC 。_PU 不管_NN 是_VC 哪种五子棋_NR ，_PU 棋手在_NR 先后手_NN 的_DEC 观念_NN 、_PU 空间_NN 的_DEC 思维及_NN 对棋形_NN 的_DEC 理解都_NN 十分_CD 重要_VA 。_PU
+
+1988_CD 年國_NN 際連_NN 珠聯盟_NN （_PU RenjuInternationalFederation_NR ,_ETC RIF_NN ）_PU 成立_VV ，_PU 由_P 日本_NN 、_PU 苏联_NN 、_PU 瑞典这_NN 3_CD 成员_NN 国_NN 在_P 瑞典_NN 宣告创_NN 立_NN ，_PU 总部_NN 设_VV 在_P 瑞典首都_NN 斯_NN 德_NN 哥尔摩_NN 。_PU 现在全_JJ 世界已_NN 有_VE 数_NN 十_CD 个_M 国家_NN 和地区_NN 成_VV 为_VC 国际_NN 连珠_NN 联盟_NN 的_DEC 正式会员_NN 。_PU
+
+世界_NN 连珠锦_NN 标赛从_NN 1989_CD 年起_NN ，_PU 每_DT 两_CD 年举办_NN 一_OD 次_NN ，_PU 至_NN 2017_CD 年已_NN 举办_VV 了_AS 十五_CD 届_NN 。_PU 其中_NN ，_PU 爱_NN 沙尼亚_NN 獲得_VV 六_OD 次_M 冠军_NN ，_PU 日本四次_NR ，_PU 中国三次_NR ，_PU 俄羅斯兩_NR 次_ETC 。_PU 世界_NN 五子_NN 棋錦_NN 標賽_NN （_PU GomokuWorldChampionship_NR ）_PU 也從_NR 1989_CD 年起_NN ，_PU 每_DT 两_CD 年举办_NN 一_OD 次_NN ，_PU 第二_OD 屆後_NN 停辦_VV ，_PU 直到_NN 2009_CD 年後_NN 復辦_NN 。_PU
+而自_VV 1996_CD 年起_NN ，_PU 每_DT 兩_CD 年舉辦_NN 一_OD 次_NN 世界_NN 連珠團體_NN 錦標賽_NN （_PU RenjuTeamWorldChampionship_NR ）_PU ，_PU 由_P 各國選_NN 手_NN 組_NN 隊參加_NN 。_PU
+
+由于_P 電腦科技_NN 的_DEC 進步_NN ，_PU 棋手_NR 大量_NN 研究_NN RIF_NN 规则_NN 的_DEG 变化_NN ，_PU 許_AD 多_CD 開局_NN 都有_VV 了_AS 定論_VV ，_PU 使得_VV 專業棋手_NN 可_VV 使用_VV 的_DEC 开局_NN 变化越来_NN 越少_VV ，_PU 減少_VV 了_AS 變化也_NN 減少_VV 了_AS 棋手_NN 的_DEC 創造性_NN 和_NN 發揮空_NN 間_NN ，_PU 更降低_NN 比賽_NN 的_DEC 精彩度_NN 。_PU 為寻_NN 求新_VV 的_DEC 出路_NN ，_PU 因而近年_AD 来_DEV 产生_VV 了_AS 许多_NN 的_DEC 新的_JJ 試行规则_NN ，_PU 国际_NN 连珠联_NN 盟_VV 在_P 2009_CD 年第_NN 十_CD 一_CD 届世锦_NN 赛试_NN 用山口_NN 规则（Yamaguchirule）作为_JJ 比赛_NN 规则_VV ，_PU 與_P RIF_NN 規則_VV 的_DEC 差別_NN 在_P 於_NN 五_OD 手_NN 兩_OD 打_M 變成_NN 五_CD 手_NN 多_AD 打_VA 。_PU 最新_VV 的_DEC 改革_NN 是_VC 在_P 2017_CD 年第_NN 十五_CD 届世_NN 锦赛_NN 试用_NN 索索夫_NN -_PU 8_CD 规则_NN （_PU Soosyrv_NN -_PU 8_CD rule_M ）_PU ，_PU 由_P 假黑_NN 方第_NN 三_OD 手_NN 指定打点_NN 数_NN 目_LC ，_PU 更改_VV 为_VC 由假白_NN 方第_NN 四_CD 手_NN 指定_VV ，_PU 并_AD 在_P 第四_OD 手后增加了一次_JJ 交换_NN 机会_NN 。_PU
+
+
+
+
+
+西方稱_NN 之_DEG Free_NN -_PU styleGomoku_NN 規則_NN 。_PU
+
+而從原_NN 始規_NN 則演變_NN 的_DEC 現代_NN 五_CD 子棋_VV ，_PU 主要是以有_JJ 無禁手_NN 作_VV 為區別_NN 。_PU 主要分成_JJ 無禁手_NN 的_DEC Gomoku_NN 規則及_NN 有_VE 禁手_VA 的_DEC Renju_NN 規則_NN 。_PU
+
+目前_NN Gomoku_NN 世錦賽_NN 使用_NN Swap2_NN 规则_VV 。_PU
+
+主要_JJ 是靠_NN 交换_NN 黑白双_NN 方行_NN 棋权_NN 来使_NN 开局_NN 平衡_VV ，_PU 从而_AD 达到_VV 双方公_NN 平竞技_NN 的_DEC 目的_NN ，_PU 無禁_NN 五子_NN 棋多_NN 採用_NN 此平衡_NN 方法_NN 。_PU
+
+以StandardGomoku_NN 规则_NN 為基礎_NN ，_PU 發展出_NN Gomoku_NN -_PU Pro_NN 、_PU Swap_NN 、_PU Swap2_NN 規則_VV 。_PU
+
+第一_OD 屆及第_NN 二_OD 屆_NN Gomoku_NN 世錦賽_NN 的_DEG 使用規_NN 則_NN 。_PU
+
+
+目前_NN Gomoku_NN 世錦賽_NN 的_DEG 使用_NN 規則_NN 。_PU
+
+中國玩_NN 家近_NN 年推廣_NN 的_DEC 無禁規則_NN 。_PU
+
+目前_NN Renju_NN 世錦賽_NN 使用_NN 索索夫_NN -_PU 8_CD 规则_NN 。_PU
+
+LouisVictorAllis_NR 借助_NN 计算机_NN 证明_VV ，_PU 在_P 15*15_CD 的_DEG 标准_NN 棋盘_NN 下先_VV 手_CD 必胜_NN ，_PU 前提_NN 是_VC 没有_VV 引入_VV 其他禁_NN 手_NN 或_NN 交换_NN 等_ETC 附加_JJ 规则_NN 。_PU 在这之后_VV ，_PU 对于_P 連珠_NN ，_PU 其原始_NN 的_DEC 没有_JJ 附加_NN 规则_VV 的_DEC 版本_NN ，_PU 也被证明存_NR 在_VV 完美对_NR 策使_NN 得先手_NN 必胜_VV 。_PU 然而_NN ，_PU 对于_NN 专业_NN 比赛_NN 中_LC 采用_VV 的_DEC 平衡开局_NN 规则_VV ，_PU 如目前_NN Renju_NN 世錦賽_NN 使用_NN 的_DEC Soos_NN õ_NN rv_NN -_PU 8_CD 規則_NN 、_PU Gomoku_NN 世錦賽_NN 的_DEG 使用_NN 的_DEC Swap2_NN 規_NN 則_NN 等_ETC ，_PU 并没有_NN 被_SB 证明_VV 存_VV 在_P 必胜策_NN 略_NN 。_PU
+
+自_NN 1989_CD 年以来_NN ，_PU 有_CS 多_CD 个_M 五子棋人_NN 工智能_NN 程序_VV 赛事_NN 。_PU 1989年_NT -_PU 1992年_NT ，_PU 五子棋_NN 属于_VV 奥林_NN 匹亚_NN 电脑_NN 游戏_NN 程式_NN 竞赛_NN 项目_NN 。_PU 世界_NN 电脑_NN 连珠_NN 锦标赛_NN （_PU TheRenjuWorldComputerChampionship_NR ）_PU 从1991年开始_NR ，_PU 至2004年_NR 终止_NN 共举办了_NN 4_OD 届_NN 。_PU 2000_CD 年至今_NN ，_PU Gomocup_NN 每年举办_NN 一_OD 次_NN ，_PU 有_NN 来自约1_VV 0_CD 个_M 国家_NN 与地区_NN 的_DEG 40_CD 余位作_NN 者参与_NN 。_PU 2005年_NT ，_PU 匈牙利_NN 举办_VV 了_AS 两_CD 届_M 电脑_NN 五_OD 子_NN 棋联赛_NN （_PU TheHungarianComputerGo_NR -_PU MokuTournament_NR ）_ETC 。_PU 在_P 2006_CD 年和_NN 2011_CD 年_LC ，_PU 捷克_NN 举办_VV 了_AS 两_OD 次_M 人机_NN 对战联赛_NN 。_PU 2016_CD 年以来_NN ，_PU 人_NN 工智能_NN 冠_P 军_NN 程序_NN 弈心与人_NN 类_NN 高_P 手_NN 有_VE 过多次人机_NN 比赛_NN 。_PU 其中_NN ，_PU 2017年_CD 7月_NT ，_PU 弈心以_NN 3_OD :_PU 1_OD 战_M 胜台_NN 湾_NN 名_NN 人林书_NN 玄_NN 。_PU 同月_NN ，_PU 弈心以_NN 2_OD :_PU 0_OD 比_NN 分战胜_NN 世界_NN 冠军_NN RudolfDupszki_NR ——_PU 这是_NN 五_NN 子_NN 棋人_NN 工智_NN 能首次_NN 战胜人_NN 类_NN 世界_NN 冠军_NN 。_PU
+
+五子棋_NN 的_DEC 世界_NN 錦標賽_NN （_PU RenjuandGomokuWorldChampionship_NR ）_PU ，_PU 由國際_NN 連珠_NN 聯盟_NN （_PU RIF_NN ）_PU 自_NN 1989_CD 年首_NN 屆舉辦_NN ，_PU 後每两年舉_NR 辦一_NN 次_NN 。_PU 分成_JJ 世界_NN 连珠_NN 锦标赛_NN （_PU RenjuWorldChampionship_NR ）_PU 及世界_NR 五子_NN 棋锦_NN 标赛_NN （_PU GomokuWorldChampionship_NR ）_PU 兩項目_NR 。_PU
+
+目前_NN 世界_NN 连珠_NN 锦标赛_NN 使用_NN 索索夫_NN -_PU 8_CD 规则_NN ，_PU 世界_NN 五子_NN 棋锦_NN 标赛_NN 使用_NN Swap2_NN 规则_VV 。_PU
+
+世界_NN 连珠_NN 锦标赛_NN 自从_NN 1989_CD 年_CD 开始_NN ，_PU 每_DT 两_CD 年举办_NN 一_OD 次_NN 。_PU 自从_NN 2017_CD 年起_NN ，_PU 世界_NN 连珠_NN 锦标赛_NN 使用_NN 索索夫_NN -_PU 8_CD 规则_NN 。_PU 另外舉_NN 辦有_VV 世界_NN 连珠_NN 团体_NN 锦标赛_NN （_PU TeamWorldChampionship_NR ）_PU 、_PU 世界_NN 女子_NN 连珠_NN 锦标赛_NN （_PU WomenWorldChampionship_NR ）_PU 、_PU 世界_NN 青年_NN 连珠_NN 锦标赛_NN （_PU YouthWorldChampionship_NR ）_PU 項目_NN 。_PU
+
+世界_NN 五子棋_NN 锦标赛_NN 在_P 1989_CD 年和_NN 1991_CD 年举_NN 办_NN 过_NN 两_CD 届_NN ，_PU 但_NN 此_NN 後停辦_NN ，_PU 直_AD 至_P 2009_CD 年才_NN 開始復辦_NN 並舉辦_NN 第三_OD 屆_M ，_PU 并_AD 开始_VV 使用_NN Swap2_NN 规则_VV ，_PU 每_JJ 两_CD 年_NN 举办_VV 一_OD 次_NN 。_PU
+从_NN 2016_CD 年起_NN ，_PU 开始_NN 举办_VV 世界_NN 五子_NN 棋团体_NN 锦标赛_NN ，_PU 每_DT 两_CD 年举办_NN 一_OD 次_NN 。_PU
+
+
+

@@ -1,0 +1,37 @@
+﻿雪崩_NN 定_VV 式_NN
+
+雪崩_NN 定式是_NN 一_OD 类_NN 围棋_NN 定式_VV 的_DEC 统称_NN ，_PU 因其_NN 状如_NN 雪崩而_NN 得名_VV 。_PU 有_BA 小雪崩_NN 定_VV 式_NN 和_P 大雪_NN 崩定式_JJ 两_CD 种_M 。_PU
+
+小雪_NN 崩定式_JJ 变化较_NN 为_VC 单_NN 一_CD 。_PU
+大雪_NR 崩定式_JJ 变化极_NN 为_VC 复杂_VA ，_PU 和妖_NN 刀定式_NN 、_PU 大斜定式_NN 并称_VV 为_VC 三大_JJ 难解定式_NN 。_PU
+
+小目黑_NN 1一_CD 间高挂_NN ，_PU 白_NN 2_OD 托_NN ，_PU 黑_NN 3_OD 顶_NN ，_PU 白_NN 4_OD 挡_NN ，_PU 黑_NN 5_OD 扳_NN 。_PU 如果白_NN 不_AD 想_VV 走_AD 大_JJ 雪崩_NN ，_PU 第8_OD 手可以走_JJ e。_NN 本图_NN 以下_NN 的_DEG 变化_NN ，_PU a_NN 为_NN 吃角_NN ，_PU b_NN 为_NN 外拐_NN ，_PU c_NN 为_NN 内拐_NN 。_PU 另_NN 外近年_NN 还有_VV d位断_NN 的_DEC 新型_NN 。_PU
+
+c_OD 位_NN 「_PU 內拐_NN 」_PU 是_VC 吳清源_NN 所_MSP 創_VV 的_DEC 被稱為_NN 「_PU 革命定_NN 式_NN 」_PU 的_DEC 一_CD 手_NN ，_PU 它_NN 是_VC 1957年_CD 2月_NT 20日_NT ，_PU 於第一屆日本_NR 最強者_NN 決定_NN 戰本_NN 賽對陣_NN 高_JJ 川格_NN 的_DEC 時候_NN 下出_VV 的_SP 。_PU 它使大_NN 雪_CC 崩定式完_JJ 全改觀_NN ，_PU 以往都_NN 是_VC 在_P b_NN 位_NN 外拐_NN 。_PU
+
+吳清源_NN 第一_OD 次_M 內拐黑_NN 1_OD 時_NN ，_PU 白_NN 2_OD 是_VC 公認_NN 的_DEC 疑問手_NN ，_PU 應該直接_NN 在_P 白_NN 4_OD 位_NN 斷_OD 。_PU
+
+實戰時_NN ，_PU 黑_NN 21_CD 獲取實_NN 利_NN ，_PU 捨_NN 棄_OD 右_JJ 邊_NN 三_CD 黑子_NN 。_PU 白_NN 22_CD 攔之後_M ，_PU 黑_NN 23_CD 外碰暫_NN 時_NN 脫_NN 離戰場_NN ，_PU 意_AD 在_P 解_CD 消左_NN 上_NN 邊_NN 白棋_NN 模样_VA 。_PU
+
+根據黃士_NN 傑博士_NN 2017年_CD 8月_NT 2日的_NN 臉書_NN 資料_NN ，_PU AlphaGo_NN 認為_NN 傳統_VV 的_DEC 大雪崩_NN 定式_VV ，_PU 黑棋是_NN 吃虧_VV 的_SP ，_PU 建議黑_NN 7_AD 不_AD 要_VV 跟_AS 著黑_NN 1_OD 長_NN ，_PU 改叫吃_NN 、_PU 白_NN 8_OD 黏_NN 、_PU 黑_NN 9_OD 大_NN 飛_OD 。_PU
+
+黃士_NN 傑博_NN 士強迫_NN AlphaGo_NN 走_NN 大_NN 雪崩_NN 定式_VV ，_PU 結果_CS 有_VE 別於傳_NN 統定式的_JJ 2路拐_NN ，_PU AlphaGo_NN 認為在_NN 1位單_NN 長就_NN 可以_VV 了_SP 。_PU
+白_NN 6_OD 黏_M 之後_NN ，_PU 黑_NN 7_OD 有_VE A_NN 、_PU B_NN 兩_NN 個下_NN 法_NN ，_PU 可_VV 以_P 將_CD 局面_NN 的_DEG 不利減到_NN 最小_VV 。_PU
+
+緊接_NN 著黑_NN 7_CD 在_AD 右_JJ 邊長_NN ，_PU 可以_VV 將_CD 局面_NN 的_DEG 不利減到_NN 最小_VV 。_PU
+
+白_NN 6_OD 黏_M 之後_NN ，_PU 黑_NN 7_OD 下_NN 在_P 三路星下_NN ，_PU 白_NN 8_OD 長_NN 、_PU 黑_NN 9_OD 拐_NN 、_PU 白_NN 10_CD 跳_NN ，_PU 也_CC 可以_VV 將_CD 局面_NN 的_DEG 不利減到_NN 最小_VV 。_PU
+
+值得_NR 注意的_NN 是_VC ，_PU AlphaGo_NN 認為_VV 一般_JJ 情況_NN 下白_VV 棋_NN 內拐比_NN 外拐更好_VV ，_PU 而_CC 2017_CD 年年初_NN AlphaGo_NN 與羋_NN 昱廷_NN 九_CD 段所下出_VV 的_DEC 外拐_NN ，_PU 是_VC 針對當_NN 時局面_NN 的_DEC 場合下法_NN 。_PU
+
+AlphaGo_NN 在_VV 網路上_NN 60_OD 局_M ，_PU 在_P 此以第_NN 29_OD 局_M 介紹大_NN 雪_CC 崩定式_JJ ！_NN
+
+第29_OD 局_M ：_PU 羋昱廷_NN 九_OD 段_NN (_PU 黑_NN )_PU 與_NN Master_NN (_PU 白_NN )_PU
+
+A位是_NN 大_JJ 雪_NOI 崩定式_JJ 的_DEG 一_CD 般下法_NN ，_PU 但_NN 是_VC Master_NN 在_VV 白_NN 46_CD 弈出_VV 了_AS 新_NN 手_NN 。_PU
+
+而且在_NR 白_NN 56_CD 粘長_NN 取得先手_VV ，_PU 黑_BA 57_CD 跳_M ，_PU 然後_NN Master_NN 下_NN 在_P 白_NN 58_CD 還_NN 搶到_VV 了_AS 棋盤_NN 上_NN 最_AD 後_VE 一_CD 個_CD 大場_NN 。_PU
+
+如果_CS 按照人_NN 類_VV 的定式_JJ 來下_NN ，_PU 從白_NN 46_CD 長_NN ，_PU 一_CD 直_NN 下到_VV 黑_NN 57_CD 飛_NN ！_PU
+
+

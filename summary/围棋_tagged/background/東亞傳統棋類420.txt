@@ -1,0 +1,6 @@
+﻿見合_NN
+
+见合是_NN 围棋_NN 中_LC 的_DEG 常见_JJ 术语_NN ，_PU 其意义_NN 为_VC 一_CD 种_M 黑白双_NN 方各有_NN 相同_JJ 数量_NN 的_DEG 大场_NN 的_DEC 状态_NN 。_PU 例如_AD ，_PU 场面_NN 上_LC 有_VE 甲_NN 乙_NN 两_CD 个_M 大场_NN ，_PU 若黑棋占了_NN 甲点_NN ，_PU 白棋即_NN 可_VV 下已_VV 点_LC ，_PU 反之_NN 亦然_NN 。_PU
+见合在_JJ 实战_NN 中需要_NN 相应_VV 的_DEC 判断_NN ，_PU 并不是_NN 一_CD 意_NN 孤行_VV 的_DEC 脱先去抢_NN 占_AD 大场_VV 。_PU
+
+

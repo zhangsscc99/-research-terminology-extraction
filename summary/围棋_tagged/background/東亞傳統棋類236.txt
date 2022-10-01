@@ -1,0 +1,26 @@
+﻿布局_NN (_PU 围棋_NN )_PU
+
+布局_NR ，_PU 又稱布_NR 石_ETC ，_PU 围棋术语_NN ，_PU 指围棋_NN 的_DEG 开局走_NN 法_NN 。_PU 一_CD 局_CD 棋通常_NN 分为_AD 布局_VV ，_PU 中盘_NN ，_PU 官子_NN 三_CD 个_M 阶段_NN 。_PU 围棋以_NN 占地_NN 为_NN 目的_NN 。_PU 在_P 布局_NN 阶段_NN ，_PU 对局双_NN 方各_NN 自抢占_NN 棋盘_NN 上_LC 的_DEC 空地_NN ，_PU 同时_NT 尽量_NN 阻止对_NN 方占地_NN ，_PU 由_P 此导入_NN 中盘_NN 战斗_VV 。_PU 布局和_NN 中盘_NN 的_DEG 区_NN 分并不_NN 明确_VV 。_PU 有的对局_VV 在_P 棋盘_NN 上_NN 所有_DT “_PU 大_NN 场_NN ”_PU （_PU 开阔_NN 的_DEC 空地_NN ）_PU 被双方瓜_NN 分以_VV 后_CD 才_NN 进入_VV 中盘战_NN 斗_NN ；_PU 有_NN 的_DEG 对局则_NN 从_P 一_CD 个_M 角_NN 上就_NN 开_NN 始激烈_NN 战斗并_NN 蔓延_VV 至_VV 全盘_NN 。_PU 布_CD 局_M 阶段_NN ，_PU 落子尚_NN 少_VA ，_PU 盘面尚_NN 大_VA ，_PU 无法作_NN 精确_NN 的_DEC 计算_NN ，_PU 因而_AD 考校_VV 的_DEC 是棋手_NN 的_DEC 大局观_NN 和棋感_NN 。_PU
+
+古代中國_NN 圍棋_VV ，_PU 為了防止_NN 「_PU 模仿棋_NN 」_PU 以及_NN 限制先_NN 行_NN 優_NN 勢而_NN 實行_VV 「_PU 座子制_NN 」_PU ，_PU 即行棋前_NN 預先_VV 在_VV 角上四_NR 個對角_NR 星位_NN 各擺上_NN 兩_OD 顆_NN 白子_NN 和_NN 兩_OD 顆_M 黑子後_NN 由白棋_NN 先著_VV 。_PU 公元_NN 16_CD 世紀_NN 日本_NN 廢除_NN 座子制_NN 。_PU 日本_NR 古代圍棋_NR 的_DEC 布局講究行_NR 棋堅_NN 實_NN ，_PU 以小_NN 目開局_NN 為_AD 主_VA ，_PU 代表性_NN 的_DEC 布局有_JJ 本因_NN 坊秀策_NN 所_MSP 創_VV 的_SP 「_PU 秀策流_NN 」_PU 。_PU 昭和_NN 時代_VV ，_PU 吳清源_NN 和_P 木谷實_NN 突破_VV 了_AS 小_JJ 目開_NN 局_NN 的_DEG 慣例_NN ，_PU 嘗試以_VV 星位和_NN 三三_CD 開局_M ，_PU 史稱_NN 「_PU 新布局_VV 」_PU 時代_VV ，_PU 由_P 此開創了_NN 重視_NN 行棋_NN 效率_NN 和擴張_NN 速度_NN 的_DEC 現代布局_NN ，_PU 後來_VV ，_PU 布局_VV 很_AD 大_VA 的_DEC 程度_NN 上受_VV 到_VV 貼目新_NN 規則_VV 的_DEC 影響_NN 。_PU 1970_CD 年代_VV ，_PU 武宮_VV 正樹將這_NN 一_ETC 理_NN 念_NN 推向_NN 極_NN 致_LC ，_PU 創造_VV 了_AS 完全以_JJ 星位開局_NN （_PU 三_CD 連星_M ）_PU ，_PU 以中腹_NN 圍空為_NN 目的_NN 的_NN 「_PU 宇_NN 宙流_NN 」_PU 。_PU
+
+近年來_NN 中_NN 國_NN 棋手_NN 大量_CD 研究後多_NN 使用_NN 中_LC 國流布局_NN ，_PU 以及_NN 變形_VV 的_DEC 迷你中_NN 國流布局_NN ，_PU 也被韓國_NR ，_PU 日本_NR 的許多_NR 棋手_NN 採用_NN ，_PU 成為_NN 近代_VV 棋戰中_NN 極常出現的_JJ 布局_NN 。_PU
+
+圍棋有_NR 諺語_NN 「_PU 金角_NN 银边草_NN 肚_NN 皮_ETC 」_PU ，_PU 即以_NN 圍空_NN 效率_NN 而言_LC ，_PU 角上最_NR 高_ETC ，_PU 中腹最差_NN 。_PU 所_MSP 以_VV 布局的_NN 一_CD 般_NN 順序也_NN 遵循由_NN 角到邊_NN 的_DEC 原則_NN 。_PU 一_CD 局_M 棋往往_NN 以佔角_NN 開始_VV ，_PU 繼之_VV 以守角_NN 和掛角_NN （_PU 阻止對_NN 方守角_NN ）_PU 形成_VV 角上_NN 的_DEC 攻防_NN ，_PU 然後_NN 是拆邊_NN 和分投_NN （_PU 阻止對_NN 方拆邊_NN ）_PU ，_PU 即所謂_NN 「_PU 佔大場_NN 」_NN 。_PU 布局_NN 時行_VV 棋_CD 以_NN 三四_CD 線為主_NN ，_PU 其中_NN 三_OD 線_NN 利於圍_NN 邊_AD 空_VA ，_PU 稱為_NN 「_PU 實利線_NN 」_PU ，_PU 四_OD 線_M 利於_NN 形成_VV 厚勢_NN ，_PU 稱為_NN 「_PU 厚勢線_NN 」_PU 。_PU 棋手_NN 也因對_NN 實利_NN 和厚勢_NN 的_DEC 偏愛_NN ，_PU 而_MSP 分為_VV 「_PU 實利派_NN 」_PU ，_PU 「_PU 厚勢派_NN 」_NN 。_PU
+
+現代圍棋_NN 多_CD 以小_NN 目和_NN 星位佔_NN 角開局_NN ，_PU 常見_NN 的_DEC 布局為_NN :_PU
+
+二_CD 連星_NN
+
+三_OD 連_NN 星_OD
+中_CD 国流_NN
+小林流_NN
+
+迷你中_NN 国流_NN
+
+星無_NN 憂角_NN
+"_PU 参见_VV 主条_NN 目定式_NN "_PU
+
+挂角以_NN 后即_NN 形成_VV 角上_NN 攻防_NN 。_PU 角上_NN 攻防_NN 是布局_NN 中_LC 的_DEG 重要部_NN 份_NN ，_PU 应对_NN 不当会_NN 导致_VV 全盘_NN 受制_VV 。_PU 因此长_NN 期以_VV 来人们_NN 都_AD 在_VV 探求_NN 各_CD 种_M 情况下_NN 的_DEC 最佳_JJ 应对_NN 方式_NN 。_PU 经_BA 过长期_NN 研究总_NN 结_AD 公认_VV 的_DEC 双_NN 方均_NN 可_VV 接受_VV 的_SP “_PU 两_NN 分_NN ”_PU 着_NN 法_NN 就_AD 称之_VV 为定式_NN 。_PU 同布_NN 局流派_NN 一样_VA ，_PU 以占角_NN 方式_NN 不同_VA ，_PU 定式也_NN 分_NN 为_VC
+
+

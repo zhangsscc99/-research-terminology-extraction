@@ -1,0 +1,20 @@
+﻿围棋发_NN 阳论_NN
+
+《_PU 围棋发_NR 阳论_NN 》_PU （_PU 别名_NN ：_PU 不断樱_NN ）_PU 是_VC 由井上道_NN 節因碩_NN （_PU 桑原道_NN 節_NN ）_PU 撰写_NN 的_DEC 围棋死_NN 活题集_NN 。_PU 成_VV 书于_NN 1713_CD 年_LC ，_PU 为桑原道_NN 節_VV 从_P 一千五百_CD 多_CD 题目_NN 中_LC 精选_VV 出_VV 一百八十_CD 多题目_NN 而成_VV 。_PU 名字中_NN ，_PU “_PU 阳_NN ”_PU 是_VC 指围棋_NN 棋形中_NN 隐伏_VV 的_DEC 手段_NN （_PU 对应的_NN “_PU 阴_NN ”_PU 则是_NN 指围棋_NN 的_DEC 配置_NN 、_PU 结构_NN ）_PU ，_PU “_PU 樱_NN ”_PU 则是_NN 指围棋_NN 中精妙_NN 的_DEC 手段_NN 。_PU
+《_PU 发阳论_NN 》_PU 原来是井_JJ 上家_NN 中_LC 只有_VV 家族内_NN 高级_JJ 弟子才_NN 可以_VV 阅读_VV 的_DEC 秘籍_NN ，_PU 但原始_NN 手_NN 抄本_VV 在_VV 一_CD 场_CD 大火_NN 中_LC 被毁_VV 。_PU
+
+在_P 1914_CD 年_M （_PU 日本_NR 大正三_NR 年_NN ）_PU ，_PU 日本_NN 大_VA 野_PU 万_OD 岁_M 馆发行了_NN 《_PU 发_NN 阳论_NN 》_PU 最早公开_JJ 发行_NN 的_DEC 版本_NN 《_PU 围棋玲珑_NN 发_NN 阳论_NN 》_PU （_PU 大野_NN 万_OD 岁_NN 馆本_NN ）_PU ，_PU 由_P 本因_NN 坊_NN 秀_NN 哉校订_NN 和_NN 解说_NN 。_PU 大野万岁_NR 馆本_NN 是_VC 本因_NN 坊_NN 秀_NN 哉依照_NN 加藤_VV 隆和_NN 氏版本_NN 与惠下_NN 田版_VV 本所定_NN ，_PU 共_P 二百零二_CD 题_NN 。_PU
+
+在_P 1953_CD 年_M （_PU 日本_NR 昭和_NN 二十八年_NT ）_PU ，_PU 日本_NN 梧桐社_NN 依照大_NN 野_NN 万_OD 岁_M 馆本又_NN 发行_VV 了_AS 由藤泽_NN 秀行_VV 解_CD 说的_M 《_PU 发阳论_NN 》_PU （_PU 梧桐社_NN 本_NN ）_PU 。_PU
+
+在_P 1980_CD 年_M （_PU 日本_NR 昭和_NN 五十五年_NT ）_PU ，_PU 日本_NN 依照_NN 大_VA 野_PU 万_OD 岁_M 馆本_NN 出版_VV 了_AS 由桥本_NN 宇太_NN 郎解说的_VV 《_PU 发阳论_NN 》_PU （_PU 山海_NN 堂本_NN ）_PU 。_PU
+
+20_OD 世纪_NN 70_CD 年代后期_NN ，_PU 发现_VV 了_AS 荒木氏_NN 版本_VV ，_PU 该_DT 版本题_NN 目和_NN 编排都_NN 与_P 大_NN 野万_OD 岁馆本有所不同。1982年_PU （_PU 日本_NR 昭和_NN 五十七年_NT ）_PU ，_PU 日本_NN 平凡社_NN 依据_NN 荒木氏版_NN 本出版了_NN 《_PU 围棋发_NR 阳论_NN 》_PU （_PU 平凡社版_NN ）_PU ，_PU 藤泽秀_NN 行再次_NN 担任解说_VV 。_PU
+
+大野万_NR 岁馆_NN 本与_NN 以大野_NN 万_OD 岁_NN 馆本_NN 为底本_NN 的_DEG 版本中_NN 共有_VV 两百零二_CD 题_M ，_PU 其中_NN 有_VE 十分之一_CD 的_DEC 题目与_NN 早已流_NN 传_AD 至_P 日本的_NR 中国_NR 古棋谱_NN 《_PU 玄玄棋经_NN 》_PU 相同_VA 。_PU 大野_NN 万_OD 岁_NN 馆本还_NN 根据_NN 研究_NN 结论_NN 将_BA 题目分_NN 为_VC 活之部_NN 、_PU 死之部_NN 、_PU 劫之部_NN 、_PU 胜之部_NN 、_PU 征之部_NN 与杂_VV 之部_NN 。_PU 并且_CC 大野万岁馆_NR 本第_NN 一_CD 题有_VE 结构_NN 性_NN 错误_VA ，_PU 被称做_NN “_PU 《_PU 发阳论_NN 》_PU 第一_OD 题_M ，_PU 黑_CS 先黑死_NN ”_PU 。_PU
+
+平凡社_NN 版共_VV 一百八十三_CD 题目_NN ，_PU 在_AD 大野_NN 万_OD 岁_NN 馆本_NN 中_LC 有_VE 二十一_CD 题不_NN 在_VV 其中_NN 出现_VV ，_PU 而_CC 平凡社版_NN 也_AD 有_VE 两_CD 题_NN 不_AD 在_VV 大_AD 野_P 万_OD 岁_M 馆本_NN 中_LC 出现_VV 。_PU 大野万_AD 岁馆_VV 本_NN 中错误_NN 的_DEC 第一_OD 题则在_NN 平凡_NN 社版_NN 中位列_NN 第十七_OD 题_M 。_PU
+
+由于_NN 《_PU 发阳论_NN 》_PU 中题_NN 目难度_NN 和水平_NN 均_AD 远高于_VV 《_PU 玄_BA 玄棋经_NN 》_PU 中_CD 一_CD 般_NN 题目_NN ，_PU 桑原道_NN 節身_VV 为_VC 棋坛_NN 领袖毫_NN 无必要_NN 行_P 此_PN 抄袭_NN 之事_NN ，_PU 而_CC 荒木氏_NN 版_NN 本_ETC 《_PU 围棋发_NN 阳论_NN 》_PU 中没有_NR 与_ETC 《_PU 玄玄棋经_NN 》_PU 类似_NN 的_DEC 作品_NN ，_PU 并且_NN 存有_VV 桑原道_NN 節_NN 的_DEG 跋文_NN ，_PU 两_CD 道_M 新题_NN 难度_NN 较_AD 大_VA 且_DEC 风格_NN 与_P 其他_NN 题目_NN 类似_VA ，_PU 因此普遍认_NN 为_VC 荒木氏_NN 版本更_NN 接近_VV 桑原道節_NN 所_MSP 作_VV 的_DEC 原本_NN 。_PU
+
+

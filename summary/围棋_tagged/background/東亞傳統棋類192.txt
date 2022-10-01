@@ -1,0 +1,86 @@
+﻿圍棋_NN 變體_NN
+
+围棋_NN 简单的_NN 规则有许_VV 多_CD 种_M 变体_NN 。_PU 这些_NN 变体_NN 当中_NN ，_PU 有_NN 些古已_NN 有之_VV ，_PU 更多_VV 的_DEC 是现代_NN 的_DEG 发明_NN 。_PU 它们_PN 经常成为_JJ 锦标_NN 赛_NN 的_DEC 附属_NN 赛_NN 事_LC ，_PU 例如_AD 每年_NN 的_DEC 会举行_NN 一_OD 项_NN “_PU 疯_NN 狂围_NN 棋_NN ”_PU (_NN CrazyGo_NN )_PU 赛_NN ，_PU 其中_NN 包括_VV 多_CD 种_M 围棋_NN 变体_NN 。_PU
+
+何谓_NN 主流_NN 围棋规_NN 则_AD 其_PN 实不_NN 太能给_NN 出明确_NN 定义_VV ，_PU 主流棋_NN 规有_VV 多_CD 种_M ，_PU 互相_NN 之间_NN 在_P 诸如_NN 计数_NN 方法_NN 、_PU 打劫_NN 、_PU 自提_NN 、_PU 让子_NN 摆法_NN 、_PU 以及_NN 是_VC 否收_NN 单官等_NN 方面有_NN 微妙_NN 的_DEG 差异_NN 。_PU 不过_VV ，_PU 这些_DT 差异并_NN 没有_VV 大到让对弈_VV 的_DEC 风格_NN 和_NN 策略_NN 变得_VV 不能维持_NN ，_PU 因而一般_AD 不_AD 被_SB 认为_VV 是围_NN 棋变体_NN 。_PU 关于_NN 围棋_NN 的_DEC 各主流_NN 棋规_VV 的_DEC 异同_NN ，_PU 参见_VV “_PU 围棋_NN 规则_NN 比较_NN ”_PU 条目_NN 。_PU
+
+在_P 以下_NN 的_DEC 某些_NN 例子_NN 中_LC ，_PU 规则_NN 差异_NN 对行棋_NN 的_DEG 影响_NN 看上去不_NN 大_VA ，_PU 然而策略_NN 上却有_VV 实质性_NN 的_DEC 不同_JJ 。_PU
+
+西藏围棋_NN 使用_NN 17_CD 路_BA 棋盘_NN ，_PU 开局摆放_VV 12_NOI 颗座子_NN ，_PU 黑白各_NN 6_OD 颗_NN 。_PU 白棋_NN 先行_VV 。_PU 打劫规则_NN 很_AD 独特_VV ：_PU 被_AD 提起_VV 的_DEC 棋子先_NN 前覆盖_NN 的_DEC 交叉点_NN 不_AD 能_VV 立即_VV 着子_NN ，_PU 单这_NN 一_CD 条便足以_NN 使_VV 其_PN 变成_VV 一_CD 种_M 迥然_NN 不同_VA 的_DEC 围棋_NN 。_PU 例如_AD ，_PU 反提_NN 必须_NN 延迟_VV 至_VV 至少_AD 一_CD 手_NN 以后_LC ，_PU 这_PN 就_AD 给_JJ 对手留下_NN 活路_NN 。_PU 最后_NR ，_PU 如果一_NR 方能够_NN 占领_VV 或围_NN 住全部_NN 四_CD 个_M 角点_NN (_PU 即_DT 一_CD ·1_NN 点_NN )_PU ，_PU 那么就_NN 多得_VV 4_CD 0点_M ；_PU 若除此_NN 还占领_NN 或围_NN 住天元_NN ，_PU 则_AD 再得_VV 1_CD 0点_M 。_PU
+
+巡将_NN 围棋_NN 是围_NN 棋_NN 在_P 朝_NN 鲜_NN 半岛演化出_NN 的_DEC 变种_NN 。_PU 至_NN 迟从_NN 7_CD 世纪_NN 开始_NN 就有_VV 。_PU 其最_NN 显著_NN 的_DEC 特点_NN 是_VC 开_JJ 局时要_NN 摆放_VV 16_NOI 颗座子_NN （_PU 8_CD 黑_CC 8_CD 白_M ）_PU ，_PU 黑方先_NN 行_AD 且第_VV 一_CD 手_NN 必须_VV 下_CD 天元_NN （_PU 如_NN 图_NN ）_PU 。_PU
+
+对局_NN 结束_VV 后_LC ，_PU 己方领_NN 地_DEC 内与_NN 边界_NN 划定_VV 无关_NN 的_DEC 棋子会_NN 被_SB 提出_VV ，_PU 然后计目_AD 决胜_VV 。_PU
+
+中国_NR 民间赌_NN 棋_AD 一般_AD 是_VC 论子行彩_NN 。_PU 日本_NN 、_PU 韩国也_NN 类似_VA 。_PU 子彩棋_NN 在_P 日本称_NR 为_ETC “_PU 目碁_NN ”_PU ，_PU 在_P 韩国称为_NR “_PU 방내기_NR ”_PU (Bangneki_NR )_ETC 。_PU 在_P Bangneki_NN 中_LC ，_PU 对局者_NN 押注于_VV 点目_NN 结果_NN ，_PU 每_DT 多_CD 差_NN 10_CD 目_M (_PU 10_CD 目为_VV 一_CD Bang_M )_PU ，_PU 就要_JJ 多付_NN 一定_JJ 数量_NN 的_DEG 赌金_NN ._PU
+
+迷你围棋_NN (_PU 朝鲜语_NN :_PU 바투_NN （_PU 바鬥_NN ）_PU ;_PU 英语_NN :_PU batoo_NN )_PU 是_VC 当代韩国_NN 的_DEC 一_CD 个_M 围棋变种_NN 。_PU 名称_NN 来自_VV 朝鲜语_NN “_PU 바둑_NN ”_PU (_PU 围棋_NN ;_PU baduk)_NN 与_P “_PU 전투_NN ”_PU (_PU 战斗_NN ;_PU juntoo_NN )_PU 的_DEG 组合_NN 。_PU 这种围棋完全_JJ 在_NN 信息_NN 空间中_NN 对局_VV ，_PU 并与_VV 标准围_NN 棋_VV 在_P 若干_CD 方面_NN 有所不同_VV ，_PU 其中_NN 最_AD 显著_VA 的_DEC 是_VC ，_PU 棋盘某_NN 些_NN 区域_NN 中_LC 的_DEC 交叉点_NN 具有_VV 不同_VA 的_DEC 价值_NN ；_PU 另_DT 一_CD 个_M 主要区_NN 别_NN 是_VC ，_PU 对局双_NN 方_NN 在_P 开_NN 局_NN 前就各_NN 放_NN 三_OD 手_NN 棋_LC ，_PU 外加_VV 一_CD 枚_M “_PU 隐藏子_NN ”_PU ，_PU 隐藏子_NN 在_P 局面_NN 上_LC 的_DEC 功能_NN 与_P 普通_JJ 棋子_NN 一_OD 样_NN ，_PU 然_NN 而_CC 对_NN 手却_NN 看不_VV 到_VV 这_NN 枚棋子_NN 。_PU 迷你围_NN 棋曾于_VV 2011_CD 年前_VV 后_VV 在_P 韩国年轻_NR 人当_NN 中_LC 风靡_VV 一_CD 时_NN 。_PU
+
+先吃棋_NN (_PU FirstCapture_NR )_ETC :_PU 先吃_VV 到_P 第一_OD 颗子_NN 便获胜_NN 。_PU 由日本_NN 安田泰_NN 敏_NN 九_CC 段_NN 发明_NN ，_PU 在_VV 他_NN 的_DEC 书_NN 《_PU "_NN GoAsCommunication_NN "》_PU (_PU 书名直译_NN :_PU 棋者手_NN 谈_NN 也_AD )_PU 中发表_NR 。_PU 安田_NN 的_DEC 灵感来_NN 自需要_NN 找到_VV 一_CD 个_M 媒介来呼_NN 吁重视_NN 日本_NR 的欺凌_NR 问题_NN ，_PU 但_CC 很_AD 快_AD 发现_VV “_PU 先吃棋_NN ”_PU 对于老年_NN 人_NN ，_PU 以及_CC 甚至发育_NR 障碍者_NN 也都_NN 是_VC 一_CD 种_M 有助益_VV 的_DEC 活动_NN 。_PU 安田认_NN 为_VC 这种棋有_JJ 其独_NN 立价值_NN ，_PU 不仅仅_NN 是围棋_NN 的_DEC 前驱_NN ，_PU 而且_NN 可以_VV 作为_P 引入_VV 其它_DT 导向_NN 围棋_VV 的_DEC 简单概念_NN 的_DEG 途径_NN 。_PU 关于_VV 后_DT 一_CD 个_M 目标_NN ，_PU 安田推荐_NN 将_BA 先吃棋演_NN 进为_VV “_PU 贪吃棋_VV ”_PU (_PU MostCapture_NN )_PU ，_PU 也就是_NN 吃子多_NN 的_DEC 一_CD 方获胜_NN 。_PU 此_NN 变种_JJ 在西_NN 方常称_NN 作_NN “_PU AtariGo_NN ”_PU （_PU 吃子棋_NN ）_PU ，_PU 作为_VV 一_CD 种_M 将_BA 初学者_NN 引导_VV 至围棋_NN 的_DEC 预备手段_NN 而_MSP 变得_VV 越_NN 来越_NN 流行_VV ，_PU 因_AD 为_VC 接下来_NN 很自_VV 然就_NN 可以_VV 导入_VV “_PU 所_MSP 俘_VV 之地_NN ”_PU 的_DEC 概念_NN ，_PU 而_CC 不仅限于_NN “_PU 所_MSP 俘_VV 之子_NN ”_PU 。_PU
+
+见合围棋_NN (_PU Miai_NN -_PU Go_NN )_PU :_PU 轮到_NN 走棋_VV 的_DT 一_CD 方需在_NN 棋盘_NN 上_NN 摆_NN 两_CD 颗子_NN ，_PU 由_P 其对手_NN 决定去_NN 掉_NN 其中_NN 一_CD 颗子_NN 。_PU
+
+坚忍围棋_NN (_PU StoicalGo_NN )_PU 由_P 抽象_NN 游戏_NN 设计者_NN LuisBola_NN ñ_NN osMures_NN 发明_NN ，_PU 不用_NN 标准_NN 的_DEC 打劫规则_NN ，_PU 而_CC 是_VC 规定_NN 如果上_NN 一_OD 着_NN 对手_NN 提了子_NN ，_PU 那么_NN 就禁止这_NN 一_CC 着提子_NN 。_PU 其它_NN 规则_NN 同围棋_NN 。_PU 禁止_NN 颗子_NN 及块子_NN 自杀_NN 。_PU 计数_NN 采用_NN 数子法_NN 。_PU
+
+所有_DT 已知_NN 的_DEC 互不_NN 相让_VV 的_DEC 循环棋_NN 在_P 坚忍_NN 围棋_NN 中都_NN 不_AD 会_VV 发生_VV 。_PU 规则本_NN 身就_NN 保证_VV 了互不_NN 相让_VV 的_DEC 循环即便_NN 不_AD 是_VC 不_AD 可_VV 能_VV ，_PU 相比_VV 没有_VV 采用_NN 超级劫_NN 规则_VV 的_DEC 普通围_NN 棋来说也_VV 是_VC 罕见到可以完_JJ 全忽略_NN 不计_VV 的_SP 。_PU
+
+劫争_NN 的_DEC 风格_NN 与_P 普通_JJ 围棋中_NN 类似_VV ，_PU 所_AD 不_VV 同者_NN ，_PU 凡是_NN 提子_NN 及迫使_NN 提子_NN 的_DEC 着法皆_NN 不能作_NN 为劫材_NN 。_PU 虽说在此_VV 变种的基本_JJ 规则下_NN ，_PU 倒扑_NN 变得_VV 不_AD 可能（回提之_JJ 前需要_NN 找劫材_VV ）_PU ，_PU 但_CC 可以_VV 制订_VV 例_CD 外条款_NN 特别_NN 允许_VV 倒扑_VV ，_PU 而_CC 仍排除_NN 其它_NN 循环棋_NN 的_DEC 可能_NN 。_PU
+
+数学_NN 卡片棋_NN ，_PU 亦称_NN 数字_NN 卡片棋_NN (_PU 英语_NN :_PU EnvironmentalGo_NR 或_CC CouponGo_NR )_ETC ，_PU 由_P ElwynBerlekamp_NR 发明_NN ，_PU 通过_P 迫使_NN 对局者_NN 作_VV 出定量_NN 决策而_NN 给这_VV 种_NN 棋戏_NN 加入_VV 了数学_NN 精确_NN 的_DEC 元素_NN 。_PU 轮到_NN 走棋_VV 的_DT 一_CD 方_NN 可以_VV 在_VV 棋盘_NN 上_NN 落子_NN ，_PU 也_CC 可_VV 拿取_VV 一_CD 叠_M 卡片_NN 的_DEG 最_NN 上_JJ 面_NN 一_CD 张_NN 。_PU 开_NN 局_CD 时_NN 这叠_NN 卡片共_NN 40_CD 张_NN ，_PU 从下_VV 到_P 上_NN 依_OD 次_NN 标有从½_VV 到_P 20_CD 、_PU 相邻_VV 两_CD 张_NN 间隔_NN ½_NN 的_DEG 数值_NN 。_PU 终局后_NN ，_PU 对局者_NN 的_DEG 得分是_NN 其_NN 目数_NN 与_P 其已_NN 拿取_VV 的_DEC 卡片_NN 上_LC 的_DEG 数值之_NN 和_NN 。_PU 从_NN 效果_NN 上_NN 来说_LC ，_PU 对局者_NN 是_VC 在_P 参与_VV 对整盘_NN 棋_NN 各_NN 阶段先_NN 手价值_NN 的_DEC 逆向拍_NN 卖_NN 。_PU 江铸久_NN 与_P 芮乃伟_NN 曾于_VV 1998年_CD 4月_NT 下了_VV 第一_OD 局_M 数学_NN 卡片棋_NN ；_PU 之_CD 后此变_NN 种_NN 很_AD 少见于_VV 国_NN 际舞台_NN 。_PU
+
+卡片围_NN 棋_NN (_PU CardsGo_NN ):_PU 对局者_NN 轮流从_NN 一_OD 叠_NN 卡片_NN 中_LC 抽取_VV 一_CD 张_M ，_PU 按上面_NN 的_DEG 指令行_NN 棋_NN 。_PU 卡片_NN 上_NOI 大多_CD 印有_VV 某种_JJ 常见_NN 棋形_VV ，_PU 若抽_VV 到_VV 就_NN 在_VV 棋盘_NN 上_LC 摆出_VV 该_DT 棋形_NN 。_PU 若无法_NN 摆出_VV ，_PU 就_AD 算输_VV 。_PU
+
+多方围棋_NN (_PU Multi_NN -_PU playerGo_NN )_PU 使用_NN 多_CD 种_M 颜色_NN 的_DEC 棋子_NN ，_PU 有_NN 三_CD 方或_NN 更多_NN 方玩家_NN 。_PU 游戏_NN 规则_NN 需要_VV 适当_JJ 调整以_NN 平衡_NN 权利_NN ，_PU 因_NN 为_VC 先下的_NN （_PU 特别_NN 是_VC 在方形_JJ 棋盘_NN 上_LC ，_PU 下开局前_VV 四_CD 手的_M ）_PU 人_NN 会_VV 有_VE 显著优势_NN 。_PU
+
+有_VE 若干_CD 可选规_JJ 则让_NN 玩家_NN 之间_NN 可以_VV 互_NN 相_NN 合作_VV ，_PU 例如_AD ，_PU 将_BA 被提之子_NN 在_VV 参与合围_VV 的_DEC 几方_NN 之间_NN 作_NN 分配_NN ，_PU 或者_NN 是玩家_NN 之间_NN 可以_VV 结盟_VV ，_PU 目数_NN 加总_NN 计算_NN 。_PU 还有_VV 一_CD 个_M 称为_VV “_PU 并行_VV 多_CD 方围棋_NN ”(_PU parallelmultiplayergo_NR )_PU 的变种_NR ，_PU 玩家_NR 同时宣_NN 布着法_NN ，_PU 若_CS 两_CD 个_M 玩家_NN 的_DEC 着法_NN 重叠_VV ，_PU 则算他们_NN 弃着_VV 。_PU
+
+纸笔棋_NN (_PU PaperandPencilGo_NR )_NN 是_VC 一_CD 种_M 可以_VV 仅_BA 用纸笔_NN 来玩_VV 的_DEC 围棋_NN 变体_NN 。_PU 与标_NN 准围_NN 棋不同_NN ，_PU 纸笔棋规_NN 则_AD 保证_VV 对局_NN 可以_VV 在有_VV 限_CD 步内终_NN 局_NN ，_PU 不_AD 需_VV 要_AD 打劫规则_VV ，_PU 甚至_VV 不_AD 需_VV 要擦除_NN 棋子_NN 。_PU 纸笔_NN 棋与_NN 标准_NN 围棋_VV 的_DEC 区别_NN 如下_VV ：_PU
+
+骨牌棋_NN (_PU OminoGo_NN )_PU ，_PU 又名四_NR 格骨牌棋_NN (_PU TetrominoGo_NR )_ETC ，_PU 由_P R.WayneSchmittberger_NR 设计_NN 。_PU 对局者_NN 一_OD 步_NN 可_VV 下_JJ 最_AD 多_CD 4_M 颗子_NN ，_PU 但_NN 所下_JJ 棋子_NN 必须是_NN 连_VV 在_P 一起的_NN （_PU 若不计_NR 反射与_NN 旋转_NN ，_PU 则_AD 相连_VV 的_DEC 四子有_NN 五_CD 种_NN 形状_NN ，_PU 三_CD 子_NN 有_VE 两_CD 种_M 形状_NN ，_PU 而_CC 两_CD 子_M 有_VE 一_CD 种_M 形状_NN ）_PU 。_PU 不_CS 使用贴_NN 目_NN ；_PU 黑方_NN 的_DEC 第一步_JJ 落子不_NN 得超过_NN 2_OD 颗_NN 。_PU 终局_NN 计数_NN 采用_NN 数子法_NN ：_PU 每_CD 个_M 被占与_NN 被围之_NN 点均_NN 价值_NN 1_OD 点_NN ；_PU 俘子不_NN 计数_NN 。_PU 发明者_NN 建议_VV 使用_NN 15_CD ×_PU 15_CD 路_M 方格_NN 棋盘_NN ，_PU 棋子_NN 为_NN 方形_NN ，_PU 下_VV 在_P 方格之_NN 中_NN 。_PU
+
+不围棋_NN (_PU NoGo_NN ):_PU 被迫先_NN 提子或_NN 自提的_NN 一_CD 方算输_NN 。_PU 对局者_NN 会构建_NN 只有_VV 己方_NN 可以_VV 落子_VV 的_DEC 围空_NN ，_PU 迫使对_NN 方下禁_NN 手_NN ，_PU 以此获胜_NN 。_PU
+
+通吃棋_NN (_PU KillAllGo_NR )_PU 的_DEC 玩法_NN 是黑方_NN 被_SB 让很_VV 多子_NN ，_PU 但必_NN 须把_NN 白棋_NN 杀得_VV 一_CD 块不_NN 活才算赢_NN 。_PU
+
+量子_NN 围棋_NN 的_DEC 规则_NN 为_VC 有趣_VA 的_DEC 量子纠_NN 缠现象_NN 提供_VV 了_AS 一_CD 种_M 简明_NN 图示_NN 。_PU 对局者_NN 交替落下_NN 处于_VV “_PU 纠缠态_NN ”_PU 的_DEC 棋子对_NN ，_PU 意思_NN 是_VC 这_JJ 对棋子_NN 在_AD 未_AD 来某_VV 一_CD 时刻会_NN 坍缩_VV 为_VC 一颗_JJ 棋子_NN 。_PU 当_DT 一_CD 颗棋子碰_NN 触到_NN 处于_VV 纠缠态_NN 的_DEC 两_CD 颗_M 棋子_NN 之一_NN 时_NN ，_PU 量子_NN 坍缩便会_NN 发生_VV 。_PU
+
+砌砖棋_NN (_PU BlockGo_NN )_PU 是_VC 第20_OD 届_M 奧林匹亞_NN 電腦_NN 遊戲_NN 程式_NN 競賽_VV 的_DT 一_CD 个_M 项目_NN ，_PU 对局者_NN 下的_VV 不_AD 是_VC 棋子而_NN 是_VC 俄_NN 罗斯_NN 方块_NN 。_PU
+
+联棋_NN (_PU 日语_NN :_PU 連碁_NN ;_PU 英语_NN :_PU Rengo)_NN 的_DEG 黑白_NN 两_CD 方各_NN 为_VC 一_CD 队人_M ，_PU 参加者_NN 须依照_NN 固定次_NN 序轮_NN 流下棋_NN 。_PU 如果_NN 不依次序_NN ，_PU 一般会被_NN 罚点_VV （_PU 通常_NN 为_VC 3_CD 个_M 俘子_NN ）_PU 。_PU 同队_NN 队员_NN 之间_NN 不_AD 可_VV 讨论_VV 战术_NN ，_PU 抑或是_NN 使用_NN 任何_DT 暗号_NN ，_PU 所有_DT 允许_NN 的_DEC 交流_NN 仅限于_VV 下列_JJ 问答_NN ：_PU
+
+混双联棋_NN (_PU 日语_NN :_PU ペア碁_NN ;_PU 英语_NN :_PU PairGo_NN )_PU 即黑白_NN 两_CD 队各_NN 由_P 一_OD 男_NN 一_OD 女_NN 两_CD 名_NN 队员_NN 组成_VV 的_DEC 联棋_NN 。_PU 它由日本_NR 混双_NN 联棋_NN 协会_NN （_PU ）_PU 推广_NN ，_PU 旨_AD 在_P 让妇女_NN 更_AD 多_AD 参与_VV 围棋_NN ，_PU 而他_NN 们也希望_NN 妇女参与_NN 的_DEG 增多能够_NN 带动_VV 围棋_NN 本身_NN 的_DEG 热度_NN 。_PU 日本_NR 职业_NN 混_NN 双_CD 联棋_NN 锦标_NN 赛理光_NN 杯于_NN 1994_CD 年创办_NN 。_PU 每年_NN 11月_NT 在_P 东京举_NR 办_ETC ，_PU 自_NN 1990_CD 年以_NN 来从_NN 未间断_NN 。_PU 1992年_NT 在_VV 英格兰坎_NN 特_NN 伯_OD 雷_M 举办_NN 的_DEC 欧洲围_NN 棋_AD 大_VA 会_NN 上_LC ，_PU 混双_NN 联棋首次_NN 引入_VV 欧洲_NN 。_PU 业余_NN 混双赛至_NN 少自_VV 2005_CD 年以来_NN 就成_VV 为_NN 项目_NN ，_PU 科_NN 罗拉_NN 多_CD 丹佛市_NN 亦自_NN 2005_CD 年开_NN 始举办_NN 一_CD 项业_NN 余混双赛_NN 。_PU
+
+单方_NN （_PU 作为_NR 让棋_NN ）_PU 或双_NN 方看_NN 不_AD 到_VV 局面_NN 。_PU 这样_VV ，_PU 他们就得_VV 记忆_NN 整个_NN 局面_NN 。_PU 这_CD 被认为远_NN 比象棋_NN 的_DEC 盲棋_NN 难度大_NN 。_PU 薛用弱_NN 《_PU 集异记_NN 》_NN 中_LC ，_PU 记有_VV 王积薪_NN 观盲棋_NN 一_OD 事_NN 。_PU 当代最_NN 著名_VV 的_DEC 盲棋选_NN 手是鲍橒_NN 业_P 余_NN 6_OD 段_NN ，_PU 另_NN 外孟_VV 泰龄也_NN 试下_NN 过盲棋_NN 并成_VV 功下完_NN 整局_NN 。_PU 孟泰龄认_NN 为_VC 对于_NN 职业_NN 棋手_NN 来说_VV ，_PU 经过_VV 一定_JJ 的_DEG 训练并_NN 不_AD 难_VV 学_AS 会下盲棋_NN 。_PU
+
+对局双_NN 方用_NN 同色_NN 棋子_NN 下棋_NN 。_PU 因_NN 为双_NN 方必_NN 须记住_NN 谁下_VV 了_AS 哪一_JJ 颗子_NN ，_PU 这_CD 个_M 变种被_NN 认为_VV 是_VC 训练人_NN 的_DEG 记忆力_NN 以及_CC 读棋_NN 能_VV 力_NN 的_DEC 有力_NN 工具_NN 。_PU 为_VC 保证_VV 游戏不_NN 因_VV 一_CD 方或双_NN 方忘掉_NN 某棋子_NN 的_DEC 实际颜色_NN 而_MSP 无法_AD 进行_VV 下_NN 去_NN ，_PU 可以_VV 使用_NN 辅助_NN 软件_NN 或请第_NN 三_OD 方_NN 来帮忙追_NN 踪_CD 判断_NN 是谁_NN 提起_VV 了_AS 哪些_NN 棋子_NN 。_PU
+
+日本_NN 围棋史_NN 上有_VV 丈_NN 和梦_NN 中_LC 遇仙_VV 以一_JJ 色棋指导_NN 的_DEC 传说_NN 。_PU
+
+这_OD 类_M 变种不_NN 是_VC 纯_JJ 策略游戏_NN ，_PU 运气_NN 成分_NN 很_CD 重要_VV 。_PU
+
+影子_NN 围棋_NN (_PU ShadowGo_NN )_PU 包括_VV 两位_JJ 对局者_NN ，_PU 一位裁判_NN ，_PU 以及_NN 三_CD 套_NN 棋具_NN 。_PU 对局者_NN 只能_NN 看到_VV 自己的_NN 那块_NN 棋盘_NN ，_PU 而裁判_NN 可以_VV 看到_VV 全部_NN 三_CD 块_NN 棋盘_NN 。_PU 对局者_NN 在_P 自己的_NN 棋盘_NN 上_NN 落子_NN ，_PU 而_MSP 看_VV 不_AD 到_VV 对_NN 手_OD 的_DEG 着法_NN 。_PU 裁_CD 判居_NN 中_LC 监控_VV 整_CD 个_M 对局_NN 。_PU 当_CD 一_CD 方下出禁_NN 手_NN 时_LC ，_PU 会_VV 由_P 裁_CD 判告知_NN （_PU 有的_NR 对局_NN 中_LC 裁判_VV 只_CD 说这_NN 一_CD 手是_NN 禁止_VV 的_SP ，_PU 而有_VV 的_DEC 则还_NN 会告_NN 知究竟_NN 是因_NN 为_VC 这一_JJ 点已_NN 被占还_NN 是_VC 违_JJ 反打劫规_NN 则_NN ）_PU ，_PU 然后该_NR 方可_NN 以_MSP 另选_VV 着法_NN 。_PU
+
+围战_NN 联棋_NN (_PU rengoKriegspiel_NR )_NN 是_VC 联棋_NN 与影子_NN 围棋_NN 的_DEC 复合体_NN 。_PU 对局者_NN 分为_VV 两_CD 队_M ，_PU 每队_NN 两_CD 人_NN ，_PU 加_NN 一_OD 位_M 裁判_NN ，_PU 共_NN 5_OD 人_NN ，_PU 每_AD 人_P 一_CD 套棋具_NN 。_PU 对局者_NN 按联棋_NN 方式_NN 依次_AD 下棋_VV 。_PU 每位_NN 对局者_NN 都只能_NN 看到_VV 自己那块_NN 棋盘_NN ，_PU 而_CC 不_AD 知道_VV 队友及_NN 对手_NN 的_DEC 着法_NN 。_PU 裁判_NN 监控_NN 整个_NN 对局_NN ，_PU 若出现禁_NR 手就告_NN 知_VV 该位_NN 行棋者_NN ，_PU 这_PN 一_CD 手_NN 就_AD 可_VV 以_P 选择_VV 重下_NN 。_PU 裁_BA 判并负责_NN 从_P 所有_DT 相关盘_NN 面_NN 上提取_VV 提子_NN 。_PU
+
+虽_CS 然围_NN 棋盘多_NN 为_VC 19_CD 路_M ，_PU 9路盘_NN 与_P 13_CD 路盘_NN 也_NN 常用_NN 。_PU 比如_NN 初学者_NN 或希_NN 望快点_NN 下完_VV 一_CD 局_NN 的_DEG 玩家_NN 。_PU 在_P 网络_NN 围棋_NN 服务器_NN (_PU 如_P KGS)_NN 上_NN ，_PU 参数_NN 可以_VV 灵_CD 活调整_NN ，_PU 于是这_VV 两_CD 种_M 小棋_NN 盘用_NN 得还更多_NN 一_OD 些_NN ；_PU 而且从_NN 2路盘_NN 到_P 38_CD 路盘_NN 也_AD 都有_VV 。_PU
+每年的_NN MiltonKeynes_NN 围棋_NN 锦标_NN 赛有_VV 一_CD 项流行_NN 的_DEC 附属赛_NN ，_PU 棋盘用_NN 的_DEC 是_VC MiltonKeynes_NR 市_NN 的_DEC 线条式_JJ 地图_NN 。_PU 其非_NN 常规_JJ 的_DEG 网格_NN 呈现_VV 了_AS 一些_CD 有趣_NN 的_DEC 可能性_NN 。_PU
+
+HaraldSchwarz_NR 发明了_NN 一_CD 种_M 以圆环_NN 形_NN 网格_NN 为棋盘_NN 的_DEG 围棋_NN 。_PU
+
+环面围_NN 棋即_VV 在_VV 二_CD 维环面_NN 上下_VV 的_DEC 围棋_NN 。_PU 可以_VV 用_VV 计算机_NN 程序_NN 来玩_VV ，_PU 也_CC 可用普通_JJ 棋盘_NN 来下_VV ，_PU 但需要_NN 对局者_NN 具备_VV 想像力_NN ，_PU 能够_VV 假设_VV 棋盘_NN 对边_NN 是联接到_NN 一起的_NN 。_PU 环面_NN 围棋_NN 的_DEC 战术_NN 更加_VV 优雅_VA ，_PU 因为_NR 棋盘_NN 只有_VV “_PU 中腹_NN ”_PU ，_PU 不存在_NN 边角_NN ，_PU 也就_NN 不_AD 需_VV 要边角_NN 定_NN 式_NN 。_PU
+
+三角_NN 围棋_NN (_PU TriGo_NN )_PU 使用_NN 三角形_NN 组成_VV 的_DEC 网格_NN 棋盘_NN ，_PU 每_DT 个_M 棋子最_NN 多_AD 有_VE 六_CD 气_M 。_PU 为_VC 平衡这_NN 一_CD 点_NN ，_PU 改变_NN 数条_NN 规则_NN ：_PU 劫与_NN 超级劫_NN 限制_VV 在_P 一定_JJ 范围_NN 内_LC ；_PU 不用贴目_NN ，_PU 而_CC 是_VC 在_VV 第一_OD 手_M 之后_LC ，_PU 每_DT 一_CD 手都下_NN 两_CD 颗_NN 棋子_NN 。_PU 当对_NN 局双_NN 方都_NN 停过_VV 一_CD 手以后_NN ，_PU 就要计分_NR （_PU 俘子_NN 与围空_NN 之和_NN ）_PU ，_PU 若得_JJ 分持平_NN ，_PU 则先停着_NN 一_CD 方胜出_NN 。_PU
+
+三_OD 方_NN 三_OD 角_NN 棋_OD (_PU 德语_NN :_PU TriPlan_NN 或_CC Tri_NN -_PU Plan_NN ),_PU 玩家有_NN 三方_NN ，_PU 使用_NN 三角形_NN 网格_NN 棋盘_NN ，_PU 每_DT 个_M 棋子最_NN 多_AD 有_VE 六_CD 气_M 。_PU 棋子被_NN 提分_VV 两_CD 种_M 情形_NN 。_PU 如果一方_VV 的_DEC 棋子被_NN 对手_VV "_PU 之一_NN "_PU 围住_VV ，_PU 那么就被_VV 该_DT 对_CD 手提_NN 取作_VV 为俘子_NN 。_PU 如果_CS 一_CD 方_NN 的_DEG 棋子被_NN "_PU 两_CD 个_M "_PU 对手_NN 的_DEC 棋子合围_NN ，_PU 那_NN 么_NN 被围棋子_NN 就_AD 提起_VV 来_NN 物_NN 归原主_NN ，_PU 且_AD 在_P 该方_VV 的_DEC 下_DT 一_CD 步要_NN 被_SB 摆回_VV 到盘面上_NN 。_PU 如果_CS 一_CD 方中途_NN 退出_VV ，_PU 剩下的_VV 两_CD 方就_NN 要_VV 决_NN 定_AD 谁_VV 将_BA 以一_JJ 敌二。_NN 如果_NN 想单干_NN ，_PU 就_AD 要_VV 提出_VV 一_CD 个_M 在_VV 终局时_NN 须_VV 达到_VV 的_DEC 点数_NN ，_PU 谁提_NN 的_DEC 点数_NN 高谁单干_NN 。_PU 终局后_NN ，_PU 所有_DT 俘子_NN 及盘面_NN 上_LC 的_DEC 棋子_NN 数加总_NN 计算_NN 。_PU 如果_NN 单干_VV 的_DT 一_CD 方_NN 达到_VV 了_AS 其竞叫_NN 的_DEC 点数_NN ，_PU 就_AD 赢了_VV ，_PU 否则算另_VV 两_CD 方赢_NN 。_PU 如果_NN 没有_VV 中途_NN 退出_VV 的_SP ，_PU 则终局_NN 时点_NN 数多者胜_NN 。_PU
+
+其它_NN 二_NN 维_NN 棋盘还_NN 可以_VV 通过_VV 将正_NN 方_NN 形_NN 棋盘_NN 的_NN 四_CD 条_NN 边_NN 依其它_NN 方式_NN 粘合来_NN 获得_VV ，_PU 所_MSP 得_VV 曲面_NN 分别_AD 与_P 球面_NN 、_PU 克莱因瓶_NN 或_CC 实射影_NN 平面_NN 拓扑_NN 等价_NN 。_PU 还_AD 可以_VV 使用_VV 多_CD 块_M 棋盘_NN 粘合来_NN 获得_VV 其它各_NN 种黎_VV 曼_NN 曲面_NN 。_PU
+
+Alak_NN 是_VC 一_CD 种_M 限制在_NN 一_CD 维_NN 空间_NN 中_LC 的_DEG 类围_NN 棋游戏_NN 。_PU
+
+围棋_NN 可以_VV 拓展_VV 至_NN 三_OD 维_NN 空间_NN 。_PU 例如_AD 钻石围棋_NN (_PU DiamondGo_NR )_PU 的_DEC 棋盘_NN 模仿_NN 碳金刚石_NN 的_DEC 正四面体_NN 晶格_NN 结构_NN 。_PU 许多_CD 三维围_NN 棋变_NN 体因_NN 交叉点_NN 的_DEG 四向_JJ 连接_NN 性质_NN 被_SB 改变_VV 而_MSP 导_VV 致玩法_NN 的_DEC 剧烈改变_NN ，_PU 然而钻_NN 石围_NN 棋却_NN 维持_VV 了_AS 这种_JJ 四向_NN 连接性_NN 。_PU 另_DT 一_CD 个_M 例子_NN 是_VC CameronBrowne_NR 所构思_NN 的_DEC 弹珠_NN 围棋_NN (_PU Margo_NN )_PU ，_PU 以弹珠_NN 为棋子_NN ，_PU 互相_NN 可以_VV 堆叠_VV 。_PU
+
+一_CD 款名_VV 为_VC FreedGo_NN 的_DEC 程序_NN 可_VV 用以_VV 在_P 具有_VV 一_CD 般_NN 拓_AD 扑_VA 的_DEC 棋盘_NN 上_NN 下_NN 围棋_NN 。_PU 目前它_NN 已_AD 配备_VV 了_AS 11_CD 种_M 不同_VA 的_DEC 棋盘_NN ，_PU 既有_VV 三_CD 维_NN 空间_NN 中_LC 的_DEG 形状_NN （_PU 包括_VV 立方體_NN 、_PU 球面_NN 、_PU 圆柱_NN 、_PU 鑽石結構_NN 、_PU 环面及_NN 莫比乌_NN 斯_NN 带_NN ）_PU ，_PU 也有_VV 平面_NN 场域_NN ，_PU 其中_NN 的_DEC 交叉点_NN 连接_VV 到_VV 三_CD 个_M 、_PU 五_CD 个_M 或_CC 六_CD 个_M 相邻点_NN ，_PU 并且还_NN 可以_VV 定制_VV 棋盘_NN 。_PU
+
+
+
+

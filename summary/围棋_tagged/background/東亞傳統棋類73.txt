@@ -1,0 +1,13 @@
+﻿中国_NN 电视_NN 围棋_NN 快_NN 棋赛_NN
+
+中国_NR 电视_NN 围棋_NN 快_AD 棋赛_VV ，_PU 是_VC 一_OD 项_M 始于_NN 1998_CD 年的_M 中国_NR 传统围_NN 棋_AD 赛事_VV ，_PU 开始时称_NN CCTV_NN 杯电视_NN 快棋赛_NN ，_PU 从_P 2002_CD 年起更_NN 名_NN 为_VC 中國招商_NN 銀行_VV 杯_CD ，_PU 2012_CD 年起更名_NN 为中_NN 信银_NN 行杯_NN 。_PU 由中国_NN 棋院和_NN 中国_NR 中央_NN 电视台_NN 联合_NN 主办_NN 。_PU 每年_NT 本赛有_NN 64_CD 位棋手_NN 参加_VV ，_PU 采用_NN 单败淘_NN 汰制_VV ，_PU 每方_NN 10_CD 次_CC 1分钟保留_JJ 时间_NN ，_PU 用完_NN 之后_LC 30_CD 秒一步_JJ 读秒_NN 。_PU 该_DT 项比赛_NN 前_JJ 两_CD 名_NN 可以_VV 获得_VV 亚洲杯_NN 电视围_NN 棋_NN 快_NN 棋赛_NN 的_DEC 参赛资格_NN 。_PU 奖金与_NN 对局费_NN (_PU 税前_NT )_PU ：_PU 第1_OD 轮败者_NN 获_VV 1000_CD 元_M ，_PU 第2_OD 轮败者_NN 获_VV 2000_CD 元_M ，_PU 第3_OD 轮败者_NN 获_VV 4000_CD 元_M ，_PU 第4_OD 轮败者_NN 获_VV 8000_CD 元_M ，_PU 第5_OD 轮败者_NN 获_VV 16000_CD 元_M ，_PU 亚军获_NN 12万_CD 元_M ，_PU 冠军获_NN 25万_CD 元人_NN 民币_VV 。_PU 2021年_NT 起冠军30万_NT ，_PU 亚军_NN 12万_CD 。_PU
+
+第5_OD 届招_NN 商银行杯_NN 在_P 2006年_NT 完成_VV
+2007年_NT -_PU 2008年_NT
+本届招_NN 商银_NN 行杯由_NN 中国_NR 围棋_NN 协会和_NN 中央_NN 电视台_NN 体育_NN 频道主_NN 办_NN ，_PU 招商银_NN 行_NN 独家赞_NN 助_NN ，_PU 冠名点金_NN 中国_NR 。_PU 冠军_NR 奖金_NN 8万_CD 元_NN ，_PU 亚军_NN 3万_CD 元人_NN 民币_VV 。_PU
+本届_NN 比赛_NN 根据_NN 上届冠_NN 亚军_NN 及按_NN 等级_NN 分排出_NN 16_CD 名_CD 种子_NN ，_PU 于_P 2009年_NT 进行_VV 。_PU
+
+2016年_NT 6月1日_NN ：_PU 时越胜王_NR 昊洋_NN ，_PU 唐韦星_NN 胜胡_NN 跃峰_NN
+2017年_NT 7月31_NN 日_NN 下午_VV ，_PU 平湖圣_NN 雷克大_NN 酒店_NN ：_PU <_PU br_NN >_PU
+
+

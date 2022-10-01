@@ -1,0 +1,7 @@
+﻿佔角_NN
+
+佔角_NN 是圍棋_NN 用語_NN ，_PU 指在布_NR 局階段一_NR 方把_NN 棋子_NN 下_NN 在_P 棋盘_NN 任_NN 意_VC 一_CD 角_NN 的_DEG 星位_NN ，_PU 從_NN 而達_VV 到_P 佔據_NN 角位的_NN 手段_NN 。_PU 由於棋盤_NN 的_DEC 角位比_NN 邊和_NN 中腹更_NN 容易_AD 防守_VV 和_NN 圍地_NN ，_PU 所_MSP 以_VV 一_CD 局棋通常_NN 以佔角_NN 開始_VV ，_PU 其次_NN 分別才_NN 是邊和_NN 中腹_NN 。_PU 較常見_NN 的_DEC 佔角_NN 位置_NN 有_NN 星位_NN 、_PU 小目_NN 、_PU 三三_CD 、_PU 目外及_NN 高目等_NN 。_PU
+
+圖中左_NN 上白子_NN 下_NN 在_AD 星位_VV ，_PU 左下_NN 的_DEC 黑子_NN 則下_VV 在_P 三三點_CD ，_PU 右下_NN 白子_NN 所_MSP 處_VV 點_CD 為_M 小目_NN ，_PU 右上_VV 的_DEC 黑子則_NN 是_VC 高目_NN 。_PU 在_P 這些_NN 位置_NN 下子_NN 都能_NN 夠為佔據_VV 的_DEC 角位_NN 提供_VV 一定_JJ 的_DEG 保護_NN ，_PU 從而_NN 增加_VV 對_NN 手利_NN 用如_NN 掛角_NN 的_DEC 方法來_NN 攻角_NN 的_DEC 難度_NN 。_PU
+
+

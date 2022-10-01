@@ -1,0 +1,8 @@
+!  ||| S:128 E:130 ||| NNP
+or  ||| S:130 E:133 ||| CC
+exclamation  ||| S:133 E:145 ||| JJ
+point  ||| S:145 E:151 ||| NN
+may  ||| S:151 E:155 ||| MD
+also  ||| S:155 E:160 ||| RB
+refer  ||| S:160 E:166 ||| VBP
+to ||| S:166 E:168 ||| TO

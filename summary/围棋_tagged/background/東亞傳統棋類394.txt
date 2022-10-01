@@ -1,0 +1,31 @@
+﻿索_NN 索夫规_NN 则_NN
+
+索索夫_NN 规则是_NN 连珠_NN 的_DEG 开局_NN 规则_VV 。_PU 它是由_NN 爱_NN 沙_NN 尼亚棋手_NN 安茨_NN ·_PU 索索夫_NN 提出_VV 的_SP 。_PU
+
+開局方_NN (_PU 臨_BA 時黑棋_NN )_PU 下前三手棋_VV ，_PU 限定_VV 在_P 26_CD 種連珠_NN 開局_VV 。_PU
+
+另_DT 一_CD 方_NN (_PU 臨時白棋_NN )_PU 選擇_NN 持黑_NN 或白_NN 。_PU
+
+白方_NN 下出_VV 第四_OD 手_M ，_PU 同時_NN 提議_NN 五_CD 手打點需_VV 1_OD 、_PU 2_OD 、_PU 3_OD 或_NN 4_OD 個_NN 。_PU
+
+另_DT 一_CD 方_NN (_PU 臨時黑棋_NN )_PU 選擇_NN 持黑_NN 或白_NN 。_PU
+
+第五_OD 手黑_NN 方必須_NN 提供_VV 不同型_JJ 的_DEG 提議數_NN 目打_NN 點_OD 。_PU
+
+白方從_NN 中_LC 選擇_VV 一點_CD ，_PU 當第_NN 五_OD 手_NN 。_PU
+
+此後_NN 按連_NN 珠規_NN 則繼_NN 續進行_NN 。_PU （_PU 黑子_NN 有_VE 禁_NN 手_CD ）_PU
+
+結論_NN :_PU 輪到_NN 要走的_NN 一_CD 方_NN 有權_VV 交換_NN
+
+索索夫_NN 规则_VV 提供_VV 了_AS 更_AD 多_CD 新_M 的_DEG 平衡开局_NN ，_PU 特别_NN 是_VC 传统_JJ 规则_NN 的_DEC 白优_NN 开局_VV 。_PU 但黑棋_NN 优势_VV 过_AD 大_VA 的_DEC 开局_NN （_PU 如_CS 溪月_NN 、_PU 峡月_NN 、_PU 水月_NN 、_PU 浦月_NN 、_PU 花月等_NN ）_PU ，_PU 仍然_NN 不适合_NN 在_P 这_CD 个_M 规则中_NN 使用_NN 。_PU 为_VC 了解决_NN 这个_NN 问题_NN ，_PU 索索夫_NN -N_CD 规则_NN 被_SB 提出_VV ，_PU 并且_CC 得到_VV 了_AS 国际_NN 连珠_NN 联盟_NN （_PU RIF_NN ）_PU 的_DEC 承认_NN 。_PU
+
+索索夫_NN -_PU N_NN 规则_NN 是_VC 索索夫_NN 规则_VV 的_DEC 改进版_NN 。_PU 当假白_NN 方落_NN 下第_VV 4_CD 手棋_NN ，_PU 并_AD 声明第_NN 5_CD 手棋_VV 的_DEC 打点_NN 数时_NN ，_PU 打点_NN 数需要_NN 不_AD 超过_VV N_NN （_PU 原始_NN 的_DEC 索索夫规_NN 则_AD 不_AD 超过_VV 4_CD ）_PU 。_PU
+
+根据_NN 不同_VA 的_DEC N值_NN ，_PU 索索夫_NN -N_CD 规则_NN 在新变化_VV 的_DEC 自由度_NN 上有_VV 很_AD 大_JJ 区别_NN 。_PU 索索夫_NN -_PU 5_CD 规则_NN 的_DEC 可战变化与_NN 塔拉_NN -_PU 山口规则_NN 非常_AD 接近_VV 。_PU 在_P 索索夫_NN -_PU 8_CD 规则_NN 中_LC ，_PU 26_CD 种_M 连珠开_NN 局_NN 均_NN 可_VV 战_NN 。_PU
+
+在_P 2008_CD 年_LC ，_PU 索索夫规_NN 则_AD 是_VC 欧洲_NN 连珠锦_NN 标赛_NN 的_DEC 官方_NN 规则_VV 。_PU 同时_NN ，_PU 它也_VV 在_VV 一_CD 些_M 其他_NN 国际_NN 比赛中_NN 被_SB 采用_VV 。_PU
+
+2011年_NT ，_PU 索索夫_NN -_PU N_NN 规则_NN 经俄_NN 罗斯_NN 连珠_NN 协会_NN 提案_VV 后_LC ，_PU 被国际_NR 连珠_NN 联盟_NN （_PU RIF_NN ）_PU 采纳_VV 。_PU 2015年_NT 的_DEG RIF_NN 会员大会_NN 中_LC ，_PU 索索夫_NN -_PU 8_CD 规则_NN 被_SB 确定_VV 为_VC 自2017_NN 年_NN 世界_NN 连珠_NN 锦标赛_NN 开始_VV 使用_NN 。_PU
+
+

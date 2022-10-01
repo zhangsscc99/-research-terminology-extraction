@@ -1,0 +1,25 @@
+﻿电脑_NN 象棋_NN
+
+電腦象棋_NN ，_PU 是指人_NN 工智_NN 能象棋_NN 对弈_NN 软件_NN 。_PU 電腦象_NN 棋軟體_NN 的_DEG 製作_NN ，_PU 分成開局_VV 、_PU 中盤_NN 、_PU 殘局_NN 三_CD 個_CD 部分_NN ，_PU 各自有_VV 不同_VA 的_DEC 演算法_NN ，_PU 開局主_NN 要_VV 以儲_JJ 存的_NN 開局棋譜_NN 為本_VV ，_PU 中盤與殘_NN 局_NN 則_NN 運用_NN 審局_NN 函數_NN 和對局樹_NN 的_DEC 計算_NN ，_PU 但殘局_NN 必須_VV 考_NN 慮特例_NN 的_DEG 計算_NN 。_PU
+
+最早的_JJ 電腦_NN 程式_NN 的_DEC 象棋_NN 遊戲是_NN 1986_CD 年_M 的_DEG 洛斯阿_NN 拉莫_NN 斯象棋_NN 。_PU 由_P 於象_NN 棋與_NN 西洋棋許_NN 多_CD 相似之處_VV ，_PU 再_AD 加上_VV 電腦_NN 西洋_NN 棋發_NN 展較為_NN 成_VV 熟_NN ，_PU 電腦象_NN 棋軟體_NN 設計_VV 的_DEC 架構跟_NN 方法_NN 大致_AD 上都是參_VV 考_CD 電腦西_NN 洋_AD 棋_VA 。_PU
+
+2006年_NT 最好的電_JJ 腦象_NN 棋軟體_NN ，_PU 已_AD 可以_VV 和_P 頂尖_NN 棋士相_NN 抗衡_VV 。_PU
+
+最早_JJ 由宏碁電_NN 腦_NN 開始_NN 舉辦電_NN 腦象_NN 棋比賽_NN ，_PU 從_NN 1988_CD 年到_NN 1990_CD 年止_NN 。_PU 另_DT 一_CD 個是電腦_NN 奧林_NN 匹亞_NN 競賽_NN 中有_VV 電腦象棋_NN 的_DEG 項目_NN ，_PU 從_NN 1989_CD 年辦_VV 到_P 1992_CD 年暫停_NN ，_PU 2001_CD 年起繼_NN 續每_VV 年_CD 舉辦_NN 。_PU 最_AD 近幾年_NN 電_VV 腦象棋_NN 發展_NN 越來_NN 越熱絡_NN ，_PU 2004_CD 年起_NN 世界電_NN 腦象_NN 棋爭_NN 霸賽每_NN 三_CD 年_NN 舉辦_VV 一_OD 次_NN 。_PU 中_NN 国机器_NN 博弈锦_NN 标赛_NN 2006_CD 年起_NN 開始每年_NN 舉辦_VV 。_PU
+
+1985_CD 年到_NN 1990_CD 年宏_NN 碁電_NN 腦就曾_NN 辦過_NN 人對_NN 電腦_NN 的_DEC 競賽_NN 。_PU
+之後_NN 偶有_VV 電腦_NN 程式_NN 參加人類_VV 的_DEC 象棋_NN 比賽或_NN 檢定賽_NN ，_PU 但時常_NN 遇到_VV 阻撓_NN ，_PU 譬如不_NN 予排名_NN 甚至_NN 不准參賽_NN 。_PU 人腦_NN 對電_NN 腦象棋_NN 大_OD 賽自_VV 1999_CD 年開_NN 始每年_NN 舉辦_VV 。_PU
+
+為了_NN 讓象_NN 棋程式_NN 與程式_NN 之間能夠_NN 自動下棋_NN ，_PU 因此必須_NN 定出_VV 了_AS 一_OD 些_M 共通協議_NN （_PU protocol_NN ）_PU ，_PU 譬如_NN 棋盤_NN 如何_NN 表示_VV 、_PU 棋步如_NN 何表示_NN 、_PU 或是複雜_NN 一_AD 些_VA 的_DEC 時間_NN 控制_NN 。_PU 比較早_NN 公開_VV 提出_VV 的_DEC 有_NN cxboard_NN 及淺紅_NN pluginspec_NR 。_PU 現在_NR 比較廣_NN 為流行_NN 的_DEC 是基於西洋棋_NN 協議修_NN 改而來_NN 的_DEC 中国_NN 象棋_NN 通用_NN 引擎_NN 协议_NN （_PU UCCI_NN ）_PU 。_PU
+
+由於人_NN 類_AD 已_AD 累積_VV 相_NN 當豐富_NN 的_DEC 開局知_NN 識_NN ，_PU 因此開局_AD 純用_VV 電腦_NN 計算_NN 是無法_NN 勝過人類_VV 的_SP 。_PU 普遍_VA 的_DEC 做法_NN 是_VC 搜_BA 集棋譜_NN ，_PU 統_CD 計_NN 分析各_NN 種走法_NN ，_PU 製成開局_VV 資料庫_NN 。_PU 更_AD 進_P 一_CD 步則會_NN 透過人類_NN 專_NN 家訂_NN 正開局庫_NN 的_DEC 內容_NN /_PU 加入_VV 最新的開局_JJ 研究_NN 成果_NN 。_PU
+
+電腦象_NN 棋對殘局_NN 的_DEC 處理主_NN 要_VV 有_P 兩_CD 種_NN 方法_NN ，_PU 一_CD 是_VC 編_JJ 寫_NN 大量_CD 規則_NN ，_PU 當盤面_NN 符合某_NN 些條件_NN 則調_NN 整評_NN 分函數_NN ，_PU 這個_NN 方法_NN 的_DEC 優點是可以將_JJ 棋譜或_NN 專家_NN 研究_NN 的_DEC 結果編_NN 寫入_NN 程式內_NN ，_PU 缺_NN 點_OD 是_VC 例外_AD 可能很多_VV 。_PU 另_AD 一_CD 種則_NN 是利_NN 用電_NN 腦_NN 強_AD 大_VA 的_DEC 計算力與_NN 儲_NN 存空間_NN ，_PU 窮舉_VV 一_CD 個兵種_NN 所有_DT 的_DEG 狀況_NN ，_PU 做成_VV 資料庫_NN ，_PU 優_NN 點_OD 是_VC 資料_NN 庫內_NN 的_DEC 資料_NN 都很精確_NN （_PU 某個_NN 盤面_NN 的_DEC 輸贏_NN ，_PU 距離_NN 輸贏_NN 步數_NN ）_PU ，_PU 但缺_NN 點_NN 是_VC 建造_NN 資料_NN 庫曠日_NN 費時_VV ，_PU 在_P 實戰中_NN 還_NN 不_AD 夠_VV 實用_NN 。_PU 因此_NR 實戰_NN 程式都_NN 是_VC 採用第_NN 一_CD 種_NN 方法_NN ，_PU 少數程_NN 式_NN 會_NN 再利_NN 用殘_NN 局_NN 庫作_NN 輔助_NN 。_PU
+
+殘局庫_NN 研究_NN 困難在_NN 於象_NN 棋棋規_NN 的_DEC 處理_NN ，_PU 還有_VV 如何快_NN 速建造_NN 大_NN 資料庫_NN 。_PU
+
+
+
+
+

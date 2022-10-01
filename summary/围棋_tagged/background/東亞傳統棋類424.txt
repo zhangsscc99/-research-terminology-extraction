@@ -1,0 +1,15 @@
+﻿讓子_NN (_PU 圍棋_NN )_PU
+
+讓子_NN 是圍棋_NN 的_DEC 一_CD 種對弈_NN 制度_NN ，_PU 指持_NN 黑子_NN 的_DEC 一_CD 方先_NN 在_P 棋_NN 盤_NN 上擺上_NN 一_OD 定_NN 數_NN 目的子_NN 之後_NN ，_PU 再_AD 由_P 執白子_NN 的_DEC 一_CD 方開始下_NN ，_PU 這_BA 種制度_NN 在_VV 於使_NN 原本_NN 棋力_NN 有_NN 差距的_NN 兩_CD 個_NN 對弈者_NN ，_PU 能_VV 拉近_VV 彼此距離_NN ，_PU 以_MSP 增加_VV 趣味並_NN 有_VE 助磨練_NN 棋力_NN ，_PU 棋力好_NN 的_DEC 一_CD 方因為_NN 對_NN 手_NN 先放子_NN 已_AD 在_VV 盤勢_NN 上_NN 領_AD 先_VA ，_PU 因此必須_NN 儘量_CD 採取_NN 猛烈攻_NN 勢_NN ，_PU 而棋力_NN 較差_VV 的_DT 一_CD 方則_NN 可以_VV 試_CD 圖守住_NN 盤勢_VV ，_PU 以學習於_NN 正確_NN 的_DEC 應對_NN 攻守_NN 方式_NN 。_PU 讓子_NN 的_DEC 數目_NN ，_PU 大_AD 都_AD 直接從_VV 九_CD 子_M 開始_NN ，_PU 主要_JJ 是因_NN 為_NN 近_NN 年發明了_NN 九_OD 路_NN 、_PU 十三_CD 路棋盤_NN ，_PU 能_VV 下到_VV 十九_CD 路_NN 已_AD 有_VE 20_CD 級以上_NN 實力_NN ，_PU 故大多從_NR 九子_NN 遞減_NN ，_PU 偶爾_NN 則從讓_NN 十三_OD 子_NN （_PU 中_NN 四_OD 目_NN 法_NN ）_PU 開始_NN 。_PU 若是只有_NN 十三_OD 路_M 底子_NN ，_PU 可_AD 能_VV 就得讓_VV 十_CD 三子_NN 甚至_NN 十六_CD 子了_NN ，_PU 至於_NR 初學_NN 的_DEC 九路_NN ，_PU 甚至_NN 可以_VV 讓到_VV 25_CD 子_NN 。_PU
+
+放子_NN 順序_NN (_PU 以白棋_NN 方向看_NN )_PU ：<BR>_Err
+（_PU 通常_JJ 不會讓_NN 10_OD ~_PU 12_OD 子_M ，_PU 主要_NN 是因_NN 為_NN 不_AD 好_LB 放置_NN ，_PU 且讓超過_NN 九子_NN 通常_NN 實力_NN 已差_NN 距不小_NN ，_PU 通常_JJ 直接跳_NN 13_OD 子_M ）_PU <_PU BR_NN >_PU
+
+
+通常_JJ 會直接_NN 跳至_VV 25_CD 子_NN 。_PU
+
+也_AD 有另_VV 一_CD 種擺法_NN
+
+一般而言_AD ，_PU 多讓一_NR 子_NN ，_PU 被認為_NN 大_NN 約_NN 是_VC 十_CD 目_M 左_JJ 右_JJ 的_DEG 差距_NN 。_PU 依據應氏_NN 規_AD 則_VA ，_PU 級位間_NN 的_DEC 讓子數_NN 目算法_NN 為_NN ：_PU 級差_NN /_PU 2_CD ，_PU 無條件_NN 進位_VV ，_PU 若無餘數_NN ，_PU 則黑_NN 數子_NN 178_CD 目勝_NN ，_PU 若餘_VV 一_CD ，_PU 則_NN 黑數子_NN 181_CD 目勝_NN 。_PU 段位間_NN 則_NN 差_NN 一_CD 段_NN 差_AD 一_CD 子_NN ，_PU 不_AD 過_VV 高_AS 段棋士_NN 差_NN 一_CD 段棋力就_NN 差_NN 甚_AD 多_VA ，_PU 甚至同段_NN 間_NN 可以_VV 讓子_VV ，_PU 是_VC 以段位間_NN 讓子_NN 並不如_NN 級位間_NN 有效_VA 的_DEC 拉近_NN 距離_NN 。_PU 另_NN 外也_VV 有_VE 用貼_NN 還_NN 目的_NN 規則_VV 。_PU
+
+

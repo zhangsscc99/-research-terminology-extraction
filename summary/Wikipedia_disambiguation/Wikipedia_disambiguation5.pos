@@ -1,0 +1,11 @@
+Other  ||| S:64 E:70 ||| JJ
+currencies  ||| S:70 E:81 ||| NNS
+with  ||| S:81 E:86 ||| IN
+$ ||| S:86 E:87 ||| $
+1  ||| S:87 E:89 ||| CD
+banknotes ||| S:89 E:98 ||| NN
+,  ||| S:98 E:100 ||| ,
+bills  ||| S:100 E:106 ||| NNS
+or  ||| S:106 E:109 ||| CC
+coins  ||| S:109 E:115 ||| NNS
+are ||| S:115 E:118 ||| VBP

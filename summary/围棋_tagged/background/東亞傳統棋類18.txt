@@ -1,0 +1,17 @@
+﻿_CD GNUGo_NN
+
+GNUGo_NN 是_VC 自由軟体_NN 基金會所_NN 研發_VV 的_DEC 圍棋軟體_NN 。_PU 它_NN 的_DEG 原始碼_NN 具有_VV 可移植性_NN ，_PU 能_VV 夠_OD 輕易_VA 的_DEV 編譯成GNU/Linux_VV 的_DEC 軟件_NN ，_PU 也_CC 可_VV 移植_VV 到_P 類_NN Unix_NN 系統或_NN MicrosoftWindows_NN 和_NN MacOSX_NN 上_NN 運行_VV 。_PU
+
+GNUGo_NN 除了_NN 可以_VV 使用_NN ASCII_NN 介面_NN 對弈_NN 外_LC ，_PU 另外_NN 支援_NN 兩_OD 種_NN 協定_NN ——_PU 圍棋數據_NN 機_OD 協定（G_JJ oModemProtocol_NR ）_PU 和圍_NR 棋文_NN 字_NN 協定_NN （_PU GoTextProtocol_NR ）_PU ，_PU 且_CC 可_VV 轉成圖形_VV 使用者_NN 介面對_NN 弈_NN ，_PU 目前存_NN 在_VV 許多_CD GNUGo_NN 的_DEC 圖形_JJ 使用者_NN 介面_NN 。_PU GTP_NN 也_AD 可_VV 在_P 圍_NN 棋_NN 伺服器_NN 進行線_NN 上_VV 對_NN 弈_OD （_PU 原_OD 先用在橋_JJ 牌軟體上_NN ）_PU ，_PU 在_P NNGS_NN 、_PU KGS_NN 和_NN 其它_NN 平台_NN ，_PU 也_AD 有它_VV 的_DEC 複製品_NN 在_VV 運行_VV 。_PU
+
+GNUGo_NN 等級分為_NN 0_OD ~_PU 10_OD 級_M ，_PU 其中_NN 0_OD 級_NN 是_VC 最_AD 弱_VA ，_PU 10_CD 級是最_NN 強_VA 。_PU 在程式_JJ 與玩_NN 家對_NN 弈圍棋時_NN ，_PU 9x9_CD 棋盤_NN 約有5到_VV 7_CD 級_NN 的_DEG 強度_NN ，_PU 並且_NN 支援從_NN 5x5_CD 到_CC 19x19_CD 多_CD 種_M 棋盤_NN 大小_NN 。_PU
+
+在級別_NR 的_DEC 效能上_NN ，_PU 2009_CD 年_LC ，_PU GNUGo_NN 曾與最_NN 頂尖_VV 的_DEC 商業軟體_NN 在_VV 良_AD 好_VA 的_DEC 硬體執_NN 行_VV 下_NN 一_OD 起_M 比較_NN ，_PU 大約弱6_AD 到_P 7子_NN ，_PU 但是此時_NN 一_OD 起_NN 比較_VV 的_DEC 最強軟體_NN ，_PU 並非_NN 使用_NN 蒙地_NN 卡羅_NN 方法_NN 。_PU
+
+GNUGo_NN 在許_VV 多_CD 電_M 腦圍_NN 棋競賽_NN 表現出色_VV 。_PU 例如_AD 它拿下_NN 2003_CD 年和_NN 2006_CD 年_M 的_DEG 奧林匹亞_NN 電腦_NN 競賽_NN 。_PU
+
+在_P CGOS_NN 上_NN ，_PU GNUGo_NN 被當作_NN 基準分數_NN ，_PU 帳號為_NN codice_NN
+
+
+
+

@@ -1,0 +1,61 @@
+﻿飛刀_NN 定式_NN
+
+飛刀_NN 定式是_NN 一_OD 類_NN 圍_OD 棋定式_JJ 的_DEG 統稱_NN ，_PU 因_AD 後_CD 續分支綿_NN 長複雜_NN ，_PU 對弈雙_NN 方爭_NN 奪激_NN 烈而得名_NN 。_PU
+
+它_NN 由_P Tromp_NN -_PU Taylor_NN 規則下_NN 的_DEG 零_OD 知_M 識圍棋_NN AI_NN 發現_NN ，_PU 人類棋_NN 手_NN 深入_VV 研究的_NN 一_CD 類_CD 星位定式_NN ，_PU 是_VC 圍棋發_NN 展到_VV AI_NN 時代發現_NN 的_DEC 最大型的_JJ 定式_NN 。_PU
+
+1_OD ._PU 複雜定_NN 式_NN
+
+據統計_NN 截至_NN 2019年_CD 3月_NT 前後共_NN 計有_VV 680_CD 余種_NN 分支_NN 。_PU
+目前_NN 對其_NN 變化_VV 分支仍_JJ 然沒有_NN 簡明_NN 的_DEC 結論_NN ，_PU 且_NN 分_NN 支_CD 數量仍_NN 在_VV 增加之中_VV 。_PU 與_NN 之相比_NN ，_PU 人_NN 類_NN 棋手_NN 發現_VV 的_DEC 複雜_NN 定式_VV 在_P 分支數_NN 量_NN 上_NN 遠少於_NN 該定式_JJ 。_PU
+
+2_OD ._PU 全局_NN 定_NN 式_NN
+
+該定式_JJ 弈至_NN 羋氏飛_NN 刀時_NN ，_PU 往往會_NN 將棋盤鋪_NN 陳_NN 過半_VV ，_PU 其他_NN 三個_NN 角部_NN 的_DEG 子力_NN 配置亦_NN 影_OD 響定式_JJ 的_DEG 變化發展_NN 。_PU
+
+3_OD ._PU 胜负_NR 优先_NN
+
+AlphaGo_NN 發現_NN 並推廣_NN 應用_NN 的_DEC 星位佈局_NN 和_P 三三_CD 入_CD 侵手段_NN ，_PU 推動_VV 了_AS 人類棋手_NN 對_OD 星定式_JJ 中_NN 點_NN 三_CC 三_NN 變化_VV 的_DEC 深入_NN 研究_NN 。_PU
+
+Facebook_NN 的_DEC ElfOpenGo_NN 項目與_NN 2019年_CD 2月_NT 釋出_VV 的_DEC 權重會_NN 在_P 高算力_NN 的_DEC 情況下_NN 高_JJ 頻_NN 使用_NN 羋_NN 氏_NN 飛刀_NN 。_PU
+
+雖然_JJ AlphaGo_NN 公開_NN 資料_NN 與對弈_NN 情況_NN 中_LC 並未出現_VV 該定式，_JJ 隨着_NN 公開_NN 可_VV 獲得_VV 的_DEC 圍棋_NN AI_NN 進展_NN ，_PU LeelaZero_NN 項目_NN 出現_VV 了_AS 與_P AlphaGo_NN 選擇避_NN 開定式_JJ 的相同_JJ 走法_NN 。_PU LeelaZero_NR 從_ETC ElfOpenGo_NR 公開_NN 棋譜_NN 中_LC 習得_VV 該定式_JJ 並超過_NN Elf_NN 系列_NN 權重_NN ，_PU 至_P 266_CD 號權_NN 重會_VV 在_P 普通_JJ 算力情_NN 況下_JJ （_PU 1_OD 6_M 0_CC 0_CD playouts_M ）_PU 大量_CD 使用_NN 該定式_JJ 並且以_NN 此定式在_JJ 同算力_NN 情況_NN (_PU 大於_NR 100_CD k_CD 計_NN 算量_NN )_PU 下_CD 擊敗_NN KataGoG170_NN 系_NN 列_NN 的_DEG 20B_CD 權重_NN 。_PU
+
+含有額外_NR 圍棋_NN 領域_NN 知識_VV 的_DEC AI_NN :_PU KataGo_NN 目前沒_NN 有_VE 獨立_JJ 發現_NN 該定式。_JJ 由於_NN 使用_NN 目數策_NN 略_NN ，_PU 使得_VV KataGo_NN 對後續_NN 變化_VV 的_DEC 探索_NN 傾向較_NN 低_VA ，_PU 不熟悉_NN 該定式_JJ 變化_NN 。_PU 這_DT 一_CD 認知_NN 情況與人_NN 類_NN 棋_NN 手對_NN 該定式的_JJ 認識_NN 過程_NN 類似_VA 。_PU
+
+1_CD ._PU 小_JJ 目騙_NN 招_NN
+小目定式_NN 之一_NN ，_PU 一_CD 般_NN 當作_NN 騙招_NN 教學_NN 。_PU
+
+在_P 1989_CD 年首_NN 屆應_NN 氏杯_NN 對局_NN 中_LC ，_PU 聶衛平_NN 决_NN 赛_NN 對戰_NN 曹薰铉_NN 五_CD 番棋_NN 中_LC ，_PU 第二_OD 、_PU 第五_OD 局_M 使用_NN 定式_NN 的_DEC 前几手_NN ，_PU 到_P 黑_NN 7_OD 時_NN ，_PU 曹_NN 執黑_NN 挺頭_NN (_PU a位長_NN )_PU ，_PU 没有_VE 選擇該_NN 變化_VV 。_PU 聶認爲開_NN 局_NN 沒必_NN 要下_VV 的_DEC 激烈_NN ，_PU 於自己_NN 的_DEC 棋風有利_NN 。_PU
+
+2_OD ._PU 星位_NN 場合_NN 着法_NN
+
+三三_OD 入侵小飛應後，黑7退長硬封白棋_Err
+
+20_OD 世紀_NN 80_CD 年代_NN ，_PU 黑_NN 5_OD 小_JJ 飛應_NN 三三_CD 入_CD 侵開_NN 始流行_NN ，_PU 當時棋手_NN 認_NN 爲黑棋_NN 擋住_VV 就_CD 很不錯了_NN ，_PU 沒必要_NN 過早_VV 開展波_NN 及全局_NN 的_DEC 戰鬥_NN 。_PU 較早_NN 發動_NN 爭奪是_NN 不_AD 通_AD 棋理_VA 的_DEC 表現_NN 。_PU
+
+3_OD ._PU AI_NN 研究_NN
+
+AI_NN 時代_NN 引發_VV 了_AS 職業棋手_NN 對_CC 星定式_JJ 的_DEG 研究熱潮_NN ，_PU 其中_NN 三三_CD 侵角後_NN 的_DEC 短手數_NN AI_NN 定式_NN 獲得_VV 了_AS 棋手認_NN 同與_NN 實戰_NN 應用_NN 。_PU
+
+當黑_NN 5_CD 小飛_VV ，_PU 白_AD 在_VV 徵子_NN 有利_VA 的_DEC 情況下_NN ，_PU 採用白_NN 6二_CD 路托_NN （_PU AlphaGo_NN 有_NN 此時_NN 脫先_VV 的_DEC 處理_NN ）_PU 。_PU
+
+羋氏_NN 飛刀_NN 是飛刀_NN 定式中_NN 穩定出現的_JJ 棋型_NN ，_PU 其後_NN 的_DEC 變化最爲_NN 複_NN 雜_NN 難解_NN （_PU 參見_NN LeelaZ_NN 晉升譜_NN 20200219_CD ）_PU 。_PU 羋氏飛_NN 刀是人_NN 類_NN 棋手_VV 在_VV AI_NN 研究的_NN 基礎上領_NN 先_AD 公開_VV AI一_CD 步發現_NN 的_DEC 定式_NN 。_PU
+
+羋氏飛_NN 刀是_NN 19_CD 路_BA 圍棋_NN 中_LC ，_PU 飛刀_NN 定式_NN 的_DEC 大型變化_JJ 分支_NN 。_PU 當飛刀_NN 定式走至_NN 防守_NN 方外扳時_NN ，_PU 該棋型_JJ 稱爲羋氏_NN 飛刀_VV 。_PU 其後_NN 對弈雙_NN 方爭奪_NN 激烈_VV ，_PU 棋盤_NN 鋪陳過_NN 半仍然_NN 勝負難解_NN 。_PU
+
+羋昱_NN 廷對_NN 飛刀_NN 定式_NN 的_DEG 深入_NN 研究_NN 與實戰_NN 應用_NN 成果_NN ，_PU 大大推動_NR 了棋壇對_NN 飛_CC 刀定式_JJ 的_DEG 認識和_NN 使用_NN ，_PU 並_CS 使_VV 羋氏飛_NN 刀成_VV 爲人類_NN 圍_NN 棋棋手對_NN 抗_VV AI_NN 圍棋棋_NN 手_NN 的_DEG 重要手段_NN 。_PU
+
+在_P 2018年_CD 8月_NT 1日_NT 中國名_NR 人戰_NN 半決賽_NN ，_PU 芈昱廷_NN 執白對童_NN 夢成_VV 的_DEC 比賽中_NN ，_PU 星位_NN 點三三_CD 的_DEC 定式_NN 下出_VV 了_AS 扳的_JJ 新手_NN (_PU 下_CD 圖第_NN 20_CD 手_NN )_PU ，_PU 其後整_NN 個黑角_NN 被_AD 吃_VA ，_PU 甚至造_NN 成_VV 當_NN 時_VV 在_P 野狐圍_NN 棋_NN 分析_NN 情勢_VV 的_DEC 絕藝_NN AI_NN 誤判_NN 角落_VV 的_DEC 對殺_NN 。_PU 之後這_NN 一_CD 手_NN 及_CC 其_PN 後的_NN 變化_VV 在_P 職業_NN 比賽_NN 中流行_NN ，_PU 被媒體命_NN 名_NN 為_ETC 「_PU 芈氏飛刀_NN 」_NN 。_PU
+
+該變化在_NN 次月即_NN 2018年_CD 9月_NT ，_PU 引發_VV 了_AS 職業棋_NN 手_NN 的_DEG 研究熱潮_NN 和_CC 實戰_NN 應用_NN 。_PU 雖然_NR 2017年_CD 7月_NT 李世乭_NN 在_VV 農心盃_NN 已_AD 經下_VV 出_CD 斷打_NN （_PU 不走_NN 20_CD 扳而在_NN b_NN 位_NN 斷_CD ）_PU 。_PU 但羋昱廷_NN 對_NN 外扳_NN 棋型_VA 的_DEC 深入_NN 研究和_NN 職業賽_NN 中_LC 的_DEG 實_DT 戰_CD 成果_NN ，_PU 及_AD 至_VV 業餘_NN 網路圍棋_NN 中流行_NN 後_NN ，_PU 中國棋壇_NN 稱_NN “_PU 小羋飛_NN 刀_NN ”_PU “_PU 羋氏飛刀_NN ”_PU ，_PU 簡稱_NN “_PU 羋刀_NN ”_PU 。_PU 羋氏飛_NN 刀作_NN 爲飛_NN 刀定式最_JJ 大型_NN 的_DEG 變化_NN ，_PU 往_NN 往有_VV 混用_NN 指稱_NN 的_DEC 情況_NN 。_PU
+
+由於飛_NN 刀定式_NN 變化_VV 非常複雜_NN ，_PU 難_CS 以把握_NN ，_PU 棋手要_NN 避免_VV 弈_NN 至羋刀_NN 棋型_VA 的_DEC 複雜大_NN 型_NN 爭奪_VV 的_DEC 局面_NN ，_PU 可以_VV 採取_VV 以下_NN 定式_VV 避開_VV 。_PU
+
+AlphaGo_NN 在_P ELO5125_NN 之後_LC ，_PU 在_P 應對_NN 二路托時_NN ，_PU 均選擇_NN 長出_VV ，_PU 避免_VV 了_AS 複雜_NN 的_DEC 飛刀_NN 定式_NN ，_PU LeelaZero_NN 有_NN 同樣_NN 的_DEC 選擇趨勢_NN 。_PU 可見防_JJ 守一_NN 方避免_NN 通過_VV 一_NOI 個角部_NN 的_DEC 爭奪而_NN 決定_VV 全盤勝負_NN 。_PU
+
+黑棋_NN 25_CD 手也_NN 可_VV 脫先或與_VV a位打吃_NN 。_PU
+
+黑_NN 17_CD 粘上_NN 簡明_NN 定型_VV ，_PU 防守_NN 方獲得_NN 外勢_NN 的_DEC 同時_NN ，_PU 棄掉_VV 的_NN 1_OD 、_PU 3_OD 、_PU 13三_CD 子以後_NN 可以_VV 作_VV 爲劫材_NN 。_PU AlphaGoTeach_NR 中有此_NR 變化_NN 。_PU b位虎_NN 回到_NN 傳統變化_NN ，_PU 均_AD 製造_VV 了_AS 劫材庫_NN 。_PU
+
+

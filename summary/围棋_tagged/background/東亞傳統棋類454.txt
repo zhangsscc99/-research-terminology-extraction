@@ -1,0 +1,12 @@
+﻿金木_NN 水火_NN 土棋_NN
+
+金木_NN 水火土棋_NN ，_PU 又稱_NN 五_CD 行棋_VV ，_PU 轿子棋_NN ，_PU 是流_NN 傳於_NN 中_LC 國的_VV 兩_CD 人_M 棋類_NN 。_PU 遊戲_NN 過程_NN 吃子時_NN ，_PU 玩家_NN 從己_NN 方原_NN 點_CD 開_NN 始喊_NN ：_NN 「_PU 金_NN ！_PU 」_NN ，_PU 然後每動_NN 一_CD 格_NN 就_AD 喊_P 一_CD 字_NN ，_PU 「_PU 木_NN ！_PU 」_NN 、_PU 「_PU 水_NN ！_PU 」_NN 、_PU 「_PU 火_NN ！_PU 」_NN 、_PU 「_PU 土_NN ！_PU 」_NN ，_PU 喊_NN 到_P 最_NN 後_NN 一_CD 字_NN 時吃子_NN ，_PU 因而_AD 得名_VV 。_PU
+
+溫州在_NR 民國時_NN 期有_VV 竹枝词_NN 〈_PU 金木_NN 水火土_NN 〉_PU 曰_NN ：_PU 「_PU 界線_NN 畫成_VV 井字形_NN ，_PU 土金水木莫_NN 爭_AD 井_VA 。_PU 後來破盡_NN 井_NN 田制_VV ，_PU 百_OD 輩_M 兒戲任_NN 用兵_NN 。_PU 」_PU
+
+
+
+一_CD 些地_NN 方棋類_NN 的_DEG 移動_NN 步數有差_NN ，_PU 但棋盤_NN 相同_VA 。_PU
+
+
+

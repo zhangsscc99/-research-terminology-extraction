@@ -1,0 +1,7 @@
+﻿渡_NN (_PU 圍棋_NN )_PU
+
+渡是圍棋_NN 的_DEC 用語_NN ，_PU 指於棋盤_NN 邊緣_NN （_PU 通常乃_NN 三路_NN 以下_NN ）_PU ，_PU 將一_JJ 塊尚未_NN 安定_NN （_PU 活淨_NN ）_PU 的_DEC 棋與另_NN 一_CD 塊_NN 已_AD 安定_VV 的_DEC 棋_NN ，_PU 抑或_NN 同樣_NN 尚未_NN 安定_NN 的_DEC 棋相_NN 連接_VV 。_PU 兩_OD 塊_M 活淨_NN 的_DEC 棋相_NN 連接_VV 通常_JJ 不稱為渡_NN 。_PU
+
+渡發生_NN 在_P 尚未_NN 安定_VV 的_DEC 棋與已_NN 安定的_NN 棋_NN ，_PU 則未_NN 安定的_NN 棋得_VV 到_VV 安定_NN ；_PU 發生在_NR 兩_OD 塊皆未處於_NR 安定狀態_NN 的_DEC 棋_NN ，_PU 則_NN 不_AD 一_AD 定得_VV 到_NN 安定_NN 。_PU
+
+

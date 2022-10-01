@@ -1,0 +1,26 @@
+﻿绝艺_NN
+
+绝艺_NN （_PU ）_PU 是_VC 中国_NR 腾讯_NN 公司_VV 的_DEC AILab_NN （_PU 腾讯人_NN 工智能_NN 实验室_NN ）_PU 开发_VV 的_DEC 围棋和_NN 游戏人_NN 工智能_NN 。_PU 绝艺之_NN 名出_NN 自唐朝_NN 诗_NN 人_NN 杜牧_NN 的_DEC 诗_NN “_PU 绝艺如_NN 君天下少_NN ，_PU 闲_NN 人_NN 似我_NN 世间无_NN ”_PU 。_PU 围棋人_NN 工智能_NN 绝艺_VV 在_P 2017_CD 年_PU 3_CD 月_PU 18_CD -_PU 19_CD 日的_M 第10_OD 届_M UEC_NN 杯世界_NN 電腦_NN 圍棋大_NN 會_NN 上_NN 夺得_NN 冠军_NN ，_PU 并_AD 在_P 2017年_NT 3月26_NN 日_NN 的_DEC 第5_OD 届_M 电圣战_NN 上_NN 分先_AD 战胜_VV 了_AS 日本的_NN 一_CD 力_NN 辽_AD 七_CD 段_M 。_PU 绝艺也_NN 开发_VV 了王者_NN 荣_NN 耀游戏_NN 版_NN 本_ETC 。_PU
+
+绝艺人_NN 工智能_NN 的_DEC 第一_OD 个_M 版_NN 本于_NN 2016年_CD 3月4日_NT 完成_VV 。_PU 6_CD 月下_M 旬突_NN 破业余_NN 6_OD 段_NN ，_PU 8_NN 月_NN 开始_NN 在_P 腾讯_NN 野狐_NN 围棋_NN 网络_NN 对弈_NN 平台_NN 测试_VV ，_PU 8月_NT 23日_NT 首次战胜职_JJ 业棋_NN 手_NN ，_PU 11_CD 月2日_M 第一_OD 次战胜世界_JJ 冠军棋_NN 手_NN 。_PU 曾用_NN 账号名_NN 包括_VV 虎虎_VV 有_NN 生气_NN 、_PU 野狐扫地_NN 僧_NN 、_PU 天下无_NN 狗_NN 20_CD 、_PU 绝艺_NN 、_PU 骊龙_NN 、_PU 刑天等_NN 。_PU 其中_NN 绝艺_NN 账号_NN 使用_NN 时间_NN 最久_VV ，_PU 对弈盘_NN 数最多_NN ，_PU 名气最_NN 大_VA 。_PU
+
+绝艺人_NN 工智能_NN 自_VV 2016_CD 年_CC 11_CD 月起_M 使用_NN 绝艺_NN 账号在_NN 腾_NN 讯_NN 野狐围_NN 棋_NN 网络_NN 对弈_NN 平台_NN 上_LC 公测_VV 。_PU 截至_NN 2017年_CD 5月_NT 12日_NT ，_PU 绝艺_NN 账号_NN 的_DEG 总战绩_NN 为_VC 590_CD 战_CC 454_CD 胜_CC 136_CD 负_M ，_PU 胜率约_NN 为_VC 77%_CD 。_PU 战胜过_NN 的_DEC 对手_NN 包括_VV 柯洁_NN 、_PU 朴廷桓_NN 、_PU 井山裕太_NN 、_PU 陈耀烨_NN 、_PU 唐韦星_NN 、_PU 古力_NN 、_PU 常昊_NN 、_PU 时越_NN 、_PU 柁嘉熹_NN 、_PU 范廷钰_NN 、_PU 芈昱廷_NN 、_PU 党毅飞_NN 、_PU 江维杰_NN 、_PU 李钦诚_NN 、_PU 王檄_NN 、_PU 周俊勋_NN 、_PU 姜东润_NN 、_PU 朴永训_NN 、_PU 元晟溱_NN 、_PU 白洪淅_NN 等_ETC 世界_NN 冠军棋_NN 手_NN 。_PU
+
+自2017年_NT 3月_NT 1日_NT 起_LC ，_PU 腾讯野_NN 狐围_NN 棋网_NN 正式施_NN 行新_VV 的_DEC 升段规则_NN ，_PU 9_CD 段_M 棋手在_NN 最近_VV 20_CD 盘_M 有效_JJ 升降级_NN 对局_NN 中_LC ，_PU 有_VE 18_CD 盘以上_NN （_PU 含_NN 18_CD 盘_M ）_PU 战胜银冠_NN 以上_NN （_PU 含银_NR 冠_ETC ）_PU 棋手_NN ，_PU 则由_NN 9_CD 段升_VV 为_VC 10_CD 段_M ，_PU 且上_NN 不封顶_NN 。_PU 3月3日晚_NN ，_PU 绝艺在_NN 战胜_VV “_PU 印城_NN 之霸_NN ”_PU （_PU 辜梓豪_NN 五_OD 段_NN ）_PU 后_NN ，_PU 达到升1_VV 0_CD 段_M 的_DEG 标准_NN ，_PU 从而由9_AD 段升_VV 为_VC 10_CD 段_NN ，_PU 成_NN 为_VC 腾讯野_NN 狐_OD 首_CD 个_M 10_CD 段_NN 。_PU 3_CD 月_PU 4_CD 日_M ，_PU 绝艺加_NN 冕金冠_NN 。_PU
+
+绝艺_NN 参加_VV 了_NN 2017年_NT 3月_NT 18-19日_NT 在日本_NR 举办_NN 的_DEC 第1_OD 0_OD 届_M UEC_NN 杯世界_NN 電腦_NN 圍棋大會_NN 。_PU 18_CD 日_NN ，_PU 绝艺在_NN 采用_VV 瑞士_NN 制的_VV 预赛_JJ 阶段先_NN 后_AD 战胜_VV Julie_NN 、_PU naiver1_NN 、_PU CrazyStone_NN 、_PU MARU_NN 、_PU AQ_NN 、_PU Rayn_NN 和_NN DeepZenGo_NN ，_PU 七_CD 连胜排_NN 名_OD 第一_OD 进入_NN 16_CD 强_BA 单败淘_NN 汰赛_VV 的_DEC 决赛_NN 阶段_NN 。_PU 1_CD 9日_M ，_PU 绝艺在_NN 决_NN 赛_NN 阶段先_NN 后_AD 击败_VV Kugutsu_NN 、_PU DolBaram_NN 、_PU Rayn_NN 和_NN DeepZenGo_NN ，_PU 四_CD 連_M 勝夺得_NN 冠_AD 军_VA 。_PU
+
+绝艺因_NN 夺得_VV 第10_OD 届_M UEC_NN 杯世界_NN 電腦_NN 圍棋大_NN 會冠军_NN ，_PU 而获得_NN 参加_VV 第5_OD 届_M 电圣战_NN 的_DEC 资格_NN ，_PU 于_P 2017年_NT 3月26_NN 日_NN 分先_VV 对_NN 弈日本_NN 的_DEG 一_CD 力_NN 辽_AD 七_CD 段_M ，_PU 并_AD 执黑_VV 157_CD 手_NN 中盘胜_NN 。_PU
+
+2017年_NT 12月_NT 10日_NT ，_PU 在_P 东京_NN 举办_VV 的_DEC 2017_CD 围棋_NN AI_NN 龙星战_NN （_PU AIRYUSEI_NN ）_PU 上_NN ，_PU “_PU 绝艺_NN ”_PU 执白_NN 战胜日_NN 本围棋_NN AI_NN “_PU DeepZenGo_NR ”_PU 夺得_NR 冠军_NN 。_PU
+
+2017年_NT 12月_NT 16日_NT ，_PU 在_P 三_OD 亚_M 举办的_NN “_PU 绝艺_NN 挑战赛_NN ”_PU 上_NN ，_PU “_PU 绝艺_NN ”_PU 战胜_NN TWT_NN 腾讯围_NN 棋锦标赛_NN 的_DEC 冠军童_NN 梦成_VV 六段和_NN 亚军_NN 连笑_NN 九段_NN 。_PU
+
+2018年_NT 7月31_NN 日_NN ，_PU 腾讯_NN 世界人_NN 工智_NN 能围棋_NN 大_NN 赛总_NN 决赛在_NN 中国_NR 棋院落下_NR 帷幕_NN ，_PU 围棋_NN AI_NN “_PU 绝艺_NN ”_PU 以_NN 10_CD 战全胜_NN 的_DEC 表现夺冠_NN 。_PU
+
+2019年_NT 8月25_NN 日_NN ，_PU “_PU 绝艺_NN ”_PU 战胜星_NN 阵围棋_NN ，_PU 获得_VV 2019_CD “_PU 中信建_NN 投证_VV 券杯_NN ”_PU 世界_NN 智能围_NN 棋_AD 公开_VV 赛冠军_NN 。_PU
+
+绝艺_NN 目前已_NN 经_VV 开发_VV 了_AS 王者荣_NN 耀游戏_NN 版本_VV ，_PU 并参与_NN 排位赛_NN 。_PU
+
+
+

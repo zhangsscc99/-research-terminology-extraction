@@ -1,0 +1,12 @@
+﻿圍棋_NN 名譽_NN 稱號_NN
+
+在_P 任_DT 一_CD 日本_NN 七_NN 大_NN 圍棋賽_NN 連_NN 續_NN 奪冠_NN 五_OD 次以_VV 上_NN 或是_CC 通算_NR 得冠_NN 十_OD 次者_VV ，_PU 將_AD 在_P 其_PN 退休後_NN 受_NN 封_NN 名譽稱號_NN ；_PU 若是連續_NN 奪_OD 冠_NN 十_OD 次_M 則馬上_NN 獲得_VV 名譽稱號_NN 。_PU 以下_NN 是_VC 史上所有_NR 名譽稱_NN 號持有者_VV 一_CD 覽_NN 。_PU
+
+
+
+
+
+
+
+
+

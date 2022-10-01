@@ -1,0 +1,15 @@
+﻿_OD Gomocup_NR
+
+Gomocup_NN 是_VC 五子棋人_NN 工智能_NN 的_DEC 世界性_NN 比赛_NN 。_PU 自_NN 2000_CD 年以来_NN ，_PU 每年举办_NN 一_OD 次_NN 。_PU 截至_NN 2017_CD 年_LC ，_PU 它是国际_NN 上最大_NN 且_NN 最_AD 有_VE 影响力_NN 的_DEC 五子棋人_NN 工智能_NN 赛事_VV ，_PU 有来自约_VV 1_CD 0_CD 个_M 国家与_NN 地区的_NN 40_CD 余位作_NN 者参与_NN 。_PU
+
+基于_NN 20_CD x20_NN 的_DEC 棋盘_NN 下_NN 的_DEG 无禁手_NN 自由_NN （_PU freestylegomoku_NR ）_PU 规则是_NR Gomocup_NR 创立_NN 之出_VV 就_AD 被_SB 采用_VV 的_DEC 规则_NN 。_PU 2009年_NT ，_PU 无禁手_NN 标准规则_NN （_PU standardgomoku_NR ）_PU 作为_VV 一_CD 个_M 新_NN 的_DEG 竞赛规_NN 则_AD 被_SB 引入_VV 了_AS Gomocup_NN 。_PU 该_DT 规_NN 则下_VV ，_PU 棋盘大_NN 小_NN 为_VC 15x15_CD ，_PU 且超过_NN 5_CD 个_M 子不算赢_NN 也_AD 不_AD 算输_VA 。_PU 2016_CD 年_LC ，_PU 连珠规则_NN 作为_VV 又_DT 一_CD 个_M 新_NN 的_DEG 竞赛规_NN 则_AD 加入_VV 了_AS Gomocup_NN 。_PU 该_DT 规_NN 则下_VV ，_PU 棋盘大_NN 小_NN 为_VC 15x15_CD ，_PU 且黑棋_NN 有_VE 禁手_VV 。_PU 由于_P 参与_VV 无禁手_NN 自_NN 由_P 规则角_NN 逐_NN 的_DEC 程序_NN 数量较_NN 多_VA ，_PU 该规则_NN 的_DEC 比赛被_NN 分成_VV 了_AS 若干_CD 小组_VV ，_PU 同时增_NN 设了_VV 该_DT 规则下_NN 的_DEC 快棋比赛_NN 。_PU
+
+因_NN 为_NN 原始_NN 的_AD 没有_VV 附加_JJ 规则的_NN 五子_NN 棋先手_NN 必胜_VV ，_PU 从_P 2006_CD 年_CD 开始_NN ，_PU Gomocup_NN 使用_NN 五子棋_NN 专家_NN 准备_NN 的_DEG 平衡_NN 开局_NN 作为_VV 对局_NN 的_DEC 起点_NN 。_PU
+
+2006年_NT 、_PU 2011_NN 年_NN ，_PU 在_VV 捷克_NN 举办_VV 了_AS 两_CD 届_NN 人机_NN 比赛_NN 。_PU 其中_NN ，_PU 2006年_NT 比赛_NN 的_DEC 对战双_NN 方是_NN 当年_NN Gomocup_NN 排名前_NN 3_OD 的_DEC 程序与_NN 3位排_NN 名捷克_NN 五子_NN 棋在线_NN （_PU Pi_NN š_NN kvorkyonline_NR ）_PU 前10_NR 的_DEC 棋手_NN ，_PU 每位棋_NN 手与_NN 程序_NN 进行_VV 2局_NN 比赛_NN 。_PU 比赛_NN 的_DEC 结果_NN 是程序_NN 1_CD 胜_CC 1_CD 和_CC 1_CD 负_M ，_PU 总比分_NN 为_VC 3:3_CD 。_PU 2011_CD 年比赛_NN 的_DEC 对战双_NN 方是_NN Gomocup_NN 排名前_NN 4_OD 的_DEG 程序_NN 与_P 捷克等_NN 级分排_NN 名_P 前_NN 4_OD 的_DEG 棋手_NN 。_PU 与_P 第一_OD 届比赛_NN 类似_VA ，_PU 每位棋_NN 手与_NN 程序_NN 进行_VV 2局_NN 比赛_NN 。_PU 比赛_NN 的_DEC 结果_NN 是程序_NN 3_CD 平_CC 1_CD 胜_M ，_PU 总比分_NN 为_VC 5:3_CD 。_PU
+
+2016年_NT ，_PU Gomocup_NN 对其_NN 各个规则_NN 的_DEC 比赛均_NN 建立_VV 了_AS Elo_NN 等_ETC 级分_NN 。_PU 该_DT 等级_JJ 分的_NN 计算使_NN 用了_NN 所有_VV 历史_NN 比赛_NN 结果_NN ，_PU 在_P 每届比赛_NN 后_AD 更新_VV 。_PU 等级_JJ 分的_NN 计算基于_NN 开源_NN 工具_NN BayesElo_NN ，_PU 并针对_VV 五子棋_NN 进行_VV 了_AS 少许_NN 参数_NN 调整_VV 。_PU
+
+2000年_NT 至今_NN 的_DEC Gomocup_NN 比赛_NN 结果_NN 如下_VV ：_PU
+
+

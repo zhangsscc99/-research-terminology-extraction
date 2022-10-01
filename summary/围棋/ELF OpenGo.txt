@@ -1,0 +1,21 @@
+﻿ELF OpenGo
+
+ELF OpenGo是Facebook AI Research團隊（）所開發的電腦圍棋軟體及所釋出的資料。
+
+ELF OpenGo是Facebook AI Research團隊（）依照DeepMind在科學期刊《自然》上對於AlphaGo Zero所發表的論文《》與AlphaZero的論文《》所實做出的開源電腦圍棋程式，也就是不使用人類棋譜與累積的圍棋知識，僅實做圍棋規則，使用單一類神經網路從自我對弈中學習（不像AlphaGo以人類角度思考，設計了Policy Network與Value Network）。
+
+訓練網路使用20 blocks x 224 filters，在2000個GPU下訓練兩週，相較AlphaGo Zero使用的20 blocks x 256 filters版本略小一些（AlphaGo Zero另外還有40 blocks x 256 filters）。
+
+由於Facebook所擁有的計算資源，產生出高品質的訓練網路資料與對局棋譜，許多基於相同演算法或是AlphaGo相關論文內容的圍棋軟體都積極測試ELF OpenGo所提供的訓練資料。
+
+Leela Zero是目前少數有公開程式碼並公開訓練網路資料的圍棋軟體，且仍然有志願者持續投入資源計算演化，故經常被當作其他圍棋軟體的基準。
+
+由Facebook自行測試，ELF OpenGo與Leela Zero對戰的成績為198:2。在Leela Zero的進度網站上也經常會比較現有訓練網路與ELF OpenGo的比較。
+
+志願者在CGOS上使用Leela Zero的程式引擎以及由ELF OpenGo公開的訓練網路（v0）轉換成Leela Zero格式的訓練網路（即Hash值codice_1的訓練網路，帳號codice_2）進行對弈測試，但由於目前在CGOS上測試的不是ELF Go的程式引擎，不清楚ELF OpenGo的訓練資料在轉換後的影響。，對弈已經超過1000盤，BayesElo分數約3770分。
+
+Facebook與韩国棋院合作，以中國規則與韓國的世界頂尖棋手對弈（貼目7.5目），在電腦每步限制50秒（使用單機單張NVIDIA Tesla V100），人類不限時間的前提下，每個人至少下兩局，達到14:0的成績，對弈對手包括金志錫、申真谞、朴永训以及崔哲瀚。
+
+
+
+

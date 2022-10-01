@@ -1,0 +1,8 @@
+﻿Pandanet
+
+Pandanet，原名IGS（Internet Go Server），即IGS围棋服务器，是一家圍棋即时对弈網站，有來自世界各地的棋手在上面下棋，並且因曾不時會有職業棋士上站而受到注目。
+
+Pandanet为日本PANDA-GO公司所有，因而也被稱為「熊貓圍棋網」，PANDA-GO公司同时出品用于IGS的对弈客户端glGo。Pandanet同时也支持第三方的客户端，例如Sente开发的Goban（仅运行于Mac OS X平台）。
+
+
+

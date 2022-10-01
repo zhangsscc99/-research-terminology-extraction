@@ -1,0 +1,9 @@
+﻿模樣_NN
+
+模樣_NN 是圍棋_NN 的_DEC 一_CD 個名詞_NN ，_PU 指在佈_NR 局階_NN 段_NN ，_PU 利用_NN 適當_NN 而稍大_NN 間距_NN 的_DEC 落子_NN ，_PU 將某一_NR 較大而_NN 完整_VV 的_DEC 地域_NN 纳入_VV 己方_NN 的_DEC 勢力範_NN 圍_NN ，_PU 這個範_NN 圍便_VV 稱作_NN 模樣_NN 。_PU
+
+但模樣_NN 與_NN 實地不同_NN ，_PU 亦即這_NN 一_CC 區域並非_NN 確定_VV 在_P 終局時_NN 會成_VV 為自己_NN 的_DEC 地盤_NN ，_PU 對方_NN 可以_VV 藉由_P 打入或_NN 侵削等_NN 方式_NN ，_PU 來搶_NN 奪這_NN 塊地盤_NN ，_PU 但_NN 模樣_NN 的_DEC 作用就_NN 在於_VV ，_PU 即使對_NN 方藉_NN 打入_VV 侵削成_NN 功減少了_NN 地域_NN ，_PU 在_P 正確_NN 的_DEC 對應之_NN 下_NN ，_PU 持_NN 有_NN 模樣_NN 的_DEC 一_CD 方必定_NN 可以_VV 在_P 其_NN 他地_NN 方獲取_NN 實_NN 地_NN 、_PU 取_NN 得_NN 外勢_NN 、_PU 對打入_NN 的_DEC 棋子_NN 展開_NN 攻擊_NN 、_PU 或者_NN 在_VV 他處另_NN 形成_VV 一_CD 個新_NN 的_DEC 模樣_NN 。_PU
+
+早期_NN 的_DEC 圍棋在_NN 佈局_NN 階段較_NN 重視實地_NN ，_PU 因此對_NR 於大_NN 模樣_NN 的_DEC 構築並_NN 不_AD 積極_VV ，_PU 1930年_NT 代以_VV 木谷實_NN 、_PU 吳清源_NN 等_ETC 人為首_NN 的_DEC 後的_JJ 新佈局_NN 開始_NN 重視_NN 模樣_NN 和_NN 外勢_NN ，_PU 而_CC 1970_CD 年代以_NN 後以_NN 武宮_NN 正樹為首_NN 的_DEC 宇宙流_NN ，_PU 更_NN 是_VC 將大_NN 模樣作_NN 戰作_NN 為主要_NN 的_DEC 策略_NN 之一_NN ，_PU 自此_NN 以後_NN 模樣_VA 的_DEC 構築_NN 及_CC 其_PN 攻防才_NN 受到_VV 重視_NN 。_PU
+
+

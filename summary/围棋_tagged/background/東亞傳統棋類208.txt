@@ -1,0 +1,13 @@
+﻿夾食_NN
+
+夾食_NR ，_PU 是至少_NR 出現於_NN 三_OD 國_NN 時代的_NN 兩_NN 人_NN 傳統棋類_NN 。_PU
+
+《_PU 太平_NN 御览_NN 》_PU 卷_NN 七五五_CD 引_NN 三_OD 国_NN 魏邯郸_NN 淳_NN 《_PU 艺经_NN 》_PU ：「_PU 夹食者_NN ，_PU 二_CD 人_NN 黄黑各_NN 十七_OD ，_PU 其_PN 横列於_NN 前_OD 第四_OD 道_NN 上_LC ，_PU 甲乙迭推_NN 。_PU 二_CD 棋夹_NN 一_AD 为_VC 食棋_NN ，_PU 不_AD 得食_VV 两_CD ，_PU 不_AD 得_VV 边食_NN 。_PU 不_AD 由道则_NN 不行棋_VV ，_PU 入_BA 夹不_NN 取_VV 食_NN 。_PU 一_CD 棋_NN 为_VC 筹_NN ，_PU 赌_AD 多_CD 少随人_NN 所制_VV 。_PU 」_PU
+
+《_PU 梵網_NN 戒本_NN 疏日珠鈔_NN 》_PU ：「亦如小兒於棊槃上兩邊多列棊，_PU 棊子_NN 作行_VV 。_PU 各各更互推_NN 使向前_NN 被夾者_NN 。_PU 則輸財物_NN 。_PU 時人亦_NN 名爲_NN 甲食也_NN 。_PU 」_PU
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+﻿_OD KataGo_NR
+
+KataGo_NN 是由_NN DavidJ_NN .Wu（lightvector）所研究並開發的一套圍棋軟體_PU 。_PU
+
+KataGo_NN 是_VC DavidJ_NN ._PU Wu_NN 依照_NN DeepMind_NN 的_DEC AlphaGoZero_NN 與_NN AlphaZero_NN 論文為基礎_NN ，_PU 以及許_NN 多_VV 在_P DeepMind_NN 論文_NN 之後_VV 的_DEC 相_NN 關_NN 研究_NN 及原創_NN 的_DEC 研究_NN ，_PU 大幅_AD 改善_VV 了_AS 訓練_NN 速度_NN （_PU 超過_NN 50_OD 倍_M ）_PU ，_PU 也因此_NN 搭_NN 配所釋出_VV 訓_CD 練_NN 網路_NN 資料_NN ，_PU 成_VV 為目前_NN 世界_NN 上最強_NN 的_DEC 電腦圍棋_NN 軟體_VV 之一_NN 。_PU
+
+KataGo_NN 所_MSP 實做_VV 的_DEC 電腦圍_NN 棋程式_NN 包括_VV 了_SP ：_PU
+
+
+另外由_NN （_PU 作者_NR 所在的_NR 公司_NN ）_PU 提供_VV 運算所_NN 需_VV 資源_NN 外_LC ，_PU 也公開_NN 釋出_VV 訓練_NN 的_DEC 成果_NN （_PU 訓練_NN 網路_NN 資料_NN ）_PU 。_PU
+
+KataGo_NN 因豐富_NN 的_DEC 分析_NN 能力_NN ，_PU 被用在_NN 圍棋線上_VV 分析_NN 網站_NN AISensei_NN 作為_NN 預設_VV 的_DEC 分析引擎_NN 。_PU
+
+“_PU KataGo_NN ”_PU 这_CD 个_M 名字来_NN 源于_VV 日语_NN 单词_NN “_PU ()”（_PU 类型_NN ）_PU 。_PU 目前_NN ，_PU 即使_CS 在_VV 英语_NN 中_LC ，_PU 武道_NN 的_DEG 形式_NN 也_AD 被_SB 称为_VV “_PU kata_NN ”_PU 。_PU 作者_NN lightvector_NN (_PU DavidJ_NN ._PU Wu)_NN 表示_VV ，_PU 它作为_VV 一_CD 个_M 通过_NN 强_NN 化学_NN 习永久_NN 训_NN 练_NN 自己并_NN 旨_NN 在_AD 完成_VV 自己的_NN 形式_NN 的_DEC 人工_JJ 智能_NN 的_DEC 名称_NN 似乎_NN 是合理的_NN 。_PU
+
+除了開_NN 放原_NN 始碼與開_NN 放資料_NN 以外_LC ，_PU KataGo_NN 與_NN AlphaZero_NN 主要_JJ 差異在_NN 於_NN 透_NN 過研究_NN 大_NN 幅降低_NN 了初期_NN 自我訓練_NN 的_DEC 成本_NN ，_PU 使得_VV 一_OD 般_M 家用_NN 的_DEC 高階電腦_NN 可以_VV 在_VV 數天內_NR ，_PU 從零訓_NR 練出_VV 一_CD 個_NN 具有_VV 中高_JJ 段水準_NN 的_DEC 業餘高_NN 手水準_NN 的_DEC 訓練_NN 網路_NN 。_PU
+
+KataGo_NN 與_NN LeelaZero_NN 的_DEC 主要差_NN 異_NN 在_P 於_NN ，_PU KataGo_NN 的_DEC GTP_NN 引_NN 擎_NN 支援了_NN codice_NN
+
+另外一_NR 個差異_NN 是_VC KataGo_NN 同時_NN 支援_NN OpenCL_NN （_PU 自_NN codiceZero_NN 只支援_NN OpenCL_NN 。_PU
+
+第一_OD 個版本_NN （_PU 編號_NN g65_NN ，_PU codiceTeslaV_NR 1_DEC 00訓練7天_NR ，_PU 從6blocksx_NR 9_ETC 6filters_NR 訓練_VV 到_P 15_CD blocksx192_NN filters，棋力大約與LZ130（LeelaZero的第130代）相符，大約是超越人類的_PU 強度_NN 。_PU
+
+第二_OD 個版本_NN （_PU 編號_NN g104_NN ，_PU codiceTeslaV_NR 1_DEC 00訓練_NR ，_PU 從6blocksx_NR 9_DEC 6filters_NR 訓練_VV 到_P 20_CD blocksx_NR 2_DEC 56filters_NR ，_PU 由於大幅_NR 改善_VV 了_AS 超參數_NN （_PU ）_PU ，_PU 只使_NN 用了_NN 3_OD ._PU 5_OD 天_M 就超越第_NN 一_AD 版_VA 的_DEC 棋力_NN ，_PU 另_AD 外_P 引入_VV 了_AS LCB_NN （_PU ）_PU 大幅提_NR 昇了_NN 棋力_NN 。_PU 最後_JJ 訓練了_NN 19_CD 天產_NN 生出_NN 20_CD blocks_NN 的_DEC 版本_NN ，_PU 棋力_NN 超越_VV 了_AS LZ_NN -_PU ELFv2_NN （_PU ELFOpenGo_NN 的_DEC v2_NN 權_NN 重配上_NN LeelaZero_NN 的_DEC 程式_NN ）_PU ，_PU 另外與_NN LeelaZero_NR 4_ETC 0blocks_NR 版本_NN 的_DEC 比較_NN ，_PU 大_AD 約落_VV 在_P LZ200_NN 的_DEG 棋力_NN 。_PU
+
+第三_OD 個_M 版本_NN 的_DEC 訓練_NN 一_CD 開始_NN 使用_NN 29_CD 個_NN GPU_NN ，_PU 到_P 第14_OD 天_M 後增加為_NN 37_CD 個_NN GPU_NN ，_PU 再_AD 24_CD 天後_M （_PU 38_CD 天_NN ）_PU 增加為4_VV 7_CD 個_M GPU_NN 。_PU
+
+自v1.5.0_NN 開_NN 始支援純_NN CPU_NN 運算_NN （_PU 使用_NN 函式庫_NN ）_PU 。_PU 並自_NN v1.8.0_NN 版_NN 開始_NN 支援_NN 分散式_NN 訓練_VV ，_PU 允許_NN 全球_NN 的_DEC 使用者_NN 一_OD 起_NN 訓練權重_VV 。_PU
+
+
+
+

@@ -1,0 +1,12 @@
+﻿秀_NN 策數_NN
+
+秀策_NN 數代表了_NN 一_OD 名_NN 圍棋_NN 玩家_NN 與本_NN 因坊秀策_NN 之間的_NN 「_PU 距離_NN 」_PU ，_PU 以圍棋_NN 對弈者_NN 的_DEG 數量作_NN 為_NN 「_PU 距離_NN 」_PU 單位_NN 。_PU
+
+
+在_P 此設有_NR 玩家_NN C_NN （_PU 對弈前_NN 秀策_NN 數=_NN 45_CD ）_PU 、_PU 玩家_NN D_NN （_PU 對弈前_NN 秀策_NN 數=_NN 9_OD ）_PU 、_PU 玩家_NN E_NN （_PU 對弈前_NN 秀策_NN 數=∞_NN ）_PU ，_PU 三者事前_NN 沒有_VV 互相對弈_NN
+
+結論_NN ：_PU 當_NN 兩_OD 名_M 玩家對弈_NN ，_PU 秀策數_NN 較小者_NN 的_DEC 秀策數_NN 不_AD 受影響_VV ，_PU 秀策數_NN 較大者_NN 的_DEG 秀策數將_NN 會_AD 變成_VV 1_CD +_M 秀策數_NN 較小者_NN 的_DEC 秀策數_NN 。_PU
+
+
+
+

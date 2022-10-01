@@ -1,0 +1,18 @@
+﻿_OD PhoenixGo_NR
+
+PhoenixGo_NN ，_PU 即凤_NN 凰围棋_NN ，_PU 為腾讯_NN 公司_NN 微信翻_NN 譯團隊_NN 所_MSP 開發_VV 的_DEC 電腦圍棋_NN 軟體_NN 。_PU
+
+PhoenixGo_NN 是由騰訊_NN 公司_NN 的_DEC 微信翻_NN 譯團隊_NN 依照_NN DeepMind_NN 在_NN 科學_NN 期刊_NN 《_PU 自然_NN 》_PU 上對於_NN AlphaGoZero_NN 所_NN 發_VV 表_NN 的_DEC 論文_NN 《》_PU 所實做出_NR 的_DEC 開源電腦_NN 圍棋_NN 程式_NN 。_PU 也就_NN 是_VC 不_P 使用_NN 人類_NN 棋譜_NN 與累積_NN 的_DEC 圍棋知識_NN ，_PU 僅實做_NN 圍棋規則_NN ，_PU 使用單_NN 一_CD 類神經_NN 網路從_NN 自我_NN 對弈中_NN 學習（不像_JJ AlphaGo_NN 以人類_NN 角度_NN 思考_VV ，_PU 設計_VV 了_AS PolicyNetwork_NR 與_ETC ValueNetwork_NR ）_ETC 。_PU
+
+團隊除_NN 了以_VV BSD_NN 许_AD 可_VV 证釋出可_VV 供_CD 對弈_NN 的_DEC 程式碼_NN 以_NN 外_LC ，_PU 另_AD 外_P 釋出_VV 了_AS 20_CD blocks_M 的_DEG 訓練_NN 資料供_NN 下載_VV ，_PU 但_BA 由於未_NN 放出_VV 訓練_NN 程式碼_NN 或完整_NN 的_DEC 原始訓_NN 練資料_NN （_PU 如棋譜_NN ）_PU 。_PU 但開放的_NN 20_CD blocks_M 版本_NN 棋力_NN 相_NN 較_NN 於比賽_NN 版_NN 本弱不_NN 少_NN ，_PU 且_NN 使用_NN 不同_VA 的_DEC 架構_NN ，_PU 相較於_NN 同時間_NN 開源且開_NN 放訓_VV 練資料_NN 的_DEC 其他軟體_NN （_PU 主要是_JJ Facebook_NN 的_DEC ELFOpenGo_NN ）_PU ，_PU 社群可_NN 重複_VV 利用_VV 的_DEC 資源較少_NN 。_PU
+
+現今在_NR 野狐围_NN 棋所_VV 使用_NN 的_DEC 帳號名稱_NN codice_NN __NN 1_OD 與_M codice_NN
+
+PhoenixGo_NN 曾經以_NN 多個帳_NN 號_VV 在_P 同集團_NN 的_DEC 野狐围棋_NN 上_VV 對_NN 弈_SP ：_PU
+
+PhoenixGo_NN 在_P 2018年_CD 3月_NT 以_P codice_NN __NN 5_OD 為名_VV 在_VV CGOS_NN 上_NN 對弈_VV ，_PU 其中_NN codice_NN __NN 6_AD 是_VC CGOS_NN 在_P 2019_CD 年_CC 9月_CD 前排_NN 名_NN 最_AD 高_VA 的_DEC 對弈_NN 程式_NN （_PU 被_P codice_NR
+
+PhoenixGo_NN 在_P 2018_CD 年_PU 4_CD 月以_M 「_PU 凤凰围棋_NN 」_PU 身份參_NN 加自_VV 家騰訊_NN 主辦的_NN 2018_CD 世界人_NN 工智_NN 能围_NN 棋_AD 大_VA 赛_SP ，_PU 並以_NN 全勝戰績_NN 取得_VV 冠軍_NN 。_PU
+
+
+

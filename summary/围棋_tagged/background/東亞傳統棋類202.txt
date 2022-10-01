@@ -1,0 +1,11 @@
+﻿大_NR 王吃_NN 小鬼棋_NN
+
+大王吃小_NR 鬼棋_NN ，_PU 當地稱_NN 大王_CD 吃_BA 小鬼_NN ，_PU 是_VC 閩南的_NN 兩_CD 人_NN 傳統棋類_NN ，_PU 吃_NN 法_NN 類似割豆_NN 腐棋_NN 等遊戲_NN ，_PU 勝利_NN 為象_NN 棋類遊戲_NN 。_PU
+
+
+
+
+
+
+
+

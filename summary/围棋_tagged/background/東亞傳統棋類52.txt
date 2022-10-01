@@ -1,0 +1,6 @@
+﻿世界_NN 學生圍_NN 棋王_NN 座戰_NN
+
+世界學_NN 生圍棋_NN 王座戰_NN （_PU 日語_NR ：_PU せか_NR いが_NN く_NN せ_NN いいご_NN お_NN う_NN ざせん_NN ）_PU 是_VC 世界_NN 學生_NN 的_DEC 圍棋比賽_NN 。_PU 2003年_NT 開始_NN 。_PU 主辦_NN 單位為_NN 日本_NR 經濟新_NR 聞社_NN 、_PU 全日本_NN 學生圍_NN 棋聯盟_NN 。_PU 協辦_NN 單位是_NN 國際_NN 圍棋_NN 聯盟_NN 。_PU 協助_NN 贊助是_NN (_PU 1_CD 回_M )_PU 富士寫_NN 真フ_NN ィルム_NN 、_PU (2_CD 回_M )_PU 東日本_NN 旅客_NN 鐵道_NN 。_PU
+
+
+

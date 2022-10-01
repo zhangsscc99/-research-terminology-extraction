@@ -1,0 +1,19 @@
+﻿台_NN 灣職業_NN 圍棋比_NN 賽列表_NN
+
+台灣職業_NN 圍_NN 棋_NN 目前總_NN 共有_VV 六_OD 種_M 頭銜賽_NN ，_PU 限制_VV 棋賽則有_JJ 四種頭銜_NN ，_PU 另有_VV 二_CD 錦標賽_NN 。_PU 業餘_NN 職業_NN 混合賽_NN 則有_VV 一_CD 公開賽_NN 、_PU 一_CD 邀請賽_NN 、_PU 一_CD 團體賽_NN 。_PU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+﻿提_NN (_PU 圍棋_NN )_PU
+
+提是圍棋_NN 的_DEC 用語_NN ，_PU 指_VV 在_P 棋盤上_NN 的_DEC 棋子所_NN 通連_VV 的_DEC 交叉_NN 點都被封掉_NN ，_PU 亦即再_NN 沒有_VV 「_PU 氣_NN 」_PU 時_NN ，_PU 被包圍_NN 的_DEC 子便要_NN 被_SB 提掉_VV 。_PU
+
+當下_NN 一_CD 個子_NN 之後_NN 是_VC 使_VV 對方_NN 的_DEC 棋子再_NN 沒有_VV 氣時便_NN 可以_VV 將_BA 被_SB 包圍_VV 的_DEC 棋子_NN 拿走_NN ，_PU 所下的這_VV 一_CD 個子_NN 便叫做_NN 「_PU 提」_VV 。_PU
+
+

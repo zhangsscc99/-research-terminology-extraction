@@ -1,0 +1,7 @@
+﻿中_NN 国围_NN 棋棋_NN 手排名_NN
+
+中国_NR 围棋棋_NN 手排_NN 名是_NN 中国_NR 圍棋_NN 棋手_VV 的_DEC 等級排名_NN ，_PU 是_VC 使用_NN 點_OD 數制_VV 的_SP 。_PU
+
+（_PU 毎年_NN 12_CD 月_CD 上位_NN 10_CD 人_NN ）_PU
+
+

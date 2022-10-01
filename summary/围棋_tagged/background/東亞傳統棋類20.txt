@@ -1,0 +1,12 @@
+﻿_OD GoRatings_NR
+
+GoRatings_NN 是由圍棋_NN 軟體_VV 的_DEC 發明者_NN 、_PU 法国_NN 计算机_NN 专家_NN 创建_NN 的_DEC 世界_NN 職業圍棋_NN 等級_JJ 分排行_NN 網站_NN 。_PU
+
+GoRatings_NN 的_DEC 排名是基於_NN 世界各_NN 国_NN 的_DEG 大赛_NN 和_NN 世界_NN 大赛_NN 的_DEC 比赛作_NN 为數據_NN 來源_NN ，_PU 並利_NN 用全_NN 历_NN 史排名_NN （_PU ）_PU 演算法_NN 統計_VV 的_SP ，_PU 與中國_NN 棋院和_NN 韓國棋院_NN 等_ETC 級分所_NN 採用_VV ，_PU 每_DT 一_CD 局個別_NN 計算_VV 的_DEC Elo_NN 演算法_NN 不同_VA ，_PU WHR_NN 考慮_VV 進_NN 玩家_NN 實力_NN 的_DEC 變化與_NN 部分時期_NN 可_AD 能_VV 產生_VV 的_DEC 波動_NN ，_PU 在_P 局數少_NN 時更_NN 容易_AD 快速_VV 做出判別_VV ；_PU 並且_NN 每日更_NN 新_NN 數_NN 據_LC ，_PU 該演算_NN 法_NN 的_DEG 論文宣_NN 稱比之前_VV 的_DEC Elo_NN 等级_JJ 分算法_NN 更加_VV 科学_VA ，_PU 按照_NN 網站_NN 規定_VV ，_PU 至少一敗_VV 的_DEC 棋手才_NN 能_VV 列入_VV 排行_NN 。_PU 2016年_NT 3月時_NN ，_PU 中國大_NN 陸圍_NN 棋棋_NN 士柯_NN 潔為第_NN 一_OD ，_PU 排_OD 名_OD 第二_OD 為電腦_NN 程式_NN AlphaGo_NN 。_PU 但_NN 2017年_CD 2月_NT 開始_NN ，_PU 圍棋_NN 程式將_NN 不_AD 列入排名_VV ，_PU 對_BA 戰紀錄_NN 也_AD 不_AD 再_AD 計入_VV 等_CD 級分_NN 。_PU
+
+目前并_NN 没有_VV 权威性_NN 的_DEC 围棋_NN 世界_NN 组织_NN ，_PU 因此也_NN 沒有_VV 官方_NN 正式認可_NN 的_DEC 世界_NN 排名_NN 。_PU 2016年_NT 3月初_NN ，_PU 柯潔_NN 表示_VV 認為此_NN 網站_NN 的_DEC 排名沒_NN 有_VE 公信力_NN ，_PU 並_NN 表_NN 示將_NN 程式與_NN 職業_NN 棋士並_NN 排也不_NN 公平_VV ，_PU 也不認_NN 可_VV 該_P 網站_NN 將井_NN 山裕太_NN 排_VV 在_P 第三_OD 。_PU 但亦有_NR 意見認_NN 為_NN 由_P 於考慮_NN 進_NN 歷史比局_NN ，_PU GoRatings_NN 的_DEC 分數和_NN 排名較_NN Elo_NN 等级_JJ 分算_NN 法_NN 更_NN 適合做_NN 縱向_NN 比較_NN 。_PU
+
+此網站_NN 的_DEC 歷史_NN 排名中_NN ，_PU 韓國棋士_NN 李昌_NN 鎬曾_NN 經從_NN 1991_CD 年到_NN 2006_CD 年連續_NN 16_CD 年排名_NN 第一_OD ，_PU 而_CC 李世乭_NN 則從_NN 2007_CD 年到_NN 2011_CD 年連續_NN 五年_CD 稱霸_NN ，_PU 中國大_NN 陸棋_NN 士柯潔_NN ，_PU 則是從_NN 2015_CD 年到_NN 2017_CD 年為_NN 世界_NN 榜首_NN 。_PU 2017年_NT 12月_NT ，_PU 韓國棋士_NN 朴廷桓_NN 的_DEC 等級分超越_NN 柯潔_VV ，_PU 成為_NN 世界_NN 排名第_NN 一_OD 。_PU
+
+
+

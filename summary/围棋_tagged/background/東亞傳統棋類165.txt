@@ -1,0 +1,49 @@
+﻿围棋_NN 与_P 数学_NN
+
+围棋是_NN 世界_NN 上最_NN 流行_NN 的_DEC 游戏_NN 之一_NN 。_PU 由于_P 其规_DT 则优美_NN 而_MSP 简单_VV ，_PU 围棋_VV 一_CD 直_NN 是_VC 数学_NN 研究_NN 的_DEC 灵感_NN 来源_NN 。_PU 11_CD 世纪_NN 的_DEC 中_NN 国学者_NN 沈括_VV 在_VV 《_PU 梦溪笔谈_NN 》_PU 中估计_NN ，_PU 围_AD 棋_P 所有_DT 可能_NN 的_DEC 局面_NN 数量为_NN 10_CD 左右_M 。_PU 近年来_NN ，_PU 約翰_NR ·H·_CD 康威在_NN 对围棋_NN 的_DEC 研究中_NN 发明了_NN 超現實數_NN ，_PU 并_AD 促进_VV 了_AS 的_DEC 发展_NN （_PU “_PU 围棋_NN 微数_NN 字_NN ”_PU 就是它_NN 在_P 围棋中_NN 使用_NN 的_DEC 一_CD 个_M 具体_JJ 示例_NN ）_PU 。_PU
+
+广义_NR 围棋_NN 是_VC 在_P "_PU nxn"_NN 的_DEG 棋盘_NN 上_LC 进行_VV 的_SP ，_PU 在_AD 广义围_NN 棋_NN 的_DEG 给定_NN 位置_NN 确定_VV 赢_NN 家_NN 的_DEG 计算复_NN 杂性_JJ 主要_NN 取决于_VV 打劫_JJ 规则_NN 。_PU
+
+围棋_NN 的_DEC 复杂性_NN “_PU 几乎_NN ”_PU 是_VC 在_P PSPACE_NN 内的_VV ，_PU 这_PN 是因_NN 为_VC 在_P 对弈_NN 的_DEC 非打劫_NN 阶段_NN ，_PU 每_DT 一_CD 手都是_NN 不_AD 可_VV 逆的_VV ，_PU 只有_VV 通过_VV 吃子才_NN 有_VE 可能_NN 出现_VV 重复_NN 的_DEC 棋形_NN ，_PU 使得_VV 复杂性_NN 提高_VV 。_PU
+
+没有_VE 打劫的_NN 话_NN ，_PU 围棋是_NN PSPACE_NN 困难的_NN 。_PU 这_NN 是_VC 通过_P 把_BA PSPACE_NN 完全_VA 的_DEC TQBF_NN （_PU 真量化布_NN 尔公式_JJ ）_NN 简化_VV 到_VV ，_PU 到_P 平面_NN 广义_VV 地理_NN ，_PU 到_P 最_AD 高_JJ 3_CD 阶_NN 的_DEG 广义_NN 地理_NN ，_PU 最后_NT 简化_VV 到_P 围棋_NN 棋盘_NN 位置_NN 。_PU
+
+有打劫_NR 的_DEC 围棋则_NN 不_AD 在_VV PSPACE_NN 中_NN 。_PU 尽管_NN 实际_VV 的_DEC 棋局似乎_NN 从_AD 没超出过_VV formula_NR 手_NN ，_PU 但_NN 一般而言_AD ，_PU 没有_VV 人_NN 知_NN 道围_NN 棋_NN 棋局_VV 的_DEC 手数_NN 是_VC 否有_VV 一_CD 个_M 多项式_NN 上限_VV 。_PU 如果有_NN 的话_VV ，_PU 围棋就会_NN 是_VC PSPACE_NN 完全的_NN 。_PU 就_P 目前_NT 而言_LC ，_PU 围棋可_NN 能_VV 是_VC PSPACE_NN 完_NN 全_LC ，_PU EXPTIME_NN 完_NN 全_LC ，_PU 甚_AD 至_VV EXPSPACE_NN 完_NN 全的_VV 。_PU
+
+日本_NN 规则只_NN 规定_VV 了_AS 基本的_NN 劫_NN ，_PU 即_AD 一_CD 手棋下了_NN 之后_VV ，_PU 如果_CS 会_VV 恢复_VV 这手_NN 棋下_NN 之前_VV 的_DEC 那个_NN 棋盘_NN 状态_NN ，_PU 那么这_NR 手棋_NN 是_VC 不允许_NN 下的_VV 。_PU 如果_NN 重复多手_NN 之前_VV 的_DEC 棋盘_NN 状态_NN 是允许的_NN ，_PU 这也就_NR 意味着一局棋_NR 可以_VV 永_BA 久循环_NN ，_PU 如_AD 三劫_NN 循环_NN ，_PU 即同时有_JJ 三_CD 个_M 劫_NN ，_PU 经过_NN 12_CD 手就_NN 可以_VV 循环_VV 。_PU
+
+在日本_NR 打劫_NN 规则下_NN ，_PU 围棋是_NN EXPTIME_NN 完全的_NN 。_PU
+
+禁止_NN 全局_NN 同形_VV 规则是_NN 说_VV 重复_VV 出现_VV 任何_DT 先前_NN 棋盘_NN 状态都_NN 是_VC 不_AD 允许_VV 的_SP 。_PU 这是大_NN 多数中_NN 国和美_NN 国规则_NN 中_LC 使用_VV 的_DEC 打劫规则_NN 。_PU
+
+在禁止_NR 全局_NN 同形_VV 规_NN 则下围_NN 棋_NN 的_DEC 复杂性_NN 类_NN 为_VC 何_NN ，_PU 是_VC 一_CD 个_M 未解决_NN 的_DEC 问题_NN 。_PU 虽_CD 然日_NN 本打劫_NN 规则_VV 下围棋_NN 的_DEC 复杂性_NN 为_VC EXPTIME_NN 完_NN 全已_NN 被_SB 证明_VV ，_PU 但_CC Robson_NN 的_DEC 这_CD 个_M 证明中_NN ，_PU 无论是上界还是_AD 下界_VV 的_DEC EXPTIME_NN 完全性_NN 的_DEC 证明_NN ，_PU 都_AD 打破_VV 了_AS 禁止_NN 全局_NN 同形规则_VV 。_PU
+
+至_AD 少现_VV 在_VV 已_AD 知_VV ，_PU 其复杂性_NN 至少是_NN PSPACE_NN 困难_NN ，_PU 因_NN 为_NN 中对围棋_NN 的_DEC PSPACE_NN 困难性_NN 的_DEC 证明是_NN 不_AD 依赖于_VV 打_CD 劫_M 规则的_NN ，_PU 或者_CC 说即便_NN 是_VC 没有打劫_NR 规则_NN ，_PU 也_AD 是_VC PSPACE_NN 困难的_NN 。_PU 现在_JJ 还知_NN 道围棋_NN 的_DEC 复杂性_NN 是_VC 在_P EXPSPACE_NN 内的_VV 。_PU
+
+Robson_NN 证_NN 明了_NN 如果在_NN EXPTIME_NN 完全_NN 的_DEC 双人_JJ 游戏_NN 的_DEC 基础上_NN ，_PU 加上_VV “_PU 禁止_NN 全局_NN 同形_VV ”_PU 的_DEC 规则_NN ，_PU 游_NN 戏_NN 复杂性_NN 将_BA 会变为_NN EXPSPACE_NN 完全_VV 。_PU 直观_VA 地_DEV 说_VV ，_PU 这是因_NN 为_VC 对加入新_JJ 规则_NN 的_DEC 游戏来_NN 说_VV ，_PU 即便_CS 是_VC 确定_VV 一_CD 个_M 局面下_NN 符合规则_NN 的_DEG 下法_NN ，_PU 都需要_NN 指数_NN 级别_VV 的_DEC 空间_NN ，_PU 因为从开_AD 局下_VV 到_VV 某_DT 一_CD 局面_NN 的_DEG 长度_NN 是_VC 有_JJ 可能_NN 达到_VV 指数_NN 级别_VV 的_SP 。_PU
+
+因此_AD ，_PU 广义國_NR 際象_NN 棋和_NN 西洋_NN 跳棋_VV 的_DEC 禁止_NN 全局同_NN 形版_VV 本都是_NN EXPSPACE_NN 完全的_NN ，_PU 因_NN 为_VC 广义国_NN 际象_NN 棋和_NN 西洋跳_NN 棋都是_NN EXPTIME_NN 完全的_NN 。_PU 不_AD 过这个_NN 结果_NN 不_AD 适用于_VV 围棋_VV 。_PU
+
+当棋盘_NN 被活子把_NN 棋盘_NN 分割_VV 成_VV 若干_NN 孤立_VV 的_DEC 区域_NN 的_DEC 时候_NN ，_PU 围棋就_NN 进入_VV 了官子_NN 阶段_NN ，_PU 这时每_NN 个_NN 局部_NN 区域_NN 都_AD 会_VV 有_VE 一_CD 个_M 多_CD 项式_NN 级别_VV 的_DEC 规范博_NN 弈树_VV 。_PU 用的_NN 话_NN 来说_VV ，_PU 当围棋_NN 分解_VV 成_VV 具有_VV 多项式级_JJ 别规_NN 范博_NN 弈树_VV 的_DEC 子博弈_NN 之和时_NN ，_PU 就_AD 会_VV 进入_VV 官子_NN 。_PU
+
+在_P 这_CD 个_M 定义下_NN ，_PU 围棋_VV 的_DEC 收官是_NN PSPACE_NN 困难的_NN 。_PU
+
+这_PN 可以_VV 通过_VV 将_BA PSPACE_NN 完全_VV 的_DEC QBF_NN （_PU QuantifiedBooleanFormula_NR ）_PU 问题转换_NN 成_VV 小型_NN （_PU 多项式级_JJ 别规_NN 范博弈_NN 树_NN ）_PU 围棋子_NN 游戏_NN 的_DEC 总和来_NN 证明_VV 。_PU 请_CS 注意_VV ，_PU 论文_VV 并_AD 未证_VV 明围棋_NN 是_VC 在_P PSPACE_NN 中的_VV ，_PU 所以就有_VV 不_AD 是_VC PSPACE_NN 完全_VA 的_DEC 可能性_NN 。_PU
+
+确定哪_NN 一_DEC 方征子_NN 有利是_NN PSPACE_NN 完全的_NN ，_PU 无论是日本_NR 打劫_NN 规则还_NN 是_VC 禁止_VV 全局同形规_NN 则_NN 。_PU 这_NN 一_CD 点_NN （_PU PSPACE_NN 完_NN 全_ETC ）_PU 可以_VV 通过_P 模仿_NN QBF_NN 证明_NN 。_PU
+
+由于_P 棋盘_NN 上_NN 每_DT 个_M 位置_NN 都_AD 可以_VV 为空_VV 、_PU 白棋_NN 、_PU 黑棋_NN 三_OD 种_M 情况_NN ，_PU 所以_AD 对于_VV 边长_NN 为_VC n_NN 的_NN 棋盘_NN 总_NN 共有_VV 3_CD 种_M 可能_NN 的_DEC 局面_NN ；_PU 但只_NR 有一_JJ 部分_NN 是合法_NN 的_NN 。_PU Tromp_NN 和_NN Farneb_NN ä_NN ck_NN 推_NN 导了长_NN m_NN 宽_VC n_NN 的_NN 矩形_JJ 棋盘_NN 的_DEC 合法局面_NN formula_NN 的_DEC 递归公_NN 式_NN 。_PU 在_P 2016_CD 年算出了_NN formula_NN 的_DEG 准确_NN 数字_NN 。_PU 他们还_NN 发现_VV 了_AS 一_CD 个_M 渐进公式_NN formulaformula_NR __NN 5_LC ，_PU formula_NN __NN 6_LC ，_PU formula_NN 10_CD 个_M 原子_NN ，_PU 远小于_VV 常_NN 规围棋_NN 棋盘_NN （_PU m_NN =_VC n_NN =_NN 19_CD ）_PU 上_NN 所有_DT 可能_NN 的_DEC 合法_JJ 局面_NN 的_DEG 数目_NN 。_PU 随_NN 着_NN 棋盘_NN 变大_VV ，_PU 合_BA 法局面_NN 的_DEC 比例_NN 也_AD 会_VV 降低_VV 。_PU
+
+電腦科_NN 學家_NN VictorAllis_NN 指出_VV ，_PU 职业_NN 棋士_NN 之间_NN 对弈_VV 一般_JJ 在_VV 150_CD 手左右_NN ，_PU 平均每_NN 手约_VV 250_CD 种_M 选择_NN ，_PU 这就意_NR 味着_NN 博弈树_NN 复杂性_NN 为_VC 10_CD 。_PU 对于_NN "_PU 理_CD 论上可_NN 能_VV "_PU 的_DEC 棋局_NN 数量_NN ，_PU 包括_VV 在_P 实际中_NN 不_AD 可_VV 能_VV 下出_VV 的_DEC 棋局_NN ，_PU Tromp_NN 和_NN Farneb_NN ä_NN c_CC k_NN 分别_AD 给出_VV 10_CD 的_DEG 下限和_NN 10_CD 的_DEG 上限_NN 。_PU
+人们听到_NN 最_AD 多_VA 的_DEC 所有_DT 可能_NN 的_DEC 棋局_NN 数量为_NN 10_CD ，_PU 这_CD 个_M 数字是_NN 361_CD 手棋_NN 的_DEC 简单排列_NN （_PU 361_CD !_PU =_NN 10_CD ）_PU 得出_VV 的_SP 。_PU 另_AD 一_CD 个_M 常见_NN 的_DEC 推导是_NN 假设_VV 每_DT 一_CD 手棋都_NN 有_VE n_CD 个_M 选择_NN ，_PU 总共L_NR 手棋_NN ，_PU 那么_NN 棋局_NN 总量就是_NN N_NN 。_PU 就比如_NN 在_NN 某些_NN 职业_NN 对局_NN 中_LC 能够_VV 见到_VV 的_DT 一_CD 局棋_NN 400_CD 手_M ，_PU 按照这_NN 种_NN 方法_NN 算_NN 出来_VV 就_AD 是_VC 361_CD （_PU 10_CD ）_PU 种_CD 可能_NN 的_DEC 棋局_NN 。_PU
+
+所有_DT 可能_NN 的_DEC 对局_NN 总数_NN 是_VC 棋盘_NN 大小_NN 和_NN 手数_NN 的_DEC 函数_NN 。_PU 虽然_CS 大_JJ 多数_NN 棋局都_NN 在_VV 400_CD 手_CD 以内_NN ，_PU 甚_AD 至_VV 200_CD 手都不_NN 到_VV ，_PU 但_NN 棋局_NN 是_VC 有_JJ 可能_NN 更长_VV 的_SP 。_PU
+
+所有_DT 可能_NN 的_DEC 对局_NN 总数_NN 可以_VV 通过_P 多_CD 种_M 方式从_NN 棋盘大_NN 小_OD 估算_VV ，_PU 有_NN 些_NN 方式_NN 会_VV 比另_VV 外_DT 一_CD 些更严格_NN 。_PU 最_AD 简单_VA 的_SP ，_PU 棋盘_NN 大小_VV 的_DEC 简单_NN 排列_NN (_PU N)_CD ，_PU 没有_VV 考虑_VV 到_VV 非法_NN 吃子_NN ，_PU 以及_NN 非法_NN 的_DEC 盘面_NN 。_PU 令_NN N_NN 为_VC 棋盘大小_NN （_PU 19_CD ×_PU 19_CD =_CC 361_CD ）_PU ，_PU L_NN 为_VC 最_AD 长_VA 的_DEC 棋局_NN 长度_NN ，_PU N构成了_NN 下界_VV 。_PU 在_P Tromp_NN /_PU Farneb_NN ä_NN ck_NN 的_DEC 论文中_NN 给出_VV 了_AS 更精确_NN 的_DEC 限制_NN 。_PU
+
+10_CD 这_CD 个_M 数字对于_NN 200_CD 手_CD 以内_NN 的_DEG 所有_DT 棋局来_NN 说是_VV 一_CD 种_M 高估_NN ，_PU 但_CC 对_P 361_CD 手_CD 以内_NN 的_DEG 所有_DT 棋局来_NN 说是_VV 一_CD 种_M 低估_NN 。_PU 而_CC 4700万_CD 手_NN 的棋_VV ，_PU 在_P 一秒一_CD 手_NN 、_PU 每天下_NN 16_CD 个_M 小时_NN 的_DEC 情况下_NN ，_PU 也_AD 要_VV 下_AD 2_CD ¼年_M （_PU 一年_M 有_VE 3100万_CD 秒_NN ）_PU 。_PU
+
+
+
+
+

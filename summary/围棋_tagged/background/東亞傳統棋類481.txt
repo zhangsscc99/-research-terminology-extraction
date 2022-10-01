@@ -1,0 +1,61 @@
+﻿韓國_NN 將棋_NN
+
+韓國將棋_NN ，_PU 又称韓_NN 國象棋_NN 、_PU 朝鮮將棋_NN 、_PU 朝鮮象_NN 棋或_NN 高麗將棋_NN ，_PU 是流行_NN 於朝_NN 鮮地區_NN 的_DEC 象棋類_NN 遊戲_VV ，_PU 與中_NN 國象_NN 棋有_VV 相_NN 近_NN 發展_NN 的_DEC 關係_NN ，_PU 在_P 宋代以_NN 前由_NN 中國_NN 傳入_VV 高麗_NN 。_PU
+
+韓國將棋_NN 的_DEC 棋盤由_NN 9_OD 條_NN 緃線和_NN 10_CD 條橫線_NN 構成_VV ，_PU 中心_NN 底部_NN 三_CD 行有_VV 交叉線_NN 形成_VV 九_CD 宮_M ，_PU 与中_NN 国象棋_NN 的_DEC 棋盘_NN 大致_AD 相同_VV ，_PU 差別在於_VV 沒_CD 有_M 河界_NN 。_PU 棋子與_NN 中_NN 国象棋_NN 一_CD 樣_NN 放置_VV 於線_NN 的_DEC 交叉_NN 點_CD 而_CC 非格子_NN 。_PU
+
+韓國將棋_NN 的_DEC 棋子是_NN 八_OD 角形_VV ，_PU 棋子_NN 大小不_NN 一_OD 。_PU 楚_NN ／_PU 漢為最_NN 大_VA ，_PU 表示_VV 它_PN 的_DEG 重要性_JJ ；_PU 然後_JJ 為車_NN 、_PU 包_NN 、_PU 馬和_NN 象為第_NN 二_OD 大_NN ；_PU 士_NN 、_PU 卒_NN ／_PU 兵為最小_NN 。_PU 先手_NN 方為楚_NN ，_PU 以藍色_NN 或綠_CC 色代表_NN ，_PU 棋子_NN 名以_NN 草書_NN 漢字_NN 書寫_NN ；_PU 後手_NN 方為漢_NN ，_PU 以紅_NN 色代表_NN ，_PU 棋子_NN 名以_NN 正楷漢_NN 字書寫_NN 。_PU 棋子_NN 只有_VV 一_CD 面_NN 寫著_NN 棋子名_NN ，_PU 背面_NN 為空白_NN ，_PU 唯楚_NN ／_PU 漢例外_NN 兩面都_NN 寫_ETC 著_NN 楚_NN ／_PU 漢_NN ，_PU 做為虛_NN 手時_VV 的_DEC 用途_NN ，_PU 詳見_NR 後述_NN 。_PU
+
+韓國將_NN 棋主_NN 要_AD 有_VE 四_CD 種_NN 開局_NN 配置_NN ，_PU 在_P 對局開_NN 始前_VV ，_PU 雙_BA 方各_NN 自都_NN 可以_VV 自_CD 由選_NN 擇_NN 其中_NN 一_CD 種_NN 配置_NN ，_PU 即雙方_NN 的_DEC 配置_NN 可以_VV 不_AD 相同_VA 。_PU 雖然楚_NN 方是先_NN 手_VA ，_PU 但選擇_NN 配置時_NN ，_PU 是_VC 由漢_NN 方先_NN 選擇_VV ，_PU 才輪_VV 到_VV 楚方_NN 。_PU 配置選_NN 好_NN 後_AD 就_AD 不得更改_VV ，_PU 並由楚_NN 方先行_NN 。_PU 配置_NN 的_DEC 名稱主_NN 要_NN 是_VC 根_JJ 據象_NN 的_DEC 位置_NN 決定_VV 的_SP 。_PU 在_P 北朝_NN 鮮地區_NN ，_PU 左象和_NN 右象_NN 配置_NN 的_DEC 名稱與_NN 南韓_VV 的_DEC 名稱_NN 相反_VV ，_PU 因為北_NN 朝鮮是_NN 根據比_NN 較靠近_NN 九_CD 宮的象在_VV 九_CD 宮_M 的_DEG 哪邊而_NN 命名_VV 的_SP ，_PU 本條目_NN 採用_VV 的_DEC 是南韓_NN 的_DEC 配置名_NN 稱_NN 。_PU
+<_PU br_NN >_PU
+
+<_PU br_NN >_PU
+
+<_PU br_NN >_PU
+
+<_PU br_NN >_PU
+傳統_NN 規則_NN 還有_VV 第五_OD 種_M 「_PU 機動車_NN 配置_NN 」_PU ，_PU 如下圖_NN ，_PU 但_CC 在_P 南_NN 韓_NN 現今_NN 比賽_NN 規則中_NN 已_AD 廢棄_VV ，_PU 休閒_VV 的_DEC 對局_NN 也_AD 多_CD 半不採納_NN ，_PU 僅存_VV 在_VV 於北朝_NR 鮮地區_NN 。_PU
+
+將_NN (_PU 楚_NN ／_PU 漢_NN )_PU 的_DEC 走法為_NN 在_P 九_OD 宫_M 内沿著_NN 直線_NN 或_CC 斜線走_NN 一_AD 步_VA ，_PU 不_AD 能_VV 離開九宫_VV 。_PU 此_BA 外將還_NN 有_VE 虛手_VV 、_PU 照面_NN 等規則_NN ，_PU 詳見後述_NN 。_PU
+
+士_NN 的_DEC 走法為_NN 在_P 九_OD 宫_M 内沿著_NN 直線_NN 或_CC 斜線走_NN 一_AD 步_VA ，_PU 不_AD 能_VV 離開_VV 九_CD 宫_M ，_PU 即與將_NN 相同_VA 。_PU
+
+車_NN 的_DEC 走法為沿_NN 著直線或_NN 九_AD 宮_VA 的_DEC 斜線走任_NN 意距離_NN 。_PU
+
+包_NN 的_DEC 走法為沿_NN 著直線或_NN 九_AD 宮_VA 的_DEC 斜線跳_NN 過_P 一_OD 個_M 棋子走_NN 任_NN 意距離_NN ，_PU 但有_VV 限制包_NN 不_AD 能_VV 吃包_VV ，_PU 且也_NN 不能跳_NN 过_AD 包移_VV 動_SP ，_PU 無论_NN 自己的_NN 还是_NN 对手_VA 的_DEC 均不可跳過_NN ，_PU 故韓國將_NN 棋_AD 沒有_VV 雙_CD 包殺_VV 。_PU 以下圖_NN 例_NN 中_LC ，_PU 藍圈處_NN 為_NN 藍砲能_NN 走的_VV 地方_NN ，_PU 紅圈處_NN 為不_NN 能_VV 走的_VV 地方_NN ；_PU 藍砲_NN 可以_VV 吃_CD 掉紅_NN 車_NN ，_PU 但不能_NN 吃掉_VV 左_JJ 邊_NN 的_DEG 紅砲_NN ，_PU 同時它_NN 也_AD 不_AD 能_VV 吃掉藍砲_VV ；_PU 而_MSP 右邊_VV 的_DEC 紅砲也_NN 不_AD 能_VV 吃藍車_VV 。_PU
+
+马_NN 的_DEC 走法_NN 為直_VV 一_CD 步再斜_NN 一_AD 步_VA ，_PU 即與中_NN 国象棋_NN 的_DEC 马相同_NN ，_PU 路徑上_NN 若有_VV 棋子_NN 同樣會_NN 被_SB 拐腳_VV 。_PU 以下圖例_NN 中_LC ，_PU 藍圈_NN 處為_NN 馬能_NN 走到_VV 的_DEC 地方_NN ，_PU 紅圈處_NN 為拐腳_NN 點_OD ：_PU
+
+象_NN 的_DEC 走法為_NN 先走馬_NN 的_DEC 步伐_NN 後_NN 再_AD 朝_LB 同_NN 方向_NN 繼_AD 續斜_VV 走_DT 一_CD 步_NN ，_PU 即_NN 直一步_JJ 再斜_NN 兩_OD 步_NN ，_PU 路徑上_NN 若有_VV 棋子會_NN 被_SB 拐腳_VV 和塞眼_NN 。_PU 以下_NN 圖例_NN 中_LC ，_PU 藍圈處_NN 為象能_NN 走到_VV 的_DEC 地方_NN ，_PU 紅圈處_NN 為_NN 拐腳_NN 和_NN 塞眼_NN 點_CD ：_PU
+
+卒和兵_NN 的_DEC 走法為沿_NN 著直線或_NN 九_AD 宮_VA 的_DEC 斜線前進_NN 一_OD 步_NN ，_PU 或_CC 橫著走_NN 一_AD 步_VA ，_PU 不_AD 能_VV 後退_VV 。_PU
+
+當將_NN 可以_VV 被_SB 對方_VV 的_DEC 棋子_NN 吃掉時_NN ，_PU 即被_NR 「_PU 將軍」_NR ，_PU 必須立_NR 即做出_NR 做適當_NN 的_DEC 手段_NN 阻止_VV 將軍_NN ，_PU 為_NN 「_PU 應將_NN 」_PU ；_PU 如果_NN 無法應將_NN 則輸_NN 掉棋局_NN ，_PU 稱為_NN 「_PU 將死_NN 」_NN 。_PU 下圖例_NN 中_LC ，_PU 楚方_NN 的_DEC 象跳至_NN 藍圈處_NN 可_VV 將死漢_VV 。_PU
+
+當將_NN 主動移到_NN 和對方_NN 的_DEC 將在同_NN 一_CD 直線_NN 上_NN 且_NN 彼此間_NN 無棋子時_NN ，_PU 為_NN 「_PU 照面_NN 」_PU ，_PU 目的_NN 是_VC 邀_JJ 請對_NN 方和局_NN ，_PU 被照面_NN 的_DEC 一_CD 方若沒_NN 立即_JJ 移開_NN 或用_NN 棋子_NN 遮擋就_NN 必須接受_VV 和局_NN 。_PU 下圖例_NN 中_LC ，_PU 楚_NN 方無_NN 法_NN 避_NN 開漢方_NN 的_DEC 照面_NN ，_PU 只_AD 能_VV 接受_VV 和局_NN 。_PU
+
+輪到_NN 走棋的_NN 一_CD 方_NN 可以_VV 把_BA 自己_NN 的_DEC 將翻面_NN ，_PU 表示_VV 棄權不_NN 走_AD 棋_VA ，_PU 直接讓對_NN 方繼續_NN 下_NN ，_PU 此動作為_NN 「_PU 虛手_NN 」_PU 。_PU 除了被_NN 將軍_VV 時_NN 之外_LC ，_PU 任何_DT 時候都_NN 可以_VV 自由虛_P 手_NN ，_PU 也_NN 沒有_VV 次_CD 數限_NN 制_NN ，_PU 若雙_NN 方都虛_NN 手_NN 則_NN 和局_NN 。_PU 韓國將棋_NN 沒有_VV 困斃或_NN 逼和_NN ，_PU 當_DT 一_CD 方無子_NN 可_VV 動_P 時_CD 只是_NN 被_SB 迫虛_VV 手_NN ，_PU 對局仍舊_NN 繼_NN 續_NN 進行_NN 。_PU
+
+當出_VV 現重複_NN 局面時_NN ，_PU 雙方不_NN 變則_NN 和局_VV 。_PU
+
+傳統勝_NN 負制_VV 規則中_NN ，_PU 將死對_NN 方是唯_NN 一_CD 勝利_NN 的_DEC 方式_NN ，_PU 當所_VV 剩子_NN 力無法_NN 取勝_VV ；_PU 或雙_NN 方互_NN 相_NN 虛手_VV ；_PU 或_CC 一_CD 方照面另_NN 一_CD 方沒避開_NN ；_PU 或出現_NR 重複_NN 局面時_NN 均_NN 為_NN 和局_NN 。_PU 傳統勝_NN 負制_VV 規則現_NN 今仍可_NN 見於休閒_VV 的_DEC 對局中_NN ，_PU 但有_VE 逐漸被_NN 計_LC 分制_VV 規_DER 則_AD 取代_VV 的_DEC 趨勢_NN 。_PU
+
+在_AD 現行_VV 的_DEC 比賽多_NN 採用大_NN 韓_NN 將_NN 棋協會_NN 所_MSP 制定_VV 的_DEC 計分制規_NN 則_VA ，_PU 杜絕任何_NN 形式_NN 的_DEC 和局_NN 。_PU 當遇_VV 到_VV 傳統_NN 規則_NN 中和局_NN 的_DEC 情況時_NN ，_PU 會以_NN 剩餘_NN 棋子_NN 的_DEC 分數總_NN 和_CC 判定勝負_NN ，_PU 漢方_NN 可以_VV 額外加分_VV ，_PU 多分者勝_NN 。_PU 棋子_NN 的_DEC 分數如下_NN ：_PU
+
+值得_NR 注意的_NN 是_VC ，_PU 棋子_NN 的_DEC 分數並_NN 不_AD 完全_VV 等同_JJ 棋子_NN 在_NN 實際_NN 對局_VV 的_DEC 效力_NN 。_PU
+
+現今_NN 韓國將棋_NN 的_DEC 記譜_NN 方式_NN 是_VC 先以座標_NN 定位要_NN 移動_VV 的_DEC 棋子_NN ，_PU 再寫_NN 棋子名_NN ，_PU 最後_JJ 再寫_NN 目標處_NN 的_DEC 座標_NN 。_PU 座標均_NN 以楚方_NN 的_DEC 視角_NN 為基準_NN ，_PU 以_MSP 兩_CD 個_NN 阿拉_NN 伯_CD 數字_NN 表示_VV ；_PU 第一_OD 個數字_NN 表示_VV 橫線_NN ，_PU 由_P 上至下_NN 依序為_NN 1_OD 至_NN 9_OD ，_PU 最底為_NN 0_OD ；_PU 第二_OD 個數_NN 字表示_NN 緃線_NN ，_PU 由_P 左至右_NN 依序為_NN 1_OD 至_NN 9_OD 。_PU 如_OD ：_PU 76_CD 象_CC 53_CD ，_PU 記錄象_NN 從_NN 76_CD 的_DEC 位置_NN 移動_VV 到_P 53_CD 的_DEC 位置_NN 。_PU 在_AD 大_CD 韓將棋_NN 協_NN 會_OD 第三_OD 次_M 修定前_NN 的_DEC 記譜規則_NN 中_LC 橫線_VV 是_VC 以漢字數字一_JJ 至_NN 十_OD 表示_VV ，_PU 其餘_NN 無異_NN 。_PU
+
+<_PU br_NN >_PU
+
+韓國_NN 將棋可_NN 能_VV 從中_VV 国北宋_NN 或_CC 更早期_NN 流傳_NN 的_DEC 象棋演變_NN 而來_VV 。_PU 最_AD 早是_NN 以象棋_NN 、_PU 象戲_NN 、_PU 象奕為_NN 稱呼_NN ，_PU 在_P 朝鮮王朝_NN 之後稱為_NN 將棋_VV 。_PU 韓國將_NN 棋_VV 在_P 朝鮮仁_NN 祖時期_NN 張維_VV 的_SP 《_PU 谿谷集_NN 》_PU 中已有_NR 記載_VV ，_PU 其規則_NN 基_NN 本上與_NN 現代_VV 規_NN 則無異_NN 。_PU
+原文_NN <_PU br_NN >_PU
+象戲者_NN ，_PU 局_NN 戲象_NN 兵勢也_NN ，_PU 其爲局也_NN 。_PU 東西_NN 九_OD 道_NN ，_PU 南北_NN 十道_NN 。_PU 南北_NN 之邊_NN ，_PU 畫_NN 九_OD 宮_NN 焉_LC ，_PU 斜通而_NN 湊于中_NN ，_PU 將_NN 之位也_NN 。_PU 子各十有六_NR ，_PU 將一_NR ，_PU 將軍也_NR ；_PU 士二_NR ，_PU 謀士也_NR ；_PU 車二_NR ，_PU 戰車也_NR ；_PU 包二_NR ，_PU 礮也_NR ；_PU 馬二_NR ，_PU 騎也_NR ；_PU 象二_NR ，_PU 戰象也_NN ，_PU 卒_NN 五_OD ，_PU 徒也_NN 。_PU 將居_NN 九_OD 宮_NN 之中_NN ，_PU 士居其後_NR 之左_NN 右_NN ，_PU 象居士_NN 之左右_NN ，_PU 馬居象_NN 之左右_NN 。_PU 象與馬_NN ，_PU 雖互列焉_NN 可_VV 也_NN 。_PU 車居馬_NN 之左右_NN ，_PU 包居車_NR 之前_NN 二_CD 罫焉_VV 。_PU 卒列居_NN 包之_VV 前行_NN ，_PU 而各間_NN 一_CD 道以_NN 竟局焉_NN 。_PU 將行_VV 一_CD 道_M ，_PU 前却_NN 左_JJ 右_JJ 無拘_NN ，_PU 然不出_VV 九_CD 宮也_M 。_PU 士行如_NN 將也_NN 。_PU 車_CD 行直_NN ，_PU 長短縱橫_NN 前却無_NN 拘也_VV 。_PU 包行_VV 如車_NN ，_PU 然必有_NR 乘也_NN 。_PU 惟包與_NR 包_ETC ，_PU 不相乘也_NN ，_PU 亦不相_NR 食也_NN 。_PU 馬行_VV 二_CD 罫也_NN 。_PU 象行_NN 六_OD 罫_NN ，_PU 經_NN 三_OD 而_CC 緯二_OD 也_M 。_PU 然馬有_NR 阻其前_NN ，_PU 象有阻_NR 其前及_NN 二罫_CD 者_NN ，_PU 皆_AD 不_AD 得行也_VV 。_PU 卒行_VV 一_CD 道_M ，_PU 可_VV 左_JJ 右而不_NN 可_VV 却也_VV 。_PU 敵_BA 當其行_NN ，_PU 欲食者_NN 食之_VV ，_PU 先得_VV 其將者勝_NN ，_PU 不能相_NN 勝者平_VV 。_PU 將與將_NN 相對_VV ，_PU 以將就_NN 之者請平也_NN ，_PU 此其_NT 大勢也_NN 。_PU 奇正之妙_NR ，_PU 存乎_NR 其人_NN 。_PU
+<_PU br_NN >_PU
+白話_NN <_PU br_NN >_PU
+「_PU 『_PU 象戲_NN 』_PU 是_VC 一_CD 種_M 模擬_NN 用兵_NN 形勢_VV 的_DEC 遊戲_NN 。_PU 棋盤_NN 縱向由_NN 東向西_NN 畫_OD 為_NN 十_OD 道_NN 、_PU 橫向_NN 自南而_NN 北_NN 畫_AD 為_NN 十_OD 道_NN ，_PU 南_NN 北_NN 自棋盤_NN 邊_NN 各_AD 畫_P 一_CD 處_NN 九_OD 宮_NN 格_LC ，_PU 有斜線通過_VV 九_CD 宮格_NN 的_DEC 中心_NN 點_NN ，_PU 這_NN 是棋子_NN 「_PU 將軍_NN 」_PU 的_DEC 位置_NN 。_PU 雙方_NN 各有_VV 棋子_NN 十六_CD 顆_NN ，_PU 一_NN 顆_NN 「_PU 將_NN 」_PU 指將軍_NN 、_PU 兩_OD 顆_NN 「_PU 士_NN 」_PU 指謀士_NN 、_PU 兩_OD 顆_NN 「_PU 車_NN 」_PU 為戰車_NN 、_PU 兩_OD 顆_NN 「_PU 包_NN 」_PU 為火炮_NN 、_PU 兩_OD 顆_NN 「_PU 馬_NN 」_PU 是_VC 騎兵_NN 、_PU 兩顆「象_NN 」_PU 是_VC 戰象_NN ，_PU 還有_VV 五_CD 顆「卒_M 」_PU 是_VC 步兵_NN 。_PU 將放在_VV 九_CD 宮_M 的_DEG 正中_NN ，_PU 士放在_NR 將後_NN 一_AD 線_VA 的_DEC 左_JJ 右_JJ ，_CD 象_NN 在_P 士左右_NN 、_PU 馬在_NR 象左右_NN ，_PU 但象馬_NN 可以_VV 交_BA 換_NN 位置_NN 。_PU 車放馬_NN 旁邊_VV 、_PU 包放車_NN 前隔_NN 兩格_VA 的_DEC 對角_NN 。_PU 卒放_NN 包前_VV 一_CD 路_M ，_PU 之間互相_NN 間隔_VV 一_CD 路_M 。_PU 將一_NN 次_NN 走_AD 一_CD 道_M ，_PU 往前後_NN 左_JJ 右都_NN 可以_VV ，_PU 但不能出_NN 九_OD 宮_NN ；_PU 士跟將_NN 一_OD 樣_NN 。_PU 車走直線_NN ，_PU 長短或_NN 前後_NN 左_JJ 右_JJ 都不限_NN ；_PU 包的_VV 走法類_NN 似車_VV ，_PU 但行_NN 進中_NN 必須_VV 隔_DT 一_CD 子當做_NN 所乘_VV 的_DEC 工具_NN ，_PU 而_MSP 包跟包不_VV 可_VV 以_MSP 互乘_VV 、_PU 也不_NN 可以_VV 互吃_VV 。_PU 馬走_NN 兩_OD 個_NN 格子_NN 的_DEC 對角線_NN ，_PU 象走_NN 六_OD 格_NN （_PU 縱_NN 三_OD 格_NN 橫二_OD 格_M ）_PU 的_DEC 對角線_NN ；_PU 不過馬_NN 的_DEC 前一路_JJ 有別_NN 的_DEC 棋阻擋_NN 、_PU 或象_NN 的_DEC 前一路_JJ 或前_NN 兩格_VA 的_DEC 對角線_NN 上有_VV 棋_CD 阻擋時_NN ，_PU 都不可以走_NN 。_PU 卒一次_JJ 走一_NN 格_NN ，_PU 可以_VV 向_BA 左_JJ 右_JJ 但_CD 不_NN 可以_VV 向後_VV 。_PU 對手_NN 的_DEC 棋子擋_NN 在行_VV 棋_NN 目標_NN 上_NN 時_LC ，_PU 想吃就_NN 可以_VV 吃掉_VV 。_PU 先捕_NN 獲對_NN 方將軍_NN 的_DEC 一_CD 方就獲勝_NN ，_PU 兩_CD 邊都_NN 不_AD 能_VV 贏對_NN 方就平_NN 手_NN 。_PU 如果雙_NN 方將軍_NN 相對_VV ，_PU 移_BA 動將去_NN 對_NN 上_VV 另_NN 一_CD 方_NN 的_DEC 人_NN 可以_VV 請_CD 求平_NN 手_NN 。_PU 這是_NN 大概_VV 的_DEC 規則_NN ，_PU 但_NN 其中_NN 出_NN 奇招_NN 或用_NN 正步的_NN 變化_VV 之妙_NN ，_PU 都要_JJ 看棋手_NN 的_DEC 應對_NN 。_PU 」_PU
+<_PU br_NN >_PU
+
+
+
+

@@ -1,0 +1,9 @@
+﻿迷_NN 你围棋_NN
+
+迷你围棋_NN （_PU 韩文_NN ：_PU 바투_NN （_PU 바鬥_NN ）_PU ）_PU 是_VC 一_CD 种_M 近年由韩_NN 国_NN 设计_NN 的_DEC 类似围_NN 棋_NN 的_DEC 棋盘_NN 游_NN 戏_ETC 。_PU 需要_VV 使用_NN 电脑_NN 对弈_NN 。_PU 与围棋_NN 相比_VV ，_PU 迷_BA 你围棋_NN 的_DEC 棋盘_NN 只有_VV 11_CD 路_NN ，_PU 但_CC 加入_VV 了_AS 布局手_NN 、_PU 隐藏子_NN 等元素_NN ，_PU 使_VV 得其_NN 更具_NN 变化_VV 。_PU
+
+
+围棋_NN
+
+
+

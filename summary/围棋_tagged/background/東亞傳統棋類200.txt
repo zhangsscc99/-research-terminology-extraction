@@ -1,0 +1,6 @@
+﻿大场_NR (_PU 围棋_NR )_PU
+
+大场是_NN 指围棋_NN 里有_VV 扩展己_NN 方地盘_NN 、_PU 外势_NN ，_PU 并_AD 限制_VV 对方_NN 发展_VV 的_DEC 着棋点_NN 。_PU 在布_VV 局_NN 阶段_NN ，_PU 占据_NN 空角_NN 、_PU 护角_NN 、_PU 挂角都_NN 是_VC 大场_VV 。_PU
+
+
+

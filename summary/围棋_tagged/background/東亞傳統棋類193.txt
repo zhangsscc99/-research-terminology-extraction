@@ -1,0 +1,13 @@
+﻿圍棋_NN 軟體_NN
+
+圍棋軟_NN 體有_VV 幾種_NN 不同_VA 的_DEC 分類_NN ，_PU 一_CD 種_NN 是_VC 單純以_NN 電腦為_NN 工具_NN ，_PU 透過_NN 網路下_NN 圍棋_VV ，_PU 另外_VV 一_CD 種是_NN 電腦_NN 可以_VV 透_CD 過邏_NN 輯與人類_NN （_PU 或是另_NN 外_VV 一_CD 台電腦_NN ）_PU 下棋_VV 。_PU
+網路_NN 上有_VV 很多_CD 服務_NN 提供_VV 對_CD 弈_NN ，_PU 這些_NN 服務使_NN 得人類_NN 棋_P 手_NN 可以_VV 透過_VV 網路對_NN 弈_NN ，_PU 並且記錄_NN 棋_NN 局_NN 事後檢_NN 討_NN 。_PU
+
+最早的_JJ 服務是_NN 1992年_CD 二月_NT 上線_VV 的_DEC IGS_NN （_PU 1996年_NT 併購後_NN 改名為_VV Pandanet_NN ）_PU ，_PU 至今還_NN 在_P 運作_NN 。_PU 透過_NN Client_NN /_PU server_NN 架構_NN ，_PU 由_P 使用者_NN 下_NN 載軟體_NN ，_PU 連上_NN 服務端_NN 的_DEC 伺服器_NN 與其他_NN 使用者_NN 對弈_NN 。_PU 約_NN 2000_CD 年時_NN ，_PU Kiseido_NN 建立_VV 了_AS KiseidoGoServer_NR （_PU 2006年_NT 改名為_NN ）_PU ，_PU 允許_NN 使用者_NN 在_VV 瀏覽器_NN 內直接對弈_NN （_PU 透過_NN Javaapplet_NN ）_PU ，_PU 這使_NN 得對弈_NN 的_DEC 便利性大_NN 增_NN 。_PU
+
+由於圍棋_NN 可能_VV 的_DEC 手數過多_NN ，_PU 早期_NN 的_DEC 程式_NN 都無法_NN 在_P 沒有_VV 讓子_NN 的_DEC 前提_NN 下與_VV 人_NN 類頂_NN 尖棋手_NN 對弈_VV 。_PU 在_P 2016_CD 年_PU AlphaGo_NN 出現後_NN ，_PU 證實_NN 可以_VV 透過_VV 類神經_NN 網路_NN 大幅改_AD 善效率_NN ，_PU 電腦_NN 已經_NN 可以_VV 在_P 19x19_CD 的_DEG 標準棋盤_NN 上_NN 不讓子_NN 與人類_NN 頂_NN 尖棋手_NN 對弈_VV 。_PU
+
+拿來儲_NN 存棋譜_NN 的_DEC 有數種_NN 格式_VV ，_PU 最有_VV 名而且_NN 使用_NN 也最_NN 廣泛_VA 的_DEC 是_VC （_PU ）_NN 。_PU 這個_NN 格式除了_NN 可以_VV 拿_CD 來記_NN 錄棋_NN 譜以_NN 外_LC ，_PU 還_AD 可以_VV 記_CD 錄變化圖與_NN 解說_VV 。_PU
+
+
+
