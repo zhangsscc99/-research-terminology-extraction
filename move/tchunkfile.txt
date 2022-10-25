@@ -1,0 +1,10 @@
+../move/output_foreground/围棋0.txt.tchunk
+../move/output_foreground/围棋1.txt.tchunk
+../move/output_foreground/围棋10.txt.tchunk
+../move/output_foreground/围棋100.txt.tchunk
+../move/output_foreground/围棋101.txt.tchunk
+../move/output_foreground/围棋102.txt.tchunk
+../move/output_foreground/围棋103.txt.tchunk
+../move/output_foreground/围棋104.txt.tchunk
+../move/output_foreground/围棋105.txt.tchunk
+../move/output_foreground/围棋106.txt.tchunk

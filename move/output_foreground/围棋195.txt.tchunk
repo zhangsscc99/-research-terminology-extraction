@@ -1,0 +1,795 @@
+﻿圍棋棋		﻿圍棋棋		NN		B-NP
+士列表		士列表		NN		I-NP
+中国围		中国围		NR		O
+棋协会		棋协会		NN		B-NP
+（		（		PU		O
+中国		中国		NR		O
+棋院		棋院		NN		O
+）		）		PU		O
+。		。		PU		O
+女性		女性		JJ		B-NP
+棋手以		棋手以		NN		I-NP
+红色		红色		VV		O
+背景		背景		NN		B-NP
+显示		显示		NN		I-NP
+。		。		PU		O
+状态		状态		NN		O
+一		一		AD		O
+栏		栏		VA		O
+的		的		SP		O
+“		“		PU		O
+*		*		NN		B-NP
+”		”		PU		O
+表示		表示		VV		O
+其		其		PN		O
+在		在		P		O
+2019年		2019年		CD		O
+12月		12月		NT		O
+的		的		DEG		O
+中国		中国		NR		O
+围棋		围棋		NN		O
+等		等		ETC		O
+级分排名		级分排名		NN		B-NP
+中		中		NN		I-NP
+为		为		VC		O
+不活跃棋		不活跃棋		NN		B-NP
+手		手		NN		I-NP
+。		。		PU		O
+韩国		韩国		NR		O
+棋院		棋院		NN		O
+九		九		OD		O
+段		段		NN		O
+：		：		PU		O
+金　		金　		NN		B-NP
+寅　		寅　		NN		I-NP
+尹奇		尹奇		NN		I-NP
+鉉　		鉉　		NN		I-NP
+曹薰		曹薰		NN		I-NP
+鉉　劉		鉉　劉		NN		I-NP
+丙虎　河		丙虎　河		NN		I-NP
+燦錫		燦錫		NN		I-NP
+　盧		　盧		NN		I-NP
+永夏		永夏		NN		I-NP
+　洪		　洪		NN		I-NP
+鐘賢　		鐘賢　		NN		I-NP
+梁相國		梁相國		NN		I-NP
+徐奉		徐奉		NN		I-NP
+洙　		洙　		NN		I-NP
+張秀		張秀		NN		I-NP
+英　白		英　白		NN		I-NP
+成豪　		成豪　		NN		I-NP
+徐能		徐能		NN		I-NP
+旭　		旭　		VV		O
+鄭壽鉉		鄭壽鉉		NN		B-NP
+　金日		　金日		NN		I-NP
+煥		煥		NN		I-NP
+　金秀		　金秀		NN		I-NP
+壯　		壯　		NN		I-NP
+姜　勳		姜　勳		NN		I-NP
+文明根　		文明根　		NN		I-NP
+崔珪昺		崔珪昺		NN		I-NP
+　黃		　黃		NN		I-NP
+元俊　		元俊　		NN		I-NP
+許壯		許壯		NN		I-NP
+會　		會　		NN		I-NP
+姜晚		姜晚		NN		I-NP
+寓　		寓　		NN		I-NP
+梁宰		梁宰		NN		I-NP
+豪　趙		豪　趙		NN		I-NP
+大賢		大賢		CD		O
+　鄭大		　鄭大		NN		B-NP
+相		相		NN		I-NP
+李洪烈		李洪烈		NN		I-NP
+　金東		　金東		NN		I-NP
+燁　		燁　		NN		I-NP
+劉昌		劉昌		NN		I-NP
+赫　		赫　		NN		I-NP
+吳圭		吳圭		NN		I-NP
+哲　		哲　		NN		I-NP
+李昌鎬		李昌鎬		NN		I-NP
+　金承		　金承		NN		I-NP
+俊　李		俊　李		NN		I-NP
+相勳		相勳		VV		O
+B		B		NN		B-NP
+尹炫晰		尹炫晰		NN		I-NP
+尹盛		尹盛		NN		I-NP
+鉉　		鉉　		NN		I-NP
+崔明勳		崔明勳		NN		I-NP
+　金成		　金成		NN		I-NP
+龍　		龍　		NN		I-NP
+安祚		安祚		NN		I-NP
+永　睦鎮		永　睦鎮		NN		I-NP
+碩		碩		NN		I-NP
+　		　		NN		I-NP
+趙漢乘		趙漢乘		NN		I-NP
+　		　		NN		I-NP
+李世乭		李世乭		NN		I-NP
+　崔哲		　崔哲		NN		I-NP
+瀚		瀚		NN		I-NP
+朴永		朴永		NN		I-NP
+訓　朴		訓　朴		NN		I-NP
+正祥　朴		正祥　朴		NN		I-NP
+鋕恩		鋕恩		NN		I-NP
+　姜東		　姜東		NN		I-NP
+潤　		潤　		NN		I-NP
+元晟溱		元晟溱		NN		I-NP
+　金東		　金東		NN		I-NP
+勉　林宣		勉　林宣		NN		I-NP
+根		根		NN		I-NP
+　		　		NN		I-NP
+洪太善		洪太善		NN		I-NP
+金荣		金荣		NN		I-NP
+桓　		桓　		NN		I-NP
+赵南哲		赵南哲		NN		I-NP
+　金熙		　金熙		NN		I-NP
+中　宋泰		中　宋泰		NN		I-NP
+坤　		坤　		NN		I-NP
+李圣		李圣		NN		I-NP
+宰　		宰　		NN		I-NP
+柳才		柳才		NN		I-NP
+馨　		馨　		NN		I-NP
+梁　建		梁　建		NN		I-NP
+　金明		　金明		NN		I-NP
+完		完		NN		I-NP
+朴廷		朴廷		NN		I-NP
+桓　		桓　		NN		I-NP
+赵惠莲		赵惠莲		NN		I-NP
+　金		　金		NN		I-NP
+主镐		主镐		NN		I-NP
+　李映		　李映		NN		I-NP
+九		九		OD		O
+　		　		NN		B-NP
+许映		许映		NN		I-NP
+皓　		皓　		NN		I-NP
+尹峻相		尹峻相		NN		I-NP
+　白		　白		VV		O
+洪淅		洪淅		NN		B-NP
+　李		　李		NN		I-NP
+熙星		熙星		NN		I-NP
+安达		安达		NN		I-NP
+勋　		勋　		NN		I-NP
+金荣		金荣		NN		I-NP
+三		三		OD		O
+　		　		NN		B-NP
+朴振悅		朴振悅		NN		I-NP
+　姜		　姜		VV		O
+至		至		VV		O
+省　		省　		NN		B-NP
+千		千		OD		O
+豐		豐		NN		B-NP
+祚　洪性		祚　洪性		NN		I-NP
+志		志		NN		I-NP
+　金志		　金志		NN		I-NP
+锡		锡		NN		I-NP
+　		　		NN		I-NP
+崔　精		崔　精		NN		I-NP
+江鑄久		江鑄久		NN		I-NP
+（		（		PU		O
+客座		客座		NN		O
+）		）		PU		O
+八		八		OD		O
+段		段		NN		O
+：		：		PU		O
+金		金		AD		O
+在		在		P		O
+九		九		CD		O
+　		　		M		O
+高在熙　		高在熙　		NN		B-NP
+李		李		NN		I-NP
+奉		奉		NN		I-NP
+根　俞		根　俞		NN		I-NP
+健		健		VV		O
+在		在		P		O
+　李		　李		NN		B-NP
+相		相		NN		I-NP
+澈		澈		NN		I-NP
+　金德		　金德		NN		I-NP
+奎　韩		奎　韩		NN		I-NP
+钟		钟		NN		I-NP
+振　		振　		NN		I-NP
+李贤旭		李贤旭		NN		I-NP
+安官旭		安官旭		NN		I-NP
+　权甲		　权甲		NN		I-NP
+龙　朴		龙　朴		NN		I-NP
+相		相		NN		I-NP
+敦　		敦　		VV		O
+张斗轸		张斗轸		NN		B-NP
+　白大		　白大		NN		I-NP
+铉		铉		NN		I-NP
+　		　		NN		I-NP
+韓鐵均　		韓鐵均　		NN		I-NP
+徐		徐		NN		I-NP
+武祥		武祥		NN		I-NP
+　廉		　廉		NN		I-NP
+正勋		正勋		NN		I-NP
+金		金		NN		I-NP
+萬		萬		OD		O
+樹		樹		M		O
+　李		　李		NN		B-NP
+廷		廷		NN		I-NP
+宇　李		宇　李		NN		I-NP
+相勋		相勋		VV		O
+S		S		NN		B-NP
+朴炳奎		朴炳奎		NN		I-NP
+　		　		NN		I-NP
+七		七		OD		O
+段		段		NN		O
+：		：		PU		O
+李基燮		李基燮		NN		B-NP
+　金鶴洙		　金鶴洙		NN		I-NP
+S		S		NN		I-NP
+金　		金　		NN		I-NP
+原　		原　		NN		I-NP
+盧俊		盧俊		NN		I-NP
+煥　		煥　		NN		I-NP
+洪旼杓		洪旼杓		NN		I-NP
+　高		　高		VV		O
+根台		根台		NN		B-NP
+　溫		　溫		NN		I-NP
+昭珍		昭珍		NN		I-NP
+　玉		　玉		NN		I-NP
+得真		得真		NN		I-NP
+朴升哲		朴升哲		NN		I-NP
+　洪章植		　洪章植		NN		I-NP
+　金光		　金光		NN		I-NP
+植　金		植　金		NN		I-NP
+钟		钟		NN		I-NP
+秀		秀		NN		I-NP
+　金江		　金江		NN		I-NP
+根		根		NN		I-NP
+　		　		NN		I-NP
+李玟		李玟		NN		I-NP
+眞　		眞　		NN		I-NP
+李載		李載		NN		I-NP
+雄　		雄　		NN		I-NP
+李勇讚		李勇讚		NN		I-NP
+羅鐘		羅鐘		NN		I-NP
+勳　		勳　		NN		I-NP
+朴昇		朴昇		NN		I-NP
+賢　		賢　		NN		I-NP
+尹　		尹　		NN		I-NP
+赫　		赫　		NN		I-NP
+崔原踴		崔原踴		NN		I-NP
+六		六		OD		O
+段		段		NN		O
+：		：		PU		O
+崔彰		崔彰		NN		B-NP
+元　沈		元　沈		NN		I-NP
+宗		宗		NN		I-NP
+植　權		植　權		NN		I-NP
+慶		慶		NN		I-NP
+彥		彥		NN		I-NP
+　金潤		　金潤		NN		I-NP
+泰		泰		NN		I-NP
+　金宗		　金宗		NN		I-NP
+俊　朴		俊　朴		NN		I-NP
+勝文		勝文		NN		I-NP
+　金亨奐		　金亨奐		NN		I-NP
+　金惠		　金惠		NN		I-NP
+敏		敏		NN		I-NP
+金江		金江		NN		I-NP
+根　		根　		NN		I-NP
+李廷		李廷		NN		I-NP
+宇　		宇　		NN		I-NP
+安永		安永		NN		I-NP
+吉　		吉　		NN		I-NP
+韓尚		韓尚		NN		I-NP
+勳　車		勳　車		NN		I-NP
+修權　		修權　		NN		I-NP
+金起		金起		NN		I-NP
+用　		用　		NN		I-NP
+李		李		NN		I-NP
+勇秀		勇秀		NN		I-NP
+　金		　金		NN		I-NP
+炯佑		炯佑		NN		I-NP
+朴		朴		CD		O
+之勳		之勳		NN		B-NP
+B		B		NN		I-NP
+　鄭東		　鄭東		NN		I-NP
+植　朱亨		植　朱亨		NN		I-NP
+煜　		煜　		NN		I-NP
+張明翰		張明翰		NN		I-NP
+　金基		　金基		NN		I-NP
+憲　		憲　		NN		I-NP
+徐健		徐健		NN		I-NP
+佑　		佑　		NN		I-NP
+朴進率		朴進率		NN		I-NP
+　崔文墉		　崔文墉		NN		I-NP
+權孝珍		權孝珍		NN		I-NP
+五		五		OD		O
+段		段		NN		O
+：		：		PU		O
+金鶴洙		金鶴洙		NN		B-NP
+B		B		NN		I-NP
+白興秀　		白興秀　		NN		I-NP
+李俊鶴		李俊鶴		NN		I-NP
+　韓相		　韓相		NN		I-NP
+烈　		烈　		VV		O
+林		林		CD		O
+舜澤		舜澤		NN		B-NP
+　文		　文		NN		I-NP
+容直　		容直　		NN		I-NP
+洪基		洪基		NN		I-NP
+杓　姜儒		杓　姜儒		NN		I-NP
+澤		澤		NN		I-NP
+尹映善		尹映善		NN		I-NP
+　金燦佑		　金燦佑		NN		I-NP
+　金大		　金大		NN		I-NP
+熙　		熙　		NN		I-NP
+李春		李春		NN		I-NP
+揆　		揆　		NN		I-NP
+李泰		李泰		NN		I-NP
+賢　俞		賢　俞		NN		I-NP
+在		在		P		O
+星　		星　		NN		B-NP
+陳時		陳時		NN		I-NP
+映　劉		映　劉		NN		I-NP
+栽豪		栽豪		NN		I-NP
+庾炅旻		庾炅旻		NN		I-NP
+　金俊		　金俊		NN		I-NP
+永　		永　		NN		I-NP
+金昇宰		金昇宰		NN		I-NP
+　金孝坤		　金孝坤		NN		I-NP
+　金鎮		　金鎮		NN		I-NP
+祐　		祐　		NN		I-NP
+李英		李英		NN		I-NP
+信　		信　		NN		I-NP
+朴承		朴承		NN		I-NP
+華　		華　		NN		I-NP
+李炯魯		李炯魯		NN		I-NP
+權五		權五		OD		O
+敏　陳東奎　朴鐘烈　徐健佑　玄味真　金大容　朴贞根		敏　陳東奎　朴鐘烈　徐健佑　玄味真　金大容　朴贞根		Err		O
+岳亮　		岳亮　		NN		B-NP
+（		（		PU		O
+客座		客座		NN		O
+）		）		PU		O
+四		四		OD		O
+段		段		NN		O
+：		：		PU		O
+車敏		車敏		JJ		B-NP
+洙　孔		洙　孔		NN		I-NP
+炳柱		炳柱		NN		I-NP
+　黃		　黃		NN		I-NP
+　焰　		　焰　		NN		I-NP
+崔基勳　裴俊		崔基勳　裴俊		NN		I-NP
+熙　		熙　		NN		I-NP
+韩雄		韩雄		NN		I-NP
+奎　孫		奎　孫		NN		I-NP
+根		根		NN		I-NP
+氣		氣		NN		I-NP
+　金秀		　金秀		NN		I-NP
+勇		勇		NN		I-NP
+金成		金成		NN		I-NP
+來　		來　		NN		I-NP
+朴映澯		朴映澯		NN		I-NP
+　全瑛圭		　全瑛圭		NN		I-NP
+　金恩善		　金恩善		NN		I-NP
+　金錫		　金錫		NN		I-NP
+興　李		興　李		NN		I-NP
+多		多		CD		O
+慧		慧		NN		B-NP
+　金基		　金基		NN		I-NP
+原　		原　		NN		I-NP
+安成		安成		VV		O
+浚　		浚　		NN		B-NP
+李寬哲		李寬哲		NN		I-NP
+　李		　李		NN		I-NP
+元道　		元道　		NN		I-NP
+李		李		AD		O
+知		知		VV		O
+炫　		炫　		NN		B-NP
+朴成		朴成		VV		O
+洙　		洙　		NN		B-NP
+朴志勳		朴志勳		NN		I-NP
+S李元		S李元		NN		I-NP
+荣　安		荣　安		NN		I-NP
+国铉　		国铉　		NN		I-NP
+徐仲		徐仲		NN		I-NP
+輝　尹		輝　尹		NN		I-NP
+在		在		P		O
+雄　		雄　		NN		B-NP
+三段		三段		NN		I-NP
+：		：		PU		O
+尹鍾		尹鍾		NN		B-NP
+燮　		燮　		NN		I-NP
+趙英淑		趙英淑		NN		I-NP
+　金哲		　金哲		NN		I-NP
+中　河好		中　河好		NN		I-NP
+貞		貞		NN		I-NP
+　		　		NN		I-NP
+安亨浚		安亨浚		NN		I-NP
+　裴允珍		　裴允珍		NN		I-NP
+　		　		NN		I-NP
+韩态熙		韩态熙		NN		I-NP
+　		　		NN		I-NP
+崔		崔		NN		I-NP
+丙煥		丙煥		NN		I-NP
+李夏		李夏		NN		I-NP
+辰　韓		辰　韓		NN		I-NP
+海苑　		海苑　		NN		I-NP
+金東熙		金東熙		NN		I-NP
+　金煥洙		　金煥洙		NN		I-NP
+　金仑		　金仑		NN		I-NP
+映		映		NN		I-NP
+　金东		　金东		NN		I-NP
+昊　		昊　		NN		I-NP
+罗　玄		罗　玄		NN		I-NP
+　文度媛		　文度媛		NN		I-NP
+金敏熙		金敏熙		NN		I-NP
+　金善		　金善		NN		I-NP
+美		美		NN		I-NP
+　金世		　金世		NN		I-NP
+东		东		NN		I-NP
+　金庭		　金庭		NN		I-NP
+贤		贤		NN		I-NP
+　金秀		　金秀		NN		I-NP
+眞		眞		NN		I-NP
+　金鎭		　金鎭		NN		I-NP
+熏　		熏　		NN		I-NP
+李浩		李浩		NN		I-NP
+范　李		范　李		NN		I-NP
+瑟娥		瑟娥		NN		I-NP
+朴炤		朴炤		NN		I-NP
+炫　		炫　		NN		I-NP
+朴志		朴志		NN		I-NP
+娟　		娟　		NN		I-NP
+尹泳		尹泳		NN		I-NP
+珉　		珉　		NN		I-NP
+尹智		尹智		NN		I-NP
+熙　		熙　		NN		I-NP
+尹锺		尹锺		NN		I-NP
+燮　		燮　		NN		I-NP
+趙鏡		趙鏡		NN		I-NP
+鎬　		鎬　		NN		I-NP
+李志		李志		NN		I-NP
+贤　		贤　		NN		I-NP
+柳珉		柳珉		NN		I-NP
+滢　		滢　		NN		I-NP
+李贤虎		李贤虎		NN		I-NP
+陳詩淵		陳詩淵		NN		I-NP
+（		（		PU		O
+返台		返台		NN		B-NP
+）		）		PU		O
+二		二		OD		O
+段		段		NN		O
+：		：		PU		O
+姜昇		姜昇		NN		B-NP
+希　		希　		NN		I-NP
+李晶		李晶		NN		I-NP
+媛　		媛　		NN		I-NP
+金孝貞		金孝貞		NN		I-NP
+　金善		　金善		NN		I-NP
+浩　吳		浩　吳		NN		I-NP
+周星		周星		NN		I-NP
+　金世		　金世		NN		I-NP
+實　		實　		NN		I-NP
+李康		李康		NN		I-NP
+旭　		旭　		NN		I-NP
+高周延		高周延		NN		I-NP
+　柳东完		　柳东完		NN		I-NP
+　白知熹		　白知熹		NN		I-NP
+　		　		NN		I-NP
+崔烘		崔烘		NN		I-NP
+允　		允　		VV		O
+　姜昌培		　姜昌培		NN		B-NP
+姜升旼		姜升旼		NN		I-NP
+　姜		　姜		NN		I-NP
+　勋		　勋		NN		I-NP
+　金美		　金美		NN		I-NP
+里　朴		里　朴		NN		I-NP
+埈奭		埈奭		NN		I-NP
+许　		许　		NN		I-NP
+进　		进　		VV		O
+张健贤		张健贤		NN		B-NP
+初段		初段		NN		I-NP
+：		：		PU		O
+南治亨		南治亨		NN		B-NP
+　金兌		　金兌		NN		I-NP
+鄉　張		鄉　張		NN		I-NP
+正平　崔		正平　崔		NN		I-NP
+東恩		東恩		NN		I-NP
+　趙美瓊		　趙美瓊		NN		I-NP
+　權		　權		NN		I-NP
+亨鎮		亨鎮		NN		I-NP
+　尹		　尹		NN		I-NP
+燦熙		燦熙		NN		I-NP
+　金		　金		NN		I-NP
+惠临		惠临		NN		I-NP
+赵寅善		赵寅善		NN		I-NP
+　卞相		　卞相		NN		I-NP
+壹		壹		NN		I-NP
+　		　		NN		I-NP
+黄宰渊		黄宰渊		NN		I-NP
+　		　		NN		I-NP
+黄		黄		NN		I-NP
+鎭亨　		鎭亨　		NN		I-NP
+姜		姜		NN		I-NP
+秉券		秉券		NN		I-NP
+　金		　金		NN		I-NP
+彩瑛		彩瑛		NN		I-NP
+　金成进		　金成进		NN		I-NP
+　金娜		　金娜		NN		I-NP
+贤		贤		NN		I-NP
+金檽里		金檽里		NN		I-NP
+　金		　金		NN		I-NP
+显灿		显灿		NN		I-NP
+　金元		　金元		NN		I-NP
+彬　		彬　		NN		I-NP
+李东勋		李东勋		NN		I-NP
+　李		　李		NN		I-NP
+范鎭　		范鎭　		NN		I-NP
+李		李		NN		I-NP
+尙		尙		NN		I-NP
+宪　		宪　		NN		I-NP
+李映		李映		NN		I-NP
+周　		周　		NN		I-NP
+梁寓晳		梁寓晳		NN		I-NP
+柳秀		柳秀		NN		I-NP
+沆　		沆　		NN		I-NP
+闵详		闵详		NN		I-NP
+然　		然　		NN		I-NP
+朴珉		朴珉		NN		I-NP
+奎　朴		奎　朴		NN		I-NP
+硬根		硬根		VV		O
+　		　		NN		B-NP
+朴永龙　		朴永龙　		NN		I-NP
+吴政		吴政		NN		I-NP
+娥　		娥　		NN		I-NP
+郑斗镐		郑斗镐		NN		I-NP
+SvetlanaShikshina		SvetlanaShikshina		NR		O
+　　		　　		NN		B-NP
+AlexanderDinerchteinDiana		AlexanderDinerchteinDiana		NR		O
+更多		更多		NR		O
+資料		資料		NN		B-NP
+：		：		PU		O
+日本		日本		NR		O
+圍棋棋		圍棋棋		NN		B-NP
+士列表		士列表		NN		I-NP
+九		九		CD		O
+段		段		NN		O
+八		八		CD		O
+段		段		NN		O
+七		七		CD		O
+段		段		NN		O
+六		六		CD		O
+段		段		NN		O
+五		五		CD		O
+段		段		NN		O
+四		四		CD		O
+段		段		NN		O
+三		三		CD		O
+段		段		NN		O
+二		二		CD		O
+段		段		NN		B-NP
+初段		初段		NN		I-NP
+九		九		CD		O
+段		段		NN		O
+八		八		CD		O
+段		段		NN		O
+七		七		CD		O
+段		段		NN		O
+五		五		CD		O
+段		段		NN		B-NP
+初段		初段		NN		I-NP
+林書陽		林書陽		NN		I-NP
+　蕭		　蕭		NN		I-NP
+正浩　陳		正浩　陳		NN		I-NP
+詩淵		詩淵		NN		I-NP
+　王		　王		NN		I-NP
+元均　		元均　		NN		I-NP
+周俊		周俊		NN		I-NP
+勳　		勳　		NN		I-NP
+林至		林至		NN		I-NP
+涵　		涵　		NN		I-NP
+林君		林君		NN		I-NP
+諺　		諺　		NN		I-NP
+林聖		林聖		NN		I-NP
+賢　林立		賢　林立		NN		I-NP
+祥		祥		NN		I-NP
+　		　		NN		I-NP
+許皓鋐		許皓鋐		NN		I-NP
+夏大銘		夏大銘		NR		O
+　戴		　戴		NN		B-NP
+嘉伸		嘉伸		VV		O
+　		　		AS		O
+黑嘉嘉　		黑嘉嘉　		NN		B-NP
+彭景華		彭景華		NN		I-NP
+　林士勛		　林士勛		NN		I-NP
+　楊		　楊		NN		I-NP
+博崴		博崴		NN		I-NP
+　陳		　陳		NN		I-NP
+祈睿　賴		祈睿　賴		NN		I-NP
+均		均		NN		I-NP
+輔		輔		NN		I-NP
+陳永		陳永		NN		I-NP
+安　		安　		NN		I-NP
+黃祥		黃祥		NN		I-NP
+任　		任　		NN		I-NP
+周可平　		周可平　		NN		I-NP
+周尹		周尹		NN		I-NP
+南　劉		南　劉		NN		I-NP
+耀文　		耀文　		NN		I-NP
+張哲		張哲		NN		I-NP
+豪　		豪　		NN		I-NP
+林修		林修		NN		I-NP
+平　		平　		NN		I-NP
+周序鋒		周序鋒		NN		I-NP
+　楊志		　楊志		NN		I-NP
+德　		德　		NN		I-NP
+周平		周平		NN		I-NP
+強　		強　		NN		I-NP
+張凱		張凱		NN		I-NP
+馨　簡		馨　簡		NN		I-NP
+靖庭		靖庭		NN		I-NP
+　林		　林		NN		I-NP
+宇翔		宇翔		NN		I-NP
+　李		　李		NN		I-NP
+維　		維　		NN		I-NP
+陳逸		陳逸		NN		I-NP
+達　		達　		NN		I-NP
+楊孟允　		楊孟允　		NN		I-NP
+陳		陳		NN		I-NP
+義		義		NN		I-NP
+翔　		翔　		NN		I-NP
+陳鋒　		陳鋒　		NN		I-NP
+簡立宸		簡立宸		NR		O
+　陳		　陳		NN		B-NP
+禧　		禧　		NN		I-NP
+盧奕		盧奕		NN		I-NP
+銓　		銓　		NN		I-NP
+蔡丞		蔡丞		NN		I-NP
+韋　		韋　		NN		I-NP
+丁		丁		NN		I-NP
+少		少		NN		I-NP
+傑　		傑　		NN		I-NP
+楊子		楊子		NN		I-NP
+萱　許		萱　許		NN		I-NP
+育		育		NN		I-NP
+祺　林杰		祺　林杰		NN		I-NP
+漢　林		漢　林		NN		I-NP
+世民		世民		NN		I-NP
+黃世元		黃世元		NN		I-NP
+　徐		　徐		NN		I-NP
+靖恩		靖恩		NN		I-NP
+　牛詩		　牛詩		NN		I-NP
+特　盧		特　盧		NN		I-NP
+鈺		鈺		NN		I-NP
+樺		樺		NN		I-NP
+　林彥		　林彥		NN		I-NP
+丞		丞		VV		O
+　		　		NN		B-NP
+俞俐均　		俞俐均　		NN		I-NP
+饒瑞雍		饒瑞雍		NN		I-NP
+　張正		　張正		NN		I-NP
+平　		平　		NN		I-NP
+范揚波		范揚波		NN		I-NP
+　		　		NN		I-NP
+張		張		AD		O
+懷		懷		P		O
+一		一		CD		O
+　黃丞毅		　黃丞毅		NN		B-NP
+　		　		NN		I-NP
+廖冠		廖冠		NN		I-NP
+泓　		泓　		NN		I-NP
+趙佩		趙佩		NN		I-NP
+哲　		哲　		NN		I-NP
+陳冠		陳冠		NN		I-NP
+維　		維　		NN		I-NP
+張原		張原		NN		I-NP
+榮　		榮　		NN		I-NP
+陳秋		陳秋		NN		I-NP
+龍　		龍　		NN		I-NP
+王湘		王湘		NN		I-NP
+傑　		傑　		NN		I-NP
+魏豪		魏豪		NN		I-NP
+廷　葉		廷　葉		NN		I-NP
+紘源		紘源		NN		I-NP
+　蘇		　蘇		NN		I-NP
+聖芳		聖芳		NN		I-NP
+　林		　林		NN		I-NP
+聖弈　		聖弈　		NN		I-NP
+黃彥誠　		黃彥誠　		NN		I-NP
+高昀　劉		高昀　劉		NN		I-NP
+建昌		建昌		NN		I-NP
+　陳威廷		　陳威廷		NN		I-NP
+　林		　林		JJ		I-NP
+新為　		新為　		NN		I-NP
+白昕卉		白昕卉		NN		I-NP
+　陳首廉		　陳首廉		NN		I-NP
+　		　		NN		I-NP
+莊承		莊承		NN		I-NP
+濬　		濬　		NN		I-NP
+詹宜典		詹宜典		NN		I-NP
+陳擎		陳擎		NN		I-NP
+宇　		宇　		NN		I-NP
+王允		王允		NN		I-NP
+中		中		LC		O
+　許		　許		VV		O
+長		長		NN		B-NP
+正　蕭愛		正　蕭愛		NN		I-NP
+霖		霖		NN		I-NP
+　黨		　黨		NN		I-NP
+希昀　		希昀　		NN		I-NP
+秦士　		秦士　		NN		I-NP
+林子		林子		NN		I-NP
+元　彭		元　彭		NN		I-NP
+鐏		鐏		NN		I-NP
+德		德		NN		I-NP
+　何承威		　何承威		NN		I-NP
+　		　		NN		I-NP
+黃道隆		黃道隆		NN		I-NP
+　		　		NN		I-NP
+余炳		余炳		NN		I-NP
+葟　陳		葟　陳		NN		I-NP
+劭全　張		劭全　張		NN		I-NP
+嘉桓		嘉桓		NN		I-NP
+　黃		　黃		NN		I-NP
+偉　		偉　		NN		I-NP
+曾品		曾品		NN		I-NP
+傑　		傑　		NN		I-NP
+李奎漢		李奎漢		NN		I-NP
+　施景		　施景		NN		I-NP
+堯　		堯　		NN		I-NP
+黃袖		黃袖		NN		I-NP
+圃　		圃　		NN		I-NP
+孫偉勛		孫偉勛		NN		I-NP
+董友		董友		NN		I-NP
+棠　		棠　		NN		I-NP
+李晶		李晶		NN		I-NP
+彬　		彬　		NN		I-NP
+李真雄		李真雄		NN		I-NP
+　謝東霖		　謝東霖		NN		I-NP
+　		　		NN		I-NP
+簡		簡		NN		I-NP
+意弘　		意弘　		NN		I-NP
+王智		王智		NN		I-NP
+弘　		弘　		NN		I-NP
+朱紹維		朱紹維		NN		I-NP
+　林柏宇		　林柏宇		NN		I-NP
+　林		　林		NN		I-NP
+鈺娗　劉		鈺娗　劉		NN		I-NP
+一		一		CD		O
+芳　		芳　		NN		B-NP
+舒敬		舒敬		NN		I-NP
+雯　		雯　		NN		I-NP
+劉川		劉川		NN		I-NP
+霆　		霆　		NN		I-NP
+黃宥騰		黃宥騰		NN		I-NP
+　林瀚彰		　林瀚彰		NN		I-NP
+　李		　李		NN		I-NP
+漢驎　		漢驎　		NN		I-NP
+張庭		張庭		NN		I-NP
+維　		維　		NN		I-NP
+尤浩		尤浩		NN		I-NP
+宇　		宇　		NN		I-NP
+蕭睿		蕭睿		NN		I-NP
+杉　		杉　		NN		I-NP
+李嘉		李嘉		NN		I-NP
+馨　		馨　		NN		I-NP
+陳品		陳品		NN		I-NP
+樺　		樺　		NN		I-NP
+林怡		林怡		NN		I-NP
+廷　		廷　		NN		I-NP
+吳彥		吳彥		NN		I-NP
+諶　		諶　		NN		I-NP
+謝承翰		謝承翰		NN		I-NP
+三		三		CD		O
+國		國		NN		B-NP
+唐代		唐代		NN		I-NP
+宋代		宋代		NN		I-NP
+元代		元代		NN		I-NP
+明代		明代		NN		I-NP
+清代		清代		NN		I-NP
+戰國		戰國		NN		I-NP
+、		、		PU		O
+江戶		江戶		NN		B-NP
+時代		時代		NN		I-NP
+明治時		明治時		NN		I-NP
+代		代		NN		I-NP
+大正		大正		VV		O
+、		、		PU		O
+昭和		昭和		NN		B-NP
+時代		時代		NN		I-NP
+第二		第二		OD		O
+尚氏王		尚氏王		NN		B-NP
+朝		朝		NN		I-NP
