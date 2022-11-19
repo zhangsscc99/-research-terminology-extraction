@@ -1,0 +1,1160 @@
+方圓社_NN
+江流儿_NN
+雷凌云_NN
+江流_NN
+云子_NN
+小_JJ 林光_NN
+元人_NN
+对_P 局者_NN
+赛冠军_NN
+韩元_NN
+小光_NN
+组_NN
+棋盘_NN
+棋形_NN
+棋鬼王_NN
+御城棋_NN
+王戰_NN
+桐山杯_NN
+樊麾_NN
+区_NN
+方圓_NN
+之一_NT
+方棋子_NN
+国棋院_NN
+海峰棋_NN 院_NN
+定段_NN
+方胜_NN
+制度_NN
+中国_NR
+女子_NN
+山城宏_NN
+黄龙士_NN
+杯冠军_NN
+棋圣_NN
+名单_NN
+陈祖德_NN
+参赛_NN
+黑棋_NN
+模樣_NN
+雙人圍_NN
+颗子_NN
+妖刀_NN
+中华_NR 台北_NN
+王晨星_NN
+項目_NN
+提子_NN
+卫平_NN
+出线_NN
+职业棋_NN
+棋協會_NN
+决赛_NT
+台灣棋_NN
+後來_NR
+如果_CS
+本_DT 赛_NN
+丈_NN 和_CC
+劫材_NN
+天元战_NN
+白昕卉_NR
+歐洲_NN
+连胜_NN
+名人賽_NN
+对_P 抗赛_NN
+国流_NN
+弟子_NN
+比_P 目法_NN
+先手_NT
+規則_NN
+年全_NN
+由於_P
+對局_NN
+中國_NR 圍棋_NN
+女子棋_NN
+国_NN 际象_NN
+刀定式_NN
+职业_NN 棋手_NN
+正_AD 官_JJ 庄杯_NN
+国棋手_NN
+宇宙流_NN
+棋聖戰_NN
+關西_NN 棋院_NN
+職業_NN 棋手_NN
+職業_NN 棋士_NN
+財團_NN 法人_NN
+齐鲁晚_Err
+時代_NN
+轮败者_NN
+俞俐均_NN
+人戰_NN
+队_NN 和_CC
+聂卫_NN
+腾讯_NN
+頭銜者_NN
+吴清源_NN
+聖戰_NN
+賽制_NN
+聯盟_NN
+步棋_NN
+為名人_NN
+交流_NN
+年日本_NN
+国业_NN
+定_VV 式_NN
+表团_NN
+赛制_NN
+复杂性_JJ
+段位制_NN
+赛事_NN
+厚勢_NR
+关_VV 西_NN
+目的_NN
+赛区_NN
+情况_NN
+中盤_NR
+技术_NN
+時間_NN
+昭_NN 和_CC
+之後_LC
+本_DT 因_P 坊_NN
+日本_NR
+世界_NN
+黑嘉嘉_NN
+女子组_NN
+小_JJ 林觉_NN
+赛棋手_NN
+楊子萱_NN
+女流_JJ 名人_NN
+外勢_NN
+胜率_NN
+全国性_JJ
+理光_NN
+飛刀_NN
+王座戰_NN
+國手_NN
+国_NN 女子_NN
+視台_NN
+男棋手_NN
+崔哲瀚_NN
+亞軍_NN
+黃士_NN
+道策_NN
+棋_NN 世界_NN
+电王战_NN
+朴鋕恩_NN
+方用_NN 时_LC
+规则_NN
+赛_NN 于_P
+圣战_NN
+读秒_NN
+棋協_NN
+安節_NN
+专家_NN
+出场_NN
+挑战赛_NN
+李小_NR 溪_NN
+腾讯野_NN
+世纪_NN
+国手战_NN
+互联网_NN
+数子_NN
+數子法_NN
+广州_NR
+辜梓豪_NN
+陈浩_NN
+年度_NN
+棋水平_NN
+网络_NN
+国规_NN 则_AD
+守角_NN
+浙江_NN
+棋圣战_NN
+職業棋_NN
+阿含_NN
+決賽_NN
+日本_NR 棋院_NN
+局面_NN
+董彦_NN
+韓國_NN 棋院_NN
+棋协会_NN
+国家体_NN
+李世石_NN
+韩国_NR
+頭銜_NN
+金志锡_NN
+實力_NN
+網路_NN
+国队_NN
+游戏_NN
+中央_NN
+日本_NR 棋_NN
+優勢_NN
+台灣_NN 棋院_NN
+中國_NR
+台灣_NN
+唐韋星_NN
+定_OD 段_M 赛_NN
+强败者_NN
+挑战者_NN
+天台_NN
+岩本_NN
+張凱馨_NN
+丹朱_NN
+因_P 碩_NN
+1轮_NN
+男子组_NN
+擂台赛_NN
+黄河杯_NN
+灵杯_NN
+黑子_NN
+资格赛_NN
+正_AD 夫_NN
+半决赛_AD
+國流_NN
+中盘_NN
+棋聖_NN
+奖金_NN 为_VC
+级分_NN
+国手_NN
+成绩_NN
+重庆_NT
+黑龙江_NN
+晏天章_NN
+背景_NN
+围棋赛_NN
+王积薪_NN
+对_P 局_NN
+数据_NN
+跡目_NN
+网选_NN
+弈秋_NN
+基金會_NN
+个_M 人赛_NN
+選拔賽_NN
+因_P 坊_NN
+氏杯_NN
+能力_NN
+對戰_NN
+元老_NN
+顶尖_NN
+国象_NN
+貼目_NN
+智能_NN
+网格_NN
+利益_NN
+马晓春_NN
+局_NN
+技巧_NN
+杭州_NN
+棋賽_NN
+2轮_NN
+公開賽_NN
+围棋队_NN
+為台灣_NN
+落子_NN
+限_VV 公_NN
+蒙地_NN
+全国_NR
+電腦圍_NN
+崔精_NN
+李昌鎬_NN
+演算法_NN
+浙江省_NN
+藤泽_NN
+富士_JJ 通杯_NN
+將棋_NN
+江铸久_NN
+階段_NN
+大_JJ 飛_NN
+台灣_NN 圍棋_NN
+是_VC 台灣_NR
+宋容慧_NN
+三_CD 番棋_NN
+唐奕_NN
+電腦_NN
+卞相_NN
+李轩豪_NN
+朴_NN 永_AD 训_VV
+限_VV 公司_NN
+原本_NN
+優勝_NN
+情況_NN
+唐韦星_NN
+冠军_NR
+赞助_NN
+其中_NN
+廣島_NN
+淡路修_NN
+甘肃_NN
+楊子_NN
+刘小光_AD
+橋本_NN
+圍棋界_NN
+城围_NN
+朝日新_NN
+邱峻_NN
+队_NN 获得_VV
+挑戰者_NN
+赵南哲_NN
+玩家_NN
+李世乭_NN
+名誉_NN
+霸王_NN
+雙人_NN
+家康_NN
+网棋_NN
+決定戰_NN
+金明训_NN
+团体赛_NN
+海峰_NN
+手棋_NN
+棋王赛_NN
+為日本_NN
+黄龙_NN
+名人战_NN
+还_AD 棋头_NN
+预选_VV 赛_NN
+人以_NN
+姜堰_NN
+小飛_NN
+国家队_NN
+方式_NN
+工智_NN
+国棋_NN
+單位_NN
+传说_NN
+網站_NN
+国职_NN
+政府_NN
+棋牌_NN
+參數_NN
+全部_NN
+实际_Err
+计数_NN
+台赛_NN
+日本_NR 圍_NN
+实力_NN
+棋艺_NN
+领域_NN
+後黑_NN
+距離_NN
+周俊勳_NN
+种子_NN
+获胜者_NN
+棋戰_NN
+人数_NN
+名棋手_NN
+意思_NN
+圍棋賽_NN
+范西屏_NN
+手合_NN
+周俊_NN
+中環_NR
+周俊勋_NN
+生涯_NN
+名将_NN
+方可_NN
+罗玄_NN
+方捷_NN
+男子_NN
+林海_NR 峰_NN
+世界第_NN
+職業圍棋_NN
+業棋士_NN
+国务_NN
+女子围_NN
+程式碼_NN
+本_DT 赛第_NN
+指围棋_NN
+優勝者_NN
+版本_NN
+段位_NN
+資源_NN
+券杯_NN
+秀_NN 和_CC
+名譽_NN
+武宮_NN
+和_P 韩_NN
+高_JJ 目_NN
+方先_NN
+小时_NN
+星位_NN
+丁浩_NR
+目數_NN
+弈城_NN
+亚军_NN
+业围_NN
+黑方_NN
+個角_NN
+機會_NN
+陳耀燁_NN
+职业_NN 围棋_NN
+芮乃_NN 伟_NN
+朴文垚_NN
+棋局_NN
+全局_AD
+林家_NN
+交叉_NN
+全_DT 日本_NR
+帳號_NN
+棋具_NN
+为_P 世界_NN
+对_P 局_NN 费_NN
+結果_NN
+應氏_NN
+掛角_NN
+奖金_NN
+棋战_NN
+公司_NN
+黑貼_NN
+张璇_NN
+日本_NR 围_NN
+大学_NN
+北京_NN
+范廷鈺_NN
+是_VC 日本_NR
+野_JJ 狐_NN
+日文_NN
+後因_NN
+木谷實_NN
+常昊_NR
+坂田_NN
+論文_NN
+罗洗河_NN
+過程_NN
+布局_NN
+朴廷桓_NN
+曹薰铉_NN
+陶欣然_NN
+目数_NN
+俞斌_NN
+井山_NN 裕太_NN
+刘星_NN
+獎金_NN
+冠軍_NR
+開始_NN
+棋譜_NN
+刘昌赫_NN
+胜者_NN
+世紀_NN
+党毅飞_NN
+江维杰_NN
+位棋手_NN
+棋手_NN
+业余_NN
+范廷钰_NN
+棋子_NN
+棋盤_NN
+国际_NN
+轮于_P
+劫爭_NN
+組織_NN
+预选_NN
+开发_NN
+周睿_NN
+停_VV 辦_NN
+本_DT 因_NN
+聂卫_NN 平_VA
+贴目_NN
+臺北市_NN
+晋级_NN
+瀨越_NN
+荒木氏_NN
+决赛_CS 第_Err
+强败_NN 者获_NN
+專案_NN
+俘子_NN
+柯潔_NN
+本_DT 戰_NN
+通算_NN
+绝_AD 艺_NN
+王座_NN
+农心杯_NN
+新布_JJ 石_NN
+應昌_NN
+收官_NN
+位棋_NN
+白方_NN
+亚洲_NN
+只_AD 棋子_NN
+主将_NN
+李昌镐_NN
+年代表_NN
+南韓首_NR 爾_NN
+混_VV 双_CD 赛_NN
+江戶_NN
+網路圍_NN
+余棋手_NN
+朴志恩_NN
+开局_NN
+职业_NN
+衢州市_NN
+段胜_NN
+產生_NN
+金荣_NN
+當作_NN
+豐田_NN
+座戰_NN
+武汉_NN
+负李_NN
+單敗_NN
+耀烨_NN
+江苏_NN
+白子_NN
+棋經_NN
+杯世界_NN
+国参加_NN
+人類_NN
+镇围棋_NN
+个人_NN
+家家督_NN
+人围_NN
+軟體_NN
+衢州_NN
+此_DT 頭銜_NN
+杯_CS 本_DT 赛_NN
+关东_NN
+團隊_NN
+棋品_NN
+数学_NN
+中國圍_NR
+本_DT 棋院_NN
+服务器_NN
+淘汰赛_NN
+棋院_NN 和_CC
+内围棋_NN
+重要性_JJ
+世_NN 本_DT 因_NN
+段位_NN 的_DEG
+市围棋_NN
+俱_AD 乐部_NN
+將棋界_NN
+赵晨宇_NN
+假眼活_NN
+元战_NN
+業圍_NN
+酒店_NN
+全_DT 國_NN
+本_DT 学_NN
+实业_NN
+院_NN 和_CC
+南京_NN
+团队_NN
+佔角_NN
+中学_NN
+原因_NN
+為台_NN
+李东勋_NN
+之_DEG 莹_NN
+富士_NN
+通过_P
+程度_NN
+陕西_NN
+全运_AD
+日程_NN
+東京_NN
+规定_NN
+方一_NN
+江维_NN
+佛乘_NN
+德川_NN
+东京_NN
+歷史_NN
+坊門_NN
+利用_VV
+台北_NN
+成员_NN
+之_DEG 父_NN
+己方_PN
+外卡_NN
+高校_NN
+小_JJ 组_NN
+分數_NN
+定_VV 石_NN
+棋以_NN
+香港_NN
+单败_JJ 淘_NN
+女流_NN
+际象_NN
+平面_NN
+直线_NN
+阶段_NN
+扇興杯_NN
+名人戰_NN
+豐田杯_NN
+資料_NN
+棋赛_NN
+工程_NN
+上海_NR
+专业_NN
+快_JJ 棋_NN
+立_VV 於_P
+山东_NN
+同名_AD
+局棋_NN
+结果_NN
+丁_AD 烈_VA
+围棋名_NN 人战_NN
+人机_NN
+加藤_NN
+讀賣_NN 新_JJ 聞_NN
+对_P 弈_NN
+錦標賽_NN
+丁明_NN 君_NN
+伺服器_NN
+张馨月_NN
+无_VE 锡市_NN
+顾水如_NN
+數子_NN
+分散式_NN
+使用者_NN
+团体_NN
+决赛_NN 中_LC
+程式_NN
+电视_NN
+家督_NN
+白_JJ 棋_NN
+實利_NN
+晚报_NT
+安井_NN
+新_JJ 布局_NN
+大赛_AD
+協會_NN
+團體_NN
+例子_NN
+日本_NR 队_NN
+郭闻潮_NN
+棋坛_NN
+策略_NN
+曹薰_NN
+男女_NN
+征子_NN
+原子_NN
+秀策_NN
+方用_NN
+秀行_NN
+风格_NN
+日本_NR 的_DEG
+手数_NN
+官方_NN
+業餘_NN
+许嘉阳_NN
+王世_NN
+国围_NN
+范胤_NN
+世界_NN 最_AD
+官子_NN
+赵治勋_NN
+本_DT 年度_NN
+终_AD 局_NN
+情況_NN 下_LC
+木谷_NN
+內容_NN
+國際_NN
+广西_NR
+曹大元_NN
+冠亚军_AD
+織田_NN
+广东_NR
+年围_NN
+西洋棋_NN
+以後_LC
+職業圍_NN
+种子选_NN
+队以_NN
+中_LC 日韩_NR
+杭州市_NN
+严_AD 欢_VA
+围棋_NN 规则_NN
+李康_NN
+活棋_NN
+胡耀宇_NN
+國際賽_NN
+番棋_NN
+传统_NN
+城市_NN
+局部_NN
+古灵_JJ 益_NN
+地_DEV 區_NN
+兒子_NN
+算砂_NN
+秀甫_NN
+李喆_NN
+本_DT 局_NN
+读秒_NN 的_DEG
+云南_NN
+安冬旭_NN
+奧林_NN 匹亞_NN
+安井家_NN
+形態_NN
+分鐘_NN
+棋手_NN 在_P
+周泓余_NN
+勝率_NN
+柁嘉熹_NN
+佟禹_NR 林_NN
+時候_NN
+連勝_NN
+人民_NN
+關西_NN
+成績_NN
+孔杰_NN
+围棋_NN 协会_NN
+圍棋協_NN
+遊戲_NN
+蔡竞_NN
+丁伟_NR
+彭荃_NN
+價值_NN
+王磊_NN
+职业围_NN
+本_DT 賽_NN
+棋界_NN
+战胜_NN
+电脑_NN
+世本_NN
+吳清源_NN
+棋盤_NN 上_LC
+行_VV 棋_NN
+范蕴若_NN
+申真_NN 谞_NN
+国际围_NN
+賽事_NN
+人赛_NN
+檀啸_NN
+国围棋_NN
+时间_NN
+英文_NN
+杨鼎_JJ 新_NN
+用时_NT
+姜东润_NN
+韓國_NN
+国家_NN
+棋王_NN
+雙方_NN
+规则_AD 与_P
+佈局_NN
+對方_NN
+柯洁_NN
+女棋手_NN
+棋院_NN
+连_AD 笑_VV
+陈耀烨_NN
+谢赫_NN
+周鹤洋_NN
+棋力_NN
+棋士_NN
+4子_NN
+職業_NN
+古力_NN
+联棋_NN
+其它_DT
+應用_NN
+创办_NN
+運用_NN
+才_AD 能_VV
+屆起_NN
+按照_P
+擊敗_NN
+初段_NR
+年代_NN
+首轮_NN
+以下_NN
+同_DT 時_NN
+围棋_NN
+deepmind_NN
+打劫_NN
+经过_P
+v_P s_NN
+最_AD 高_VA
+真_AD 眼_NN
+可能_NN
+变得_VV
+佐為_NN
+贊助_NN
+中_LC 日_NN
+之_DEG 間_NN
+整_DT 个_M
+叫吃_NN
+联合_NN
+達到_NN
+比赛_PN 中_LC
+成為_NN
+保留_NN
+攻擊_NN
+小目_NN
+比_P 較_NN
+以上_NN
+根据_P
+
+年第_NN
+本_DT 届_NN
+年道_NN
+任_NN 中_LC
+复赛_NT
+聯_NN
+學習_NN
+际象_NN 棋_NN
+负_NN
+下午_NN
+日_NN
+推广_NN
+透過_NR
+体育_NN
+運算_NN
+这_DT 种_M
+显著_NN
+每年_NT
+提升_NN
+消劫_NN
+知得_VV
+为_P
+包圍_VV
+通常_AD
+舉辦_NN
+对于_P
+淘汰賽_NN
+年日_NN
+综合_NN
+為了_NN
+發行_NN
+直播_AD
+參_NN 加_VV
+首次_AD
+类似_NN
+影响_NN
+或者_CC
+年间_NN
+元晟溱_NN
+采用_VV
+認為_NN
+特_AD 別_NN
+年_NN 开_VV
+
+這些_NN
+开始_NN
+
+以及_CC
+循环圈_NN
+本_DT 身劫_NN
+中環盃_NR
+深入_VV
+年為_NN
+得到_VV
+目外_NN
+导致_NN
+混_VV 双_CD
+主办_NN
+申旻埈_NN
+目半_NN
+负于_VV
+勝制_NN
+獲得_VV
+複雜_NN
+是_VC 围棋_NN
+邀请_NN
+設定_NN
+工作_NN
+宣布_NN
+坐标_NN
+達成_NN
+连续_AD
+受到_NN
+打入_NN
+彼此_PN
+胜出_NN
+6日_NT
+釋出_NN
+小時_NN
+同时_AD
+互相_AD
+这样_AD
+主要_AD
+安排_NN
+胜负_NN
+對弈_NN
+发生_NN
+9_CD x9_NN
+國內_NN
+执黑_NN
+任何_DT
+三子_NN
+非常_AD
+選手_NN
+圍棋棋_NN
+等级_NT
+位置_NN
+自己_PN 的_DEG
+发展_NN
+多数_NN
+然而_AD
+此_DT 時_NN
+讓子_NN
+始于_P
+這個_NN
+首届_NN
+下法_NN
+稱為_NN
+比_P 賽_NN
+年_NN 起_VV
+使用_NN
+圍棋_NN
+預選_NN
+碁聖_NN
+免选_NN
+过惕生_NR
+天元_NN
+謝_NN 依_P 旻_NN
+十一_NN
+賽進行_NN
+10万_CD
+正式_NN
+排名_NN
+中方_NN
+曾经_NT
+9日_NT
+组合_NN
+年底_NN
+选手_NN
+着_AS 法_NN
+分析_NN
+自我_AD 訓練_VV
+研究_NN 的_DEC
+段以_NN
+最_AD 佳_VA
+高_JJ 段_NN
+讀賣_NN
+中部_NN
+九_CD 段_M
+各_DT 地_NN
+当时_NT
+之_DEG 子_NN
+占据_NN
+1月_NT 1日_NN
+實做_NN
+2万_CD
+月_NN
+聞社_NN
+創_CD 立_NN
+附近_NN
+虽然_CS
+真_AD 露_P 杯_NN
+對弈_NN 中_LC
+年間_NN
+元_NN 和_CC
+届比_NN
+改名為_NN
+挑戰_NN
+獲勝_NN
+造成_VV
+整_DT 個_NN
+长_JJ 考_NN
+三_CD 三_CD
+繼承_NN
+處理_NN
+强_JJ 赛_NN
+戰鬥_NN
+應對_NN
+發生_NN
+重要_CS
+推出_NN
+执白_NN
+這種_NN
+年舉_NN
+实战_NN
+比_NN 賽_NN 中_LC
+年_NN 改_VV
+某些_DT
+黑白_NN
+要求_NN
+抗赛_NN
+選擇_NN
+年舉辦_NN
+当时_NT 中_LC
+届起_NN
+至_P 第_Err
+
+改為_NN
+年開_NN
+主辦_NN
+
+上_JJ 届_NN
+等级_JJ 分_NN
+訓練_NN
+擂台_NN
+分至_NN
+届_NN 中_LC
+codice_NN
+本_DT 选赛_NN
+執白_NN
+更_AD 具_VV
+碁聖戰_NN
+圍棋_NN 高_VA
+抽签_NN
+分先_NN
+最_AD 強_NN
+担任_NN
+屆本_NN
+击败_NN
+来自_VV
+下棋_NN
+引起_NN
+只_AD 能_VV
+禁止_NN
+羋昱廷_NN
+循环_NN
+獲勝者_NN
+挑战_NN
+亞藝盃_NN
+则_AD 是_VC
+杯围棋_NN
+围棋_NN 最_AD
+际围棋_NN
+围棋网_NN
+為本_NR 因_P
+输给_VV 了_AS
+组成_VV 的_DEC
+被_SB 视为_VV
+被_SB 叫做_VV
+位提白_NN
+之间_LC
+支援_NN
+同_DT 樣_NN
+模仿_NN
+三轮_NN
+再次_AD
+网上_NN
+則因_NN
+系列_NN
+预赛_NN
+长期_NN
+卡斯_NN
+比_P 對_NN
+執黑_NN
+大小_NN
+世代_NN
+裁判_CS
+卡尔_NN
+12万_CD
+參考_NN
+循環_NN
+極其_NN
+世襲_NN
+本_DT 薰_NN
+升降_NN
+报名_NN
+赛前_NN
+连接_NN
+先前_NT
+手割_NN
+打算_NN
+十二_Err
+争夺_NN
+得_VV 第_Err
+29日_NT
+加以_VV
+很_AD 多_VA
+相_NN 鄰_NN
+停止_NN
+点_NN
+3日_NT
+将_AD 于_P
+4日_NT
+下到_NN
+思考_NN
+放送_NN
+方各_NN
+則_NN 是_VC
+夺得_VV
+超過_NN
+改稱_NN
+强_JJ 战_NN
+必_AD 須_NN
+formula_NN
+对_P 围棋_NN
+得天元_NN
+赞助_NN 商_NN
+3月_NT 4日_NN
+世乭_NN
+淘汰_NN
+获得_VV
+存在_VV
+举办_VV 的_DEC
+年年_NN
+位_NN
+日_NN 和_CC
+年獲_NN
+选拔_NN
+計算_NN
+日围棋_NN
+围棋_NN 大_VA
+为_P 围棋_NN
+年_NN 取_VV
+為圍棋_NN
+抗賽_NN
+报道_NN
+采取_NN
+现代_NT
+已_AD 經_NN
+当今_NT
+本身_PN
+個黑_NN
+連接_NN
+作_VV 戰_NN
+分為_NN
+少年_NT
+決定_NN
+變成_NN
+日至_NR
+尤其_AD
+国内_NN
+改名_NN
+對手_NN
+公开_NN
+變化_NN
+年因_NN
+了_AS 围棋_NN
+三_CD 段_M
+秀哉_NN
+特定_NN
+年台_NN
+为_P 围_NN
+公開_NN
+依照_P
+類似_NN
+年共_NR
+象棋_NR
+重_AD 視_NN
+届应_NN
+年_NN 以_P
+是_VC 圍_JJ 棋_NN
+出_VV 現_NN
+雖然_NR
+睦镇硕_NN
+是_VC 由_P
+特殊_NN
+進入_NN
+段_NN 和_CC
+研究_NN
+進行_NN
+目前_NT
+稱作_NN
+年才_NN
+黄奕_NN 中_LC
+这些_DT
+周睿羊_NN
+名為_NN
+年_NN 获_VV
+年_NN 至_VV
+年_NN 和_CC
+年_NN 到_VV
+年_NN 由_P
+年中_NN
+其他_DT
+採用_NN
+芈昱廷_NN
+时_NN 越_AD
+發展_NN
+當時_NN
+每_DT 方_NN
+比赛_NR
