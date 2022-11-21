@@ -1,0 +1,8974 @@
+土_NN
+苹_NN
+蛋_NN
+牛_NN
+面_NN
+豆_NN
+萝_NN
+巧_JJ 克_NN
+点_NN
+火_NN
+海_NN
+葡萄_NN
+包_NN
+馒_NN
+羊_NN
+柠_NN
+香_NN
+淀_NN
+酱_NN
+核_NN
+饮用_NN
+鸳_NN
+青_NN
+米_NN
+酸_NN
+豆_NN
+白_NN
+方便_NN
+可口_NN 可_VV
+乙_CD
+红_NN
+普洱_NN
+西红_NN
+茅_NN
+鱼_NN
+磷_NN
+托_NN
+青_NN
+丁_Err
+沙_NN
+奶_NN
+石_NN
+石_NN
+豆_NN
+奶_NN
+青_NN
+奶_NN
+肉_NN
+木_NN
+铁_NN
+生_NN
+黄_NN
+三_CD
+烤_NN
+大_VA
+洋_NN
+娃哈_NN
+香_NN
+松_NN
+川_NN
+海_NN
+五_CD 粮_NN
+鱿_NN
+山_NN
+聚乙_NN
+橄榄_NN
+冬_NN
+果_NN
+韭_NN
+纯净_NN
+狗_NN
+甘_NN
+冰_NN
+豆_NN
+释_NN
+比_NN
+糖_NN
+胡萝卜_NN
+香_NN
+藏_NN
+泡_NN
+铁观_NN
+鱼_NN
+鲜_AD
+盐_NN
+油_NN
+叶_NN
+虾_NN
+防腐_NN
+稻_NN
+粤_NN
+磷_NN
+健_NN
+香_NN
+桔_NN
+烟_NN
+花生_NN
+康师_NN
+健力_NN
+香_NN
+鸡尾_NN
+全_DT 聚_NN
+咖啡_NN
+劲_NN
+二氧化_NN
+猪_NN
+馄_NN
+威士_NN
+冷_NN
+面_NN
+烧_NN
+咖_NN
+山_NN
+紫_NN
+百_CD 事_NN 可_VV
+米_NN
+黄_NN
+米_NN
+乌龙_NN
+烤_NN
+猕猴_NN
+家常_NN
+果_NN
+冰激_NN
+米_NN
+三明_NN
+带_NN
+大丰_AD
+千_CD
+芭_NN
+生_NN
+酥_NN
+肉_NN
+牛肉_NR
+抗氧化_NN
+煎_NN
+清_NN
+湘_NN
+莱_NN
+露_NN
+耗_NN
+海_NN
+黑_NN
+腊_NN
+臭豆_NN
+糖_NN
+寸_NN
+柠檬_NN
+白_NN
+天_NN
+老_JJ
+富_NN
+花_NN
+贵州_JJ 茅_NN
+油_NN
+雪_NN
+布_NN
+铁_NN
+杂_NN
+咖啡_NN
+红_JJ 葡萄_NN
+明_AD
+酒_NN
+棉花_NN
+杜_NN
+滑石_NN
+柑_NN
+源_NN
+二_CD 锅_NN
+葡萄_NN
+莲_NN
+凉_NN
+梨_NN
+芥_NN
+芝_NN
+芦_NN
+碳酸_NN
+烤_NN
+麻辣_NN
+水蜜_NN
+油_NN
+乙_CD
+培_NN
+炸_NN
+柠檬_NN
+扣_NN
+牛_NN
+杏_NN
+凉_NN
+掌_NN 上_LC 明_AD
+果_NN
+茶_NN
+白_NN
+核桃_NN
+鸭_NN
+草_NN
+满_VV 汉全_NR
+番茄_NN
+大富_AD
+干_NN
+伏特_NN
+酒_NN
+甜_NN
+糙_NN
+火腿_NN
+无_VE 花_NN
+牛肉_NR
+辣_NN
+黑森_NN
+三_CD 文_NN
+乳酸_NN
+涮羊_NN
+鱼_NN
+水煮_NN
+龙井_NN
+绿豆_NN
+马_NN
+鹅_NN
+双_CD 喜_AD 临_VV
+碧螺_NN
+金枪_NN
+粉_NN
+石_NN
+乳_NN
+肉_NN
+清_NN
+奇异_NN
+白_NN
+稳定_NN
+菜籽_NN
+意大利_AD
+牛_NN
+松_NN
+霸王_NN 别_NN
+茶_NN 多_VA
+菱_NN
+酒_NN
+墨_NN
+豆_NN
+豆腐_NN
+猪_NN
+人参_NN
+驴_NN
+金玉满_NN
+油_NN
+葱_NN
+扇_NN
+泸州老_NN
+八_CD 宝_NN
+凉_NN
+山核_NN
+洋_NN
+国_NN
+哈_AD 密_VA
+鱼_NN
+脐_NN
+红_NN
+红_NN
+西湖龙_NN
+大_JJ 团_NN
+红_NN
+煮鸡_NN
+大红_NT
+薏_NN
+海_NN
+春_NN
+新_JJ
+驼_NN
+西兰_NN
+伯_NN
+黄_NN
+港_NN
+狗不_NN
+椒_NN
+里_NN
+乳化_NR
+双_CD
+辣椒_NN
+鳕_NN
+金元_NN
+樟_NN
+白_NN
+黑_NN
+腊八_NT
+酥油_NN
+白_NN
+海_NN
+小酒_NN
+鸭_NN
+烤羊_NN
+亚油_NN
+炒_NN
+甜味_NN
+生_NN
+金针_NN
+椰_NN
+苏打_NN
+狮子_NN
+汤_NN
+银_NN
+起_NN
+芽_NN
+剑南_NN
+冰_NN
+螺_NN
+鹅_NN
+木糖_NN
+氯化_NN
+高_JJ 岭_NN
+豆_NN
+华_NN
+杏花_NN
+鹿_NN
+碧海银_NN
+烟_NN
+面_NN
+丙_CD 二_CD
+力_NN
+过桥米_Err
+核黄_NN
+葡萄_NN
+烤全_NN
+解_VV 百_CD
+甜_NN
+香槟_NN
+鲁_NN
+家庭_NN
+明_AD
+白_JJ 葡萄_NN
+蛋_NN
+冰糖葫_NN
+花_NN
+罗汉_NN
+南_NN
+重庆_JJ 火_NN
+炸酱_NN
+鹌鹑_NN
+色香_NN 味俱_NN
+莴_NN
+辣椒_NN
+肉_NN
+豆_NN
+礼_NN
+孜_NN
+吐_NN
+牛_NN
+豆腐_NN
+火龙_NN
+动物_NN
+鱼子_NN
+西_NN
+白_NN
+金屋藏_NN
+苦_NN 中_LC 作_VV
+黑_NN
+松_NN
+烧_NN
+啫_NN
+龙_NN
+硬脂_NN
+薄_NN
+亚麻_NN
+山_NN
+沙拉_NN
+湘_NN
+蒜_NN
+苹果_NN
+牛_NN
+吐_NN
+八_CD 宝_NN
+牛_NN
+隆_NN
+小火_NN
+凤_NN
+芭_NN
+牛_NN
+花生_NN
+绿豆_NN
+曲_NN
+青_NN
+肠_NN
+通心_NN
+古井_NN
+羊_NN
+泡_NN
+冬_NN
+回锅_NN
+糕_NN
+保健_NN
+酸梅_NR
+牛磺_NR
+苦丁_NN
+调和_VV
+淀粉_NN
+卤_NN
+糖衣炮_NN
+蛋_NN
+牛_NN
+漂白_NN
+赤_NN
+柠檬_NN
+植_NN
+馍_NN
+肥_NN
+葡萄_NN
+黑胡_NN
+基_NN
+冠生_OD
+张_NN
+姜_NN
+上_NN 清_VA
+爆_NN
+锅_NN
+琼_NN
+小馒_NN
+甲壳_NN
+眼_NN
+烤羊肉_NN
+蔬菜_NN
+天_NN
+炒_NN
+辣_NN
+糌_NN
+茭_NN
+花_NN
+着_AS 色_NN
+甘氨_NN
+浆_NN
+茼_NN
+黑_NN
+轩尼_NN
+氧化_NN
+酒精饮_NN
+蒜_NN
+龙凤呈_NN
+酸_JJ 菜_NN
+烧_NN
+提拉米_NN
+果_NN
+焦_NN
+糯米_NN
+开口_NN
+白_NN
+炖_NN
+百_CD
+武昌_NN
+苞_NN
+楼外_NN
+米_NN
+土豆_NN
+小茴_NN
+蓝_NN
+金_NN
+天_NN
+马_NN
+鸭脖_NN
+草_NN
+苹果_NN
+面_NN
+发_NN
+蜜_NN
+碳酸氢_NN
+肉夹_NN
+羊肉_NN
+奶油蛋_NN
+红土_NN
+板_NN
+氢氧化_NN
+牛皮_NR
+芬_NN
+丙_CD 氨_NN
+肉骨_NN
+龙眼_NN
+凉_NN
+安格_NN
+抓_NN
+竹_NN
+太子_NN
+糍_NN
+孔雀开_NN
+刀削_NN
+白_NN
+蒸_NN
+利_NN
+靛_NN
+三_CD
+燕麦_NN
+石斑_NN
+紫竹_NN
+驴打_NN
+润_NN
+青_NN
+芸_NN
+道_NN
+花蛋_NN
+菠萝_NN
+美食_NR 之_DEG
+麦_NN
+夜光_NN
+压缩_NN 饼_NN
+麻婆豆_NN
+硫酸_NN
+东来_NR
+徽_NN
+金_NN
+白胡_NR
+方_NN
+干_NN
+刺_VV 五_CD
+增稠_NN
+雪_NN
+比_P 目_NN
+粉_NN
+包_NN
+热_CD 干_NN
+糖_NN
+茶_NN
+古越_NR 龙_NN
+顶呱_NN
+牛_NN
+伊力_NN
+餐_NN
+平_NN
+鱼香肉_NN
+酶制_NN
+芝士蛋_NN
+羊_NN
+果蔬_NN
+沱_NN
+青木_NN
+烧_NN
+番石_NN
+米_NN
+牦牛_NN
+金_NN
+米_NN
+甜甜_AD
+甜面_NN
+脱脂牛_NN
+鱼罐_NN
+水果沙_NN
+辣子_NN
+羊肉泡_NN
+五_CD 香_NN
+泡_NN
+三道_NN
+桂林米_NN
+覆_VV 盆_NN
+薄荷_NN
+黄花_NN
+菜豆_NN
+蓝_NN
+朗姆_NN
+奶_NN
+金华火_NN
+抗坏_NN 血_NN
+丁_Err
+壳聚_NN
+烤乳_NN
+东坡_NN
+鱼_NN
+聚乙烯_NN
+炒栗_NN
+糖醋排_NN
+汇_NN
+磷酸二氢_NN
+佛跳_NN
+咸_NN
+沙_NN
+阳春_NN
+鲥_NN
+葡萄糖酸_NN
+稻花_NN
+叉烧_NN
+香辣_NN
+鸡_NN
+速溶咖_Err
+老_JJ
+西_NN
+巧克_NN 力蛋_NN
+消泡_NN
+便宜_NT
+冰_NN
+野猪_NN
+苹果_NN
+胭脂_NN
+龟苓_NN
+猴头_NN
+氯化_NN
+酸_AD 辣_VA
+豆腐_NN
+龙虎_NN
+鼠尾_NN
+酒石_NN
+山梨_NN
+牛肉_NR
+长_NN
+莼_NN
+甜蜜_NN
+鱿鱼_NN
+慕_NN
+豆腐_NN
+玉兰_NN
+锅_NN
+虾_NN
+百_CD 里_LC
+两_CD 张_M
+牛肉_NR
+椰_NN
+非常_AD 可_VV
+硫酸亚_NN
+香蕉_NN
+绿豆_NN
+毛_NN
+锅_NN
+卡_NN
+三_CD 得_NN
+文昌_NN
+皮蛋_NN 瘦_VV 肉_NN
+干_NN
+金威啤_NN
+金鸡独_NN
+黄_NN
+蛋黄_NN
+姜_NN
+奶_NN
+荣_NN
+白_NN
+绿豆_NN
+花椒_NN
+云雾_NN
+虾_NN
+黑_NN
+米_NN
+粉蒸_NN
+豆腐_NN
+碳酸_NN
+松_NN
+拉_NN
+红烧_NN
+杏花_NN
+转_NN
+莜_NN
+诺_NN
+烤地_NN
+甜_NN
+醪_NN
+梭子_NN
+大盘_NN
+甜_NN
+盐水_NN
+硝酸_NN
+珠江啤_NN
+春_NN
+杏_NN
+汤_NN
+辣白_NR
+酸_JJ 汤_NN
+广州_JJ 酒_NN
+黄袍加_NN
+黄山毛_NN
+爱尔_NN 兰咖_NN
+冰醋_NN
+耳朵_NN
+云吞_NN
+狗不_AD 理_VV 包_NN
+百_CD 鸟朝_NN
+猫耳_NN
+白_NN
+肉罐_NN
+嘉_NN
+糖炒_NN 栗_NN
+韭_NN
+谭鱼_NN
+二_CD 龙戏_NN
+南美白_NN 对_P
+煎_JJ 饼果_NN
+麦片_NN
+沙_NN
+花_NN
+加_NN
+金_NN
+玉米_NN
+金_CD 种_M
+担担_NN
+蒸馏_NN
+宫保_NN
+茶树_NN
+锦_NN
+浓缩_VV 果_NN
+米_NN
+串串_NN
+刀_NN
+肌_NN
+牛_JJ 肝_NN
+丁_Err
+西湖_NN
+玫瑰_NN
+牛_NN
+豆沙_NN
+陶然_NN
+西湖醋_NN
+咖喱_NN
+硫酸_NN
+烤羊_NN
+宫保_NN 鸡_NN
+马奶_NN
+广东_NR
+沙田_NN
+黑啤_NN
+苯甲酸_NN
+毛_NN
+湖南_NN
+糖精_NN
+卤_NN
+鱼火_NN
+猪大_NN
+热_NN
+灌_VV 汤_NN
+长寿_NR
+丰泽_NR
+红_NN
+香飘_NN
+米豆_NN
+聚乙二_NN
+鲜_AD 橙_NN
+桃_NN
+红烧牛_NN
+复原_NT
+酸_AD 辣_VA
+紫苏_NN
+夫妻肺_NN
+芋_NN
+叫化_NN
+血_NN
+啤酒_NN
+老婆_NN
+荞_NN
+闽_NN
+紫_NN
+白_JJ 斩_NN
+调味_NN
+夹心饼_NN
+圣女_NN
+己_PN 二_CD
+话_NN
+蘑菇_NN
+炸子_NN
+炒肉_NN
+杭帮_NN
+烧茄_NN
+秦_NN
+雪里_NN
+谷氨酸_NN
+剁椒鱼_NN
+阿斯_NR 巴_NN
+乙酸乙_NN
+己_PN
+麻_NN
+郫县豆_NN
+鹅肝_NN
+美_NN
+蛋黄_NN
+孔府_NN
+脱脂奶_NN
+氯化_NN
+擂_NN
+酥_NN
+葱油_NN
+火宫_NN
+麻辣_AD 牛_VA
+葡萄糖酸_NN
+中台_NN
+杭州_NN
+黄_NN
+南瓜_NN
+得月_NT
+沧浪_NN
+五_CD 芳_NN
+辣椒_NN
+大白_AD 兔_VV 奶_NN
+牛_JJ 油_NN
+手抓_NN 羊_NN
+椰子_NN
+四_CD 川火_NN
+米_NN
+黄_NN
+蚵仔_NN
+粉丝_NN
+高_JJ 粱_NN
+塔_NN
+帝亚吉_NN
+馓_NN
+甜_NN
+韭菜_NN
+白_JJ 胡椒_NN
+磷酸氢_NN
+鳄_NN
+渠_NN
+硬脂酸_NN
+苏_NN
+面_NN
+龙抄_NN
+白_JJ 切_NN
+山外_NN
+九_CD 层_NN
+亚硝酸_NN
+毛血_NN
+硅酸_NN
+碳酸氢_NN
+豆_NN
+浙_NN
+苏打_NN 饼_NN
+乳酸_JJ 菌饮_NN
+贻_NN
+肋_NN
+香_NN
+木_NN
+面_NN
+卤_NN
+信阳毛_NN
+日落_NN
+三_CD
+灯影牛_NN
+氢氧化_NN
+营养_NN 强化_VV
+冰_NN
+红烧排_NN
+鹿角_NN
+白兰地_NR
+小黑_NN
+鸭_NN
+旭日_NN
+饵_NN
+花雕_NN
+强_NN
+炸豆_NN
+仿_NN
+海带_NN
+溴酸_NN
+燕窝_NN
+丁苯_NR 橡_NN
+大面_NN
+马提_NN
+云_NN
+葡萄籽_NN 提取_NN
+虾_NN
+低_JJ 聚果_NN
+杏仁_NN
+优酸_NN
+老豆_NN
+萝卜丝_NN
+竹筒_NN
+味_NN
+油_NN
+铜锣_NN
+花开_NN 富_NN
+粉_NN
+臊子_NN
+蒸_NN
+班_NN
+红豆_NN
+豌豆_NN
+鸭血粉_NN
+安_NN
+达仁_NN
+打_NN
+小馄_NN
+三_CD 不_AD
+威_NN
+鸡_NN
+仙灵_NN
+甜_NN
+酸_NN
+一品_NN
+黄_NN
+今生_NT
+菜根_NN
+罗宋_NN
+君山银_NN
+烧豆_NN
+二_CD 苯_NN
+扯_NN
+梅花_NN
+几_CD 丁_Err
+凉_NN
+鸭_NN
+香辣_NN
+杏仁_NN
+白_JJ 灵_NN
+吞拿_NN
+王_AD 老_JJ 吉凉_NN
+金星啤_NN
+烩_NN
+阳光_AD 地_DEV
+功德_NN
+沸腾_NN
+贾_NN
+菜_NN
+饺子_NN
+知味_NN
+萝卜_NN
+小笼_JJ 包_NN
+列_NN
+酸_NN
+玉米_NN
+椰_NN
+焦_NN
+亚硫酸_NN
+百_CD 香_NN
+麻辣_JJ 牛肉_NN
+水果蛋_NN
+牛肉_NR
+银耳_NN
+烤鱼_NN
+莲香_NN
+硅酸_NN
+拌黄_NN
+华_NN
+南瓜_NN
+鲜_AD 荔_NN
+奶_NN
+麦乳_NN
+麦金_NN
+汽锅_NN
+迎宾_NN
+糯米_NN
+烧_NN
+牛_NN
+黄河鲤_NN
+丁基_NR 橡_NN
+酿豆_NN
+凝固_NN
+都_AD 一_CD
+鱼头火_NN
+法_NN
+白_JJ 刀_NN
+川_NN
+海藻酸_NN
+贡_NN
+乳_NN
+硫酸_NN
+海鲜_NN
+棕榈_NN
+德国_NR 啤_NN
+鱼_NN
+椰_NN
+凤尾_NN
+酿_NN
+君_NN
+天门冬_NN 氨_NN
+糯米_NN
+熙_NN
+大_JJ 卫杜_NN
+蒸_NN
+广式_JJ 月_NN
+扒_NN
+草莓_NN
+庐山云_NN
+双_CD 立_NN
+木瓜_NN 牛_NN
+蚂蚁_NN 上_LC
+智_NN
+五_CD 凤_NN
+红烧_JJ 狮子_NN
+法_NN
+卡拉_NN
+乳_CD 铁蛋_NN
+库尔_NN 勒香_NN
+虾_NN
+山东_NN
+氢氧化_NN
+龙须_NN
+面包_NN
+醉_NN
+炒_VV 米_NN
+狗肉火_NN
+肉火_NN
+苯甲_NN
+姬松_NN
+卡布基_NN
+曲_NN
+卤牛_NN
+嘉_NN
+重_AD 阳_NN
+龙井虾_NN
+鸡_NN
+牛_NN 百_CD
+松鹤_NN
+砂锅_NN
+棒_AD 棒_VA
+凤凰展_NN
+麻辣_JJ 小龙_NN
+三聚磷酸_NN
+速_AD 溶_NN
+炖羊_NN
+牛奶_JJ 咖_NN
+乳酪蛋_NR
+农夫果_NN
+糖_NN
+钟水_NN
+营养快_NN
+科_NN
+婚礼蛋_NN
+烧羊_NN
+红毛_NN
+苦艾_NN
+德州扒_NN
+烟酰_NN
+葫芦_NN
+弥猴_NN
+径山_NN
+山梨酸_NN
+决明子_NN
+糖桂_NN
+糖_NN
+羊肉火_NN
+水煮_NN 牛_VA
+鱼_NN
+水煮_NN 肉_NN
+羊杂_NN
+朝鲜_AD 冷_VA
+大麻_AD
+双_CD
+荷叶_NN
+甜菊_NR
+富_JJ 马_NN
+土豆_NN
+老火靓_NN
+刺玫_NN
+红碎_NN
+贵妃_NR
+白_NN
+姜_NN
+鱼_NN
+粉_NN
+焦糖_NN
+文_NN
+冷_JJ 锅_NN
+热奶_NN
+老火_NN
+网清_NN
+油_NN
+活性_NN
+螺蛳_NN
+巧_NN
+红_NN
+驴肉火_NN
+蒜_NN
+山楂_NN
+花生_NN
+平遥_JJ 牛_NN
+液体石_NN
+鸡蛋_NN
+姜黄_NN
+意大_NR 利美_NN
+六_CD 堡_NN
+醉_NN
+腊_NN 汁_NN
+枸杞_NN
+宣威火_NN
+健康_NN
+陶陶_NN
+杂_JJ 粮_NN
+草莓奶_NN 油蛋_NN
+鸿宾_NN
+老鸭_NN
+龙须_NN
+水煎_NN
+狗肉_NN
+银鳕_NN
+碳酸_NN
+灵芝_NN
+鱼香茄_NN
+毋_AD 米_NN
+四_CD 喜丸_M
+花生_NN
+大豆_PN 磷_NN
+脑磷_NN
+鱼香_NN
+糯米_NN
+轻_JJ 质碳酸_NN
+水发_NN 海_NN
+羊羔_NN
+过氧化苯甲_NN
+酸_NN
+牛_NN 里_LC
+肥肠_NN
+麻辣_NN 豆_NN
+三花_NN
+小米_NN
+越_AD
+森_NN
+木瓜_NN 蛋白_NN
+夏威夷_NN
+鸡仔_NN
+鲜_AD 奶蛋_NN
+奶_NN
+蛇_NN
+紫甘_NN
+啤酒_NN
+汤_NN
+巧克力_NN
+羊肉_NN
+冰糖燕_NN
+老边_NN 饺_NN
+麻油_NN
+红薯_NN
+梅菜扣_NN
+番茄鸡_NN
+淡_JJ 奶_NN
+晒青毛_NN
+博_NN
+焖_AD 大_VA
+兰州_NN 牛肉_VA
+香辣_NN
+三_CD 杯_M
+酸_NN
+拉条_NN
+肴_NN
+糖醋_NN 里_LC
+本地_NN
+蘑菇罐_NN
+辣椒_NN
+桃花_NN
+咖喱牛_NN
+己酸乙_NN
+凉_NN
+家常_JJ 豆_NN
+燃_NN
+荔枝_NN
+核桃_NN
+新奥尔_JJ 良烤_NN
+香_NN
+艇仔_NN
+慕尼_NN 黑啤_NN
+昌化_NN 鸡血_NN
+煎_NN
+红烧_JJ 牛肉_NN
+金包_NN
+地_NN 三_CD
+滑_NN
+冰淇_NN 淋蛋_NN
+倒_AD
+小葱_NN 拌豆_NN
+拍黄_NN
+泮_NN
+涪陵榨_NN
+老_JJ 四_CD
+酱板_NN
+油炸_NN 臭_JJ 豆_NN
+碳酸_NN
+水晶_NN
+马蹄_NN
+黑森_NN 林蛋_NN
+荷叶_NN
+独_NN
+膨松_NN
+临_VV 安_JJ 山核_NN
+炒土豆_NN
+青椒肉_NN
+沾化_VV 冬_NN
+李_NN
+香酥_NN
+麻辣_NN 香_NN
+可_VV
+桃金_NN
+菠萝_NN
+口水_NN
+荔浦_NN
+灰_NN
+东坡肘_NN
+蓼_NN
+烧_NN
+西_NN 多_VA
+杨梅罐_NN
+葡萄糖酸亚_NN
+十_CD 全_AD 大_VA 补_VV
+养生_NN
+北台_NN
+罐_NN
+起司_NR 蛋_NN
+吐鲁番_NN 葡_NN
+果丹_NN
+考_NN
+甜叶_NR
+萨拉_NN
+乐_NN
+老黄_NN
+五_CD 香牛_NN
+沙河_NN
+乳_NN
+洛阳水_NN
+油焖大_NN
+虫_NN
+小_JJ 绍_NN
+天福_NN
+蛋白_NN 混合饮_NN
+巴旦_NN
+小豆_NN
+七子饼_NN
+洞庭_AD 碧_VV 螺_NN
+思_NN
+炸猪_NN
+冰皮月_NN
+老_JJ
+台_NN
+烤包_VV
+松_NN
+饵_NN
+黄原_NN
+切_NN
+辣子鸡_NN
+苔_NN
+山楂_NN
+西餐厨_NN
+亚硒酸_NN
+西红柿炒_NN
+松鹤延_NN
+合_NN
+光_NN
+酱_NN
+李连_NR
+低_JJ 筋面_NN
+酱肉_NN
+香兰_NN
+红烧猪_NN
+陈麻_NN
+奥德_NN
+拿铁咖_Err
+生煎_NN
+车仔_NN
+绿_NN
+糊辣_NN
+炒白_NN
+杏仁豆_NN
+拉_NN
+杭州龙_NN
+车厘_NN
+庐山_NN 云雾_NN
+干_NN
+羊杂_NN
+巧克力_NN
+麦芽糖_NN
+道口_NN 烧_NN
+宜良烤_Err
+柠檬酸_NN
+糯米_NN
+香草蛋_NN
+艾窝_NN
+火_NN
+牛羊_JJ 肉泡_NN
+蛋_NN
+苯甲_NN
+砂锅鱼_NN
+咖啡_NN
+微晶_NN 纤维_NN
+白兰_NR
+屯_NN
+喜_AD
+果冻_NN 布_NN
+视黄_NN
+拉萨_NN 啤_NN
+裹蒸_NN
+赖汤_NN
+香酥_NN
+蒸_NN
+灌汤包_Err
+南北_NN
+云片_NN
+黑_JJ 米_NN
+乙酸_NN
+丝娃_NN
+牛_NN
+清_JJ 风_NN 送_VV
+红魔_NN
+土笋_NN
+荷兰_NN
+兰花_NN
+煮干_VV
+西施_NN
+焖_NN
+猴头_NN
+姜母_NN
+京酱肉_NN
+安赛_NN
+绿豆_NN
+铁板鱿_NN
+肉_NN
+桔_NN
+万_CD 三_CD
+奶油芝_NN
+馨_NN
+天津包_NN
+千_CD 层_NN
+肠旺_NN
+泮溪酒_NN
+太阳_NT
+神秘_NN
+龙凤_NN
+红_JJ 曲_NN
+泉水_NN
+喜_AD
+燕_NN
+四_CD 川泡_NN
+益力_NN
+腰_NN
+杨梅_NN
+黄桃_NR 罐_NN
+乳酸_NN
+锅包_NN
+曲奇饼_NN
+蟹黄汤_NN
+炒豆_NN
+花江狗_NN
+风干_NN 牛_NN
+柠檬_NN
+可_VV 乐鸡_NR
+薏米_NN
+鸡_NN
+虾_NN
+联苯_NN
+正_AD 阳_NN
+康师_NN 傅冰红_NN
+春_NN
+藻_NN
+奶酪蛋_NN
+直_AD 港_AD 大_VA
+沙茶_NN
+鱼_NN
+芙蓉_NN
+黑瓜_NN
+西安_NN 饭_NN
+赛_NN 百_CD
+生煎馒_NN
+肚_NN
+甜_JJ 酒_NN
+油面_NN
+油泼_NN 辣_VA
+挂炉烤_Err
+法_NN
+砍_NN 三_CD
+苋菜_NN
+番荔_NN
+瓜_NN
+酸奶_NR
+豪_NN
+红烧鲤_NN
+卷_NN
+蟹壳_NN
+耳朵_NN 眼炸_NN
+美国_NR
+金_NN
+籽_NN
+红豆_NN
+起_VV 士_NN
+八_CD 宝_NN
+葡式蛋_NN
+酒心_NN 巧_VA 克_PU
+酸_AD 辣_JJ 土豆_NN
+虾_NN
+月桂_NR
+兴隆_NN 咖_NN
+松鼠桂_NN
+焦亚硫酸_NN
+伊府_NN
+番茄蛋_NN
+烤_NN
+乌江_NN
+仿膳饭_NN
+玫瑰_NN
+桂发_NN
+猪膘_NN
+嫩_JJ 肉_NN
+科_NN
+杨裕_NN
+荷_NN
+哥伦_NN 比_P 亚咖_NN
+海绵蛋_NN
+柠檬酸_NN
+串烤_NN
+榴莲_NN
+手撕_NN 牛_NN
+油炸_NN
+萨其_NN
+鱿鱼_NN
+川北凉_NN
+抱罗_NN
+十八_CD 街麻_NN
+色果_NN
+钵钵_NN
+牛板_NN
+果粒_NN
+奶皮_NN
+冬瓜_NN
+社_NN
+大_JJ 救_NN
+樟茶_NN
+韭_NN
+水果_NN
+烟熏排_NN
+羧甲基_NN 纤维素_NN
+豌豆_NN
+金_NN
+鑫_NN
+慕_CS 斯_DT 蛋_NN
+山梨糖_NN
+乳酸亚_NN
+搅_NN
+阿拉_NN 伯_NN
+油_NN
+六_CD 偏_P 磷酸_NN
+制川_NN
+鲤鱼_NN
+炸丸_NN
+陈麻_NN 婆_VV 豆_NN
+都_AD 匀_VV 毛_NN
+礼_NN
+酒酿圆_NN
+蟹粉_NN 小_VA
+银丝_NN
+盐_NN
+鲜_AD 鱼_NN
+生菜_NN
+忌廉_NN
+灰_NN
+酸白_NR
+炸排_NN
+烤_NN
+炸_NN
+氯化胆_NN
+克瓦_NN
+东江_NN
+卡_NN
+磷酸_NN 三_CD
+江苏_NN
+五_CD 香花_NN
+麻_NN
+卤鸡_NN
+水杨酸甲_NN
+蛋白_NN
+油爆_NN
+乌毡_NN
+麦芽_NN
+磷脂_NN
+锅巴_NN
+蒜泥白_NN
+聚丁_NN
+萝卜泡_NN
+春蚕_NR 吐_NN
+及_CC 第_Err
+调味_NN
+味_NN 好_VA
+喜鹊登_NR
+老_JJ 正_NN
+清蒸_NR 鲈_NN
+炒疙_NN
+硫酸_NN
+曼_NN
+三_CD 鲜_NN
+过_AS 油_NN
+麻_NN
+肉类罐_NN
+酪蛋_NN 白磷酸_NN
+糖醋鲤_NN
+凤梨罐_NN
+素_AD 火_NN
+韩包_NR
+脆皮_NN
+韭菜_NN
+三_CD 氯蔗_NN
+桉叶_NN
+蒙顶_NN
+赤鳞_NN
+紫_NN
+伯爵_NN
+嘉兴_NN 粽_NN
+麻_NN
+柏_NN
+毛肚火_NN
+焗_NN
+仁用_NN
+肉_NN
+玉米_NN
+小扁_NN
+三_CD 鲜_NN
+苯乙_NN
+葱烧海_NN
+八_CD 珍_NN
+马苏_NN 里_LC
+西湖莼_NN
+老友_NN
+砀山_NN
+咖哩_NN
+乳_NN
+蝴蝶_NN
+焦糖布_NN
+香蜂_NN
+糖醋小_NN
+绿苹_NN
+聚春_NN
+锥_NN
+绿波_NN
+风_NN
+珍_NN
+焖_NN
+护_VV 色_NN
+耗子_NN
+手撕_NN
+雕_NN
+龙_NN
+芳樟_NN
+狮峰龙_NN
+雪菜肉_NN
+福建乌_NN
+同_NN 和_CC
+麻_NN
+油酥_NN
+瓜_NN
+氧化铁_NN
+乌鱼_NN
+蚵仔面_NN
+开水白_NN
+炸春_NN
+酸_AD 牛_VA
+黄桥_JJ 烧_NN
+伊_NN
+馄饨_NN
+面线_NN
+烘_NN
+月桂_NR
+菠萝罐_NN
+熟_JJ 菜_NN
+烧肉_NN
+宋嫂鱼_NN
+鲍鱼_NN
+玉楼_NN
+干巴_NN
+班_NN
+方便_VA 米_PU
+杏_NN
+咕噜_NN
+马肉米_NN
+沙_NN
+南京盐_NN 水_NN
+戚风蛋_NN
+海棠_NN
+小_JJ 圆面_NN
+紫背天_NN
+白_JJ 肉血_NN
+腌腊_NN
+三_CD 丁_NN
+坛子_NN
+洋葱_NN
+荷叶_NN 粉蒸_NN
+老友_NN
+桂_NN
+番茄_NN 炒_VV 鸡_NN
+九_CD 转_NN 大_VA
+香辣_NN 鸡_NN
+松江鲈_NN
+枸杞_NN
+麦香_NN
+油炸_NN
+花生_NN
+护国_NR 寺小_NN
+夹心蛋_NN
+海棠_NN
+叉烧_NN
+干煸_VV 四_CD 季_NN
+血_NN
+珍珠丸_NN
+烧鹅_NN
+紫菜_NN 蛋花_NN
+浆水_NN
+磷酸_NN
+卤豆_NN
+薄皮_NN
+盐酥_NN
+松露_VV 巧_CD 克_M
+聚福_NN
+白吉_NR
+叶儿_NN
+蚁_NN
+炸土豆_NN
+南_NN
+排骨年_NN
+粉_NN
+酸_AD 辣_VA
+湛江_NN
+芝麻_NN
+千_CD 层_NN
+厚德_NN
+鱼皮花_NN
+鸭血_NN
+南_JJ 京板_NN
+牛肉_NR
+米粉_NN
+栗子_NN
+栗子蛋_NN
+捆_NN
+和_P 其_PN
+蛋黄_NN
+蜜麻_NN
+鱼头_NN 豆腐_NN
+奎元_NN
+人心_NN
+亚硫酸氢_NN
+红薯粉_NN
+柳泉_NN
+炭烧咖_NN
+第一_OD
+五_CD 芳_NN 斋粽_NN
+水晶_NN
+清_NN 炒_VV 虾_NN
+萨其_NN
+小_JJ 熊饼_NN
+烤兔_NN
+乙基_NN 麦芽_NN
+德发_NN
+猪肠_NN
+血糯_NN
+锅_NN
+桶子_NN
+台_NN
+星冰_NN
+羊肉烩_NN
+面片_NN
+金华酥_NN
+鸡蛋_NN
+红_NN
+荷叶_NN
+中国_NR 劲_NN
+云腿月_NN
+大_JJ 煮_VV 干_NN
+马拉_NN
+菜煎_NN
+老_JJ 八_CD
+土豆_NN 炖_VV 牛_NN
+豆面_NN
+孝感麻_NN
+炒饵_NN
+樱桃_NN
+奶油泡_NN
+岐山_NN 臊子_NN
+三_CD 鲜_P 豆_NN
+炒萝_NN
+西_NN 印度_NN 樱_NN
+李连贵_AD 熏_VV 肉_NN 大_VA
+板豆_NN
+叶_NN
+丝袜奶_NN
+糖火_NN
+龙须_NN
+小_JJ 笼馒_NN
+汤_NN
+植物饮_NN
+安徽_NN
+铁板_NN 牛_VA
+甩_NN
+白_JJ 灼_NN
+挤_NN
+好_AD 清_VA
+醋溜白_NN
+烧肘_NN
+上海_JJ 老饭_NN
+酥_NN
+绿柳_NN
+玄明_NN
+清_JJ 蒸_NN 武_VV 昌_NN
+东北_NN
+毛_NN
+油_NN
+金_NN
+炖_NN
+蒸水_NN
+罗勒_NN
+芥末_NN
+秀珍_NN
+玫瑰露_NN
+维也_AD 纳咖_VV
+煎_JJ 鹅_NN
+素_AD 菜_NN
+冰糖莲_NN
+水晶肘_NN
+西芹_NN 百_CD
+江米_NN
+皇家咖_NN
+糯米粑_NN
+扒_NN
+鲜_AD 肉_NN
+农家_NN
+粉蒸排_NN
+干烧_VV
+干炒_NN 牛_NN
+红薯_NN
+烤_AD 大_VA
+青岛纯_NN
+蒙古烤_Err
+三_CD 不_AD
+聚异丁_NN
+片儿_NN
+山楂_NN
+酱黄_NN
+白_NN
+大_VA
+五_CD 加皮_NN
+富马酸亚_NN
+肉桂_NN
+蓝_JJ 莓蛋_NN
+肉松面_NN
+拔丝苹_NN
+五香_CS 豆腐_NN
+黑樱_NN
+蔬菜饼_NN
+鱼_NN
+黄_NN
+乔家_NN
+云_NN
+方_NN
+骨牛_NN
+羊肉_NN
+爆腰_NN
+中华_NR 猕猴_NN
+肇庆裹_NN
+花生_NN
+黑椒牛_NN
+芡实_NR
+新奥_JJ 尔良_NN 烤_VV 鸡腿_NN
+盛_NN
+拌海_NN
+五_CD 花_NN
+竹节_NN
+冰激_JJ 凌蛋_NN
+白糖_NN
+香酥_NN
+抗结_NN
+臭鳜_NN
+口味_NN
+天下_AD 第一_OD
+芋头_NN
+海蛎_NN
+松仁玉_NN
+麦香_NN
+麝香草_NN
+炸鸡_NN
+打油_NN
+耗儿_NN
+红醋_NN
+泽_NN
+巴西_NN 棕榈_NN
+南翔_NN 小_JJ 笼_NN
+车轮_NN
+羊角面_NN
+清平_NN
+粉_NN
+比利_VV 时巧克_NN
+抗浪_NN
+椒麻_NN
+丁香_NN
+煮_NN
+秦_NN
+连_AD
+黄金_NN
+肉片_NN
+豆芽_NN
+酱羊_NN
+烤豆_NN
+海带_NN
+炒凉_NN
+皮蛋_NN
+生物碳酸_NN
+三_CD 大_NN
+松鼠鳜_NN
+美_NN
+纸包_NN
+腊味合_NN
+红花_NN
+恋爱_NN 豆_NN
+英国_NR
+杏_NN
+山东煎_NN
+庆丰_JJ 包子_NN
+芙蓉_NN
+增味_NN
+老北_JJ 京鸡肉_NN
+豆花_NN
+胶东_NN
+黄泥_NN
+槐茂酱_NN
+宴_NN
+鲜_AD 肉_JJ 月_NN
+凉拌_VV 豆_NN
+太仓_NR 肉_NN
+九_CD 龙_NN
+咸蛋蒸_NN 肉_NN
+圣_NN
+熏_NN
+蜜汁叉_NN
+酿皮_NN
+葱_NN
+浆面_NN
+岐山_NN
+炸响_NN
+梨_NN
+冒_NN
+广式_JJ 点_NN
+蚝油牛_NN
+万_CD 和_CC
+栗子_NN
+生姜_NN 羊肉_NN
+辣子_NN
+黑松沙_NN
+恋爱_VV 豆腐_NN
+武汉_NN 热_VA 干_PU
+西湖藕_NN
+冷啖_NR
+姜黄_NN
+巧克_NN 力慕_NN
+腊羊_NN
+乳酸链_NN 球菌_NN
+苯乙_NN
+花雕_NN
+磷酸氢_NN 二_CD
+土耳_VV 其_PN 咖_NN
+泰_NN 和_CC 乌_NN
+拨_NN
+夏威_NN 夷果_NN
+芦笋罐_NN
+植酸_NN
+清_JJ 汤_NN
+凉拌_VV 海_NN
+清汤_NR 牛肉_NR
+风味_NN 小_VA
+贾_NN 三_CD 灌_VV 汤_NN
+核桃_NN
+谢村黄_NN
+葫芦_NN
+芝麻汤_NN
+白水羊_NN
+劲爆鸡米_NN
+沔阳_NN 三_CD
+葱爆羊_NN
+八_CD 公_NN 山豆_NN
+泰山_NN 三_CD
+卤鸭_NN
+甑_NN
+卤水拼_NN
+威化饼_NN
+津_NN
+薄皮包_NN
+诱惑_NN
+果汁软_NN
+茯苓_NN
+盲公_NN
+柿叶_NN
+羧甲基淀粉_NN
+怪味_NN
+蛙_NN
+卷_NN
+薏米_NN
+崂山啤_NN
+一_CD 口_M
+咀香_NN
+松露_NN
+威_NN
+玫瑰_NN
+泡凤_NN
+黄桂稠_NR
+墨西哥_NN 鸡肉_NN
+幸福_NN
+福建_NN
+核桃_NN
+酸性_JJ
+椒盐_NN
+周村烧_NN
+胡萝卜_NN
+颐_OD 之_DEG
+硬脂酸_NN
+油炸_NN
+麻_NN
+烘山_NN
+奶酪_NN
+磷酸二氢_NN
+千_CD 层_M 油_NN
+石子_NN
+婺_NN
+芸豆_NN
+薄荷_NN
+母子_NN 相_NN
+揪_NN
+磷酸_NN 三_CD
+农夫_NN
+燕喜_NN
+锅盖_NN
+毛家_NN 红烧_NN
+水晶虾_NN
+双_CD 乙酸_NN
+胡椒_NN
+日本_NR 酱_NN
+菊花_NN
+哈尔_JJ 滨红_NN
+红油抄_NN
+红薯粉_NN
+建新_NN
+葱油_NN
+糖不_NN
+合_VV 川桃_NR
+黄山_NN 毛峰_NN
+风_NN
+南翔馒_NN
+清_CD 炖蟹粉_NN 狮子_NN
+蔗糖_NN
+伤心凉_NN
+粉_NN
+豌豆黄_NN
+蚝油生_NN
+清蒸_NR 鲥_NN
+雪花_NN
+鸡丝凉_NN
+猪肚包_NN
+猪骨_NN
+燕云_NN
+炒丝_NN
+农家_NN 小炒_NN
+定胜_VV
+奶油炸_NN
+毛氏_NN 红烧_NN
+土豆_NN 烧排_NN
+滇红_NN
+西湖_NN 牛肉_VA
+波波_NN
+小_JJ 麦啤_NN
+喜鹊登_NR
+君山银_NN 针_NN
+菊花火_NN
+麻辣子_NN
+白_JJ 啤_NN
+椰子_NN
+芝麻_NN
+糯米丸_NN
+豆花_NN
+炒鳝_NN
+火爆腰_NN
+黄金_NN
+盐_NN
+干煸_NN 牛肉_VA
+豆腐圆_NN
+焦磷酸_NN
+家常_NN
+酥性饼_NN
+苞谷_NN
+八_CD 宝_NN
+天目笋_NN
+栗子_NN
+酸_AD 辣_VA
+氨基乙_NN
+竹筒_NN
+卤水鹅_NN
+响铃_NN
+炸馓_NN
+烤鸡肉_NN
+牙签_NN
+圪_NN
+东安_NN
+硫酸铝_NN
+太_AD 爷_NN
+仙人掌_NN
+香竹_NN
+鲮鱼罐_NN
+豆腐丸_NN
+秦镇凉_NN
+排骨_NN
+香甜_NN
+豆沙月_NN
+酸度_NN 调节_NN
+英德红_NN
+镜_NN
+泥鳅_NN 钻豆_NN
+米_NN
+炒南_NN
+桂花_NN 糯米_NN
+四_CD 季_NN
+甜_NN
+食品香_NN
+柠檬酸_NN
+米灌_NN
+杠子_NN
+萨琪_NN
+京_NN 八_CD
+桑_CD 寄生_NN
+玉米_NN
+火腿月_NN
+慕思蛋_NN
+玉米馒_NN
+油_NN
+柠檬酸_NN
+牛肉_JJ 馅_NN
+秋_NN
+绿杨_NN
+涮牛_NN
+虫_NN
+五_CD 香_NN 茶叶_NN
+天下_AD 第一_OD
+麻酥_NN
+银鱼_NN
+冻_NN
+蒸南_NN
+桂花糖_NN
+东北_NN 乱_NN
+龙须_NN
+龙虾_NN
+醋溜_NN
+眼镜_NN
+信阳_NN 毛尖_NN
+太_AD 师_NN
+拔丝地_Err
+鸡肉_NN
+冰片_NN
+青_NN
+栀子_NN
+乳酸乙_NN
+红焖_NN
+水晶肴_NN
+香辣_NR 鸡腿_NN
+五_CD 柳_NN
+磷酸二氢_NN
+吴裕泰_NN 茶_NN
+烟熏_NN 三文_NN
+酥油_NN
+桂发_VV 祥麻_NN
+健美_NN
+紫光_NN
+面粉_NN 处理_NN
+白云猪_NN
+解_VV 酒_NN
+稻香_NN
+云猪_NN
+苹果_NN
+炒_VV 螺_NN
+冻_VV 米_NN
+清_NN 炖_VV 羊_NN
+粉汤饺_NN
+阿里_AD 山高_VV 山_NN
+盱眙_NN 小_JJ 龙_NN
+凌云白_NN
+海鲜_AD 拼_VV
+西班牙_NN 海鲜_NN
+比利_VV 时啤_NN
+羊肉汤_NN
+豆腐_NN
+兰花_NN
+鱼肉_NN
+鲫鱼_NN 豆腐_NN
+金枪_NN 鱼沙_NN
+沙朗牛_NN
+客家_NN 酿豆_NN
+天使蛋_NN
+粽子_NN
+蛋烘_NN
+欧式蛋_NN
+拔丝山_NN
+锦芳_NN 小吃_NN
+手撕_NN 包_NN
+冰拿_NN
+清蒸_NR 桂_NN
+白_JJ 辣_NN
+三_CD 丁_P 包_NN
+鲤跃龙_NN
+金丝蜜_NN
+樊记腊汁_NN
+香茅_NN 草烤_NN
+烧鱼_NN
+响油鳝_NN
+虎皮尖_NN
+肉桂_NN
+金巴_NN
+稍_AD
+三_CD 套_M
+瓜尔_NN
+凉拌_VV 苦_NN
+猪血丸_NN
+牦牛_NN 火_NN
+碣滩_NN
+松油_NN
+臭_JJ 桂_NN
+庐山石_NN
+炒西兰_NN
+鲜_AD 肉_NN 小_VA
+葡聚糖_NN
+白菜_NN 豆腐_NN
+枣_NOI 泥_NN
+韭菜_NN
+临潼石_NN
+松子_NN
+陈皮牛_NN
+豆豉_NN
+鸿起_NN
+炒玉_NN
+太_AD 谷_NN
+火晶柿_NN
+蜂_NN
+老_JJ
+吹_NN
+肉汤_NN
+肉_NN
+盐煎_NN
+咖喱_NN
+卷筒_NN
+三_CD 鲜馄_M
+焖_NN
+皇_NN
+绍兴_NN 腐_NN
+涌溪火_NN
+碗仔_NN
+炉_NN
+拆烩_NN 鲢鱼_NN
+辣椒_NN
+凯撒沙_NN
+鼎湖_NN 上_LC
+聚葡萄_NN
+奶油饼_NN
+香叶_NN
+虫草_NN
+樟茶鸭_NN
+八_CD 角_NN 茴香_NN
+水果_NN
+云南咖_NN
+朱鸿_NN
+丙酸_NN
+门钉肉_NN
+韭菜合_NN
+蜜汁梨_NN
+鲜_AD
+萝卜牛_NN
+粉蒸_NN 牛_NN
+红_JJ 曲_NN
+小绍_NN 兴鸡_NN
+武夷_NN 山岩_NN
+酸_CD 辣白_NN
+司岗_NN
+川芎_NN
+天兴_NN
+酒酿_NN
+中华_NN 药_NN
+花草_NN
+新丰_JJ 小_NN
+蜜番_NN
+东_NN 安子_NN
+阿拉_NN 伯咖_NN
+珍珠圆_NN
+平水_JJ 珠_NN
+丁香_NN
+庐山石_NN
+方便_NN
+清汤_NR 柳叶燕_NN
+西湖绸_NN
+牛_JJ 油_NN
+马祥_NN
+玫瑰_NN
+兔头_NN
+手抓_NN
+滇_NN
+砂锅_NN
+酸辣_NR 豆_NN
+三_CD 合_NN
+纳_NN
+炒豌_NN
+君_NN 之_DEG
+栗子_NN
+肉末_NN 烧_NN
+腊八_OD 豆_NN
+油塔_NN
+海带_JJ 排骨_NN
+荔枝罐_NN
+爆炒腰_NN
+芦荟_NN
+情_NN 中_LC
+台湾青_NN
+京式月_NN
+单县_JJ 羊肉_NN
+栗子_NN
+蓝色_JJ 珊瑚_NN
+电解质_NN 饮_VV
+叫化_VV 童_NN
+糟_NN
+肉夹_NN
+冬果_NN
+蛎_NN
+糖耳_NN
+炒面_NN
+咸煎_NN
+蛇餐_NN
+白_JJ 切_NN
+油馓_NN
+银_NN 包_NN
+黑胡椒_NN
+生姜_NN
+何首乌_Err
+雪_NN
+六_CD 必居_VV 酱_NN
+大叶乌_Err
+金钱_NN
+锅巴肉_NN
+无锡_JJ 水蜜_NN
+美味牛_NN
+古老_NN
+圣堡_NN
+午子仙_NN
+蝴蝶_NN
+油醋_NN
+思乐_NN
+炒时_NN
+姜_NN
+炸虾_NN
+水果_NN
+茯苓_NN
+马家烧_NN
+鼎边_NN
+双_CD 皮刀_NN
+香蕉蛋_NN
+宫_NN
+六_CD 必居_VV 酱_NN
+锅贴_NN
+胡麻_NN
+原壳鲍_NN
+抗坏血酸_NN
+沸腾可_NN
+礼品蛋_NN
+脆皮乳_NN
+鱼汤_NN
+水分_NN 保持_VV
+鲤鱼焙_NN
+煌_NN
+朝天_NN
+雪顶咖_NN
+沙棘_NN
+炒小白_Err
+巧克_NN 力奶_NN
+番薯糖_NN
+登瀛_NN
+水产_NN 罐_NN
+悠泡_NN
+萝卜_NN
+大刀_AD
+高邮_JJ 咸鸭_NN
+鲜_AD 鸡_NN
+清蒸甲_NN
+太平_AD
+盐局_NN
+豌豆_NN
+霉_NN 干_VV 菜_NN 烧_VV
+拔丝香_NN
+一_CD 品豆_NN
+鸡鸭血_NN
+锅边_NN
+胶姆糖_NN 基础_NN
+烧鱿_NN
+红薯_NN
+大_JJ 树菠_NN
+葛_NN
+瑞士_NN
+蜜_NN 三_CD
+怪味胡_NN
+闪_NN
+异_AD 抗_VV 坏血_NN
+过氧化_NN
+大叶_AD
+草_NN
+方豆_NN
+葱烤鲫_NN
+鲜肉_JJ 包_NN
+软儿_NN
+酥油糌_NN
+姜汁啤_NN
+肉松_NN
+果仁_NN
+二_CD 姐兔_NN
+麻_NN
+粟米_NN
+豆酥_NN
+洛神花_NN
+红烧牛_NN
+西樵大_NN
+红酒_NN
+夏威_NN 夷风_NN
+清_CD 蒸白_NN
+湖南腊_NN
+炸元_NN
+甜_JJ 奶_NN
+柠檬_NN
+松仁_NN 小_VA
+菊花_NN
+蚕豆_NN
+肴驴_NN
+沙米_NN
+西瓜_NN
+广东_JJ 粽_NN
+马蹄_NN
+软炸_NN 里_LC
+小酥_NN
+古_JJ 月_NN
+火_JJ 边子_NN 牛_NN
+豆焖_NN
+槽子_NN
+小卷_NN
+烧饵_NN
+南翔_NN 小_JJ 笼馒_NN
+冰_NN 之_DEG
+东江盐_NN 焗_NN
+紫糯_NN
+王_NN 四_CD 酒_NN
+冷_NN
+珠兰花_NR
+大_JJ 卤_NN
+乳_NN
+馓子麻_NN
+小青_NN
+明_AD 溪_JJ 肉脯_NN
+深州_JJ 蜜_NN
+爆炒鱿_NN
+红烧鱼_NN
+永_AD 和_P
+上校_JJ 鸡_NN
+莜面栲_NN
+糖卷_NN
+酸_JJ 汤水_NN
+蛋奶_NN
+麦芽_NN
+炒鸡_NN
+酥火_NN
+早餐_NT
+盘飧_NR
+壹_CD 条_M
+油焖春_NN
+烧萝_NN
+景扬_NN
+咖哩_AD 牛_VA
+椰_NN
+茶_NN
+韧性饼_NN
+聚二甲基硅氧_NN
+异麦_NN 芽酮_NN
+绿茶蛋_NN
+呈_VV 味核苷酸_NN 二_CD
+虾爆鳝_NN
+黑椒牛_NN
+袜底_NN
+土豆烧_NN
+香茅_NN
+沙棘_NN
+山楂_NN
+柠檬酸铁_NN
+沙茶牛_NN
+海城馅_NN
+法国_JJ 红磨_NN
+红烧海_NN
+如_P 意_NN
+三_CD 鲜_P 水_NN
+什_DT 锦豆_NN
+咸鱼饼_NN
+葱油_NN
+水盆羊_NN
+溜肝_NN
+荷叶_NN
+面粉_NN 改良_NN
+事事_NN 平_NN
+巧克_NN 力奶_NN
+冰泉豆_NN
+糖醋白_NN
+酱椒鱼_NN
+状元_NN 及_CC 第_Err
+杏皮_NN
+被_SB 膜_NN
+邮亭鲫_NN
+珍珠_NN
+罗汉_NN
+三_CD 合_NN
+包_VV 谷_NN
+香茅_NN
+酸_JJ 菜_NN
+菊花_NN
+豆沙_NN
+蚝仔_NN
+聚丰_NN
+萧山_NN 萝卜_NN
+套_NN 四_CD
+印_NN
+雀巢_NN 淡_JJ 奶_NN
+乳化硅_NN
+椒盐排_NN
+山大_NN
+哲_NN
+泡椒_NN 墨鱼_NN
+腊味_NN 煲仔_NN
+麻辣_NN 兔_NN
+酥_NN
+烤_AD 小_VA
+伦教_NN
+糯米糖_NN
+翡翠豆_NN
+五一_NN 饭_NN
+酸_JJ 菜牛_NN
+蟠龙_NN
+四_CD 川榨_NN
+可_VV 可_VV
+广州_JJ 星_NN
+乙酸丁_NN
+仙人掌_NN
+豌豆_NN
+芥_CD 末墩_NN
+上杭_NR 萝卜_NN
+肉燕_NN
+冰糖_NN 湘_NN
+西瓜_NN
+莲子_NN
+石磨_NN 豆_NN
+豆花米_NN
+糖醋带_NN
+华夫饼_NN
+俄罗_NN 斯_NN
+刷把_NN
+贾_NN 三_CD 灌_VV 汤包_NN
+羊腥_NN
+特级_NN 橄榄_NN
+葱包_NN
+萝卜_NN
+扒海_NN
+牛肉_JJ 泡_NN
+刈_NN
+九_CD 里_NN 飘_VV
+青海_NN
+秦镇米_NN
+蒸熊_NN
+长汀_JJ 豆腐_NN
+洋_JJ 姑_NN
+泡椒牛_NN
+老半_NN
+荠菜_NN
+杂_NN
+灌汤_VV 小_JJ 笼_NN
+赣南_NN 小_JJ 炒_NN
+乙二_OD 胺_M 四_CD 乙酸_NN 二_CD
+长春_NR
+鸡豆_NN
+低_JJ 醇啤_NN
+雷州_NN 狗肉_NN
+西红柿_NN 牛肉_VA
+煎_JJ 酿_NN 三_CD
+芙蓉_NN
+粿_NN
+干蒸烧_VV
+石家饭_NN
+野_JJ 味火_NN
+眉毛_NN
+羊_NN
+温泉_NN
+龙眼包_NN
+蔗糖_NN
+得莫_AD 利炖_VV 活_VV
+蜜汁火_NN
+丙酸_NN
+番茄_NN 蛋花_NN
+草莓慕_NN
+温泉_NN
+糖油_NN
+凉_JJ 皮_NN
+金线油_NN
+荞粑_NN
+麦辣鸡_NN
+集贤_NN
+油炸_NN 果_NN
+米凉_NN
+老_JJ 都_AD 一_CD
+闻喜煮_VV
+核桃_NN
+益胃_NN
+宜宾燃_Err
+泰山赤_NN 鳞_NN
+赤藓糖_NN
+芝麻_NN
+泡椒田_NN
+同_DT 川_NN
+酸_CD 菜炒_NN
+油炸青_NN
+油淋_NN
+婚庆蛋_NN
+尕面_NN
+布丁蛋_NN
+杨麻_NN
+连城_VV 地_DEC 瓜_NN
+蓬莱小_NN
+东坡_NN
+花生_NN
+酥鲫_NN
+炸牛_NN
+清炖甲_NN
+糕_NN
+赛螃_NN
+葡萄糖酸_NN 内_LC
+泡椒牛_NN
+老妈蹄_NN
+黑_NN
+甜_JJ 水_NN
+白市_JJ 驿板_NN
+喝_NN
+全家_AD
+迷迭_NN 香_NN
+酥皮月_NN
+苯甲酸苄_NN
+小肚_NN
+咸鸭_NN 烧黄_NN
+糖芋_NN
+黄桂_JJ 柿子_NN
+氯化_NN
+玫瑰花_NN
+车厘哥_NN
+藜蒿炒_NN 腊_NN
+爪哇咖_NN
+奶汤_NN
+凤尾鱼_NN 罐_NN
+素_AD
+骨髓_NN
+沛县狗_NN
+永定_JJ 菜_NN
+氧化铁_NN
+圣诞布_NN
+柑桔_NN
+泰山_NN 女儿_NN
+绍兴麻_NN
+竹筒_NN
+香酥麻_NN
+醋_NN
+重_AD 阳_P 花_NN
+槐豆_NN
+玉液_NN
+甜玉_NR 米罐_NN
+孜_NN 然_AD 牛_VA
+青精_NN
+蟹壳_NN 黄_JJ 烧_NN
+天府花_NN
+欢喜_AD
+清蒸_JJ 加吉_NN
+素_AD 烧_NN
+香菜圆_NN
+马奶子_NN
+万_CD 年长_NN
+大_JJ 肉_NN
+皮条鳝_NN
+天水呱_NN
+糊塌_NN
+腊猪_NN
+姊妹团_NN
+酱肉_NN
+羊杂_NN
+玉米_NN 热_NN
+凤戏牡_NN
+蓝莓芝_NR
+稀_JJ 豆_NN
+大理_NN 石蛋_NN
+雪花羊_NN
+葡萄_NN
+红烧猪_NN
+拌莴_NN
+紫罗兰_NN
+蟹_CD 黄鱼_NN
+柠檬_NN
+泡菜_NN
+火锅_NN
+富_NN 顺_VV 豆_NN
+酒_NN
+黑椒_NN 牛仔_VA
+拌肚_NN
+海米冬_NN
+莜面_NN 栲栳_NN
+薄烤_NN
+江津_NN 米花_NN
+薄荷素_NN
+金钱_NN
+潘趣_NN
+金针菇_NN 罐_NN
+鲔鱼_NN 三明_NN
+苏州_NN 茉莉花_NN
+藕粉圆_NN
+都_AD 督_P 烧_NN
+薄脆饼_NN
+醪糟_NN
+铺盖_NN
+馕坑_NN
+脆皮_NN
+宁_AD 化_JJ 老鼠_NN
+荷叶糍_NN
+石头_NN
+菊花鱼_NN
+广藿香_NR
+香蒜面_NN
+干锅_NN 茶树_NN
+重庆_JJ 老火_NN
+干锅_NN
+贴饽饽_NR 熬小_NN
+正_AD 山_JJ 小_JJ 种_M 红_NN
+城隍庙_NN 五_CD 香_NN
+老_JJ 孙家_NN 羊肉_NN
+京冬_NN
+蒙自_VV 过_AS 桥米_NN
+菜豆_NN
+炖鸡_NN
+百_CD 果年_NN
+三_CD 色_NN
+荞面饸_NN
+鸠坑毛_NN
+独山盐酸_NN
+钱钱_NN
+蒸蛋_NN
+焖扁_NN
+宜红_NN
+馕包_NN
+抓炒全_Err
+叶绿_NN 素_AD 铜_VV 钠_NN
+面_NN 包改_VV 良_NN
+孔府糕_NN
+清_JJ 咽_NN
+纸杯蛋_NN
+马谛_NN
+酸_JJ 木_NN
+粉皮面_NN
+遵义毛_NN
+抹茶_NN 冰淇_NN
+单硬脂酸_NN 甘油_NN
+干菜焖_NN
+五_CD 彩_NN
+干贝_NN
+碳酸氢_NN
+武平_AD 猪胆_NN
+高梁_NR
+香芋扣_NN
+重庆_JJ 辣子_NN
+干锅肥_NN
+扬州酱_NN
+松子_NN
+富硒酵_NR
+外婆_NN 家醉_NN
+桔红_NN
+鱼羊_NN
+甘露糖_NN
+盘丝_NN
+小月_NN 担_VV 仔_NN
+萧山花_NN
+韭菜炒_NN
+西泠印_NN
+爆鱼_NN
+枫泾丁_NN
+度小_NN 月_NN 担_VV 仔_NN
+扒原_NN 壳鲍_NN
+乙基香兰_NN
+破酥_NN
+石岐乳_NN
+日月生_NN
+八_CD 仙_NN
+印度奶_NN
+赊店老_NN
+芦蒿_NN 炒香_NN
+宜兴_NN 百_CD
+小西_NN
+水晶_NN
+红烧熊_NN
+大雪_AD
+油墩_NN
+魔芋烧_NN
+南昌米_NN
+太_AD 师_NN
+燕窝_NN
+炒_VV 米_NN
+百花_NN
+对_P 羟基苯甲酸_NN
+菠菜_NN 猪肝_NN
+萝卜_NN
+怀远石_NN
+冰糖_NN 莲子_NN
+清蒸石_NN 斑_NN
+焖黄_NN
+帕尔_NN 玛火_NN
+绿豆粉_NN
+米肠_NN
+白果_CS 烧_VV
+石蛤_NN
+糖心_NN
+面肺_NN
+红烧鲍_NN
+五_CD 城茶_NN
+肥肠_NN
+油爆双_NN
+杏仁蛋_NN
+御_NN
+白玉_JJ 翡_NN
+沃凯_NN
+迷迭香_NN 提取_NN
+天麻_NN
+杜康_NN
+枣_NOI 泥_NN
+烫干_VV
+南山庄_NN
+丁酸乙_NN
+脆皮炸_NN
+玉米汁_NN 饮_VV
+万_CD 州烤_NN
+焖狗_NN
+青岩茗_NN
+酪蛋_NN 白钙_NN
+绍兴香_NN
+扭结_NN
+灯芯_NN
+诗礼银_NN
+炒_VV 米_NN
+红烧大_NN
+米粉蒸_NN
+麦辣鸡_NN 腿汉_NN
+千_CD 层_NN
+糟_JJ 田_NN
+清汤_NR 燕_NN
+风_NN
+蔗糖_NN 脂肪酸_NN
+王星_NN 记扇_NN
+白云凤_NN
+姜葱炒_NN
+琥珀鸽_NN
+梅花_NN
+蒸肠_NN
+香菇_NN 鸡肉_NN
+牛_JJ 腰_NN
+蒙自_VV 年_PU
+磷酸氢_NN 二_CD
+清蒸_NR 刀_NN
+乙酰磺胺酸_NN
+芒果班_NN
+胆钙化_NN
+柚子_NN
+异_AD 抗_VV 坏血酸_NN
+当_P 归_NN
+荔枝_NN
+菊花鲈_NN
+宝庆猪_NN 血丸_NN
+蒸江_NN
+雪梨_NN
+油_NN
+瓤豆_NN
+芙蓉干_NN
+硒化_NN 卡拉_NN
+野_JJ 太_NN
+芋头_NN
+黄家烤_NN
+苹果_NN
+白_JJ 煮_NN
+庐山石_NN
+清蒸_NR 海_NN
+毛哥_NN 老_JJ 鸭_NN
+乳糖_NN
+红丸_NN
+干烧_VV 鱼_NN
+吮指_NN 原味_NN
+天然_JJ 薄荷_NN
+斋卤_NN
+生炒菜_NN
+白_JJ 丸_NN
+早餐_NT
+福山拉_NN
+凤尾_NN
+酥_NN
+地_DEV 瓜_NN
+芙蓉_NN 鲜_CC 蔬_NN
+异麦_NN 芽酮糖_NN
+柑橘_NN
+雪山_NN
+亚铁_NR 氰化_NN
+玉带_NN
+组庵鱼_NN
+煎_JJ 丸_NN
+芝麻豆_NN
+空心_NN
+金丝_NN
+烧花_NN
+青芥_NN
+白家_JJ 肥肠_NN
+黑米_JJ 稀_NN
+东莞腊_NN
+六_CD 味_NN 斋酱_NN
+卡夫_NN 奇妙_NN
+牛_NN 外_LC
+玫瑰_NN 大头_NN
+丁二_OD
+猪油年_NN
+清蒸_NR 江_NN
+驴板_NN
+蜂蜜麻_NN
+海鲫_NN
+毛毛_NN
+梅干_CD 菜烧_NN
+南京_NN 雨花_NN
+虾子_NN
+红烧划_NN
+炒血_NN
+赖氨酸盐酸_NN
+锅塌豆_NN
+珍珠元_NN
+圣杞_NN
+凉拌折_JJ 耳_NN
+威士_NN 忌苏_NN
+菊花_NN 酿鱼_NN
+金线_NN 吊葫_NN
+油炸臭_NN
+花生_NN
+简阳_NR 羊肉_NN
+蜂蜜_NN 凉_VA 粽_PU
+带子_NN 上_LC
+炖_NN
+琥珀桃_NN
+拌鸡_NN
+沟帮_NN 子熏_NN
+虾肉_NN 小_VA
+小凤_NN
+焖肉_NN
+清汤_NR 鱼_NN
+柠_NN
+荷花_NN
+美国_NR 蛇_NN
+四_CD 季美_NN 汤_NN
+圆筒冰_NN 淇_NN
+广东_JJ 月_NN
+凤翔_NN 腊驴_NN
+零点咖_NN
+番茄豆_NN
+芝麻酥_NN
+泡油_NN
+发财_NN 就_AD
+环状糊_NN
+红芽_NN 歪_JJ 尾_NN
+丙酸乙_NN
+龙脂猪_NN
+九_CD 龙_NN
+亚硝酸_NN
+茅_NN
+留兰香_NR
+小红_NN
+凤凰出_NN
+兔_NN
+饮料罐_NN
+腌酸_NN
+美乐_NR
+凉拌_VV 猪_NN
+炒面_NN
+晾_NN
+六月_NT
+芙蓉_NN
+鸽蛋圆_NN
+油焖_NN
+甜_JJ 烧_NN
+南乳_NN
+炸_VV 五_CD
+蝴蝶海_NN
+苯基苯_NN
+威宁_NR 火_NN
+六_CD 安_NN 瓜片_NN
+马烧_NN
+鲜花_NT
+杜仲腰_NN
+火局_NN
+太平_JJ 猴魁_NN
+陵水酸_NN
+荣乐_NN
+沩山毛_NN
+辣椒_NN
+浦东_NN
+金银_NN
+石耳_NN 炖_NN
+昌化_NN 山核_NN
+矮_VV 人_NN 松_VV
+巧_NN
+熘土豆_NN
+奶汤蒲_NN
+炒豇_NN
+嵌桃麻_NN
+糟熘鱼_NR
+山城_NN 小_JJ 汤_NN
+蔡记蒸_NN
+蓬莱_NN
+蚝_NN
+清蒸_JJ 排_NN
+聚乙酸乙烯_NN
+日本_NR 南_NN
+毛峰_NN 熏_VV 鲥_NN
+折耳根_NN 炒_VV 腊_NN
+热面_NN
+谷雨_NN
+龙凤_NN
+鱼咬_NN
+水煎_NN 包_NN
+开洋干_Err
+蛋黄_NN
+芝麻_NN
+蔬果搭_NN
+蒜泥黄_NN
+石板粑_NN
+荤豆_NN
+豆花_NN
+毕节汤_NN
+煎_JJ 灌_NN
+四_CD 川腊_NN
+和_P 味牛_NN 杂_VA 萝_PU
+酸_CD 笋煮_NN
+糟毛_NR
+大_JJ 理_JJ 砂锅_NN
+高_JJ 纤维椰_NN
+千_CD 张_M 包_NN
+芙蓉鲫_NN
+三_CD 文_NN 治火_NN
+赤藓_NN
+鸡粉_NN 调味_NN
+清蒸_NR 鲩_NN
+奶油沙_NN
+鲜花_JJ 玫瑰_NN
+绿豆凉_NN
+鱼肉汉_NN
+汤爆双_NN
+乙酸_NN
+软炸_NN
+炒白_NN
+三_CD 丝敲_NN
+软_JJ 饼_NN
+莴笋叶_NN
+生牛肉_NN
+三七_CD 汽锅_NN
+芒果雪_NN
+龙眼_NN
+猪血灌_NN
+手撕_NN
+糯米_NN
+九_CD 华毛_NN
+平湖_JJ 糟_NN
+鸭_NN
+猪杂_NN
+醉排_NN
+翠梅酸辣_NN
+特色_JJ 炒_NN
+烙_NN
+太白_NT
+笼仔_NN
+王鸭_NN
+圆蛋_NN
+岐山_NN 哨子_NN
+盐水菜_NN
+沙溪凉_NN
+扬州干_NN
+神仙鸭_NN
+沧州冬_NN
+雷家豆_NN 腐圆_NN
+小笼_NN 蒸牛_NN
+海鲜_JJ 小_JJ 豆_NN
+樱桃_NN
+山鸡_NN
+柴沟_NN 堡熏_NN
+油_NN
+重庆_JJ 水煮_NN
+麻辣_NN 鸭_NN
+白金_NN
+柠檬蛋_NN
+红枣年_NN
+谷氨酰胺_NN
+炉_NN
+石头_NN 门坎素_NN
+鹌鹑蛋罐_NN
+蒸鹿尾_NN
+萝卜饺_NN
+糖酥煎_NN
+烧_NN
+猪油汤_NN
+火鸡_NN 三明_NN
+老毛手_NN
+百合_NN
+芝麻_NN
+口袋_JJ 豆_NN
+宁_AD 红_VA
+回民餐_NN
+上海_JJ 水蜜_NN
+醋椒_NN
+姜汁_NN
+红烧蹄_NN
+条_NN
+耿福_NN
+尖_AD 椒_NN
+荞凉_NN
+玉林牛_NN
+清蒸_NR 鸭_NN
+特丁基对苯_NN 二_CD
+杨家_NN 吊_VV 炉_NN
+麦德_NN
+苔菜_NN 小方_NN
+参花_NN
+叉烧_NN
+芒果芝_NN 士蛋_NN
+扒驼_NN
+破酥包_NN
+熊掌豆_NN
+青城_NN
+玛琪_NN
+洞顶乌_NN
+干锅田_NN
+烩海_NN
+梳乎_NN
+奶油_NN 五_CD 香_NN
+八_CD 仙过_VV 海闹罗_NN
+宋嫂_NN
+干炸_NN 丸_NN
+牛肉_JJ 焦_NN
+鲤鱼_NN 三_CD
+麻_NN
+海蟑_NN
+老巴_NN
+唐纳_NN
+美人_NR
+炸茄_NN
+海天_NN 金标_NN 生_NN
+散_NN
+小_JJ 鱿鱼_NN
+荷兰_NN
+桂平_AD 西山_NN
+麝香_NN 猫咖_NN
+爆_NN 三_CD
+擂沙_NN
+石竹_NN
+咸烧_NN
+蛋黄_JJ 莲蓉月_NN
+连_AD 锅_NN
+糖水_NN 荔枝_NN 罐_NN
+大_JJ 理_NN 雪_NN
+走油_NN
+满城_NN
+水饺_NN
+苹果_NN
+喜洲_NR 粑_NN
+牛肉_JJ 烧_NN
+丝路_NN
+腐皮_NN 包黄_VV
+南岳_NN 云雾_NN
+顾渚_NN 紫笋_NN
+合川_NR 肉_NN
+山椒凤_NN
+米凉_NN
+磷脂酰乙醇_NN
+翠云水_NN 煮_VV
+得莫利炖_VV
+干煸肉_NN
+大菜_AD
+猪油_NN
+甲基丁_NN
+胭脂虫_NN
+韭菜包_NN
+五_CD 香狗_NN
+三_CD 丝鱼_NN
+毡_NN
+乙氧基_NN
+棋子烧_NN
+高_JJ 粱_NN
+开洋_VV 葱油_NN
+马铃_NN 薯沙_NN
+轻乳_JJ 酪蛋_NN
+凉鸡_NR 米_NN
+五_CD 彩雪_NN 花扇_NN
+摩根_NN 斯_NN
+云梦鱼_NN
+木瓜_NN
+什_DT 锦麦_NN
+德园包_NN
+辣椒_NN
+噻苯咪_NN
+天下_AD 第一_OD
+麻酱凤_NN
+猫儿_NN
+环己基_NN 氨基磺酸_NN
+螺丝_NN
+发丝_NN 百_CD
+腐乳_NN
+太_AD 安_VA
+氽丸_NN
+苹果蛋_NN
+两_CD 面_NN
+双_CD 椒_NN
+鹿肉_NN
+蛋黄_NN
+洋葱炒_NN
+邻苯基苯_NN
+咖啡饼_NN
+冰糖银_NN 耳_NN
+草帽_NN
+米面皮_NN
+酸_JJ 萝卜_NN 老_JJ 鸭_NN
+石子_NN
+努力_NN
+雅丽_NN
+即_AD 食鲍_NR
+炸面_NN
+玫瑰镜_NN
+铁锅_NN
+马打_NN
+带把肘_Err
+汉斯_NR 干_NN
+川贝炖_NN
+锅盔_NN
+枣_NOI 泥_NN 山药_NN
+曹记驴_NN
+盐火局_NN
+生榨米_NN
+凉拌_NN
+黑胡_NN 椒牛_NN
+大方_PN
+香草奶_NN
+枣_NN
+吴山_NN 酥油_NN
+滑蛋牛_NN
+鸡杂炒_NN 干巴_NN
+南煎_NN 丸_NN
+海马宫_NN
+娥姐粉_NN
+豆汤_NN
+香芹_NN
+蒙古包_Err
+炝黄_NN
+波士顿_NN
+甜_NN
+克东_JJ 腐_NN
+玉兰_NN
+壹_OD 条_M 龙饭_NN
+三_CD 鲜_P 锅_NN
+鸡肉_NN
+酥羊_NN
+滇_NN 八_CD
+太阳_NT
+三_CD 虾豆_NN
+小笼_NN 灌_VV 汤_NN
+蛋烧_NN
+鸭油_NN 酥烧_NN
+榆林豆_NN
+酱爆_NN
+凉拌_JJ 皮_NN
+麻烘_NN
+婺州举_NN
+老正_JJ 兴菜_NN
+粉汤羊_NN
+热冬_NN
+珍珠_NN
+油炒_NN
+五_CD 更_AD 肠_NN
+红烧_NN 五_CD 花_NN
+水晶蛋_NN
+火宫_NN 殿臭_NN 豆_NN
+酸_AD 菜_JJ 粉丝_NN
+淡_AD 糟_JJ 香螺_NN
+狗浇_NN
+梨_NN
+芝麻_NN
+甘露_NN
+金银馒_NN
+安化_VV 松_VV
+瓯江_NN 凤尾_NN
+甘氨酸_NN
+红油鸡_NN
+核桃仁_NN
+西洋李_NN
+橘红_NN
+天水杂_NN
+草莓新_NN
+三_CD 鲜米_M
+叶儿_NN
+扣_NN
+烧雏_NN
+南糯白_NN
+尖椒肉_NR
+漾濞核_NN
+辣椒_NN
+纤扬_NN
+凉拌_JJ 鱼腥_NN
+玉米色_NN
+清_AD 炒河_VV 虾_NN
+火腿_NN 炖甲_NN
+香蕉_NN
+锅烧_NN
+登瀛_NN 楼饭_NN
+庐_NN
+蝎滚绣_NN
+五_CD 香酱_NN
+泡菜_NN 牛肚_VA
+蒸蒸_NN
+珠山_NN
+水煮_NN 田_NN
+胡萝_NN 卜蛋_NN
+南京香_NN
+卡通_NN 蛋_NN
+可_VV 可_VV 咖_NN
+熘鲜_NN
+西亭脆_NN
+鸡汁_NN 土豆_NN
+八_CD 仙_NN
+鲜_AD 肉粽_NN
+一品_NN
+桂花酥_NN
+烧子_NN
+威宁_NR 荞_NN
+川菜_NN 回锅_NN
+弥渡_VV 卷_NN
+炸鱼_NN
+红螺食_NN
+新_JJ 南_NN
+萝卜炖_NN 羊_NN
+怪味鸡_NN
+灌_NN
+糖醋_NN 脆皮_NN
+曹操_NN
+芥菜圆_NN
+红烧_JJ 梭子_NN
+水煮_NN 羊_NN
+奶油生_NN
+飞龙_NN
+汪集_NR 鸡_NN
+蒜泥茄_NN
+对_P 羟基苯甲酸乙_NN
+麻辣_NN 田_NN
+白运_JJ 章包_NN
+荷包_NR
+蟹足_NN
+鸡丝馄_NN
+桂花干_NN
+金华_NN 兔头_NN
+酱烧_NN
+手抓_NN 羊_NN
+干煸_NN 土豆_NN
+红烧兔_NN
+豆末_NN
+千_CD 层_M 牛肉_NN
+油炸洋_NN
+灰豆_NN
+巧克_NN 力泡_NN
+金瓜芋_NN
+谭豆_NN
+腰果鸡_NN
+水瓜_NN
+棒_CD 槌果_NN
+果冻_NN 三明_NN
+九_CD 江煎_NN
+甜菜_NR
+椰子_NN
+烩酸_NN
+丹麦_NN
+柿面糊_NN
+意大利_AD 千_CD 层_NN
+双_CD 麻酥_NN
+酒醉河_NN 田_NN
+摩卡_NN 薄荷咖_NN
+绣_CD 球_NN 干_VV
+南瓜_NN
+糖藕_NN
+意大_NR 利饺_NN
+饸饹_NN
+瑞士_NN 咖啡_NN
+白_JJ 橙_NN
+熏马_NN
+老鼎_JJ 丰糕_NN
+清_NN 炒_VV 鳝_NN
+腌萝卜_NN
+鸡血_NN
+咖喱_NN 牛肉_VA
+炒清虾_NN
+华顶_NN 云雾_NN
+酒石酸氢_NN
+福州_NN 茉莉花_NN
+豉_NN 汁_NN 蒸排_NN
+清水白_NN
+洋_JJ 县黑_NN
+抓炒_NN 鲤_NN
+辣子_NN 炒薰_NN
+潮_NN
+俄式咖_NN
+金鱼戏_NN
+凉瓜_JJ 排_NN
+家常_JJ 海_NN
+清蒸_NR 羊羔_NN
+果汁伴_NN
+肉丝炒_NN 年_NN
+烩羊杂_NN
+沙湖盐_NN
+秦安_NR 肚丝_NN
+拔丝芋_NN
+芝麻_NN
+苦瓜_NN
+火_NN 炼金_NN
+炖菜_NN
+鱼翅_NN
+环宇_NN
+碱水_NN
+绿兰_NN
+虫草炖_NN
+咸鱼_NN 茄子_NN
+金黄蜜_NN
+芝兰斋糕_NN
+那_DT 不_AD 勒_VV 斯_DT 风味咖_NN
+烧猪_NN
+香菇肉_NN
+鸡尾_NN
+萝卜_NN 丝鲫鱼_NN
+锅烧鲤_NN
+油煎_NN 毛豆_NN
+汽水_NN
+汉水银_NN
+海凉_NN
+李锦_NN 记蒸_NN 鱼豉_NN
+碧绿虾_NN
+军屯锅_NN
+蓝色_JJ 香_NN
+秦安_NR 麻腐_NN
+双层_JJ 吉士汉_NN
+冰葫_NN
+葱油_NN
+谢凉_NN
+开煲狗_NN
+汤丸_NN
+蛋花米_NN
+淀粉软_NN
+笋烧海_NN
+荠菜春_NN
+杀猪_NN
+香菇_NN
+天_NN 一_CD
+双_CD 酿_NN
+原平_JJ 锅_NN
+酱烧茄_NN
+赤藻糖_NN
+永_AD 胜_P 油_NN
+泡泡油_NN
+宴春酒_NN
+老妈_NN 宫粽_NN
+天_NN 人_NN 有_VE
+芙蓉餐_NN
+火腿_NN 豆焖_NN
+卡夫果_NN
+罗汉大_NN
+包谷粑_Err
+玉林茶_NN
+菜_NN
+腌鲜_NR 鳜_NN
+抗坏血酸_NN
+仲丁_NN
+四_CD 季鲜_NN
+豆乳饮_NN
+山_NN 之_DEG
+甘油_NN 脂肪酸_NN
+抹茶_NN 星冰_NN
+红枣茯苓_NN
+菊花鱿_NN
+合水_JJ 粉_NN
+鱼丝_NN
+墨子_NN
+深海_JJ 鳕鱼_NN
+老山_NN 记_VV 海城馅_NN
+洞庭_AD 金_NN
+峨蕊_NN
+清_NN 炒_VV 芦_NN
+黄米_JJ 粽_NN
+四_CD 条_M 包_NN
+老麻_JJ 抄_NN
+李鸿_NN 章杂_NN
+延边_NN 苹果_NN
+酱玉_NN
+炒粉_NN
+金华汤_NN
+焖白_NN
+炝土豆_NN
+无_VE 为_P 熏_NN
+鸡汤氽_NN 海_NN
+半胱氨酸盐酸_NN
+黄山炖_NN
+油炸_NN 臭_JJ 豆腐_NN
+鸟苷酸_NN 二_CD
+培_CD 根_M 火_NN
+神仙_NN
+虎_NN 皮蛋_NN
+遵义_NN 豆花_NN
+商芝_NN
+白斩_JJ 河田_NN
+蜜汁山_NN
+烤鸡_NN
+雪片_NN
+可_VV 可_VV 蛋_NN
+凤尾鱼_NN
+杨凌_NN 蘸水_NN
+梨子_NN
+西芹虾_NN
+碗耳_NN
+鳎目_NN
+片儿川_NN
+詹王鸡_NN
+黄_JJ 松_NN
+排冬_NN
+特级板_NN 烧鸡腿_NN
+哈_CS 达_VV
+盘餐_NN
+亚麻籽_NN
+满台_NN
+栀子_NN
+藏花_NN
+干捞_NN
+鱼圆_NN
+皮蛋_NN
+小花_NN
+早_AD 白_VA
+清汤_NR 鱼_NN
+酸辣_NR 凤_NN
+贵妃鸡_NR
+青城泡_NN
+桉叶_NN
+鲍鱼罐_NN
+天麻_NN 汽锅_NN
+猪肝_NN 绿豆_NN
+乙酸_NN 芳樟_NN
+清_JJ 蒸_NN 八_CD 宝_NN
+甜橙_NR
+油醪_NN
+香蕉_NN
+玫瑰魅_NN
+金蟾拜_NN
+海萝_NN
+徽州_NN 臭_JJ 豆_NN
+玻璃烧_NN
+卤_CD 汁_NN 凉_VA
+鹿肉_NN
+菠菜_NN 鸡蛋_NN
+乐而_AD 美汉_NR
+红烧野_NN
+大_JJ 理_NN 三_CD 道_NN
+酸奶_NR
+锅_NN
+桂花_NN
+四_CD 喜_P 蒸_NN
+醪糟鸡_NN
+高_JJ 汤水_NN
+雪映红_NN
+金丝琥_NN 珀蜜_NN
+成_VV 都餐_NN
+香菇肉_NN
+扬州_NN 蛋炒_NN
+槟榔_NN
+蔬菜_NN 比_NN
+龙须_NN
+抹茶慕_NN
+小_JJ 炒牛_NN
+荞麦_NN
+韭黄肉_NN
+决明子_NN
+马赛鱼_NN
+星巴_NN 克月_NN
+岐山挂_NN
+银鱼_NN
+杭州刺_NN
+忻州瓦_NN
+粉皮_NN
+啤酒_NN 鸭火_NN
+鼠_NN 曲_NN
+佛手_NN
+麻辣_JJ 火锅_NN
+扒_NN
+祁红_NN
+虫草_NN 汽锅_NN
+油燃_NN
+荷叶_NN
+葱包_NN 桧_NN
+香肠_NN
+顺_VV 庆_NN 羊肉_NN
+清蒸_NR 哈什_NR
+台湾_NN 卤肉_NN
+黎家_NN 竹筒_NN
+高_JJ 桥松_NN
+抓炒_NN 里_LC
+清_CD 汤牛_NN
+神池麻_NN
+没_NOI 食子酸丙_NN
+芮城麻_NN
+菊花_NN 枸杞_NN
+豆腐鲫_NN
+桂花_VV 栗子_NN
+梓潼酥_NN
+敬亭_NN 绿雪_NN
+姜葱_NN
+桑葚_NN
+卤子_NN
+香叶_NN
+酸_JJ 菜猪_NN 肉炖粉_NN
+老_JJ 童家_NN 腊羊_NN
+脱乙_NR 酰甲壳_NN
+洋茉莉_NR
+豆花火_NN
+长城干_JJ 白_JJ 葡萄_NN
+虫草_NN 全_NN
+白_JJ 蜂_NN
+古丈_JJ 毛尖_NN
+刀切_NN
+大福来锅巴_AD
+锅烧_NN
+八_CD 宝_NN
+生炊龙_NN
+高平_JJ 烧豆_NN
+松子_NN
+镇宁_NR 波波_NN
+金鱼_NN
+泰安_NR 煎_ETC
+黄心管_NN
+继_P 光_NN
+白_JJ 巧克_NN 力蛋_NN
+油豆腐_NN
+金锣_NN 火腿_NN
+毫_AD
+罐儿野_NN
+奎宁_NN
+砵仔_NN
+玉米_NN 排骨_NN
+葱花炒_NN
+罐儿鹌_NN
+麻辣_JJ 水煮_NN
+牛肉_JJ 蛋花_NN
+红油肚_NN
+江米_NN 酿鸭_NN
+枣泥_NR 酥_NN
+淮_NN
+秋菊傲_NR
+三_CD 色龙_NN
+新疆_NT
+软蛋_NN
+肉锅_NN
+葛记焖_NN
+顶雪贡_NN
+蝙蝠_NN
+桃片_NN
+炖莲_NN
+空心_NN
+铁板茄_NN
+小桃_NN
+家乡_NN
+卡依_NN
+卤饵_NN
+长寿_NR
+巧克力_NN 布朗_NN
+锅巴油_NN
+紫草_NN
+什_DT 锦凉_NN 米_NN
+牛肉_JJ 炒_NN
+栗羊_NN
+高原_NN
+野_JJ 生菌_NN
+蜂窝土_NN
+治德_NN
+孟封_NN
+脱氢乙_NN
+弹珠汽_NN
+肌苷酸_NN 二_CD
+蜜桔_NN
+泮塘_NN 马蹄_NN
+沛公_NR 狗_NN
+雪花蟹_NN
+发菜蒸_NN
+汉_NN 中_LC 米面_NN
+肉质_NN
+小煮_NN
+人蔘_NN
+白月_NT
+葱肉_NN
+三_CD 美豆_NR
+番茄鱼_NN
+金汉_NN 斯_DT 烤_NN
+海藻酸_NN
+芋儿烧_NN
+新竹_NR 贡_NN
+焖鱼_NN
+铁_JJ 狮子_NN
+攸县香_NN
+捻捻_NN
+菊花_NN 猪肝_NN
+元宝_NN
+潮州_NN 老婆_NN
+脆松_NN
+干锅狗_NN
+糟_AD 辣_JJ 脆皮_NN
+芦笋手_NN
+二_CD 氯苯氧乙_NN
+松香_NN 甘油_NN
+翠坪银_NN 针_NN
+红油猪_NN
+凉拌_VV 鸡_NN
+浆水鱼_NN
+美式菜_NN
+鱼香茄_NN
+红烧鮰_NN
+海天_NN 海鲜_NN
+燎_NN
+焜锅_NN
+梓潼片_NN
+宝宝_NN
+惠山油_NN
+木金肉_NN
+夹沙_NN 牛_NN
+叉烧_NN
+枣沫_NR
+同源_AD
+百_CD 里香_NN
+苏式点_NN
+青椒皮_NR
+一_CD 品官_NN
+香辣_NN 肉_NN
+层_NN 层_NN
+炖吊_NN
+甘草酸_NN
+三_CD 鲜_NN 莲花_NN
+马义_NN
+金奖_NN 惠明_NN
+斑鱼_NN
+雪花豆_NN
+文楼汤_NN
+桂花浸_NN
+海兔_NN
+冻银_NN
+帕尔木_NN
+鲜花_CS 豆_NN
+牛头_NN
+香辣_NN 蹄_NN
+笼_NN
+糖醋_NN 咕噜_NN
+水晶_NN
+炸_VV 八_CD
+烩白_NN
+木耳_NR 炒肉_NN
+桂花糖_NN
+遵义_NN 鸡蛋_NN
+淮安_NN 茶_NN
+凤阳酿豆_NN
+面包_NN
+青椒炒_NN
+仔凉_NN
+火腿粑_NN
+鸡丝燕_NN
+巧克_NN 力沙_NN
+红米_NN
+一_CD 卵孵双_NN
+台式_NN 三_CD 杯_M
+萝卜_AD 干炒_VV 腊_NN
+绿茶_NN
+什_DT 锦_NN 苏盘_NN
+过_AS 手_NN 米_NN
+抗坏血酸_NN 棕榈酸_NN
+鲜肉_NR 汤_NN
+越_AD 橘_NN
+阜_NN 宁_AD 大_VA
+四_CD 喜_NN
+潼川豆_NN
+特级_JJ 金标_NN 生_NN
+特级_JJ 金标_NN 生抽_NN
+盐步_NR 秋_NN
+红枣_NR 菊花_NN
+生肖蛋_NN
+黄石港_NN
+百合罐_NN
+麻辣_JJ 牛肉_NN
+怪味兔_NN
+家乐鸡_NN
+鸡茸_NN 蘑菇_NN
+桂花莲_NN
+水晶软_NN
+果酱_NN 三明_NN
+海参_NN
+蟹肉罐_NN
+炒糕_NN
+五_CD 香羊_NN
+鸡西_NN 冷_NN
+白肉_JJ 罩火_NN
+麻辣_JJ 香水_NN
+油豆_NN 腐线粉_NN
+酸_JJ 菜火_NN
+长人馄_Err
+炒里脊_Err
+苹果啤_NN
+油氽馒_NN
+金鱼鸭_NN
+牛_JJ 抵_NN
+草莓芝士_NN
+麻油干_NN
+硫酸铝_NN
+油炸牛_NN
+钵仔禾_NN
+田园_NN 脆鸡_NN
+摩卡_NN 冰咖_NN
+紫米_NN 八_CD 宝_NN
+抓炒_VV 对_P
+老姜_NN
+福鼎_NN
+绥阳空_NN 心_NN
+麻辣_NN 肚_NN
+油锄_NN
+熏鸡_NN 白_JJ 肚_NN
+黄焖甲_NN
+鸭母_NN
+海天_NN 海鲜_NN 酱_NN
+牛_AD 清_VA
+清汤_NR 抄_NN
+桂花稠_NN
+玉楼东_NN 酒_NN
+蟹黄灌_NN 汤_NN
+乙酸苄_NN
+柚子蜂_NN
+马祥_NN 兴菜_NN
+葱油酥_NN
+卤什件_NN
+辛癸酸_NN 甘油_NN
+凉拌_JJ 金针_NN
+豆沙锅_NN
+浓_JJ 情香鸡_NN
+枸杞银_NN
+葵花虾_NN
+百花_NN
+熏肘_NN
+烧_AD 大_VA
+豆瓣鲫_NN
+河水豆_NN
+恩施_NN 玉露_NN
+手撕_NN 烤_NN
+腌鲜_NR 桂_NN
+虎皮_NN 毛豆_NN
+肉丸胡_NN 辣_VA
+蜜汁_NN 叉烧_NN
+红虾_NN 酥心_NN
+蜜桃_NN
+静_AD 宁_AD 烧_VV
+海参_NN
+酸_AD 辣_VA 牛_VA
+黄_JJ 坦_NN
+天源酱_NN
+三_CD 皮_NN
+低_JJ 亚硫酸_NN
+油葱_NN
+丁_NN 基_NN 羟基茴香_NN
+小煎_NN
+豆豉_NN
+姜汁_JJ 排叉_NN
+苹果软_NN
+拌银_NN
+菊花烧_NN
+首乌_NR 肝_NN
+劲霸鸡_NN
+豉_NN 汁_NN 蒸凤_NN
+麻姑_NN
+油酥_NN 米花_NN
+桂花翅_NN
+进京_VV 乳_NN
+干烧_VV 冬_NN
+红松_NN
+香菜_NN
+常熟_JJ 叫化_NN
+拌粉_NN
+城隍庙_NN 梨_VA 膏_PU
+开心蔬_NN
+翠玉豆_NN
+红椒酿_NN
+鼎湖_NN 山茶_NN
+总统_NN
+临潼_VV 火晶柿_NN
+龙井竹_NN
+广汉_AD 缠_VV 丝_NN
+酸_JJ 豆角_NN 炒_VV 肉_NN
+棉花_NN
+太极_AD 干_VV 巴_NN
+排骨炖_NN
+曲奇香_NN
+冬瓜_NN 鳖裙_NN
+杨村糕_NN
+白记饺_NN
+葡萄糖酸_NN
+云南春_NN
+糖粥_NN
+鱼_NN 三_CD
+焦亚硫酸_NN
+牛肉_JJ 夹_NN
+蒸鲳_NN
+福建炒_NN
+油鸡_NN
+筒子_NN
+面条_NN 像_P 裤_NN
+龙身_NN 凤尾_NN
+己_PN
+喜_AD 歪_VA
+豆面饽_NN
+牛丸_NR
+宝发_NN
+枸杞海_NN 参鸽_NN
+沙湾_NN 姜撞_NN
+丁香_JJ 排_NN
+安富_NN
+惠如_NN
+扒面_NN
+洋葱_NN
+蜂巢芋_NN
+猪肝_NN 菠菜_NN
+黄金豆_NN
+双_CD 色豆_NN
+酸_AD 辣_JJ 肚丝_NN
+脆皮_NN 大_VA
+白_JJ 蜜_NN
+肉丝春_NN
+发酵饼_NN
+烩麻_NN
+狮子_NN
+枣_OD 之_DEG
+桃_NN
+麦芽_NN
+松仁_NN
+脆皮鲜_NN
+百_CD 果_NN
+海味_NN
+灯影_NN 牛肉_VA
+斜桥榨_NN
+乾州锅_NN
+木瓜_NN 凉_NN
+腊肉火_NN
+洋芋粑_NR
+椒盐桃_NN
+南瓜团_NN
+玉米粒_NN 罐_NN
+花旗参_NN 炖_VV 竹丝_NN
+三_CD 丝凉_NN
+格林斯_NN
+椰_NN 汁_NN 西米_NN
+大_JJ 湖_NN
+麻酱_NN
+天门_NN 冬酰胺_NN
+古乐_JJ 伴_NN
+麻粉肘_NN
+乌龙吐_NN
+砂仁_NN 羊肉_NN
+提浆月_NN
+桑椹_NN
+蟹肉_NN
+山_NN
+硬脂_JJ 酰乳酸_NN
+核桃_NN
+白_JJ 沙液_NN
+生炒海_NN
+花煎_NN
+白糖伦_NN 教_VV
+甲基香豆_NN
+烹白_NN
+锅烧_NN 海_NN
+曲园酒_NN
+鱼肉水_NN
+粉蒸羊_NN
+澳洲_NN 牛_NN
+三_CD 丝_NN 眉毛_NN
+小猫_NN
+火腿_NN
+鸡肉抄_NN
+三_CD 鲜_P 鱼_NN
+天主_JJ 堂鸡_NN
+酥理_NN
+盐酸硫胺_NN
+生爆盐_NN 煎_VA
+无_VE 核_NN
+三_CD 鲜_AD 烧_VV
+水糍_NN
+火烧猪_NN
+凉拌藕_Err
+豆腐帘_NN
+六_CD 曲_NN
+凉糍_NR
+锅烧肘_NN
+海参_NN 炖_VV 瘦_NN
+鹤庆乾_NN
+家乐鸡_NN
+甜_JJ 麻_NN
+年轮蛋_NN
+御膳_NN
+抓炒_NN 鱼_NN
+恩尼艾_NN
+郭杜_NN 林月_NN
+百_CD 里香_NN
+玉米发_NN
+油馍_NN
+炒_VV 三_CD 不_AD
+广州_JJ 文昌_NN
+龙胆_NN
+紫胶_NN
+猪油汤_NN
+杏仁_NN
+鸳鸯_NN
+佛山盲_NN 公_NN
+龙脊_NN
+方腊_NN
+宁波_JJ 粽_NN
+抹茶咖_NN
+尖_AD 蜜_NN
+甜_CD 酒汤_NN
+汇泉饭_NN
+闻喜_NN
+蜜_NN 汁_NN 红_JJ
+鸡柳汉_NN
+细花_NN
+一_CD 品烧_NN
+煎_JJ 焖_NN
+树根蛋_NN
+上清_JJ 饮凉_NN
+凉拌粉_NN
+尼姑素_NN
+酸辣_NR 蹄_NN
+坦洋_NN 工夫_NN
+扁豆_NN
+锦绣鱼_NN
+咖喱菜_NN
+滑蛋虾_NN
+葱油花_NN
+干煸鳝_NN
+烧_NN 三_CD
+爆肚仁_NN
+双流_JJ 老妈兔_NN
+德懋恭_NR 水晶_NN
+龙凤_NN
+蒲江_NN 米花_NN
+苏式蜜_NN
+中江_JJ 挂_NN
+大_JJ 山_NN
+桂花糖年_NN
+百合_NN
+大_JJ 理_NN 乳_NN
+贵妃_NR
+椰_NN 汁_NN 红豆_NN
+红梅珠_NN
+生鱼_NN 葛菜_NN
+毛毛_NN 虫面_NN
+梅子排_NN
+拌鸭_NN
+荷包_VV 豆_NN
+毛嘴卤_NN
+八_CD 宝野_NN
+八_CD 王_NN 寺汽_NN
+菜_NN 干_VV 扣_NN
+樱桃蕃_NN
+焦磷酸_NN 二_CD 氢_CC 二_CD
+试量狗_NN
+时辰包_NR
+三_CD 丝_NN
+木瓜_NN 牛_NN
+海鲜_NN
+快乐_JJ 搭_NN
+凉瓜_NR 炒_NN
+白灵_JJ 菇罐_NN
+自来_AD 红_VV 月_NN
+纽约_AD 芝士_VV 蛋_NN
+澳洲带_NN
+酱爆牛_NN
+奶油_NN 小_JJ 蛋_NN
+玉堂酱_NN
+周村_NN 大_VA 酥_PU 烧_VV
+黄泥_JJ 煨_NN
+油锅_NN
+百_CD 寿_NN
+薄皮_NN 鲜_CC 虾_NN
+煨豆_NN
+八_CD 块_M
+雁荡_NN 毛峰_NN
+水_NN 八_CD
+干梅_NN
+虫草_NN 炖水_NN
+栗子白_NN
+马乃_NN
+深海_JJ 鳕鱼_NN
+煮鹌鹑_NN
+台北_NN 牛肉_VA
+榜舍_NN
+仲夏野_NN
+肉丝汤_NN
+三_CD 原蓼_NN
+姜汁菠_NN
+金桔_NN
+百_CD 果蜜_NN
+油甘_NN
+三_CD 原_JJ 蓼花_NN
+羊眼包_NN
+包谷稀_Err
+枣泥_NR 拉_NN
+成都_AD 担担_VV
+甲基丁香_NN
+稳定_VV 态_NN 二氧化_NN
+热带暴_AD 风_NN
+炒_VV 西施_NN
+溜鸡_NN
+酱_NN 汁_NN 排_VV
+葡萄皮_NN
+炸肥_NN
+芒果色_NN
+清蒸_NR 翅_NN
+梅子_NN
+小豆_NN
+小炒_NN 黄牛_NN
+十_CD 里香_NN
+川味牛_NN
+肴肉_NN
+乐啤_NN
+枣泥_NR 蛋_NN
+饽饽四_NR
+鸡汁锅_NN
+李锦_NN 记叉烧_Err
+千_CD 层_M 馒_NN
+鸡蛋_NN 紫菜_NN
+莲蓬豆_NN
+戊基肉桂_NN
+南肉春_NN
+烩豌_NN
+洋_JJ 芋_NN
+水泡饼_NN
+香芋蛋_NN
+炒面_NN
+芙蓉海_NN
+喹啉_NN
+甜菊糖_NR
+无_VE 核小_NN 葡_NN
+川贝酿_NN
+一品南乳_NN
+耕_VV 之_DEC
+菊花锅_NN
+重庆_JJ 毛血_NN
+桂花_NN 鲜_CC 栗_NN
+泡儿油_NN
+朝包_NR
+田菁_NN
+江毛水_NN
+炕炕_NN
+炖禾_NN
+普陀_NN 山佛_NN
+皇_NN
+冒节子_NN 肥肠_NN
+烩小_NN
+米花_NN
+鱼头_NN 豆腐_NN
+漆油_NN
+琼_NN
+新长_JJ 发糖_NN 炒栗_NN
+牛奶_JJ 朱古_NN
+饽饽_NN 二_CD
+干锅鸡_NN
+全麦_AD 芽啤_NN
+聚甘油_NN 脂肪酸_NN
+猪油饽_NN
+太后_AD 火_NN
+麒麟桂_NN
+炸飞_NN
+文君_NN
+果子_NN
+酥盒_NN
+拨御_NN
+上_DT 汤_NN 时_LC
+香_NN 辣_NN 盆盆_NN
+椰香面_NN
+油炸_NN 蜂_NN
+红烧_JJ 牛肉罐_NN
+绿柳_NN 居菜_NN
+皇禽酱_NN
+无_VE 米_NN
+二_CD 丁基羟基甲_NN
+三_CD 丝_NN 牛肉_NN
+鸳鸯_NN
+西塘_NN 八_CD 珍_NN
+芹菜拌_NN 腐_NN
+银芽鸡_NN
+炸石_NN
+炒黄瓜_NN
+包浆_VV 豆_NN
+三_CD 北_NN 藕丝_NN
+白糖杨_NN
+鸡豌_NN 豆凉_NN
+金刚_NN
+橙_NN
+潮州_NN 鱼蛋_NN
+青鱼秃_NN
+宜良烧_VV
+阳高_NR 杏_NN
+金牌_NN 蒜香_NN
+伊斯_NR 兰烧_NN
+卵石_NN 鲜_CC 鱼_NN
+硬_JJ 蛋_NN
+严_JJ 州_NN 干_VV 菜_NN
+荷叶排_NR
+叶耳_NN
+菊花豆_NN
+三_CD 鲜丸_M
+扒澳_NN 洲牛_NN
+豆沙_NN
+王兴_NN 记馄_NN
+板栗_NN 红烧_NN
+炒鸭_NN
+酿青_NN
+北京_NR 水煮_NN
+菊花青_NN
+干锅_NN 带_VV 皮牛_NN
+炝青_NN
+锅烧白_NN
+香德_NN
+小_JJ 桃园煨_NN
+鸭血_NN 豆腐_NN
+茸汤_NN 广_VA
+葡萄糖酸_NN
+烤_AD 小_VA
+珍珠豆_NN
+烩_NN 鸭_NN 四_CD
+芙蓉燕_NN
+绿草_NN
+野菜窝_NN
+高_JJ 河_NN
+松鹤_NN 楼菜_NN
+源_NN 和_CC 堂蜜_NN
+琵琶大_NN
+维也_AD 纳冰咖_Err
+辣椒_NN 油树_NN
+炒饵_NN
+草莓芝_NN 士蛋_NN
+清汤_NR 海_NN
+摩卡蛋_NN
+黑豆_NN
+醉蚌_NN
+烟台焖_NN
+熘鱼片_NN
+白_JJ 皮_NN
+骨痛药_NN
+家常_AD 熬_VV
+葛粉圆_NN
+七_CD 层_NN
+汉生_NN
+斗_NN
+蘸仔_NN
+红星兔_NN
+油焖白_NN
+带_VV 皮_NN 黄牛_NN
+花生猪_NN
+蜜饯海_NN
+过桥_NT 抄_VV
+吞拿鱼_NN 罐_NN
+沐丹_NN
+茄_CD 汁明_NN
+羊肉蒸_NN
+葱爆牛_NN
+剁椒_NN 蒸芋_NN
+麻辣_JJ 鸭脖_NN
+清_CD 蒸火_NN
+培根面_NN
+羊筋_NN
+火爆肥_NN
+望海_VV 天天渔_NN
+烫面蒸_NN
+酒石酸_NN 氢胆_NN
+珍珠海_NN
+酸_AD 辣_JJ 蕨根_NN
+香酥羊_NN
+沙县馄_NN
+三_CD 鲜_P 锅_NN
+孜然_CS 排_VV
+海南_NN 椰子_NN
+桂花茶_NN
+煎软_NR
+沙湾_NN 大盘_NN
+牛佛_NR 烘_NN
+水果奶_NN 油蛋_NN
+冰拿_NN 铁咖_NN
+粤香_NN
+大_JJ 京_NN
+猪肝_NN
+应记_NN 云吞_NN
+铁板田_NN
+酸奶_JJ 黄_NN
+炒茄_NN
+莳萝_NN
+鸡油菜_NN
+酸辣_NR 鸡_NN
+炒白_NN
+干锅牛_NN
+小蒸_NN
+虎皮花_NN
+爆炒田_NN
+熘鱼_NN
+黄_JJ 糕_NN
+蜀风_NN
+甲基苯乙_NN
+石榴_NN
+徽州_NN
+红扒鱼_NN
+炒蹄筋_NN
+扶风鹿_NN
+一品寿_NN
+双_CD 花_NN
+天麻_NN 鱼头_NN
+南山_NN 白_JJ 毛_NN
+烀_NN
+龙爪肉_NN
+普集_JJ 烧_NN
+香天_NN
+烧鸳_NN
+卤肉锅_NN
+干煽牛_NR 肉_NN
+香芹_NN
+白_JJ 皮_NN
+雪菜_NN 大_JJ 汤黄_NN
+鱼香_NN 大_VA
+黄油_NN
+牛_JJ 筋_NN
+椒麻鸡_NN
+熘鱼_NN
+砂锅雅_NN
+拖_NN
+烤鹿_NN
+丁香_NN
+酿枇_NN
+炒肝_NN 尖_NN
+小黄_NN
+酱炒_NN 萝卜_NN
+石亭绿_NN
+奶油白_NN
+蛋圆饼_NN
+神农_NN
+什_DT 锦_NN 豆腐_NN
+同_DT 安_CD 封_M
+龙凤_NN
+鱼香茄_NN
+喜_AD 洲_NN
+锦山_NN 牛肉_VA
+焜锅馍_NN
+白油_JJ 豆_NN
+三角_NN
+九_CD 黄_NN
+怀远_VV 三_CD
+黄油_JJ 曲_NN
+格仔_NN
+五彩_CS 炒蛇_NN
+三_CD 色_NN
+欧培_NN
+巧克力_NN 甜甜_NN
+麻籽_NN
+羊肉焖_NN
+蛋黄饼_NN
+麻仁_NN
+烩银_NN
+内江蜜_NN
+反沙芋_NN
+硬壳_JJ 火腿_NN
+煮凉_NN
+烩散_NN
+庄里合_NN 儿_NN
+干烧_VV 辽_NN
+大_JJ 理_NN 饵_NN
+如意_CS 回卤_NN
+翡翠烧_NN
+红烧冬_NN
+炸素_NN 卷_NN
+虾仁_NN
+江华毛_NN
+麒麟鲈_NN
+五_CD 仁_NN
+炒糊_NN
+丁香肘_NN
+花生_NN
+高_JJ 三_CD 酱_NN
+清_AD 补_VV 羊肉_NN
+煨番_NN
+干烧鲫_Err
+莫_AD 干_P 黄_JJ 芽_NN
+干锅手_NN 撕包_VV
+一_CD 品熊_NN
+鱼香肉_NN
+炸脂_NN
+柴把_NN
+凤尾虾_NN
+旋子_NN 凉_NN
+还_AD 童_NN
+炸藕_NN
+佛手金_NN
+咖喱鸡_NN
+冬瓜_NN 炖排_NN
+茶叶_NN
+麻酥_NN 油卷_NN
+绿豆丸_NN
+黑木耳_JJ 红枣_NN
+祭灶_NN
+郑州烤_NN
+自来_AD 白_VV 月_NN
+贴饽饽熬_VV
+梧州蜜_NN
+蒸羊羔_NN
+郭_NN 八_CD 火_NN
+大麦_AD 茶_VV 饮_NN
+油炸糖_NN
+乾县锅_NN
+鄱阳湖_NN 狮子_NN
+凉拌豇_Err
+大盘_NN
+糟烩鞭_NR
+糯米_NN 凉_NN
+刺龙_NN
+李锦_NN 记_VV 海鲜_NN
+辣子肥_NN
+簸箕_NN
+常州_JJ 大麻_NN
+抓抓_NN
+百花_CS 串酱_NN
+六_CD 安篮_NN
+博望锅_NN
+月宫_NN
+盐饼_NN
+井冈_NN 山烟_NN 笋烧_NN
+勾魂_NN
+榆次灌_NN
+椰蓉面_NN
+酥合_NN
+梁渡银_NN
+乙酸_NN 龙脑_NN
+知_VV 味_NN 小_VA
+辛酸乙_NN
+顶顶_NN
+西部_NN 牛仔_AD 烧烤_VV
+奶汁鱼_NN
+蚕豆罐_NN
+金钱海_NN
+玫瑰蜜_NN
+姜_NN 汁_NN 热窝_NN
+新加_JJ 坡肉骨_NN
+酥皮莲_NN 蓉_NN
+汤冷_NN
+桐_NN
+炒胡_NN 萝卜_NN
+红果_NN
+鲜蘑菜_NR
+多_CD 味_NN
+牛肚_JJ 火_NN
+桂林田_NN
+凤凰鱼_NN
+南沙_NN
+五_CD 香兔_NN
+宵_NN
+鼎泰丰_AD 小_JJ 笼_NN
+面筋_NN 百_CD
+烧_NN 百_CD
+装饰饼_NN
+汾酒牛_NN
+拌鸡_NN
+广州_JJ 凉_NN
+羟丙基淀_NN
+蜂蜜花_NN
+桂花_VV 酒酿元_NN
+豆腐芝_NN 士蛋_NN
+青海月_NN
+刺猬_NN
+新一_JJ 代长_NN
+大边_NN
+果汁鱼_NN
+核桃_NN
+蟹肉汤_NN
+鹅肝_NN 酱牛_NN
+老汤_JJ 姆金_NN
+猪脏_NN
+震_VV 远同_JJ 玫瑰酥_NN
+脆绍_NN
+凤尾烧_NN
+鲜蘑豆_NR
+老鼎_JJ 丰月_NN
+喇嘛_NN
+罐头_NN
+凉_VA 瓜_NN 牛_VA
+葡萄糖酸_NN
+三_CD 河米_NN
+八_CD 宝菠_NN
+三_CD 花_VV 减肥_NN
+羊肉_NN
+海带_NN
+梆梆_NN
+米果_NN
+牛羊_JJ 肉煮_NN
+片皮乳_NN
+水管_NN
+卤鹌鹑_NN
+辛_NN
+谈炎_VV 记水_NN
+糖醋_NN 瓦块_NN
+绿茵白_NN 兔_NN
+保德油_NN
+麒麟石_NN
+复_AD 元_NN
+砂子_NN
+咖啡欧_NN
+鲜_AD 肉_JJ 蒸馄_NN
+梳子_NN 百_CD
+燕麦_NN
+扒牛_NN 肉_NN
+溜腰_NN
+美极_NN
+椒盐粽_NN
+原笼玉_NN
+荆沙鱼_NN
+乐满_NN
+贾家_NN 灌_VV 汤_NN
+爆螺_NN
+麂子干_NN
+麒麟_NN 石斑_NN
+千_CD 层_NN
+邻氨基苯甲酸甲_NN
+晒_VV 炉_NN
+芝士蛋_NN
+粒粒_NN
+小笼_NN 粉蒸_NN 牛_NN
+香煎_NR 牛仔_NN
+面鱼_NN
+炸藕_NN
+水盆_NN 大_VA
+硬脂酸_NN
+锅贴_NN
+川贝雪_NN 梨猪_JJ 肺_NN
+乙酸_NN 异戊_NN
+苞芦_NN
+烩番_NN
+荷叶_NR 糯米_NN
+炒蟹_NN
+海藻酸丙二醇_NN
+酒酿_NN 棉子_NN
+狼牙_NN
+磷酸_NN 三_CD
+东江_NN 豆腐_NN
+肉片_NN 烧茄_VV
+燕面揉_NN
+五_CD 山_NN
+卤饵_NN
+鱼茸乳扇_NN
+白水羊_NN
+树花_NN 炖土_NN
+清_NN 汤_NN 柴把_NN
+邢台_NN 道口_NN 烧_NN
+溜牛_NN 里_LC
+水煮笋罐_NN
+火腿_NN 大头菜_NN
+宫保_NN 虾_NN
+甜藕_NR
+草莓果_NN
+黄焖鸡_NR
+筱筱火_NN
+香草_NN 凤尾_NN
+和_P 记米_NN
+肉米鱼_NN
+牌坊_NN
+铜仁_NN 绿豆_NN
+青椒_NN 回锅_NN
+八_CD 宝甲_NN
+西乡_NN 牛肉_VA
+砂锅羊_NN
+白面锅_NN
+酸辣_JJ 大白_NN
+樱桃_NN
+屯溪醉_NN
+洗沙白_NN
+鹰扬虎_NN
+鱼香_NN 牛肉_VA
+满族饽_NN
+麻辣_NN 蹄_NN
+醋溜黄_NN
+糖腿_NN 破酥包_NN
+叉烧_NN
+麻酱菠_NN
+五_CD 指山_NN
+清_JJ 油盘_NN 丝_NN
+油炸馄_NN
+甲基环_NN 戊烯醇_NN
+铁板_NN 黑_JJ 椒牛_NN
+丰城_NR 冻米_NR
+鸡丝_NN 虎掌_NN
+容美_NN
+小_JJ 孩酥_NN
+炒_VV 豆腐_NR
+贝德_NN
+蒜蓉粉_NN 丝蒸_NN 扇_NN
+宁波_JJ 猪油汤_NN
+捶_NN
+鱼腩_NN
+鱼头_NN
+巧克力_NN 夹心蛋_NN
+婺源_NN 茗眉_NN
+油鸡_NN
+沙茶_NN 烤肉_NN
+青椒牛_NR 肉_NN
+鸡肉_NN 生煎馒_NN
+火腿白_NN
+桂花元_NN
+加州庄_NN
+劲霸青_NN 芥_NN
+黄石_NN 溪毛_NN
+白扒_JJ 鱼_NN
+麦角_NN 钙_NN 化_NN
+栗子_NN 黄焖_NN
+冰蓼_NN
+熘白_NN
+水晶南_NN
+桐叶粑_NN
+冰凉_NN
+金丝酥_NN
+合水西_Err
+加味_VV 二_CD 妙_NN
+酱汁_NN 瓦块_NN
+菊花_NN 里_LC
+酸辣_NR 狗_NN
+空心_JJ 拉_NN
+锅烧_NN 猪蹄_NN
+赛鲍_NN
+偶_PN 氮甲酰_NN
+百子寿_NN
+桔_NN
+窝子油_NN
+罗汉_NN 果冲_NN
+三_CD 鲜_P 砂_NN
+馏鱼_NN
+土豆_NN 排骨_NN
+鱼儿_NN
+巧克_NN 力新_NN
+南昌炒_NN
+蟹黄虾_NN
+遂_AD 川_JJ 狗牯_NN
+郭汤_NN
+一_CD 品鲍_NN
+豫_NN
+烩水_NN
+平安_NN
+号腐_NN
+富春_NR 江鲥_NN
+冰糖核_NN
+猪油_NN 夹沙粽_NN
+荞剁_NN
+黄金_NN 香肉_NN
+豆付_NN
+古月胡_JJ 三_CD 合_NN
+倍_M 半碳酸_NN
+石屏_NN 烧豆_NN
+煎_JJ 碗_NN
+发丝_NN 百_CD
+秀兰邓_NN 波_NN
+卤米_NN
+魔芋_NN
+野生酸枣_NN
+绣_CD 球鱼_NN
+山楂荷_NN 叶_NN
+油泼_NN
+爆三_OD 样_M
+什_DT 锦_NN 葛仙_NN
+西瓜汁_NN 饮_VV
+海南_NN 嘉积_NN
+乌发_NR
+伏_NN 岭_JJ 玫瑰_NN
+自制_PN 果_NN
+迷宗_NN 大_VA
+菠萝圆_NN
+蜜桔罐_NN
+酵_NN
+杏_NN
+全_DT 羊_NN 汤_NN
+三_CD 鲜_P 木樨_NN
+脆皮_NN
+冬菜扣_NN
+冰_NN
+拔丝元_NN
+琉璃珠_NN
+黄_JJ 焖_NN
+豆鼓_NN
+腾冲_NN 大_VA 救_PU
+爆炒_NN 羊羔_NN
+火山_NN
+黄豆_NN 炖_VV 猪_NN
+黄米_JJ 油_NN
+鸿兴_NN
+劲脆_NN 鸡腿_NN
+普宁豆_NR
+奶油草_NN 莓蛋_NN
+爆墨鱼_NN
+七_CD 境_NN 堂绿_NN
+红肘_NN
+东壁龙_NN
+乐福园_NN 酒_NN
+糖荸_NN
+白_JJ 蛇_NN 烧_NN
+宣威土_NN
+蜜饯樱_NN
+煎封_JJ 鲳_NN
+塞外_NR 酒_NN
+大面_NN
+甜椒_NR 肉_NN
+桂林酥_NN
+杏瓣_NN
+宫保_NN 野_NN
+烩南_NN
+干煸肥_NN
+库克洛_NN
+吴家熏_NN
+圣诞面_NN
+吉利_NN
+腌苤_NN 蓝_JJ 丝_NN
+五_CD 果_NN
+杞子_NN 炖羊_NN
+鲜蔬足_NR 尊牛_NN
+辣子_NN 蒜羊_NN
+荞面_NN
+可_VV 可_VV
+杭_NN 三_CD
+锅塌菠_NN
+川味凉_NN
+樱桃_NN 巧克_NN 力蛋_NN
+茴香_NN
+豆鼓鲇_NN
+砂锅肥_NN
+西瓜_NN
+炒墨鱼_NN
+八_CD 步_M 红瓜_NN
+猴脑_NN
+酥锅_NN
+一_CD 品香_NN 饭_NN
+干锅土_NN
+红烧草_NN
+烧臆_NN
+双球_JJ 冰淇_NN
+杜称_NN 奇火_NN
+洪江_NN
+在_P 家做蛋_NN
+盐水_NN 肘花_NN
+火山鸣_NN
+粑粑_NN
+鸡包_NN 鱼_NN
+炝茭_NN
+水煮_NN 鳝_NN
+油炸_NN 螺丝_NN
+海南_NN 椰子_NN
+酥皮龙_NN
+马家烧_NN
+兰花豆_NN
+麻辣_NN 狗_NN
+西湖天_NN 竺_LC
+凤凰水仙_NN
+烩鸭腰_NN
+路南乳_NN
+聚甘油_NN 单硬脂酸_NN
+炒肉片_NN
+草莓_NN 绿豆_NN
+烤冷_NN
+天香鲍_NN
+咖喱牛_NN
+鲤鱼_NN
+猪柳_NN 蛋汉_NN
+川红_NN
+秤管_NN
+卤肉_NN 夹锅_NN
+猪灌_NN
+黄_JJ 蚂蚁_NN
+杂菇_NR
+番茄_NN 炒_VV 豆_NN
+锅烧_NN
+灵芝饮_NN
+巧克力_NN 小蛋_NN
+虫胶_NN
+海水煮_NN 海_NN
+文楼蟹_NN 黄_JJ 汤_NN
+刀拔_NN
+酸辣_NR 藕_NN
+白_JJ 记水_NN
+京东馅_NN
+岐山锅_NN
+苹果_NN
+红油兔_NN
+香酥_NN
+罐焖鱼_NN
+特级_JJ 红辣_NN
+奶泡咖_NN
+咸馓_NN
+开洋_VV 葱油拌_NN
+水煮鱼_NN
+果蒸_NN
+玻璃鱿_NN
+贵妃_JJ 鸡火_NN
+酿雪_NN
+酿冬_NN
+茉莉浸_NN
+棒棒_NR 鸡_NN
+樽皇酒_NN
+津兆_NN
+禹城扒_NN
+大_JJ 救_NN
+酿_NN
+蚝油鲜_NN
+凯撒沙_NN
+揽_NN
+东方海_NN
+炒_VV 海_NN
+徽州_NN 桃脂_NR 烧_NN
+绿豆_NN
+烫面油_NN
+凉拌_VV 莲_NN
+扒_NN 三_CD
+杨裕_NN 兴面_NN
+炒_VV 桂花_NN
+浓缩_VV 果_NN
+白猪头_NN
+马蹄_NN
+果条_NN
+奶油蟹_NN
+酱泼_NN
+香辣_NN 炒_NN
+清蒸_JJ 荷包_JJ 红鲤_NN
+井岗翠_NN
+豆蓉_NN 糯米_NN
+蚝油_NN 网鲍_NN
+平遥_JJ 碗脱_NN
+三聚甘油_NN 单硬脂酸_NN
+桑果雪_NN
+醋熘鳜_NN
+双_CD 麻火_NN
+潮州粿_NN
+三_CD 虾_NN
+红油耳_NN
+清_NN 炒_VV 蚕_NN
+酸黄_NR
+己_PN 烯_NN
+粉蒸_NN 牛_JJ 羊_NN
+花生衣_NN
+椒盐馓_NN
+水豆_NN
+罐罐蒸_NN
+合_VV 意_NN
+伍_CD 仁_NN
+玫瑰酥_NN
+莲子_NN 猪心_NN
+拆烩_NN 大_JJ 鱼_NN
+牛_AD 杂_JJ 萝卜_NN
+酱豆腐_NN
+八_CD 批果_NN
+浪花_NN 天香_NN
+薰衣_NN 草饼_NN
+墨西哥_NN 玉米_NN
+藕片_NN
+马牙_NN
+桂花鱼_NN
+鸡丝米_NN
+己_PN 酸_NN 烯丙_NN
+味窖_NN
+祥龙_NN 双_CD
+荷叶_NN 粉蒸_NN
+五_CD 香杏_NN
+泰舒_NN
+芫爆仔_NN
+什_DT 锦素_NN 菜_NN
+二甲基聚硅氧_NN
+蜜饯青_NN
+鸡棕_NN
+腊兔_NN
+山楂肉_NN
+草菇西兰_NN
+厦门薄_NN
+地_DEV 瓜_NN
+炖鸡_NN
+炸木_NN
+叉烧包_NN
+椰蓉_NN
+火烧冬_NN
+魔力_NN 冰淇_NN 淋咖_NN
+罐儿_NN
+开屏_NN 柴把_NN 桂_NN
+五_CD 香酱_NN
+啤酒_NN
+四_CD 鲜_AD 烤_VV
+蒜子_NN 瑶柱_NN
+燕皮_NN
+皖西_NN 黄_AD 大_VA
+燕窝_NN 四_CD
+白_JJ 肘_NN
+发财_VV 好_VA
+定襄蒸_NR
+养血_NN 安_JJ 胎_NN
+九_CD 层_M 塔煎_NN
+蓝莓奶_NR
+介休_NN 贯馅_NN
+柿子_NN
+熘腰花_NN
+糖葱_NN
+代县黄_Err
+清_NN 汤_NN 火锅_NN
+鸡杂_NN
+范关_NN
+糖醋鱼_NN
+庚酸乙_NN
+蜂巢蛋_NN
+香竹烤_NN
+山东包_NN
+大_JJ 枣_NOI 姜_NN
+江山绿_NN 牡丹_NN
+侗乡腌_NN
+唐场_NN 豆腐_NN
+吉士_NR 蛋_NN
+杏仁佛_NN
+七_CD 星_NN
+陕西党_NN
+新兴_JJ 牛肉_NN
+饺子_NN
+什_DT 锦_NN 套肠_NN
+山梨醇_NN 酐单油酸_NN
+坚果_CS 蛋_NN
+斩鱼_NN
+香柚_NN 蜂蜜_NN
+葡萄_NN
+如_P 意_NN
+济南肴_NN
+糖水黄桃_NN 罐_NN
+板栗_NN
+爆_NN 两_CD
+青岛_NN 高_VA 粱_PU
+鸳鸯鸡_NN
+炸豆_VV 腐丸_NN
+清_JJ 音_NN
+参麦_NR 团_NN
+白醋_JJ 鸡_NN
+小锅_NN 卤饵_NN
+龙虎凤_NN
+卤肉锅_NN
+蜜蜡肘_NN
+和_CC 合_P 腰_NN
+红庙酥_NN
+烩银_NN
+利口_NN 葡萄_NN
+凉豌豆_NR
+菊花冬_NN
+一_CD 捏_NN
+灵芝_NN 恋玉_NN
+超级_JJ 至_VV 尊比_NN
+炸支_NN
+硅铝酸_NN
+成_VV 都子_NN
+功德_NN 林蔬食_NN
+浆水_NN
+丁酸丁_NN
+荸荠一_NR 品_NN
+皇后_AD 双_CD 皮_NN
+冬瓜煲_NN
+山药_NN 百合_NN 大_VA 枣_PU
+荔枝鱿_NN
+涟水鸡_NN
+汉_NN 中_LC 米_NN
+砂锅狗_NN
+白扒_JJ 鲍_NN
+爆焖_NN 羊羔_NN
+麻辣_JJ 诱惑_NN
+炒藤_NN
+酱黑_NN
+清汤_NR 银_NN
+酸_JJ 汤米_NN
+风味羊_NN
+爆炒羊_NN
+叙府_NN 陈年_NN 糟_LC
+咕咕霍_NN
+龙俐_NN
+白菜锅_NN
+薄饼羊_NN
+黄焖狗_NR
+鲜果_CS 布_NN
+清梅_NR
+府陈_NN 年糟_NN
+白芦_JJ 笋罐_NN
+糖花蛋_NN
+溜藕_NN
+火腿鸡_NN 杂_VA 饵_PU
+生汆丸_NN
+新兴_JJ 园蒸_NN
+金丝烧_NN
+香心_NN
+锅巴_NN 三_CD
+果酱_NN 夹心_NN
+柠檬酸_NN 亚锡_NN 二_CD
+苯乙_NN
+八_CD 生火_NN
+五_CD 味煎_NN
+泥钉_NN
+火腿_NN 鸡丝_NN
+鸡茸银_NN
+鱼香炒_NN
+玫瑰米_NN 凉_VA
+双_CD 桥毛_NN
+刀切_NN
+木犀_NN
+酥炸_NN 牛肉_VA
+偏_AD 酒石_NN
+原叶冰_NN 红_VA
+徐舍_NN 小_JJ 酥_NN
+鸳鸯鱼_NN
+瓶装_VV 金针_NN
+苯乙酸甲_NN
+洪都_NN
+镶_NN
+肉丁辣_NN
+黑胡_NN 椒酱_NN
+上海_JJ 蜜_NN
+长子炒_NN
+芥茉鸭_NN
+红枣煨_NN
+五_CD 盖_NN 山米_NN
+酸_JJ 蚂蚁_NN
+锅贴_NN 鱼_NN
+豹骨_NN
+龙王夜_NN
+木瓜_NN 生鱼_NN
+三_CD 丁_AD 大_VA
+闽生_NN
+茶香_NN
+糯米_NN 八_CD 宝_NN
+陆_OD 记_VV 烫面炸_NN
+脆皮_NN 炸_VV 鲜_NN
+千_CD 页_M
+葱爆肉_NN
+沙锅鱼_NN 头豆_NN
+红豆_NN
+莴笋肉_NN
+江北_NN 熊鸭_NN
+长_NN 武_VV 锅_NN
+一_CD 篓_NN 油水_NN
+流蜞_NN
+八_CD 宝茶_NN
+改性_JJ 大_JJ 豆磷_NN
+苦瓜酿_NN
+烧紫盖_NN
+鳝鱼_NN 凉_VA 米_PU
+木赛_NN 来_NN
+鱼脯丸_NN
+脱氢乙酸_NN
+抗衰_VV 老啤_NN
+葡萄糖酸_NN
+御福_NN
+兰花春_NN
+挂粉_NR 汤_NN
+凤尾_NN 吐司虾_NN
+炒豌豆_NN
+醉活_NN
+清_AD 炖狼_VV 山_NN
+牛奶_JJ 太_NN
+白银_NN 如_P
+红果_NN
+肉罐_NN
+司康_NN
+银丝_NN
+红烧鱼_NN
+藕丝_NN
+煎_JJ 芋_NN
+红烧_JJ 栗子_NN
+姜汁鱼_NN
+煨鱿_NN
+西北_NN 凉_NN
+福寿_NN
+金雀_NN
+香甜_JJ 粟米_NN
+佛手_NN
+德盛_NN
+桃仁鸡_NN
+酿海_NN
+大_JJ 京_NN
+南涧_NN 锅巴_NN 豆_NN
+家乡南_NN
+冯了性药_NN
+香蕉_NN
+瑶柱_NN
+文蛤_NN
+姜爆鸭_NN
+奇峰_NN
+清焖莲_NR
+海螺罐_NN
+浙江榨_NN
+陕北_NN 红_AD 小_VA
+尖椒炒_NR
+油闷春_NN
+菠萝鸡_NN
+煲猪肉_NN
+什_DT 锦锅_NN
+王家_NN 核桃_NN
+景家麻_NN
+黄_JJ 焖_NN
+桑芽_NN
+里叶白_NN
+莲花_NN
+山楂_NN 核桃_NN
+漆油炖_NN
+咖喱鱿_NN
+南浔香_NN 大头_NN
+凉_JJ 蛋_NN
+杂烩锅_NR
+重_AD 阳_P 栗_NN
+罗汉_NN
+猪油渣_NN
+炒榛子_NN
+阿胶炖_NN
+香露苹_NN
+石榴_NN
+萧山杨_NN
+酥炸排_NN
+壶关羊_NN
+甑子_NN
+烩蟹_NN
+银花_NN 薄荷_NN
+芝麻_NN
+清蒸_NR 牛蹄_Err
+金钩_NN 挂玉_NN
+无_VE 核糖_NN
+抓炒_NN 大_VA
+绿豆_NN
+太后_AD 御膳泡泡_VV
+脆皮石_NN 鱼_NN
+丽江火_NN 腿粑_NN
+复_AD 盆子_NN
+余姚_NN 瀑布_NN
+枫镇_NN 大_VA
+海鲜_AD 大_VA
+信远斋酸梅_NN
+葫芦巴_NN
+高_JJ 粱饴_NN
+慧仁米_NN
+巧克_NN 力芝_NN 士蛋_NN
+卓资_NN 山熏_NN
+猪蹄_NN
+金华_NN 玉树_NN
+真_AD 味_NN
+海参_NN 三_CD 大_NN
+清汤_NR 冬_NN
+阿焕鸭_NN
+南湖蟹_NN
+泰德马_NN
+菠菜_NN 金钩_NN 豆腐_NN
+曲靖_NN 韭菜_NN
+金蟾玉_NN
+泥鳅煮酸_NN
+博山烤_NN
+红豆芝_NN
+落_VV 汤_NN
+清_CD 蒸白_NN
+鸡丝豆_NN
+果酱_NN 夹心饼_NN
+麻辣_JJ 猪肉_NN
+海南_NN 萝卜_NN
+口蘑蒸_NR
+富贵_VA 有_VE
+烩银丝_NN
+长_JJ 安板_NN
+西式月_NN
+森林木_NN
+八_CD 宝_NN 榛子_NN
+青城_NN 苦丁_NN
+云片鸽_NN
+陈村枧_NN
+豆沙_NN 凉_NN
+洞子口_NN 张凉_NN
+八_CD 珍_NN
+御菜_NN 三_CD
+片鸡_NN
+沙律_NN 海鲜_NN
+鱼翅_NN 四_CD 大_VA
+巧克_NN 力蛋_NN
+醪糟麻_NN
+带_VV 江_NN 草_NN
+青菠_NN
+陈春_NR 麻辣_NN
+炝竹_NN
+麻辣_AD 野_VA
+肉骨头_NN
+烤鸭_NN
+一_CD 品玉带_NN
+象_P 形_NN 拼_VV
+潇湘猪_NN
+炕洋_NN
+姜汁豆_NN
+炒肝_NN
+艾蒿_NN
+鲜虾_JJ 荷叶_NN
+冰卡_NN 布奇_NN
+香菜籽_NN
+包烧_VV 鲜_AD
+安泽火_NN
+红烧鱼_NN
+辣子脆_NN
+朴枳_NN
+酥炸鱿_NN
+沙参玉_NN 竹老_NN 鸭_NN
+桂花赤_NN 豆_NN
+白面锅_NN
+玫瑰茄_NN
+高峰_JJ 云雾_NN
+鸡丝汤_NN
+四_CD 味荞_NN
+韭菜_NN 炒_VV 河_NN
+夫妻_NN 肺片_NN
+大_JJ 茴香_NN
+珍珠雪_NN
+永安_AD 笋_NN
+孔府_NN 地_DEG 锅_NN 一_CD
+辣_JJ 菜_NN
+富_NN 万_CD
+焖鸭掌_NN
+一_CD 棒_NN
+李锦_NN 记_VV 卤水_NN
+汤圆锅_NN
+凤凰社_NN
+桉叶_NN
+萍乡花_NN
+桂花_NN 核桃_NN
+油攒_NN 大_VA
+酸辣_NR 肥_NN
+响铃_NR 海_NN
+印度_NN 香米_NN
+甘草酸_NN 三_CD
+野鸭_JJ 菜_NN
+庞德咖_NN
+桂花糖_NN 大_VA
+软炸鲜_NN
+桂花糖芋_NN
+女贞子_NN
+麦穗_NN
+烩酸_NN
+自制_PN 汽_VV
+芦笋牛_NN
+洋河_JJ 敦_NN
+地_DEG 瓜果_NN
+一品_NN 大_VA
+云腿_NN 豆焖_NN
+脂油雪_NN 花儿_NN
+百合_CS 莲子_NN
+痣胡子_NN 龙眼_NN 包_NN
+迷迭_NN 香_NN
+鱼香腰_NN
+煮饽饽锅_NN
+武穴酥_Err
+扒海_NN
+爆墨鱼_NN
+氽_AD 大_VA
+杭州_NN 老_JJ 鸭_NN
+素椒杂_NR 酱_NN
+枸杞银_NN 耳_NN
+鼓_NN 汁_NN 排_VV
+烩肥_NN
+鸡蛋_NN 炒_VV 菠_NN
+徽州裹_NN
+蚝油牛_NN
+广式_JJ 五仁月_NN
+杏仁儿_NN
+鸡腿_NN
+金针_NN 菇肉_NN
+西瓜酱_NN 罐_NN
+素炝春_NR 不_AD
+挂霜丸_NR
+菊花鱼_NN
+屯溪_NN
+素_AD 锅_NN
+白_JJ 肉丝_NN
+氽三_OD 样_M
+蒙古_CS 手把_NN
+赣州麻_NN
+红豆蛋_NN
+洱海弓_NN
+陶陶居_NN 上_LC
+炸茄_NN
+熘脊_NN
+白_JJ 鲞扣_NN
+堂煎_NR 牛仔_NN
+天然_JJ 苋菜_NN
+火焙豆_NN
+咸肉丝_NN
+菊花_NN 龙虎_NN 凤蛇_NN
+酿山_NN
+柠檬酸_NN 一_CD
+玉桂_NN
+潮州春_NN
+东坡方_NN
+炒银枝_NN
+白_JJ 汁_NN 鱼_NN
+八_CD 代_M
+酱菜_NN 四_CD
+黄瓜_JJ 炒肉_NN
+芜湖瓜_NN
+莲蓬_NN
+菠菜_NN 丸子_NN
+兴义_NN 耳块_NN
+虎跑素_NN 火_NN
+粗_JJ 黑_JJ 胡椒_NN
+干炸赤_NN 鳞_NN
+鸡蛋_NN 肉松_NN
+珍珠贝_NN
+武功_JJ 镇_NN 起花_NN
+凉拌鱿_Err
+奶白葡_NN
+铁板鳝_NN
+南通_NN 跳_NN
+蟹黄_NN 小_JJ 汤_NN
+酥肉_NN
+酒糟汤_NN
+牛奶土_NN
+杏仁橄_NN
+岐山面_NN
+绣_CD 球乾_NN
+海鲜_JJ 水果沙_NN
+爆炒肉_NN
+格瓦_NN 斯_DT 饮_NN
+玉兔海_NN
+茉莉雀舌_NN
+枣泥_NR 锅_NN
+金钱鸡_NN
+麦芬蛋_NR
+牛肉_JJ 荞_NN
+醉鸡_NN
+澄江藕_NN
+蛋黄麻_NN
+东_NN 古_JJ 一_CD 品_NN
+泡椒肥_NN
+会_VV 友发包_VV
+奉_P 化_NN 摇_VV
+酥皮鸡_NN
+鸡汤煮_NN 千_CD
+大_JJ 荔带_NN 把_BA 肘_NN
+陆稿_NN 荐卤_NN
+荞面灌_NN
+康家_NN 脆哨_NN
+机_NN
+三_CD 丝瓜_NN
+樱桃蜜_NN
+酸_JJ 豆角肉_NN
+小_JJ 芝麻_NN
+汁鲫_NN
+酸_CD 菜鱿_NN
+芥兰牛_NN
+芝麻南_NN
+红焖海_NN
+膳_NN 汤_NN 一_CD
+佛公_NN
+葵_NN
+文昌_NN 按_P
+豆腐老_NN
+三_CD 仙丸_NN
+龙凤柔_NN
+什_DT 锦_NN
+腌牛脚_NN
+菊花_NN
+羟_NN 基_NN 硬脂_NN
+鱼片_NN 蒸水_NN
+巴山银_NN
+叉烤鳜_NN
+参芪_VV 母鸡_NN
+九_CD 珠皮_NN
+酸_NN 菜_NN 黑圪_NN
+银耳_NN 大_VA 枣_PU
+布朗族_NN
+罗锅_NN
+芫爆肚_NN
+和_P 味炒田_NN
+虫草_NN
+乙酸_NN 薄荷_NN
+氰钴胺_NN
+炒珍珠_NN
+扒肘_NN
+上海_JJ 饼_NN
+车前_NT 草_NN
+宣城蜜_NN
+滑肉_NN
+糊涂_NN
+西汁乳_NN
+佛手排_NN
+繁峙疤_NR
+清拌_NR 腰丝_NN
+潮州_NN 烧雁_NN
+植物炭_NN
+姜葱螃_NN
+炝_NN
+黑玫_NN 瑰咖_NN
+红酒猪_NN
+沙拉_NN
+蛋黄面_NN
+乳酪大_NN
+黄花菜_NN 瘦_VV 肉_NN
+蜜饯_NN 四_CD
+蒜爆_NN
+清真_AD 酱_VV 牛_NN
+香酥苹_NN
+金菇掐_NN
+萝卜_NN 烧排_NN
+聚丰德饭_NN
+椒盐花_NN
+梅花蛋_NN
+保定府_NN 三件_NN
+同源_AD
+花椒鱼_NN
+鱼香_NN 荷包_VA
+博山烩_NN
+鸡丝银_NN
+冬菜肉_NN
+秦川_NN
+天红_NN
+桂花_VV 甜_JJ 酒_NN
+炒银丝_NN
+卤斑_NN
+四川_OD 辣子_NN
+沙湾白_NN
+浏阳茴_NN
+烟鸽子_NN
+酱螺_NN
+亚铁_NR 氰化_NN
+栗子_NN 炒子_NN
+炸子_NN
+糯米藕_NN
+芝麻汤_NN
+枸杞食_NN
+烀烂甲_NN
+一品_NN
+梁平_AD 甜_VA
+海天_NN 草菇老_NN
+甘露_NN
+龙眼虾_NN
+己_PN 烯_NN
+伯丁_Err
+万_CD 字扣_NN
+醋烟_NN 肉片_NN
+桂林松_NN
+芹菜_NN 牛肉_VA
+奶汤白_NN
+合_VV 德_NN
+砂钵狗_NN
+丙_CD 二_CD 醇脂肪酸_NN
+小豆_NN
+桥头_NN 火锅_NN
+烟_NN 三_CD 鲜_NN
+插根_NN
+两_CD 香问_NN 政山_NN
+御菜_NN 五_CD
+乙酸_NN 松油_NN
+凤炖牡_NN
+氽灌_NN
+木耳圪_NN
+安定_NN
+豆汁_NN
+葫芦_NN 大吉_AD 翅_NN
+荔枝_NN
+白炒_JJ 三七_CD 花田_NN
+香菇_NN 肉酱_NN 罐_NN
+柠檬_NN 夹心蛋_NN
+干烧_VV 大_VA
+炒_VV 二_CD
+红烧_JJ 猪蹄_NN
+老_JJ 科_NN
+脂油年_NN
+水晶_NN 蟹粉_NN
+羟丙基_NN 淀粉_NN
+洋钱_NN
+金针菇_NN 培_NN
+广州_JJ 甜_NN
+锦江烤_NN
+欧蕾_NN 冰咖_NN
+清汤_NR 丸_NN
+炸_OD 卷_M 果_NN
+葡_NN
+县前_NT 汤_NN
+三_CD 鲜_AD 小_JJ 馄_NN
+大_JJ 佛白_NN 龙_NN
+蜜饯红_NN
+剁椒_NN 大_JJ 鱼_NN
+核桃红_NN 米_NN
+红苕_NN
+鸡火_NN
+异戊酸_NN 异戊_NN
+滇味炒_NN
+西湖桂_NN 花藕_NN
+喜_AD 洲_JJ 破酥粑_NN
+苹果_NN 马提_NN
+海南_NN 椰丝_NN
+龙抄手_NN 餐_NN
+肉骨_NN 茶煲_NN
+峨眉_NN
+小_JJ 米沙_NN
+鸭黄_NN 豆_NN
+富春_NR
+酷_NN
+炒芡子_NN
+虾籽冬_NN
+冬瓜_NN
+绿沁_NN
+烟刀_NN
+糖焖莲_NN
+午时_NN
+海参_NN 武_VV 昌_NN
+干煸冬_NN
+广安_NR 烘_NN
+羊血米_NN
+熘蟹_NN
+上海_JJ 炒年_NN
+家乡_NN 莲藕_NN
+柳林_NN 芝麻_NN
+凤眼秋_NN
+糖醋_NN 软_JJ 熘鲤_NN 鱼焙_NN
+灵丘熏_NN
+糖佛_NN
+池塘莲_NN
+虎山_NN
+翅子_NN
+银杏蒸_NN
+麻仁_NN 鹿肉_NN
+竹叶_NN 抗氧化_NN
+椰奶布_NN
+熘_CS 什_DT 件_NN
+琥珀酸_NN 二_CD
+吉祥_NN 顶呱_NN
+麻辣_NN 肉_NN
+牛_CD 王庙_NN 怪味_NN
+光村沙_NN
+普鲁兰_NN
+豇豆_NN
+柳州_NN
+板粟烧_NN
+老徐_NR 炒糕_NN
+香菇瘦_NN 肉_NN
+什_DT 锦丁_NN
+盒子_NN
+燕尾桃_NN
+佛手海_NN
+肉片焖_NN 扁_NN
+麦仔_NN
+上海_JJ 冷_NN
+椰汁板_NN 兰_NN
+猪柳麦_NN 满_VV
+安铺鸡_NN
+树叶_NN
+米汤油_NN
+红豆土_NN
+扒栗_NN
+化核_JJ 加应_NN
+菜香源_NN 川菜_NN
+蒸莲藕_NN
+青蛋_NN
+芝麻酱_NN 拌_NN
+窝丝_NN
+油豆_NN
+圪饦_NN
+荷叶凤_NN
+莫斯科_AD 红_VV 菜_NN
+西藏_NN 酥油_NN
+什_DT 锦烩_NN
+清_NN 炖_VV 全_NN
+甜盘_NN
+南煎_NN
+虾米笋_NN
+压韭茄_NN
+熏斑_NN
+益阳松_NN 花皮_NN
+牛奶_JJ 太妃_NN 冰淇_NN
+乾县_NN 豆腐_NN
+玉蕊_NN
+跳水田_NN
+葱花烙_NN
+珊瑚_NN 雪花_NN
+柿_CD 霜软_NN
+火腿_NN
+芪蒸鹌_NN
+王桥豆_NN
+茴香_NN
+番茄_NN 松鼠_NN
+糖熘饹_NN
+腐皮肉_NN
+泰式_JJ 咖哩_NN 螃_NN
+木樨_NN
+乾果_CS 四_CD
+油炸_NN
+烹丁_NN
+扒燕_NN
+奶香_NN 玉米_NN
+甜薯_NR
+牛腩_NR 莲藕_NN
+蛋香_NN 牛_NN
+西施_NN 团圆_NN
+茄子_NN 晒炉_NN
+风味龙_NN
+果酱_NN
+六合牛_NN
+琵琶鱼_NN
+炸鹿尾_NN
+蜜饯银_NN
+巧克力_NN 爆米_NN
+火锅_NN 牛肉_VA
+意式香_NN 浓_JJ 菜_NN
+塘栖板_NN
+菜头_NN
+李锦_NN 记_VV 排骨_NN
+沙舟踏_NN
+扒鸡腿_NN
+竹筒_NN 粉蒸_NN
+异戊酸乙_NN
+鸡沾口_NN
+野鸭_JJ 桃仁_NN
+泰式酸_NN 辣_JJ 凤_NN
+咸金_NN
+豆瓣鲜_NN
+姜汁鸭_NN
+烹_AD 大_VA
+灯笼泡_NN
+菠饺鱼_NN
+什_DT 锦麻_NN
+十八_CD 烷_NN
+罗村竹_NN
+八_CD 宝油_NN
+竹筒煮_NN
+台湾_NN 古早_NN
+消暑_NN 冬瓜_NN
+新疆_AD 凉_VA
+烹芽_NN
+大麻_AD
+火爆肚_NN
+珠兰大_NN
+什_DT 香_NN
+酸_AD 辣_VA
+虾肉_NN 小_JJ 笼_NN
+平阴_JJ 梨丸_NN
+老世泰_NN 糕_VV
+师友_NN
+焦盖烧_NN
+香汁_NN 大_VA
+西班_NN 牙海_NN 鲜_AD 烩_NN
+藕丝_NN
+咸鱼片_NN
+奇味_NN
+大_JJ 方豆_NN
+皮蛋_NN
+白_JJ 肺_NN
+肥肠米_NN
+酿白兰_NN
+摩登粑_NN
+烩脐_NN
+双_CD 孢蘑菇_NN 罐_NN
+清_AD 炒莴笋_Err
+奶汤鸡_NN
+鱼腥草_NN 煲猪_NN
+双_CD 味珍_NN 珠元_NN
+少林_CD 八_CD 宝_NN
+桂花香_NN
+烧肝_NN 尖_NN
+拌稂_NN
+鲜虾_JJ 腐皮_NN
+牛_JJ 百_CD 叶_NN
+脂肪酸_NN 蔗糖_NN
+煲仔鱼_NN
+沔城莲_NN
+山珍_NN 刺龙_NN
+扒_NN 三_CD 样_M
+炸紫盖_NN
+扒鸡块_NN
+风车_NN
+徽州圆_NN
+烧宝盖_NN
+烧肥肠_NN
+鹅黄_NN
+芡实_NN 百合_CS 芋头_NN
+清真_AD 全_DT 羊_NN
+酱萝卜_NN
+原笼粉_NN
+梅干_NR 月_NN
+大_JJ 福_NN
+汉_NN 中_LC 梆梆_NN
+怡味_NN
+黑香_NN
+单辛酸_NN 甘油_NN
+清拌_NN 粉皮_NN
+玫瑰锅_NN
+荞_NN
+福字瓜_NN 烧里_NN
+老槐_NN 树烧_NN
+烧连_Err
+莴苣_NN 鳝鱼_NN
+熊猫品_NN
+烩腰丁_NN
+踵鱼_NN
+红萝卜_NN 排骨_NN
+蛋松_NN
+麻辣_NN 鹌_NN
+熘鱼焙_NN
+烩白杂_NN
+接骨_NN
+姜汁刀_NN
+李圪_NN
+火踵鱼_NN
+天津_JJ 火腿_NN
+什_DT 锦果_NN
+柠檬起_NN 司蛋_NN
+江米_NN
+炒子_NN
+广式_JJ 云吞_NN
+萝卜_NN
+金钱鱼_NN
+干锅_NN 啤酒_NN
+莫_AD 基_NN
+通草_NR 鲫鱼_NN
+杜梅_NN
+蜜枣核_NN
+中华_NN 蜜_NN
+五_CD 丝洋_NN
+李锦_NN 记豆瓣_NN
+彩虹_NN 冰咖_NN
+海东雪_NN
+开远小卷_AD
+子推蒸_NN
+义_NN 盛_VA 永_AD 熏_VV
+鲜_AD 虾_JJ 鸡蛋_NN
+乾县挂_NN
+海白_NN
+肉丝炒_NN
+百_CD 果_NN
+炝冬_NN
+仙鹤鲍_NN
+核桃松_NN
+炒荤素_NN
+雀巢_NN 冰咖_NN
+蟹粉_NN 豆腐_NN
+绿园_NN
+恩济堂_NN 秋_AD 梨_VA
+鹿大_NN
+广东_JJ 文昌_NN
+果糖饮_NN
+橘瓣鱼_NN
+黄鱼_NN
+炒虾_NN
+炸_VV 花件_NN
+芝麻肉_NN
+辣_JJ 鱼_NN
+果粒_NN 悬浮饮_NN
+青制_NR 啤_NN
+果胶酯_NN
+杨河春_NN
+十二台_NN
+吴招_NN
+烟鸭掌_NN
+杨家_NN 吊沪_NN
+烩酸燕_NN
+清宫_NN 御_NN 膳_NN 银丝_NN 杂_NN
+密_JJ 蒙_NN
+苏州酱_NN 汁_NN
+猪油_NN 米花_NN
+齐山_NR 毛_NN
+培根_NN 蔬菜_NN
+撒子麻_NN
+糖水_JJ 葡萄罐_NN
+抹_VV 茶_NN 红豆戚_NN
+青椒玉_NN
+红烧鹿_NN
+长城_JJ 饽椤_NN
+拌皮渣_NN
+烩节_NN
+清_JJ 羔羊_NN
+黏糊_NN
+吞拿_NN 鱼_NN
+东江_NN 东坡_NN
+整_DT 肢龙_NN
+家乐番_NN 茄沙_NN
+酱酥桃_NN
+李_AD 大同_AD 双_CD 炊_NN
+雪花_NN 豆腐_NN
+酱瓜丝_NN
+海鲜_NN 匹_NN
+姜_NN 汁_NN 热味_NN
+家常_AD 炒_VV
+雪山蛋_NN
+粉皮_NN 辣_NN
+仙源食_NN
+水煮_NN 蹄_NN
+冬虫_NN 夏草_NN
+五_CD 香甜_NN
+捶_NN
+宝鸡茶_NN
+棒_AD 棒_VA
+艺术糕_NN
+雪花桃_NN
+荷_NT 包蟹_VV
+沙式饼_NN
+巨_NN
+双色_JJ 玫瑰_NN
+道口_NN 烧鸡罐_NN
+轻身_JJ 减肥_NN
+羊肉火_NN
+荔枝_NN 鱿鱼_NN
+甑山银_NN
+八_CD 宝兔_NN
+炸烹_NN
+酸辣_NR 鸡_NN
+小_JJ 炒螃_NN
+炸绣_NN
+蝴蝶_NN
+草菇烧_NN
+干锅泥_NN
+荷叶蒸_NN
+盛百_OD 威_M 包_NN
+拌蟹_NN
+火烧茨_NN
+粟米_NN 菜花_NN
+煎_JJ 茄_NN
+凤吞_NN
+牛排_JJ 罐_NN
+挞挞_NN
+红烧_NN 下_LC
+乳扇_NN
+小麦_NN 草蛋_NN
+山鸡丁_NN
+汝城板_NN
+铜仁社_NN
+香菇包_NN
+蜜制蜂_NN
+苹果炖_NN
+硬脂_JJ 酰乳酸_NN
+大_JJ 鱼头_NN 豆腐_NN
+奶油_NN 花生_NN
+蒲城椽_NN 头蒸_NN
+广_NN
+香菇西_NN 兰_NN
+石狮甜_NN
+藏心鱼_NN
+红烧猴_NN
+杨记糕_NN
+双色_PN
+飞龙_NN
+八_CD 宝_NN 葫芦_NN
+珊瑚桂_NN
+红烧_JJ 咕噜_NN
+鸡_NN 什_DT 刀_NN
+天目_NN 青顶_NN
+番茄_NN 牛肉_VA
+豇豆烧_NN
+铁板猪_NN
+烤羊_NN
+御_NN 菜_NN 四_CD
+海天_NN 特级_NN 草菇老_NN
+厦门春_NN
+五_CD 丝菜_NN
+加蟹_VV 小笼_NN
+尖_AD 椒_NN
+黄县_JJ 肉_NN
+丹灶慈_NN
+翡翠鱼_NN
+糖麻_NN
+煎酿茄_NR
+花生_VV 鸡脚_NN
+巧克力_NN 鸡尾_NN
+烩_NN 三_CD 丝鱼_NN
+姜汁仔_NN
+南瓜_NN 干_VV 儿_NN
+水果_NN 一_CD
+橄榄炖_NN
+古_JJ 劳银_NN
+茄汁_NR 鱼_NN
+薯粉_NN
+天然_JJ 果蔬饮_NN
+凤_NN 尾金_NN
+厦门_NN 沙茶_NN
+爆_NN 三_CD
+豆面汤_NN
+如_P 皋肉_NN
+台湾盐酥_NN
+矿泉_NN 水冷_NN
+夜香_NN 冬瓜_NN
+香水梨_NN
+银丝_NN
+御扇豆_NN
+凤梨_JJ 烩排_NN
+糯米_NN 大_VA 枣_PU
+红烧全_NN
+鸭丝掐_NN
+黑豆鲤_NN 鱼_NN
+芡实_NR
+激情_JJ 海_NN
+王家_NN 核桃_NN
+五香_CS 酱驴_NN
+火爆双_NN
+黄_JJ 醪_NN
+什_DT 锦_NN 田鸡_NN
+杏仁_NN
+香_NN 辣_NN 霸王_NN
+金银_NN
+虾皮_NN 豆腐_NN
+毫_AD 糯_NN
+丰年_NT 果_NN
+羊肉_NN 炒面_NN
+炸软_NN
+凤尾烧_NN
+豆瓣海_NN
+红杞蒸_NN
+鲜_AD 菇_P 虾丸_NN
+膳_NN 粥_NN 一_CD
+龙舟镢_NN
+造洋_NR 饭_NN
+云腿罐_NN
+水晶_NN 银菊_NN
+白_JJ 虾_NN
+三_CD 清_P 碧_NN
+翡翠_NN 水晶_NN 龙珠_NN
+应州_NN 牛_NN
+草石_NN 蚕_NN 田鸡_NN
+山药桂_NN 圆炖甲_NN
+酸_CD 枣_PU
+莲蓉_NN 芝麻_NN
+硝酸硫胺_NN
+丽人献_NN
+河州_NN 大_VA
+蚝油仔_NN
+清_JJ 蒸福寿_NN
+炊石榴_NN
+大理_NN 石芝_NN 士蛋_NN
+海派_NN 罗宋_NN
+陇县_NN 马蹄_NN
+绍子烘_NN
+黑糯米_NN 八_CD 宝_NN
+苔菜_NN 千_CD 层_NN
+活钻鲤_NN
+炸南瓜_NN
+烧槟_NN
+爆竹_NN
+南荠_NN 草莓_NN
+温泉_NN
+香滑_NN 鲈鱼_NN
+小_JJ 林煎_NN
+鬼马牛_NN
+玉掌献_NN
+红豆_NN 鲤鱼_NN
+油煎_NN 馄_NN
+川贝_NR 炖鹧_NN
+前_JJ 菜_NN 五_CD
+鼠尾草_NN
+油爆鲜_NN
+托板豆_NN
+荠菜鱼_NN
+翠亨_NN
+株洲_NN 什_DT 锦_NN
+松花_VV 淡_JJ 菜_NN
+油浸_NN
+金钱_NN 洋_VA 芋_PU
+司陶_NN 特_AD 啤_VA
+雪梨_JJ 炖燕_NN
+凤尾腰_NN
+仲景_NN 羊肉_NN
+猪肚_NN 黄_VA 芪_PU
+河曲酸_NN
+黄_JJ 狮_NN
+合_VV 阳页_NN
+干烧_VV 鸡_NN
+冷冻_NN 牛_NN
+肉末_NT 烧茄_NN
+桂花_NN 大头_AD
+旋子锅_NN
+酸_AD 奶果_NN
+巧克_NN 力冰_NN
+麦糊_NN
+荞面合_NN
+油浸_NN 腌_NN
+新奥_JJ 尔良_NN 腌制_NN
+太白庄_Err
+兢山_NN
+爆鱼_NN
+五_CD 香仔_NN
+蚝油_NN 西兰_NN
+空心_JJ 鱼丸_NN
+参蒸_JJ 鳝_NN
+苏稽_NN 米花_NN
+玫瑰豆_NN 沙月_NN
+午餐_NN 三明_NN
+芦笋鸡_NN
+汤岗子_NN 矿泉_NN
+无_VE 锡肉_NN
+腰果虾_NN
+天湖凤_NN
+鸡蹄_NN
+鱿鱼_NN
+苏州话_NN
+氽鲤_NN
+茄_NN
+橄榄沙_NN
+番茄腰_NN
+春风_JJ 减肥_NN
+鸡汁_NN 油豆_NN
+培根_NN 芦笋_NN
+陈醋_NN 焖咸_NN
+超山梅_NN
+火腿_NN 大白_NN
+六_CD 安酱_NN
+回记_NN 绿豆_NN
+片烤方_NN
+金针豆_NN
+茶食刀_NN
+油泼青_NN
+沫若香_NN
+桃仁鸭_NN
+菊花酥_NN
+干煸茭_NN
+硫代二丙酸_NN 二月_NN
+采芝斋糖_NN
+小葱_NN
+双_CD 糯_NN 玫瑰_NN
+酿冬瓜_NN
+咸菜_NN
+冬瓜_NN
+草莓_NN 千_CD 层_NN
+海米拌_NN 黄_VA
+蘑菇沙_NN
+捶肉_NN
+肉酱茄_NN
+子姜_NN
+炸鱼_NN
+清汤_NR 鲍_NN
+北京辣_NN
+千_CD 层_M 肉_NN
+蟹黄_NN 海_NN
+鲜_AD 柠_P 脆虾_NN
+蜜饯菠_NN
+槭风蛋_NN
+锅魁_NN 夹卤_NN
+日式_NN 炸_VV 猪_NN
+双_CD 林姑嫂_NN
+松子鱼_NN
+莼菜_NN 黄鱼_NN
+麻辣口_NN
+南国_JJ 恋曲_NN 冰咖_NN
+锅塌蒲_NN
+芙蓉大_NN
+竹宴天_NN
+潮州薄_NN
+什_DT 锦暖_NN
+湖州肉_NN
+邢黄_NR 牛腐_NN
+白象_NN 香_NN
+竟_AD 成_VV
+宁_AD 强_JJ 王家_NN 核桃_NN
+文山鸡_NN
+天水凉_NN
+莲子鸡_NN
+冬笋_NN 里_LC 脊_NN
+梁英_NN 记裹蒸_NN
+香菇醉_NN
+玉笋蕨_NN
+回锅鱼_NN
+营养藕_NN
+京酱风_NN
+万_CD 字麻_NN 辣_JJ 肚_NN
+蜜饯桂_NN
+烧烤_NN 二_CD
+扣肉梅_NN
+告别_AD 香_NN
+粉蒸鳜_NN
+香芹_NN
+茄汁_NR 鸡_NN
+白_JJ 灼响_NN 螺_NN
+糖醋荷_NN
+抹茶浮_NN
+炒肉_NN
+香辣_NN 田_NN
+炒羊肚_NN
+炒肺_NN
+广式_JJ 蜜_NN
+葱烤大_NN
+清流_NN 笋_NN
+杞子_NN 南枣_NN 煲鸡_NN
+洋县_JJ 枣糕_NN
+山西腐_NN
+劲霸汤_NN
+维族_NN 烤羊_NN
+上海_JJ 炒_NN
+雪绵豆_NN
+清_NN 炸_VV 鹌_NN
+白糖_NN 莲心_NN
+碳烧啤_NN
+好_JJ 丝_NN 百_CD
+椒盐锅_NN
+瑶族粑_NN
+砂锅煨_NN 鹿_NN
+熘蟹_NN
+油旋子锅_NN
+咸蛋节_NN 瓜鱼尾_NN
+肉末_NN 烧_NN
+安阳_NN 三_CD
+火腿土_NN
+上海_JJ 锅_NN
+干_VV 锅_NN 黄骨_NN
+豆黄_NN
+楠溪麦_NN
+紫米_NN 四_CD 喜_CC 汤_NN
+喜年_NT 来_VV 食_NN
+原味_NN 双_CD 皮_NN
+硫代二丙酸_NN 二月桂_NN
+雪花鸡_NN
+江口_NN 豆腐_NN
+红油鸭_NN
+泥风_NN
+三_CD 色蛋_NN
+朱古_NR 力慕_NN
+通海_NR 豆末_NN
+素_AD 炒_P 腐_NN
+青蒜_NN 炒_VV 腊_NN
+日本_NR 豆腐_NN
+红烧赤_NN
+番茄_NN 黄骨鱼_NN
+金丝海_NN
+三_CD 丝鱿_NN
+冰花雪_NN
+白油_JJ 肝_NN
+红袍莲_NN
+油焖竹_NN
+清_NN 炒_VV 笋_NN
+洪字鸡_NN 丝黄_NN
+百合_CS 糯米_NN
+蛤蜊鲫_NN
+周村_NN 酥烧_NN
+炸晃_NN
+云南回_NN
+攒_VV 盒_P 一_CD
+炒_VV 四_CD
+剔尖_NN
+枸杞_NN 小_JJ 米_NN
+高_JJ 丽豆_NN
+炸蛋_NN
+泰安_NR 三美豆_NN
+四川板_NN
+椒盐_NN 八_CD 宝_NN
+卡拉_VV 什_DT 尼科_NN 夫伏_NN 特_AD
+宫廷排_NN
+马虎_NN
+欧查_NN
+粘花饼_NN
+珊瑚金_NN
+牡丹虾_NN
+犀浦酱_NN
+湘江_JJ 鱼头_NN
+重酥烧_NR
+羟基香茅_NN
+陈皮兔_NN
+对_P 羟基苯甲酸甲酯_NN
+荷叶膳_NN
+百_CD 侯薄_NR
+酸_CD 菜煮_NN
+溜黄_NN
+串炸鲜_NN
+什_DT 锦_NN 豆腐_NN
+煎_JJ 扒鲭_NN 鱼头_NN
+酿倭_NN
+五_CD 柳鱼_NN
+壶冲油_NN
+龙凤_NN 鲜_NN
+鱼匹_NN
+野山_NN 椒牛_NN 肉_NN
+鸭肾_NN
+年字口_NN 蘑发_NN
+武城旋_NN
+金钱香_NN
+韩国_NR 人参_NN
+莲蓉酥_NN
+雪菜_NN 笋丝_NN
+八_CD 仙瑶_NN 池聚_NN
+姜太_NR 公柿_NN
+农家_NN 白切_NN
+砸_NN
+叉烧猪_NN
+教场_NN 门饸_NN
+彩椒_NN 炒香_NN
+甜丸_NR
+生牛_NN 肉河_NN
+主席_NN 红烧_NN
+芜爆_NN 里_LC
+福建年_NN
+香蕉软_NN
+芪烧活_NN
+梧州豆_NN
+虫草鸭_NN
+奶汤_NN 火腿_NN 大_JJ 鱼_NN
+氽毛_NN
+清_AD 炖武_VV 山_NN
+南瓜_NN 鲜_CC 虾沙_NN
+飘_VV 仙_NN 一_CD
+降脂_NN 益寿_NN
+哈特_NR 啤_NN
+海带炖_NN
+怪味鸡_NN
+百花鸭_NN
+辣_AD 味_JJ 红酒_NN 烤_VV 羊_NN
+地_NN 中_LC 海沙_NN
+辣豆_NR 瓣_NN
+猴头菇_NN 炖_VV 竹_P 丝_NN
+红松鳜_NN
+鄣公_NR 山_NN
+糖醋鱼_NN
+蓝莓慕_NR
+豆瓣肘_NN
+香辣_NR 黄瓜_NN
+翡翠银_NN
+珍珠鲤_NN
+蜜饯李_NN
+胡椒博_NN
+临朐全_NR 羊_NN
+潮汕蚝_NN
+椒盐_NN 海豹_NN
+红梅牌_NN 脆松_NN
+扒_NN
+李锦_NN 记_VV 桂林_NN 辣椒_VA
+多_CD 味煎_NN
+奶白杏_NN
+南瓜_NN 咕老_NN
+花菇鸭_NN
+香炸云_NN
+白_JJ 汁_NN 鲳_NN
+人参_NN 枸杞_NN
+白_JJ 汁_NN 全_NN
+曲阜_NN 熏_VV 豆_NN
+九_CD 记_VV 路边_NN
+酥皮奶_NN 油蛤蜊_NN
+玫瑰杨_NN
+草莓优_NN 酪_NN
+鸡血_NN
+蚝油蘑_NN
+炒芙蓉_NN
+鸡心_NN
+降红_NN 木_NN
+玉竹猪_NN
+木耳黄_NN
+油焖鲜_NN
+虫草_NN
+黄米_JJ 切_NN
+冲糯米_NN
+丁香_NN
+陡门头_NN 灯盏_NN
+酱核_NN
+草香_NN
+黑菌_NN 蘑菇_NN
+信阳板_NN
+芙蓉_NN 百花_NN
+湘莲_NR 罐_NN
+凉拌_JJ 红萝_NN
+葱辣_NN
+冰激_JJ 凌水_NN 果沙_NN
+伍_OD 佑_M 糖麻_NN
+椒盐蹄_NN
+雪_NN 里_LC 红肉_NN
+松峰_NR 绿_NN
+麻辣_NN 凤_NN
+鸳鸯酥_NN
+糖醋鸡_NN
+姜丝肉_NN
+烤花揽_NN 桂_NN
+葱油黄_NN
+怪味腰_NN
+四川_OD 风味_NN 土豆_NN 烧排_NN
+猪油_NN 百果松_NN
+奶白鲫鱼_NN
+白扒_JJ 广_NN
+白_JJ 汁_NN 鳜_NN
+牛尾_NR 汤罐_NN
+甜_NN 香_NN 玉米_NN
+鹿鞭_NN 壮_JJ 阳_NN
+巧手_JJ 烧雁_NN
+洪山_NN 桥光_NN
+三_CD 鲜茄_M
+虎_NN 掌_VV 金丝_NN
+泰式_JJ 榴莲_NN
+一_CD 掌_NN
+红烧猪_NN
+滑溜鹌_NN
+去皮_NN
+马记茶_NN
+吉安_JJ 薄酥_NN
+龟山_NN
+馋_NN
+凉拌_VV 牛_VA
+烤扁担_NN
+深渡_JJ 包_NN
+围炉_CS 火_NN
+冬瓜_NN 虾皮_NN
+爆乌_NN
+龙须燕_NN
+米冻_NN
+面薄_NN
+宣堡_NN 小馄_NN
+咖啡_NN 蛋糕_NN
+百合熘鸡_NN
+蟹柳沙_NN
+新竹_NR 肉_NN
+詹王_NN 瑶柱_NN
+羊肉笼_NN
+三_CD 彩大_NN
+尝酥_NN
+玉板_NN
+蛋黄_NN 千_CD 层_NN
+小脑_NN 壳烧_NN
+南海_NN 里水冬_NN
+冰泉滴_NN 珠_VV 豆_NN
+腊肉_NN 炒菜_NN
+密_JJ 汁_NN 南_NN
+鼠_NN 曲_NN
+蜜枣羊_NN
+酱烧茭_NN
+都_AD 督_P 烧_NN
+凤凰趴_NN
+糜子_NN
+豆腐_NN 大_JJ 菜_NN
+上海_JJ 春_NN
+茶叶熏_NN
+白扒_JJ 鱼_NN
+干酱_NN
+建郡扁_NN
+豆角_NN 炒_VV 肉_NN
+粢毛_NN
+临晋玉_NN
+梅花香_NN
+奇峰_NN 阁酒_NN
+清蒸_NR 山_NN
+水煮_NN 鲢_NN
+红丝_NN
+豆糕_NN
+香糟_NN 田_NN
+蛋卷饼_NN
+龙炒_NN
+酱爆青_NN
+带鱼_JJ 罐_NN
+鲜_AD 豆_NN
+鲜_AD 肉_JJ 猫耳_NN
+浮油鸡_NN
+山珍刺_NN 五_CD
+果瓣_NN
+果酱_NN 巧_VA 克_PU
+鸡蛋米_NN 浆粑_NN
+雪花_NN 龙须_NN
+洋芋檫_NR
+胡萝卜_NN 排骨_NN
+奶油_NN 曲奇_NN
+父子_NN 同_NN
+芋味_NN 三_CD
+白_JJ 俄罗_NN 斯_DT 鸡_NN 尾_NN
+罗汉_NN
+荞面煎_NN
+蟹黄灌_NN 汤_NN
+酥小_NN 鲫_NN
+折耳根_NN 炒_VV 肉_NN
+肉酿_NN 生麸_NN
+拆冻_NN 鲫_NN
+氽节_NN
+桃_NN
+火爆_JJ 荔枝_NN
+李锦_NN 记柱侯_NN
+萝卜_AD 连_VV 锅_NN
+龙井金_NN
+肉丝粉_NN
+鸭掌_NN
+湖彩_NN
+乌狼_NN 鲞烤_NN
+蚝油鸭_NN
+葱花煎_NN
+奶香_NN 海苔吐_NN
+湘城_NR 麻_NN
+草莓_NN 夹心面_NN
+茄_NN 汁_NN 鱼罐_NN
+干锅鸡_NN
+蚕蛹罐_NN
+榨广_NN
+恩发_NN 德蒸_NN
+祖庵鱼_NN
+胡萝_NN 卜餐_NN
+阳城肉_NN 罐_NN
+金德啤_NN
+茄汁_NR 猪_NN
+醋椒桂_NN
+养生_VV 吐司_NN 春_NN
+聊城_NN 铁公_NN
+肉丝_NN 两_CD 面_NN
+芝麻_NN 杏仁_NN
+寿阳头_NN
+猴银_NN
+高_JJ 密蜜_NN
+刺菱_NN
+富平太后_AD
+炖_VV 人参_NR
+果仁_NN 排_NN
+大_JJ 山合_NN
+水晶橘_NN
+龙川_NN 矿泉_NN
+卤汁_NR 豆_NN
+芋儿_NN 鸡火_NN
+琉璃_NN
+盐水里_NN
+平都_JJ 牛肉_NN
+酒醋_NN
+云娜_NN 水果_NN
+茶树菇_NN 烧_VV
+玉兔白_NN
+冰焦糖_NN 玛奇_NN
+巴拉_NN 塔树_NN
+糖水杏罐_NN
+蒜蓉白_NN
+荷花鱼_NN
+金糕_NN
+生烤狍_NN
+茶叶鲫_NN 鱼_NN
+炸鸡肉_NN
+鸡汤_NN 三_CD 鲜_CC 馄_NN
+铭雄_NN
+嘉义_NN 的_DEC 鸡肉_NN
+三_CD 色_NN 糯米_NN
+清汤_NR 泡_NN
+泡椒猪_NN
+莜面饸_NN
+春笋炒_NR 步_NN
+樟茶_NN
+福寿临_NN
+干煸鳝_NN
+薄玉_NN
+箩粉_NN 鱼头_NN 豆腐_NN
+龙眼_NN 洋_JJ 参_NN
+宝矿力_NN 饮_VV
+燕禾_NN
+普宁面_NR
+葱炖猪_NN
+魔芋_NN 锅巴_NN 炒_VV 肉_NN
+好_VA 味_NN
+白宫_NN
+羊杂_NN 汤_NN
+泰式_NN 青_NN 木瓜沙_NN
+孔府_VV 一_CD 品_NN
+杜本_NN
+宁海_NR 望海_NN
+南瓜_NN 炒_VV 虾_NN
+白_JJ 豆沙_NN
+干煎黄_Err
+兔肉_NN 炖_VV 鸡_NN
+云腿奶_NN
+麻城肉_NN
+泰式_NN 凉拌_VV 海_NN
+黑_JJ 麻_NN
+丁酸_OD 异戊_NN
+鲑鱼_NN 奶油_NN
+蛋形_NN 巧_VA 克_PU
+爆炒鳝_NN
+蝴蝶暇_NN
+狗不_AD 理_VV 饭_NN
+杏仁_NN 海绵蛋_NN
+重庆_NN 口水_NN
+玉带_NN
+金柑_NN
+红豆膳_NN
+蜜饯金_NN
+糖醋_NN 小萝_NN
+牛_JJ 展_NN
+富贵_JJ 黄金_NN
+泰式酸_NN 辣_JJ 虾_NN
+辽阳塔_NN
+氽肥肠_NN
+清_NN 炖_VV 兔_NN
+糖醋面_NN
+蓝_JJ 莓果_NN
+水果_NN 夹心蛋_NN
+藏族酸_NN
+炝黄瓜_NN
+可_VV 可_VV 壳_NN
+天津馄_NN
+好_VA 胃_NN
+炒麦_NN 穗花_NN
+豆芽咸_NN
+奶白枣_NN
+乙萘_NN
+丁香姜_NN
+成都_VV 蛋_NN
+那_DT 不_AD 勒斯咖_Err
+大白_PN 菜水_NN
+四_CD 喜_P 鸭_NN
+米酒_NN 茶香_NN
+迪凯_NN
+甜酸乳_NN
+煎紫_JJ 米藕_NN
+双_CD 酥月_NN
+附片_NN 归杞_VV 炖_VV 羊_NN
+天目_NN 烘青_NN
+曲奇_NN 香奶_NN 冰淇_NN
+香_NN 煎_JJ 南瓜_NN
+火腿_NN 炒茄_NN
+酸菜_NR 小豆_NN
+可_VV 得然_VV
+香芋_NN 油鸭_NN
+辣_AD 炒鱿_VV 鱼_NN
+苏州酱_NN
+红烧卷_NN
+豫章酥_NN
+连城_NN 番薯_NN
+代县_NR 麻_NN
+雅诗_NN
+石家鱼_NN
+软烧_JJ 豆_NN
+春笋_NR 白拌_NN
+小鸡_NN
+银杏芋_NN
+扶风鹿_NN 糕_VV
+酥炸_NN 禾花_NN
+红肉煮_NN
+干炒牛肉_VV
+蒜香鲶_NN
+南宋_NN 定_VV 胜_NN
+硅铝酸_NN
+百花大_NN
+鱼香苦_NN
+台式_JJ 卤肉_NN
+泰式_JJ 咖哩_NN
+东璧龙_NN
+天津锅_NN
+鼎丰白_NN
+安_JJ 多_CD 面_NN
+白_JJ 封_NN
+高力豆_NN
+红颜_NN
+大蒜鲶_NN
+蟾蜍水蛇_NN
+乐昌白_NN 毛_NN
+柠檬乳酪_NN
+凤翔豆_NN
+锅塌黄_NN
+姜丝拌_NN
+豆浆挂_NN
+麻辣_AD 烤_VV
+鸳鸯_NN 火锅_NN
+双色_JJ 马蹄_NN
+绿茶慕_NN
+海米_NN 白_JJ 菜_NN
+干菜_NN
+鲜果_CS 银_NN
+油爆肚_NN
+五_CD 味白_NN
+口福_NN
+八_CD 宝_NN 百_CD
+迎宾_NN 楼菜_NN
+益力_NN
+青菜_NN 肉丸_NN
+野_JJ 无_VE 花_NN
+桃仁_NN 山鸡_NN
+家乐_NN 鲜_NN
+宝玉鱼_NN
+什_DT 锦_NN 人参_NN
+壶壶油_NN
+金枪_NN 鱼面_NN
+咸味_NN 奶油_NN
+雪里_NN 藏_NN
+醋溜藕_NN
+鲜_AD 柚子_NN
+曲沃_NN 腊牛_NN
+柿子糊_NN
+面包_NN
+鲜奶_JJ 蘑_NN
+辣白_NR 菜_NN
+竹笋_NN 香菇_NN
+麦打_NN
+牛_JJ 舌头_NN
+超_NN
+天府_NN 花生酥_NN
+米果_NN
+柠檬沙_NN
+辣子_NN 牛_NN
+冰糖_NN 蒸鸡_NN
+杨梅_NN
+玫瑰_NN 猪油_NN 大方_NN
+焦糖_NN 咖啡星_NN 冰_NN
+奶层_NN
+酥皮麻_NN
+延寿_NN 堂药_NN
+五_CD 香麻_NN
+松香季戊_NN 四_CD 醇_NN
+上海_JJ 蟹壳_NN
+菠菜鸡_NN
+丝瓜_NN 炖_VV 豆_NN
+铁板_NN 鱿鱼_NN
+艾西_NN 姆桑_NN
+潇湘_NN 五_CD 元_M
+盘古_NR 神_NN
+白_JJ 切_NN
+摩卡奶_NN 油蛋_NN
+长清_JJ 大素_NN
+太原_NT 酱肘_NN
+富_JJ 油_NN
+田园_NN
+拿破_NN 伦_NN
+火腿_NN 萝卜_NN 丝酥_NN
+焦糖泡_NN
+张川_NN 羊羔_NN
+蓝莓罐_NR
+乒乓_NN
+豉_NN 汁_NN 泰椒_NN 浸_VV 海_NN
+轻糖_JJ 杏_NN
+仿膳饽_NN
+柠_NN 汁_NN 炸软_NN
+蚝皇凤_NN
+雪月羊_NN
+郁滋客_NN
+油煎鸡_NN 蛋蘸蜂_NN
+五_CD 味香_NN
+松丝汤_NN
+豆腐排_NN
+葱豉_NN 豆腐_NN
+镇平_JJ 道口_NN 烧_NN
+依_P 幼_NN 鱼_NN
+烧填_NN
+干窝_VV 带_VV 皮_NN
+原味_NN 腌制_NN
+荞_NN
+辣子鱼_NN
+甜_JJ 合_NN
+拉丝烙_NN
+三_CD 义园_NN 牛_JJ 肉焦_NN
+山楂凉_NN
+黄_JJ 果_NN
+蒸拌冷_NN
+乙酸_NN 香叶_NN
+摔_NN
+煎连_NR 壳_NN
+酸辣_NR 肘_NN
+馄饨_NN 千_CD 层_NN
+葱油桃_NN
+蜜饯葡_NN
+龙抱凤_NN
+醪糟_NN 小_JJ 汤_NN
+大_JJ 荔瓜_NN
+好_VA 乐_JJ 门蛋黄_NN
+荷花豆_NN 腐大_NN
+炸珍珠_NN
+榕树_NN
+乾坤蒸_NN
+焦溜肥_NN
+维西豆_NN
+玻璃_NN 鲜_NN
+醪糟_NN 罐_NN
+芡实_AD 猪_VV 肚_NN
+春城_NR 鲜虾_NR
+生炊_NN 麒麟_NN
+太白_CS 拉_VV
+柠檬_NN 小蛋_NN
+磨浆_NN
+姜葱_NN 蚬芥_NN 蒸鱼_NN
+桂花楂_NN
+双_CD 黄鱼_NN
+炒_NN 八_CD 宝_NN
+乙酸_NN 异丁酸_NN 蔗糖_NN
+强化_JJ 麦乳_NN
+猪油_NN 松子_NN
+辣_JJ 汁_NN 茄_NN
+藜蒿腊_NN
+兰花大_NN
+什_DT 锦_NN 麦胚_NN
+芙蓉套_NN
+沙拉_NN
+梅花_NN 青豆_NN
+什_DT 锦锅_NN
+茶台茗_NN
+天津_NN 炸_VV 酱_NN
+酥炸鸭_NN
+奇味干_NN
+炸鳝_NN
+乙酸二甲基苄基原_NN
+香油_NN 米花_NN
+洞庭_NN 水_NN
+冬菇汤_NN
+正_AD 明_JJ 斋糕_NN
+雪花鱼_NN
+三_CD 鲜蘑_M
+滇八_OD 件_M 糕_NN
+黑白_JJ 冰咖_NN
+糖胶树_NN
+喷火_NN 林宝坚_NN
+彩带鱼_NN
+扒鲍_NN 鱼芦_NN
+黄州_JJ 烧_NN
+双_CD 色煎_NN
+张川锅_NN
+肉花_NN
+荠菜_NN 肉馄_NN
+酸辣_NR 饺_NN
+知_VV 味_NN 小_JJ 笼_NN
+清_NN 炒_VV 鳝_NN
+白米_NT
+芒果果_NN
+豆沙方_NN
+黑珍_NN 珠汤_NN
+意大_AD 利调_VV
+糕耙稀_NR
+软_JJ 哨_NN
+蓬菜_NN 小_VA
+秦镇_JJ 皮_NN
+徽州_NN 状元_NN
+红辣椒_NN 爆炒_NN 鳝_NN
+鲜_AD 菊_NN
+香菇_NN 烧菜_NN
+冬菇_NN 鸡脚_NN
+上岗_NN 子面_NN
+鲜奶_NT
+三_CD 鲜_NN 冰豆_NN
+夹沙荞_NN
+今朝_NT
+红_NN 万_CD
+五_CD 味沙_NN
+铁板_NN 肥_NN
+生鱼_NN
+香_NN 煎_JJ 土豆_NN
+川鱼_NN 头火_NN
+叉烧炒_NN
+御膳烤_NN
+浓香_NR 鸡_NN
+炊麒麟_NN
+仁寿_NN 芝麻_NN
+水晶扣_NN
+怪味核_NN
+泡椒_NN 黄_JJ 辣_NN
+原笼牛_NN
+什_DT 锦蜂_NN 窝豆_NN
+庐江_NN 小_JJ 红_NN
+清真_AD 什_DT 锦细_NN
+屯溪_NN 徽菜_NN
+陈皮_NN
+卷筒蛋_NN
+菜豆_NN 腐稀_NN
+炒_VV 豆腐_NR
+八_CD 卦鱼_NN
+地_DEV 胆头_NN 炖猪_VV 月_NN
+豆渣猪_NN
+榆皮_NN 面饸_NN
+奶油桂_NN
+皮片乳_NN
+团圆_NN
+苔干_VV 羊肉_NN
+冻冻_NN
+大蒜鲇_NN
+豆面酥_NN
+沙_NN 黄_JJ 蛋角_NN
+家乡碌_NN
+乙基_NN 愈_AD 创_VV 木_NN
+肥肠豆_NN
+搅_VV 醋_NN
+荷兰沙_NN
+油茶炒_NN
+百合牛_NN
+意式拉_NN
+奇力_NN
+凉拌芫_Err
+老冬_JJ 瓜荷_NN 叶_NN
+三_CD 杯脚_NN
+龙眼_NN 甜_VA 烧_PU
+奶油_NN 小_JJ 饼_NN
+琅琊酥_NN
+银耳_NR 汽锅_NN
+奶汁_NN
+甜酸海_NN
+挂_VV 炉_JJ 沙板_NN
+南霞_NN 泥鳅粉_NN
+首乌_NR 鸡_NN
+豆茸酿枇_NN
+豆沙苹_NN
+莲蓉_NN 甘露_NN
+海天_NN 老抽_NN
+翡冷翠_NN 提拉米_NN
+混糖锅_NN
+羟甲基_NN 淀粉_NN
+翡翠鸡_NN
+苏式船_NN
+绒鸡待_NN
+芝麻_NN 酥心_NN
+洪洞醪_NN
+沙市_NN 甜_JJ 独_NN 蒜_NN
+淮杞鸡_NN 脚响螺_NN
+单县_JJ 四君子_NN
+烟肉_NN 蛋麦_NN 满_NN
+夏茂芋_NN
+挂炉_NR 山_NN
+糯米塞_NN
+宫廷_NN 小_VA 黄_PU
+峡州_NN 碧峰_NN
+三_CD 鲜_P 鱼_NN
+汾宁_NR 白糖_NN 棉花_NN
+花式_NN
+篮球鸽_NN
+猪油松_NN
+松树猴_NN
+水浒_NN
+虫草鹌_NN
+牛肉_JJ 末炒芹_NN
+苏式_NN 鲜_CC 肉月_NN
+宫灯鱼_NN
+糯米_NN 甜_NN
+蕃茄鸡_NN
+荷_NT 包鱿_VV
+熟栗_NR
+拉糟_NN 鱼_NN
+仔姜牛_NN
+海天_NN 黄_JJ 豆_NN
+决明_NN
+生炒_NN
+冬菇_NN 蒸滑_NN
+黄精蒸_NN
+前_JJ 菜_NN 七_CD
+峨秀_NN
+库车汤_NN
+癸酸乙_NN
+杨梅虾_NN
+鸡茸笔_NN 架鱼_NN
+蜜饯鲜_NN
+压合_NN
+牛蒡_NR
+油脂_NN
+青苔_NN 童鸭_NN
+油条_NN 烩_NN 鳝_NN
+姜茸_NN 柠檬_NN 锔鸡_NN
+劲霸鲍_NN 鱼_NN
+札_NN
+酱焖鹌_NN
+海带焖_NN
+九_CD 洞_NN 矿泉_NN
+青海名_NN
+黑京_NN
+莲子膳_NN
+平锅_JJ 羊_NN
+御泉_NN 杏仁_NN
+藕粉_NN
+李咸_NN
+麻辣_AD 黄_VA
+詹王_NN 火腿_NN
+米冻_NN
+北杏_NN 猪肺_NN
+参芪_VV 红枣乳鸽_NN
+当_P 归百_OD 合_Err
+大_JJ 理_NN 雪_NN
+丁酸苄_Err
+粟米_NN 香菇_NN 排骨_NN
+塞上_NR 香_NN
+豆沙奶_NN
+湘_NN 西_NN 外婆_NN
+虾须牛_NN
+枸杞_NN 牛_JJ 鞭_NN
+腊味_NN 芋头_NN
+叉子火_NN
+红苕_NN
+酱桃_NN
+蜜饯苹_NN
+含羞_NN
+辣_NN 味_NN 肉皮_NN
+烙糕_NN
+黄_JJ 蜀葵_Err
+什_DT 锦点_NN
+子萝卜_NN
+宫廷风_NN 味糕_NN
+新都_JJ 桂花_NN
+红烧滑_NN
+海带_NN 萝卜_NN
+东阴_NN
+芙蓉_NN 藿香_NN
+小鸡_NN 煮_VV 稀_NN
+辣椒_NN
+板栗焖仔_NN
+大块_AD 煮_VV 羊_NN
+八_CD 宝梨_NN
+沙蒿_NN
+蜜饯瓜_NN
+土豆粑_NN
+包饼_VV 油_NN
+蚝油_NN 叉烧_NN
+御膳豆_NN
+白羊_JJ 肾_NN
+杏仁_NN 小饼_NN
+徽州蒸_NN
+乳膳_NN 萨_VV 其_PN
+灵山粗_NN
+鹿茸_NN 牛肉_VA
+白_JJ 芷_NN
+合_VV 油_NN
+赖桃_NN
+盐水肫_NN
+金樱子_NN
+椿芽焖_NN
+墨鱼_NN
+红烧腐_NN
+腌水芥_NN
+地_DEV 栗_NN
+剁椒_NN 小_JJ 芋_NN
+香蕉锅_NN
+德式_JJ 土豆_NN
+翡翠_NN 鸳鸯_NN
+太极_AD 发财_VV
+清_AD 炒小花_Err
+长治_JJ 山楂_NN
+木糖醇_NN 酐单硬脂酸_NN
+奶油西_NN 兰_NN
+豆角_NN 干煲_VV 鲩鱼_NN
+生熏_NN 大_VA 黄_PU
+玛瑙_NN
+夹心虾_NN
+凤尾群_NN
+慈禧_NN 小窝_NN
+前_JJ 菜_NN 四_CD
+鹤庆米_NN
+黄焖鸭_NR
+金钩翡_NN
+糖炒_NN 大_VA
+五_CD 香干_NN
+培根奶_NN 油蛋_NN
+果胶酶_NN 制_NN
+蜜饯莱阳_NN
+蔊菜_NN 雪梨冰糖_NN
+芙蓉鱼_NN
+意大_NR 利式_NN 米_NN
+油炸麻_NN
+糖醋素_NN 排_NN
+白_JJ 汁_NN 牛_VA
+冰糖金_NN 耳鸽_NN
+红薯宽_NN
+金牌_NN 叉烧_NN
+冰镇_NN 番茄_NN
+泉水土_NN
+鲜_AD 肉_JJ 榨菜月_NN
+雪花鸡_NN
+五_CD 香熟_NN
+乌梅_NN
+蒲公_NR 英_NN
+珍珠肠_NN
+烟薰鸭_NN
+百_CD 草_NN 梨膏_NN
+己_PN 基间苯_NN 二_CD
+长治_JJ 腊驴_NN
+鸡丝伊_NN 府_NN
+可_VV 可_VV 桃_NN
+恭城_NR 柿_NN
+香脆锅_NN
+西湖藕_NN
+鱼头酸笋_NN
+鲜_AD 百合_CS 煎酿绿_NN
+响铃_NN
+碱酥_NN
+王家_NN 核桃烧_NN
+土豆松_NN
+泰山_NN 豆腐_NN
+香炸雪_NN
+白玉_JJ 藏_NN
+葱烧_NN 鲨鱼_NN
+肉蓉_NN 玉米_NN
+五_CD 华_NN
+四_CD 喜乾_M
+广东省_JJ 海南_NN
+新南_JJ 轩酒_NN
+连理_NN 双_CD 味_NN
+金钱口_NN 蘑_NN
+鸡蛋春_NN
+沙河蛋_NN
+晶_CD 糕肉_NN
+西湖_NN 蜜皇彩_NN
+炒虾_NN
+无_VE 花果_NN 炖_VV 瘦_NN
+泰州干_NN
+风林茄_NN
+出口马_NN
+热水_NN
+油糊_NN
+肉片_NN 炒_VV 莴_NN
+五_CD 彩虾_NN
+油泡_NN 鱼青_NN
+素_AD 炒_P 豇_NN
+可_VV 可_VV 麦_P 乳_NN
+砂锅_NN 炖_VV 驴_NN
+菜_NN 远_AD 牛_VA
+随_P 上_NN 薄_NN
+参_NN 茸_NN
+海米_NN 珍珠_NN
+山药_NN 鲫鱼_NN 豆腐_NN
+酥油_NN 太_AD 花_VV
+法式_JJ 红酒焗_NN 蜗_NN
+佛豆_NN 柠檬_NN
+香蕉_NN 蛋奶_NN
+细馓_NN
+鸽戏牛_NN
+琵琶_NN
+太_AD 平猴_JJ 魁绿_NN
+七_CD 彩_NN 什_DT 锦_NN
+红烧猪_NN
+当_P 归獐_NN
+黑豆焖_NN 猪_NN
+糖化酶_NN 制_NN
+油焖草_NN
+藏族吹_NN
+东坡茄_NN
+牛肉_JJ 烧_NN
+蟹黄肉_NN
+洱海_NR 海_NN
+香滑椰汁_NN
+什_DT 锦花_NN
+菊花_NN 黄_VA 浸_PU
+莲子_NN 银耳_NN
+酸_AD 辣_JJ 鱿鱼_NN
+芋儿_NN 烧排_NN
+八_CD 宝黑米_M
+红焖羊_NN
+姊妹_NN 七_CD
+潮州_NN 腐乳_NN
+明珠_NT 香芋_NN
+桂花栗_NN
+发_VV 米_NN
+冰豌豆_NN
+油豆_NN 腐镶_NN
+石家酱_NN
+济南香_NN
+白巧_JJ 克力_NN 冰淇_NN
+椒油扁_NN
+肉末_NR 胡萝_Err
+泡椒河_NN
+椒河_NN
+脆皮_NN 马蹄_NN
+桂圆_NN 羊肉_NN
+牙牙_NN
+芦笋_NN 炒牛_NN
+鲎_NN
+水晶_NN 梅花_NN
+曹马_NN 芝麻_NN
+萝卜煮_NN 肉_NN
+高_JJ 倍果_NN
+紫苏梅_NN
+红枣薏仁_NN
+牛肉_JJ 小_NN
+高_JJ 丽鱼_NN
+苗家_NN 粉蒸_NN
+珍珠粉_NN
+炸_AD 大_VA
+蚕豆_NN 炒_VV 虾_NN
+甘麦_NN 红枣_NN
+绩溪_VV 一_CD 品_NN
+双_CD 色软_NN
+御香_NN
+朴枳_NN
+怪味_NN 大_VA
+铁板鸡_NN
+蒸鸡_NN 蛋肉_NN
+叉烧鸭_NN
+冰糖_NN 哈_VV 士_NN
+火爆腰_NN
+漆油炒_NN 米_NN
+抚仙湖_NN 抗浪_NN
+铜井_NN 巷素_NN
+滑溜贝_NN
+天水搅_NN
+凉拌_VV 牛_VA
+酥盐鸡_NN
+清蒸_NR 鲻_NN
+三_CD 鲜_NN 紫米蛋_NN
+薏仁_NN 猪肚_NN
+蜜_NN 汁_NN 金_ETC
+大叶_AD 苦_NN
+五_CD 香苦_NN
+糖醋鸡_NN
+雪蛤膏_NN 专门_NN
+老二_OD 位_M 麻_NN 酱烧_NN
+杏仁薄_NN
+花草木_NN 三_CD 友_NN
+鸡蛋_NN 熨斗_NN
+明珠_NR 豆_NN
+河南卤_NN
+甜酱_NR 萝_NN
+九_CD 姓团_NN
+蘑菇窝_NN 窝_VV
+脆皮桂_NN
+烧鸡_NN
+鲤鱼_NN 补血_NN
+莲香_NN 脱_VV 骨_NN
+香菇素_NN
+三_CD 年_M 陈花雕_NN
+炸熘黄_NN
+低_JJ 脂芝_NN 士蛋_NN
+鸡豆冰_NN
+小_JJ 林黄_NN
+水晶枇_NN
+奶油回_NN
+枣泥_NR 松_NN
+西式酥_NN
+毛豆_NN 煎_JJ 臭_JJ 豆_NN
+安康窝_NN 窝_VV
+清蒸_NR 鹰_NN
+金_NN 万_CD 利_NN 香橙_NN
+姜汁扁_NN
+通草_JJ 排骨_NN
+爆炒猪_NN 血丸_NN
+姜味蛋_NN
+三_CD 鲜瑶_M
+玻璃蛋_NN
+西安_JJ 油酥_NN
+直腰_JJ 虾_NN
+素_AD 脆_NN
+香焙_NN 核桃_NN
+八_CD 宝蜜_NN
+香酥凤_NN
+蟹肉西_NN 兰_NN
+菜豆_NN 腐节_NN
+青萝_NN 卜陈_NR 皮煲鸭_NN
+吴常_JJ 昌牛_NN
+油爆鱿鱼_NN
+芹_CD 黄鱼_NN
+干烹_NN 仔_NN
+重油_JJ 炒_NN
+梅兰锡_NN 咖_NN
+兼_P 善_CD 餐_M
+松子茄_NN
+詹王_NN 猪骨_NN
+酸_CD 汤饵_NN
+罗卜_NN
+清_CD 汤米_NN
+潮汕朥_NN
+美味_NN 葱油_NN
+桂花_NN 辣_JJ 酱_NN
+梅竹山_NN
+板栗仔_NN
+花江炒_NN
+原只_JJ 木瓜_NN 炖_VV 雪_NN
+生呛_NN 梭子_NN
+桔烧_NN
+青瓜_JJ 皮蛋_NN
+芒果鸡_NN
+五_CD 香酥_NN
+双色_JJ 绿茶饼_NN
+红薯酸_NN
+温江酥_NN
+香烤肋_NN
+上_JJ 汤_NN 虾_NN
+绿豆_NN 小米_NN 稀_NN
+萍踪叠_NN
+杏仁_NN 银肺_NN
+姜拌_NN
+一_CD 品酥_NN
+大西_JJ 洋珍_NN 鲑比_NN
+荷叶_NR 三_CD
+虾仁吐_NN
+韭菜_NN 鲜_NN
+核桃鸡_NN
+正宗_JJ 涮羊_NN
+沙司_NN 牛_NN
+麻花_NN 酥鲫_NN
+桂花酱_NN
+希腊_NN 雪花_NN
+猪皮萝_NN
+秦邮_NN 全_DT 鸭_NN
+柯尔克_NN 孜族_NN 烤全_NN
+桂花炒_NN 米_NN
+丝丝_NN
+明_AD 顺_VV 斋烧_NN
+蜜饯桔_NN
+酸_CD 菜梅_NN
+绿豆_NN 乳饮_NN
+美味_JJ 蛋包_NN
+麻辣_JJ 萝卜_NN
+豆腐_NN
+椒盐肘_NN
+象_P 眼鸽_NN
+斜切_NN 通心_NN 粉沙_NN
+豉_NN 汁_NN 凉瓜炆_NN
+龙凤瓦_NN
+青椒塞_NN
+辽_NN
+锅煽豆_NN
+金腿_NN 烧圆_NN
+翠竹_NN 粉蒸_NN
+金溪_NN 藕丝_NN
+豆瓣鲜_NN
+牛柳_NR 炒白_NN
+西洋烩_NN
+菠萝软_NN
+回族_NN 碾馔_NN
+欧利_NN
+椒油银_NN
+尤溪卜_Err
+希乐_NN
+干连福海_VV
+鸳鸯_NN 夹心_NN
+金牌_NN 手撕_NN
+食嘉_NN
+甜酸豆_NN
+烧卖_NN
+氢化_JJ 松香_NN 甘油_NN
+碧波田_NN
+桂花_VV 栗子_NN
+西瓜奶_NN
+虎皮_NN 梳子_NN
+鱼米_NN
+明_AD 炉_JJ 梅子_NN
+五_CD 香辣_VV 味牛肉_NN
+玉兰明_NN
+椰香_NN 咖喱_NN
+鱼胶_NN 圆肉_NN 炖_VV 水_NN
+新鲜_JJ 木瓜_NN 南北_NN 杏炖雪_NN
+芦笋鲍_NN 鱼_NN
+上汤_JJ 奶白_NN
+炒豌豆_NN
+莲花_NN 蛋_NN
+严州_NR 雪_NN
+干贝_JJ 萝卜_NN
+金钱吐_NN
+水晶_NN 翡翠_NN
+葱花缸_NN
+凉_JJ 瓜_NN 浸_VV 田_NN
+根面_NN
+新郑_JJ 丁家_NN 粉蒸_NN
+酸_AD 辣_JJ 萝卜_NN
+刺云_NN 实_NN
+海参碗_NN
+网油鱼_NN
+花色酥_NN
+什_DT 锦南_NN
+酸_CD 枣_PU
+鲜_AD 炒_P 鱼_NN
+美国_NR 香_NN
+石屏_NN 荔枝_NN
+白岘_JJ 吊瓜_NN
+鯮鱼_NN
+柠檬薏米_NN
+一品蒸_NN 黄_VA
+醉蟹清炖_VV
+绿豆_NN 冬瓜_NN
+沙维_NN
+李派林_NN 急_VA
+萝卜氽鲫_NN
+小_JJ 稀_JJ 瓜_NN
+花旗参_NN 炖水_NN
+麻花腰_NN
+稀珍_JJ 黑米_NN
+冬瓜_NN 连_VV 锅_NN
+甜玉_NR 米饮_NN
+海参肘_NN
+红酒沙_NN
+两_CD 英_NN 番薯_NN
+含羞丸_NN
+锅散_NN
+法式_JJ 芝香烤_NN
+蛋酥炒_NN
+薄荷_NN 叶松_NN
+鱼香_NN 牛_NN
+干捞_NN 米_NN
+珍珠_NN 豆腐_NN
+网包_NN 鳜_NN
+罐罐豆_NN
+燕窝_NN 炖雪_NN
+木瓜_NN 煲老_NN
+皖古_NN
+什_DT 锦蛋_NN
+盐焗_NN 鹌鹑_NN
+上海_JJ 汤_NN
+千_CD 层_M 蒸_NN
+龙衔海_NN
+茶绿色_NN
+菊花佛_NN 手_NN
+淳安_NR 辣椒_NN
+奇异果_NN 煎_JJ 虾_NN 沙_NN
+羊耳鸡_NN
+菠菜_NN 炒生_VV 鱼_NN
+双_CD 薯沙_NN
+宁夏_NT 酿皮_NN
+小_JJ 煎仔_NN
+日式戚_NN
+兰度鸽_NN
+裹烧茭_Err
+五_CD 寨_NN 猪黑_NN 肉炖_NN
+翡翠玉_NN
+宫保_NN 兔_NN
+蜜枣银_NN
+糖醋_JJ 包_NN
+墨鱼_NN 香菇_NN 冬笋_NN
+果酱金_NN
+莲蓉小_NN
+四_CD 样_M 荤_NN
+猪油发_NN
+蕃茄马_NN
+活血药_NN
+太平_AD
+奶油_NN 花蛋_NN
+酱蜜汁_NN 烤鸭_NN
+酸_AD 辣_JJ 岩水豆_NN
+晋城_NN 炒_VV 凉_NN
+气磺_NN
+麦胚饼_NN
+酸_CD 笋焖_NN
+抹_VV 茶_NN 轻乳_JJ 酪蛋_NN
+浦江蟹_NN
+白_JJ 炒_VV 虾_NN
+四_CD 甜蜜_M
+劲霸_NN 辣椒_VA
+岳南泡_NN
+土豆_NN 烧_VV 肉_NN
+香煎茄_NN
+木_NN 三_CD
+五_CD 味花_NN
+混堂_JJ 锅_NN
+劲霸橙_NN
+酸_AD 包菜_VV 炒_VV 粉_NN
+稀豆_NN 粉油_NN
+精莜_NR
+玻璃酥_NN
+锅贴_NN 鸡_NN
+椒油茭_NN
+菠菜煎_NN
+芙蓉鱼_NN
+沙县_NN 豆腐_NN
+肌醇_NN 六磷酸_NN
+镇远陈_NN 年道_NN
+干_VV 锅_NN 飘_VV 香_NN 手撕_NN
+弋阳醋_NN
+三_CD 色_NN 鸡鱼_NN
+矮子_NN
+南瓜_NN 小_VA
+笋鲍鱼_NN
+干煸_NN 鳝鱼_NN
+鲜_AD 竹_P 牛_NN
+果胶裂_NN 解_VV
+炒_NN 三_CD
+鸡粥蒲_NN
+龟鹤_NN 延年_NN
+黑豆叶_NN
+龙眼_NN 莲子_NN
+老大_JJ 房月_NN
+面_NN 筋_VV 皮_NN
+蜜饯马_NN
+湖南腊_NN
+圆白_JJ 菜炒_NN 腊_NN
+甘笋蒸_NN
+福山烧_NN 小_VA
+龙凤炒_NN
+水晶_NN 蹄膀_NN 香肴_NN
+糖醋_NN 软_JJ 熘黄_NN 河鲤_NN
+一品_NN 豆腐_NN
+翠竹粉_NN 蒸鮰_NN
+锅榻腰_NN
+二_CD 仙_NN 烧羊_NN
+热炒_NT 四_CD
+沙茶_NN
+荷叶新_NR 凤_NN
+香菜_NN
+保德碗_NN
+佛手_NN 三_CD
+火腿酥_NN
+潮州肉_NN
+羊尾_NN
+百合灵_NN
+麻辣_NN 猪_NN
+棉城_NN
+甘菊猪_NN
+芪蛇_NN
+羊肉合_NN
+酱爆_NN 肉酥_NN
+海天_NN 上_LC 等_ETC 蚝_NN
+参芪_VV 炖白_NN
+虾籽管_NN
+荷包_NR 水_NN
+金华馒_NN
+泰式_NN 千_CD 层_NN
+太_AD 史_NN
+牛膝_NR 炖猪_NN
+红杞活_NN
+虾皮_NN 炒_VV 冬_NN
+西柚_NN 三文_NN
+百_CD 鸟还_NN
+补血酥_NN
+香爆螺_NN
+千_CD 岛汁_NN 鸡_NN
+发饽_NN
+怀胎桂_NN
+扒酿海_NN
+秋_CS 梨膏_VV 的_DEC 做_NN
+麻雀肉_NN
+热带_NN 杂_JJ 果_NN 罐_NN
+芥_CD 末鸭_NN
+茄汁_NR 菜_NN
+踏绿_NN
+酥心脆_NN
+牡丹蝎_NN
+回锅腊_NN
+五彩_CS 炒驼_NN
+卡蕾多_NN
+灯影苕_NN
+烧_NN 三_CD
+西式_JJ 烤面_NN
+桂林粽_NN
+上海_JJ 炸猪_NN
+真_AD 如_P 白_JJ 切羊_NN
+苦瓜_NN 黑_JJ 鱼_NN
+荞麦面扒_NN
+虾羹_NN
+熘豆_NN
+馄饨鸭_NN
+红豆_NN 百合糖_NN
+冬蓉_NN
+小羊_NN
+鲜_AD 果_NN
+烟熏_NN 三_CD 文_NN 鱼沙_NN
+白沙_JJ 井水_NN 煮白扎_NN
+白浇_JJ 鳙鱼_NN
+北京美_NN
+落叶_NN 琵琶_NN
+木洞晒_NN
+酥卷佛_NN
+韩式_NN 烤_VV 鱿_NN
+草莓薏_NN 仁优_NN
+冬瓜_NN
+羊肉扁_NN
+苣荬菜_NN 包_VV
+奶汤元_NN
+德国_NR 乳酪蛋_NN
+聚氧乙烯_NN 山梨醇_NN 酐单月桂酸_NN
+八_CD 公山_NN 雪月_NN 银_NN
+美式_JJ 炭_NN 烤排_NN
+蒜苗炒_NN
+杭式_JJ 榴莲_NN
+秦安_NR 米_NN
+鲜_AD 肉_NN 抄_VV
+清_CD 江鱼_NN 茄子_NN
+芝香_NN 鸡肉_NN
+帕玛森_NN 芝_NN
+锦州_NN 什_DT 锦小_NN
+五_CD 香_NN 松花_NN
+松子_NN 枣_NN 泥拉_NN
+枸杞_NN 山药_NN
+真豆_NR 咖_NN
+砂钵_NN 黄_JJ 陂_NN 三_CD
+盐菜_NN 回锅_NN
+怡神饮_NN
+凤翔豆_NN 花泡_NN
+暇油黄_NN
+景芝_NN 三盖_NN
+烧罗_NN 汉面_NN
+绣_CD 球全_NN
+咯嗒_NR
+小_JJ 炒白_NN
+炖口_NN 蘑龙凤_NN
+百_CD 乐熏_NN
+巍山蜜_NN
+软_JJ 煎_JJ 虾_NN
+乾州_NN 豆腐_NN
+姜爆_NN 三_CD
+杂_NN 瓣_VV 海_NN
+豆皮卷_NN
+绿茶_NN 糯米_NN
+爆炒乌_NN
+香芒_NN 心太_NN
+天麻_JJ 全_NN
+芙蓉烧_NN
+葡皇世_NN
+串烧_VV 海_NN
+文昌_NT 空心_JJ 煎_NN
+炝玉龙_NN
+双_CD 烤_NN
+鲜果_CS 馅汤_NN
+溜锅_NN
+酸_JJ 腌菜炒_NN
+鱼头_NN 粉丝_NN
+芝麻锅_NN
+松花彩_NN
+温江_NN 程抄_NN
+溪口香_NN
+生炒_NN 蒜苔_NN
+香草_NN 绿豆_NN
+南乳小_NN
+维也_AD 纳巧_VV 克力_NN 杏仁蛋_NN
+田纳_VV 西黑_NN
+鸡蓉_NN 奶油_NN
+八_CD 宝炒_NN 年_NN
+巧克力_NN 松露蛋_NN
+枸杞香_NN
+炒绵羊_NN
+氏丸_NN
+油汆_NN 排骨年_NN
+香芒冰_NN
+纳溪泡_NN
+蛏溜_NN
+芝麻鱼_NN
+荤罗_NN
+红烧猪_NN
+五_CD 仁_NN
+紫盖_NN
+清_NN 炒_VV 莲_NN
+土豆火_NN 腿沙_NN
+藏族血_NN
+临汝药_NN
+御_NN 菜_NN 一_CD
+麻辣_NN 肉_NN
+山珍蕨_NN
+蓝_JJ 圣_NN
+二_CD 块粑_NN 炒火_NN
+泰国_NR 炸_NN
+肉茸菠_NN
+鱼香_NN 油菜_NN
+湘式_JJ 酥_NN
+新疆_JJ 琉璃葡_NN
+五_CD 彩蟹_NN
+炸佛手_NN 通_VV
+八_CD 宝膳_NN
+阆_NN 中_LC 白糖蒸_NN
+刀鱼_NN 羹卤子_NN
+对_P 羟基苯甲酸丙酯_NN
+木耳鸡_NN
+总_JJ 汇沙_NN
+李锦_NN 记财_NN 神蚝_NN
+芝葱_NN
+白果_JJ 南杏_NN 生鱼_NN
+蜜_NN 汁_NN 一品_NN
+烫面油_NN
+疆字_NN 红油_NN 百_CD
+五_CD 花肉_NN 炒豆_VV 腐泡_NN
+兔耳草_NN
+泡椒乳_NN
+清_AD 炖萝_VV 卜牛_NN
+何首_NR 乌山_NN
+宰羔_NN
+西式_JJ 米花_NN
+糯米_NN
+碧玉_NN 豌豆_NN
+山楂_NN 牛肉_VA
+奶油火_NN 腿馅_NN
+冬菇炒_NN
+尖椒耗_NR 儿_NN
+阿胶养_NN 阴_NN
+豆苗_NN 蘑菇_NN
+万_CD 字珊_NN 瑚白_NN
+千_CD 岛湖_NN 红_JJ 烧鱼_NN
+百_CD 果_NN 提浆_NN
+菊花_NN 海鲜_NN
+茄_CD 汁_NN 牛_VA
+蛋黄凤_NN 尾白_NN 玉_NN
+兰州_NN 烤_VV 羊_NN
+奶油_NN 蘑菇_NN
+野生_JJ 大鱼_NN
+椒盐锅_NN
+酸_AD 辣_VA 冷_VA
+铁素_NN 四_CD 色_NN
+银_NN 耳果_NN
+锡包银_NN 鳕_NN
+南疆_NN 水晶_NN 无_VE 花_NN
+雁荡白云_VV
+无_VE 字盐_NN 水牛_NN
+扶风鹿_NN 羔_NN
+冬菇雪_NN 耳猪胰_NN
+姜丝牛_NN
+肉_NN 未_AD 烧_VV
+清_NN 蒸_NN 西瓜_NN
+玉林_NN 牛_VA 腩_CD 米_M
+蜜汁肥_NN
+红扒鱼_NN
+孝义_NR 火_NN
+淡_NN 菜_NN 紫菜_NN 瘦_VV 肉_NN
+剁椒_NN 胖_JJ 鱼_NN
+炊莲花_NN
+之_DEG 江鲈莼_NN
+炒腰_NN
+党参_NN 黄_JJ 芪_NN 炖_VV 鸡_NN
+银鱼藕_NN
+杨长子_NN 火腿_NN
+新红_JJ 铝色_NN
+文_NN 成_VV 拉_NN
+莲篷豆_NN
+五_CD 夫醉_NN
+炸豆_NN
+清蒸_NR 青_NN
+葱辣_NN 鱼_NN
+炸吉_AD 利排_VV
+鲜奶_JJ 泡_NN
+代黄_NR
+菜烩_NN
+青椒南_NN
+龙眼凤_NN
+关爷宫_JJ 前尖_NN 米_NN
+蛋白果_NN 汁饮_NN
+山梨醇_NN 酐单硬脂酸_NN
+三_CD 色鸡_NN
+孔府_NN 烤花_VV 搅_VV 鲑_NN
+家常_NN
+炸糯米_NN
+东坡鳊_NN
+粉丝海_NN 米芹菜_NN
+干火_NN 靠_AD 大_VA
+糖醋猪_NN
+柠檬_NN 黄_JJ 铝_NN 色_NN
+通草_AD 炖_VV 猪_NN
+卧龙戏_NN
+果酱_NN 蛋糕_NN
+川冬_NN 菜炒_NN 鲜_AD 蚕_VA
+罗望子_NN 多糖_NN
+玉林肉_NN
+香脂醋_NN 风味烤_NN
+泡菜_NN 炒肉_NN
+麻滋_NN
+红糟鱼_NN
+基本_JJ 戚风蛋_NN
+枣_NOI 仁_NN 龙眼_NN
+木耳_NR 红枣_NN
+桑椹_NN 红枣_NN
+干锅_NN 带_VV 皮_NN 黄牛_NN
+肉丸豆_NN
+淮杞炖_NN 羊_NN
+田艾_NN
+千_CD 层_M 发_NN
+奉_P 香_NN 上_LC
+普斯_NR 福_NN
+罐儿_NN
+水晶_NN 明_CC 虾_NN
+素_AD 桃_NN
+己_PN 基_NN 肉桂_NN
+豆沙松_NN
+蜜芙_NN
+波丝油_NN
+蟹粉_NN 西兰_NN
+黄豆_NN 猪肝_NN
+泸州鱼_NN 头火_NN
+赣州_NN 三_CD
+芦笋大_NN
+大_JJ 理_JJ 翠梅酸辣_NN
+大_JJ 石_NN 四_CD 季_NN
+二甲基苄基原_NN
+泡绿菜_NN
+八_CD 珍月_NN
+八_CD 宝银_NN 耳_NN
+贡品麻_NN
+肉苁蓉_NN 炖_VV 羊_NN
+肉苁蓉_NN 炖_VV 羊_NN
+夏威夷_NN 冰咖_NN
+鲜椒嫩_NR 仔_NN
+金银鸽_NN
+水煎_NN
+杞忧烘皮_NN
+美式_JJ 洋葱_NN
+苦麦菜_NN 鲩鱼片_NN 滚豆_NN
+银耳_NR 香菇_NN 鸡_NN 肉_NN
+干烧萝_Err
+持_VV 炉_NN 珍珠_NN
+仪征_NN 雀脯_NN
+玉竹心_NN
+熟_JJ 鱼_NN
+凤凰萝_NN
+随_P 上_JJ 荷叶_NN
+西洋_NR 菜蜜_NN 枣_CC 鲫鱼_NN
+歙县豆_NN 腐脑_NN
+糖醋莴_NN
+花生_VV 酥心_NN
+醋椒活_NN
+香_NN 煎_JJ 柠檬_NN
+蝴蝶烩_NN
+甘甜_JJ 黑巧克_NN
+海天_NN 老抽_JJ 豉油_NN
+寡妇_NN 之_DEG
+鸡丝炒_NN 年_NN
+哈尔_JJ 滨熏_NN
+醋辣_NR 白菜_NN
+桂花_JJ 红烧_NN
+陈年_NN 菜脯_NN
+鲜牛_JJ 奶煮_NN
+抹茶_NN 冰淇_NN 淋蛋_NN
+清_CD 蒸杞甲_NN
+广式_JJ 腊味_NN 煲仔_NN
+津_NN 八_CD
+山梨醇_NN 酐单月桂酸_NN
+麻辣白_NN
+酸_NN 汤_NN 龙骨_NN
+胡桃_NN 豆腐_NN
+绿豆_NN
+回族_NN 麦芽_NN
+脆署_NN
+铁扒仔_NN
+重庆_JJ 火锅_NN
+桃杞鸡_NN
+天冬蜜_NN
+粉丝香_NN 菇蛋_NN
+海鲜_JJ 豆腐_NN
+抹茶_NN 椰奶_NN 凉_NN
+干锅_NN 腊味河_NN
+老妈_NN 子带_NN
+龙岭_NN 五_CD 炒_NN
+豉椒_NN 炒牛_NN
+翡翠_NN 瑶柱_NN
+上海_JJ 蒸_NN
+玫瑰_NN 凉_VA 糍_PU
+三七_NN 蒸_NN
+清水鲩_NN
+茉莉鱼_NN
+炸蒸_NN
+清_AD 炸黄_VV 河刀_NN
+木耳_NN
+芙蓉海_NN
+宜春松_VV 花皮_NN
+红烧_JJ 麒麟_NN
+龙城狗_NN
+玫瑰_NN 薄荷_NN
+番茄煮_NN 黄_VA
+甜蒲_NR
+鹿邑孔_NN 集卤_NN
+一_CD 品薯_NN
+青豆_NN 牛肉_VA
+提丝发_VV
+麻仁酥_NN
+天水_JJ 浆水_NN
+烧椒拌皮_NN
+乳酪蒸虾_NN
+豉_NN 汁_NN 蟠龙_NN
+苯基苯酚_NN
+如意_CS 竹_NN
+南式_NN 细_NN
+枇杷_NN
+客家茶_NN
+寺前_NT 馄_NN
+支竹_NN 羊腩_NN
+泡菜肉_NN
+睁眼_NN 辣_NN
+法式_JJ 桃子布_NN
+奶黄_NR 雪蛤_NN
+北方嘉_NN
+米茸芋_NN 丝虾_NN
+长春_JJ 鹿鞭_NN
+延边_NN 冷_NN
+湖州_NN 大_VA 馄_PU
+菊花_NN 对_P
+葡萄雪_NN
+莘塍_NN 豆腐_NN
+葡萄_NN 菠萝杏_NN
+新疆_AD 抓饭烧_Err
+得心_JJ 斋酝猪_NN
+软_JJ 蟳_NN
+螃蟹_NN
+干烧_VV 雅_NN
+济南扁_NN
+旺得_NR
+鸡鸭饸_NN
+黄精炖_NN
+松树_NN 猴头_NN
+新疆_JJ 丝路_NN 明_NN
+白_JJ 梨_JJ 凤_NN
+咖喱焖_NN
+橙酒_NN
+秀山雪_NN
+糟煨冬_NR
+马铃_NN 薯冷_NN
+崞阳麻_NN
+十_CD 香_NN
+红咖喱_NN 金瓜_NN 加积_NN
+青豆色_NN
+红蜻_NN 蜓鱼_NN 头火_NN
+芝麻田_NN
+小肉_NN
+锅贴_NN 石斑_NN
+五_CD 柳鲜_NN
+红扒鱼_NN
+虾肉月_NN
+非常_AD 男_VA
+崇州荞_NN
+水煮白_NN 扎_VV
+怿味胡_NN
+桑叶眉_NN 豆_NN
+苕酥_NN
+李锦_NN 记精_NN 选生_VV
+大米_AD 蛋_NN
+章鱼_NN 焖花_NN
+玛瑙银_NN
+嫦娥_NN 奔月_NN
+亮蓝铝色_NN
+五_CD 色沙_NN
+麻食_NN
+渭南_NN 水晶_NN
+二_CD 仙_NN 居碗_NN
+鳝鱼_NN 辣_VA
+鲫鱼_NN 黄_JJ 瓜_NN
+北芪瘦_NN
+彭州_NN 九_CD 尺板_NN
+樊记肉_NN 加_VV
+太子参_NN 百合_JJ 田鸡_NN
+宫廷_NN 小窝_NN
+麻辣_NN 冬_NN
+荷_NT 包圆_VV
+合菜盖_Err
+茄子_NN 三明_NN
+甘草_NN 抗氧化_NN
+南瓜蒸_NN
+紫萝牛_NN
+四_CD 宝_NN 上_LC
+苹果菠_NN 萝_NN 生姜_NN
+雪花鱼_NN
+棠花吐_NN
+鱼云_NN
+四_CD 季美_NN 小_JJ 笼汤_NN
+烩乌龟_NN
+蜜_NN 汁_NN 三_CD 文_NN
+小葱_JJ 烧财_NN
+蜜饯龙_NN
+白蜜_JJ 黄_NN
+鸡蛋包_NN
+鸡肠_NN
+烙饼拌_NN
+豆苗虾_NN
+网油_NN 凤肝_NN
+馄饨_NN 香蕉_NN
+宜宾肺_NN
+红喜_NN
+百_CD 果馅_NN 酒酿圆_NN
+泡椒鸡_NN
+香酥竹_NN 荪_NN
+甜薯_NR
+桂花_NN 白糖_NN
+凤庆_NN 粑粑_NN
+橘露汤_NN
+温州_NN 黄_JJ 汤_NN
+黑_CS 加仑_VV
+香辣_NR 腌制_NN
+荞蕨_NN 象_P 生_NN
+金牌_NN 猪手_NN
+担担_NN
+萨_CS 其_PN 马_NN
+花雕醉_NN
+鸡肉沙_NN 拉口袋_NN
+哈尔_JJ 滨风_NN 干口_NN
+狍子_NN
+欢心_NN
+高_JJ 桥松_NN
+韭菜_NN
+茶熏_NN 八_CD 爪_NN
+水晶团_NN
+炸蚕蛹_NN
+西班_NN 牙土_NN 豆煎_NN
+花生_VV 大_JJ 枣猪蹄_NN
+烤牌_NN
+鱼腥_NR 草蒸_NN
+老汤_JJ 黄狗_NN 猪头_NN
+葱爆兔_NN
+烧鸡_NN 丁_AD 辣_VA
+锅盔辣_NN
+三_CD 丝驼_NN
+贵妃_JJ 松花_NN
+猪_NN 耳朵_NN
+干巴月_NN
+良友橄_NN
+糖醋嫩_NN
+八_CD 宝桂_NN
+红枣_NR 红糖_NN 煮南_NN
+路南乳_NN
+干锅_NN 青笋_NR 腊_NN
+老竹_NN 大方_AD
+糖熘鲤_NN
+宝箱豆_NN
+蜜饯菱_NN
+红烧浮_NN
+西兰_NN 花浓_NN
+北杏参_NN 地_DEC 老鸭_NN
+路易_NN 歌_NN
+滨州_NN 锅子_NN
+红枣炖_NN
+煎豆_JJ 腐鱼_NN
+云耳西_NN 芹_NN 炒_VV 肉_NN
+金腿鲫_NN
+沙锅散_NN
+香烹狍_NN
+大_JJ 顺_VV 斋_CD 糕点_NN
+锥栗罐_NN
+红油抄_NN 手_NN
+山药_NN 煮豆_NN
+番茄_NN 泡蛋_NN
+葱辣_NN 鱼_NN
+莲茸层层_NN
+李锦_NN 记草_NN 菇老_NN
+长寿_JJ 龙须_NN
+绿芦笋罐_NN
+炒_VV 良_NN 乡栗_NN
+八_CD 宝_NN 肉辣_NN
+云南油_NN
+腰果芹_NN
+拔丝蜜_NN
+炝炒包_NN
+果酱咖_NN
+铁板泥_NN
+上海_NR 油_NN
+李锦_NN 记_VV 幼_NN 滑虾_NN
+砂锅_NN 三_CD
+酸奶_JJ 戚_NN
+金色_NN 咖啡_NN
+破酥缸_NN
+绩溪菜_NN
+玉面葫_NN
+山城_NN 棒_AD 棒_VA
+五_CD 白_NN
+酸_AD 辣_VA 三_CD
+湘西_NR 辣_NN
+白果_JJ 桂花_NN
+聚甘油_NN 蓖麻醇_NN
+雾洞_NN
+淮杞_NN 塘虱鱼_NN
+薄荷香_NN
+清蒸_NR 钳_NN
+凤穿_NN 金_NN
+素_AD 臊子_NN
+红枣酥_NN
+艄公_NN 号子_NN
+青蟹_NN 粉丝_NN
+牡蛎蒸_NN 米_NN
+五_CD 香_NN 脆皮_NN
+芝麻肉_NN
+抗坏血酸磷酸酯_NN
+脆皮咕_NN 噜_NN
+香酥山_NN
+玉兰花_NN
+猪油_NN 夹沙_NN
+过桥_AD 牛_VA 百_CD
+一品配_NN
+天山烘_NN
+麻辣_NN 鳝_NN
+疙瘩油_NN
+纸_NN 包_VV 三_CD
+牛膝_NR 蹄_NN
+明_AD 顺斋_VV 什_DT 锦烧_NN
+陆家_NN 浜糖_NN
+荣华_NN 麻香_NN
+藏式面_NN
+敬_VV 奉_P 环_NN
+绿茶软_NN
+五_CD 香腰_NN
+四_CD 喜_P 鱼_NN
+花盏龙_NN
+知_VV 味_NN 斋水爆_NN
+煸馅水_NN
+醋拌莲_NN
+高_JJ 维苏_NN
+巴国_JJ 玉米_NN
+西梅_NN 酿羊_NN
+甜艾_NR
+满天香_NN 贯香_NN
+五_CD 香牛_NN 筋_NN
+鲍_NOI 汁_NN 百_CD 龄_NN
+红椒_NN 爆鲜_NN
+牛奶_JJ 煮平_NN
+洋_JJ 烧排_NN
+雷家_NN 豆腐元_NN
+红酒牛_NN
+金腿_NN 脊梅_NN 炖_VV 腰_NN
+百合_CS 冰咖_NN
+松_VV 脆_NN 海蜇_NN
+清_NN 炒_VV 鸭_NN
+蟹黄_NN 大_VA 生_PU
+油浸_NN 鲳_NN
+巧克_NN 力收_VV 蛋泡_NN
+西红柿_NN 肉片_NN
+蟹_AD 黄_JJ 扒芦_NN
+狗仔_NN
+栗子_NN 焖羊_NN
+尧王_NN
+红茶海_NN 绵蛋_NN
+茄汤_NN 焗香_NN
+鹌鹑枸杞_NN
+滑肉_NN 烩鲜_NN
+焚香入_NN
+漆蜡妙_NN
+银耳雪_NN 梨柚子_NN
+炖豆_VV 腐猪蹄_NN 香_NN
+煎金_NN 钱牛_NN
+冻_VV 豆_NN 腐金_NN
+清明_NN 艾_NN
+金樱子_NN 杜仲_NN 煲猪_NN
+金针_NN 菇_NN 肉丝_NN
+长崎蜂_JJ 蜜蛋_NN
+什_DT 锦_NN 水果_NN
+蜜桂_NN 花生_NN
+清_AD 炖开_VV 凌_NN
+金狮绣_NN
+果汁_NN 煎_JJ 肉_NN
+炝豆_NN
+麻麻豆_NN
+烩金银_NN
+红茶饼_NN
+青椒_NN 炒子_NN
+迟_CD 菜心_NN 滚肉片_NN
+香肠芥_NN
+一_CD 品鲳_NN
+归参山_NN 药猪_NN
+八_CD 宝_NN 蛋炸_NN
+奶油_NN 菠萝_NN
+秘_NN 制_NN 国药_NN 中_LC 华_Err
+香蕉芝_NN 士蛋_NN
+猪头方_NN
+蜜瓜_NN 螺头鸡_NN
+砂仁_NN
+什_DT 锦_NN 多维玉_NN 米面_NN
+玉溪_NN 水晶蜜_NN
+河曲_NR 红_ETC
+灰_NN 树花_NN 保健_NN 饮_NN
+梧州月_NN
+核桃香_NN
+普米_JJ 饭_NN
+一_CD 主_JJ 六_CD
+李锦_NN 记蒸_NN 鱼豆_NN
+香蕉果_NN
+糖醋蜜_NN
+嘉兴_VV 鲜_BA 肉粽_NN
+公爵樱_NN
+酒香椒盐_NN 肘_NN
+生烧_NN 筋尾_NN
+三_CD 涧料_NN
+红茶_NN 法式薄_NN
+软脂_NN
+济南蜜_NN 三_CD
+十二酸乙_NN
+锅熠银_NN
+党参_NN 麦_NN 冬_NN 瘦肉_NN
+木瓜粟_NN 米花_NN 生生鱼_NN
+回手_NN
+洋葱_NN 炒_VV 鳝_NN
+桂花橄_NN
+金柑桔_NN
+奶酪软_NN
+椰蓉马_NN 卡_NN
+鸿起_VV 顺_VV 饭_NN
+虾枣_NN
+银杏_NN 蚬鸭_NN
+香蘑炖_NN
+阿胶_NN 牛肉_VA
+金山_NN 时_LC 雨_NN
+山珍_NN 大叶_AD
+香酥_NN 蛋塔_NN
+渭南_NN 时_LC 晨_P 包_NN
+万_CD 能烤_VV
+干菜_NN 擦_VV 酥_NN
+蜜辣_NN
+榄仁_NN 猪油_NN
+酱爆螺_NN
+劲霸_NN 牛肉_VA
+发面油_NN
+猴头_NN 蘑烩凤_NN
+风鸡斩_NN
+蛤_CS 什_DT 蟆_NN
+稻香_NN 春_NN 南_NN 味食_NN
+银芽_NN 韭菜_NN
+小茶_NN
+素_AD 枣_NN
+江南_NN
+炒山药_NN
+干焙_NR 洋芋_NN
+酥炸嫩_NN
+蓝_JJ 锭果_NN
+什_DT 锦_NN 水果_NN
+白鹅_JJ 煨淡_NN
+天津烧_NN
+西芹鸡_NN
+猪肉烧_NN
+软_JJ 炸子_NN
+桑普_NN
+熊猫蟹_NN
+翡翠烧_NN
+火炙_NN
+大_JJ 花蛋_NN
+葱油_NN 发面_NN
+熬黄花_NN
+椰香_NN 红豆_NN
+葱油草_NN
+水晶_NN 菊花_NN
+百子冬_NN
+高_JJ 丽香_NN
+金华豆_NN
+去_VV 皮_NN 番茄罐_NN
+澳_AD 大_JJ 利亚_NN 的_DEC 芒_NN
+鱼香_NN 酥青_NN
+常州_JJ 德泰_NN
+基斯_NN
+麻心元_NN
+烤牛_NN
+摩利_NN
+核桃_NN 葡萄_NN 干面_NN
+虹桥_NN 绿豆_NN
+生态_NN 咖啡调_NN
+金钱干_NN
+五_CD 彩牛_VV 肉_NN
+凉拌茭_Err
+沙参_NN 心肺_NN
+龙宫_NN 照_P 宝_NN
+牛奶_JJ 千_CD 层_M 蛋_NN
+冷冻_NN 鸭_NN
+五_CD 味明_NN 虾_NN
+紫香_NN
+箬叶芝_NN 麻糖_NN 细_NN
+薯粉_NN
+烤鱼_NN
+落_VV 葵_NN
+三_CD 鲜_NN 龙凤_NN
+油酥_NN 小_JJ 水_NN
+甜_AD 辣_VA
+长寿_JJ 薄_NN
+黑樱桃_NN 烧鸭_NN
+东北_VV 一_CD 锅_NN
+海带_JJ 鸭子_NN
+西安_JJ 包_NN
+柳城_NN 云片_NN
+莳萝芦笋_NN 三_CD 文_NN 鱼_NN
+椰蓉_NN 杏仁_NN
+寿字_NN 五香大_NN
+茄子_NN 煮花_NN
+糕粑藕_NN
+糖酱_NN
+老鸭_JJ 炖虫_NN
+莲童牌_NN 冬瓜_NN
+干贝_JJ 水晶_NN
+炒鸡_NN
+鲤鱼_NN 苦瓜_NN
+红扒排_NN
+紫桂焖_NN 大_VA
+虾米笋_NN
+金枪鱼_NN 三_CD 文_NN
+泡菜鹅_NN
+百_CD 仁全_NN
+川味_NN 沸腾_NN
+玉竹_NN 百合猪_NN 瘦_VV 肉_NN
+奶油_NN 核桃_NN
+苏_NN 八_CD
+卡布_NN 罗尔_NN 巴西烤_NN
+干煸豇_NN
+猪脊_NN 鸡肫_NN
+芥兰炒_NN 香_NN
+麻婆豆_NN 腐餐_NN
+火鞭牛_NN
+豆芽罐_NN
+蛏_NN 干_VV 烧_NN
+凉_JJ 粉鲫_NN
+笨_JJ 月_NN
+钱江鲈_NN
+手撕_JJ 火焙_NN
+麻蓉炸_NN
+苁蓉_NN 羊肉_NN
+枸杞_NN 牛_JJ 肝_NN
+酱烧_NN 冬瓜_NN
+虎皮香_NN
+双_CD 仁浮_NN
+洋参雪_JJ 耳炖燕_NN
+香油膳_NN
+广州_JJ 白切_NN
+南通甜_AD 包_VV
+罗汉鱼_NN
+网油腰_NN
+川味_NN
+松子_NN 黄_JJ 干_NN
+肉末_NN 洋_NN
+鲜_AD 莲_JJ 炒子_NN
+修水_NN 双_CD 井_NN
+玛_NN 加_VV
+豆鼓_NN
+竹桶粽_NN
+白汁_JJ 甘_NN
+仙度_NN 氏咖_NN
+酱油嫩_NN
+油炸卤_NN 制花_NN
+四_CD 喜_P 福_NN
+野_JJ 鸭_NN
+糖水洋_NN 梨_VV 罐_NN
+丁果_CS
+炸鸳_NN 鸯嘎_NN
+红糖锅_NN
+川汁_NR 鸭_NN
+黄金_NN 咖喱_NN
+薄荷蔬_NN 菜沙_NN
+百_CD 叶_NN
+金牛鸭_NN
+天_NN 一_CD 坊饭_NN
+荷花蛋_NN
+自_P 酥_NN
+佤族鼠_NN
+凯司_NN 令蛋_NN
+双_CD 椒烘_NN
+山楂_NN 云卷_NN
+砂锅山_NN
+白_JJ 脱_VV 核_NN
+水_NN 煮_VV 回头_NN
+巍山粑_NN 肉饵_NN
+干_VV 锅_NN 飘_VV 香_NN
+家常_JJ 鸡_NN
+花茹田_NN
+牛肉丝_JJ 炒芹_NN
+三_CD 色蛋_NN
+肝糕_NN
+豆苗_NN 炒_VV 虾_NN
+香菇豆_NN
+李锦_NN 记豉_NN 油鸡_NN
+王婆_NN 麻辣_NN
+大厨来_NR 豆瓣_NN
+云河段_NN
+枣泥_NR 米_NN
+荞面包_NN
+吗啉_CS 脂肪酸盐_NN 果_NN
+红烧鸭_NN
+干锅_NN 野猪_NN
+豉椒_NN 墨鱼_NN
+脆青_NN
+白_JJ 汁_NN 菜_NN
+赤_AD 小_JJ 豆粟米_NN 须生_VV 鱼_NN
+太子参_NN 无_VE 花果_NN 瘦_VV 肉_NN
+面筋_NN 萨_VV 其_PN
+大_JJ 蛋_NN
+原盅炖_NN 北_NN
+八_CD 宝糯米_NN
+青椒豇_NN
+大厨来_NR 蒜蓉_NN 辣椒_VA
+荷叶_NR 米粉_NN
+丝瓜_NN 白_JJ 菜猪_NN 瘦_VV 肉_NN
+氽银_NN 耳鸭_NN
+刀削_NN 油泼_NN
+开远甜蕌_VV
+白炒_JJ 墨鱼_NN
+猪脾枣_NR 米_NN
+干贝_NN 汤_NN
+红枣枸杞_NN
+香草话_NN
+蜜汁_NN 辣_VA 黄_PU
+熬_VV 乳_NN
+干炸_NN 黄_NN
+黄鱼_NN 鱼肚_NN
+荷包_JJ 桂花_NN
+日式_NN 照_P 烧鸡_NN
+李锦_NN 记精选_NN 老_NN
+酸奶_JJ 芝士蛋_NN
+慧娟火_NN 腿笋_NN 干_VV 老_JJ 鸭_NN
+清_JJ 蒸_NN 冬_NN 瓜鸡_NN
+草莓摩_NN
+香菇_NN 茭白_NN
+粉汤彩_NN
+果仁_NN 夹心蛋_NN
+软炸石_NN
+炸元_NN
+雪耳_NR 炖白_NN
+金鱼_NN
+海天_NN 味极_NN
+三_CD 文鱼_NN 寿司_NN
+担担油_NN
+香橙_NN
+油淋鸽_NN
+通_VV 三_CD 益秋_NN 梨_NN
+海鲜_NN 粉_NN
+西红柿_NN 煎_JJ 蛋_NN
+蜜瓜脆_NN
+象_P 生雪_NN
+西府酿_NN
+炒香舌_NN
+广式_JJ 烧填_NN
+乡村_NN 小_JJ 炒_NN
+火爆猪_NN
+姜丝_NN 焗肉_NN
+宿松雪_NN
+昆布_NN 鸡腿_NN
+松花_NN 饼_NN
+板栗月_NN
+猪肉_NN 韭菜_NN 馅水_NN
+蜜饯槟_NN
+银杞明_NR 目_NN
+呱嗒_NN
+固体乳_NN
+绿豆_NN 小煎_NN
+烤鳗鱼_NN 鸡蛋_NN
+金牛_NN 牌奶_NN 油蛋_NN
+打头_NN
+炸_VV 鸡蛋_NN
+山药_NN 薏仁_NN 茯苓粳_NN 米_NN
+赤藓红_NR 铝色_NN
+五_CD 通桥_NN 叶儿_NN
+番茄海_NN
+耀华_NN 西餐_NN
+生_VV 地_DEC 排骨_NN
+鹅肝_NN
+果汁_NN 牛肉_VA
+大枣百合_AD
+栗子_NN 莲子_NN 猪腰_NN
+鱼鳞_NN
+鱿鱼_NN 蒜头_NN
+毛豆_NN
+三角火_NN
+水饺豆_NN 沙煎_NN
+拔丝楂_NN
+湖米茭_NN
+人参_NN 枣_PU
+四_CD 色片_NN
+吉祥干_NN
+砂煲鱼_NN
+川味_NN 口水_NN
+桐庐白_NN
+咸鱼_NN 茄瓜_NN
+蜜汁蕃_NN
+素_AD 锅_NN 烤_VV
+聚氧乙烯_NN 木糖_NN 醇酐_NN 单硬脂酸_NN
+自贡水_NR 煮牛_NN
+金钱_NN 牛_NN
+铁板_NN 日本_NR 豆_NN
+清水_JJ 滑子_NN 蘑罐_NN
+香肠_NN 烧菜_NN
+酷_JJ 蛋白酸_NN
+云托_NN 八_CD
+珊瑚鱼_NN
+莲子_NN 营养_NN
+清蒸_NR 鹌_NN
+美式煮_NN
+葡式烩_NN
+蛋黄_JJ 甘露_NN
+夷陵春_NN
+鹿茸_NN 炖_VV 羊_NN
+豉汁_NR 鱼_NN
+白_JJ 烧_VV 鱼_NN
+栗子_NN 淮山_NN 煲鸡_NN
+海参木_NN 耳_NN
+人参_NN 核桃仁_NN
+松子_NN 河虾_NN
+虫草_NN 八_CD 卦_NN
+棒骨_NN 土豆_NN 地_DEC 饵_NN
+软炸虾_NN
+卡布_NN 奇诺_NN 冰咖_NN
+莲子_NN 百合糯米_NN
+白_JJ 丰_NN
+菜心炒_NN 猪_NN
+炒素_NN 腰_NN
+壬酸乙_NN
+群虾戏_NN
+五_CD 神_NN
+古_JJ 陈仓_NN
+怪味花_NN
+苹果粟_NN 米_ETC 鸡_NN 肉_NN
+苹果_NN 沙司罐_NN
+飘香_NN 猪脆_NN
+虎皮_NN 核桃_NN
+十_CD 全_M 炆补_NN
+德式_NN 生_VV 汁_NN 香蕉_NN
+海蜇头_NN
+鸡焖蟹_NN
+咖喱焗肉_NN
+鲜花_JJ 藤萝_NN
+鱼花豆_NN
+炒双_NN
+龙虾酥_NN
+雷公_NR 山天_NN
+荷香糯_NN 米排_NN
+越_AD 蔓_NN
+凉拌_VV 冬_NN
+葱爆_NN 羊肉_NN
+香辣_NN 毛_NN
+条头_NN 糕_VV 薄荷_NR
+黑胡_NN 椒溜_NN
+百合枣_NN 仁_NN
+热蔗_NN
+武汉_NN 猪肉_NN
+海参_NN
+海米_NN 烧_VV 萝_NN
+荤油米_NN
+罗马_NN 风味_NN 起_VV 士蛋花_NN
+沙窝椒汁_NN 大_JJ 鱼_NN
+拌豆_NN 腐干_NN
+蒜香烟_NN 肉蒸_NN 扇_NN
+枸杞炖_NN 羊_NN
+茄_NN 汁_NN 斑鱼_NN
+樱桃土_NN
+独蒜_NN 烧_VV 虾_NN
+清_NN 炒_VV 海_NN
+八_CD 宝鸭_NN
+丙酸苄_NN
+首乌熟_AD 地_DEV 炖兔_NN
+鹅石板_NN 江湖_NN
+广灵_JJ 五香瓜_NN
+冷冻_NN 牛_NN
+鲜_AD 哈_JJ 蜜瓜_NN
+酸辣_NR 猪_NN
+吉利_NN 大_VA
+豌豆_NN 炸_VV 酱_NN
+佛手_NN 广_VA
+锅贴_NN 鸭_NN
+问荆_NN
+金镶玉_NN
+车前_NT 子_NN
+风情羊_NN
+韭菜_NN 炒莴笋_Err
+墨西_NN 哥鸡肉_NN 玉米_NN
+麦芽_NN 山楂_NN
+鲜蘑炒_NR 肉_NN
+辣味_NR 过江_NN
+聚氧乙烯_NN 山梨醇_NN 酐单油酸_NN
+杏仁_NN 香片_NN
+油酥_NN 火焙_NN
+鸡翅_NN 羊肚_NN
+熟色_JJ 拉米_NN
+芦笋炒_NN 鸡_NN
+糖江_NN
+金盏松_NN
+胡椒_NN 西红_NN
+异构化_NN 乳糖_NN
+糖柑_NN
+太子麦_NN
+定边_NN 羊羔_NN
+鲜奶_JJ 鱼茸_NN
+捶烩鸡_NN
+辣_NOI 味_NN 特级_NN 板烧_NN 鸡_NN 腿_NN
+芹_AD 黄_JJ 烧鱼_NN
+凉拌_VV 三_CD
+红葱_NN 烧_VV 腊_NN
+姜堰酥_NN
+花胶瘦_NN 肉_NN
+香辣脆_NN 皮明_NN
+碎_OD 米_M 鸡_NN
+炖柠檬_NN
+陈皮_NN 爆河_NN
+炝糟_NN 五_CD 花_NN
+乌饭_NN
+山葵_NN 烤牛_NN
+蟹黄养_NN 汤烧_NN
+白豪_JJ 银针_NN
+烤腹_NN 脊牛_NN
+可乐_JJ 土豆_NN
+清凉_VA 的_DEC 钵仔_NN
+香葱_NN 苏打饼_NN
+煎蒸_JJ 黄_NN
+鱼柳烩_NN 杂_JJ 海_NN
+参茸鸡_NR 肉_NN
+桔子_NN 柠檬布_NN
+白_JJ 汁_NN 五_CD 柳_NN
+靖江_NN 牛肉_VA
+炝莲白_NN
+聚氧乙烯_NN 聚氧丙烯季戊_NN 四_CD 醇_NN
+景星_NN 碧绿_NN
+曲曲_NN
+徽州园_NN
+泡椒_NN 蒸水_NN
+凤凰鱼_NN
+什_AD 大_JJ 酥烧_NN
+醒脑_NN 安神_NN 冬瓜_NN
+炒_VV 螺丝_NN
+十二烷基二甲基溴化_NN
+皂荚糖_NN
+桂花_NN 白糖_NN 甜菜_VA
+圣诞_NN 老_JJ 人蛋_NN
+石花_NN 菜鲍_NN 鱼_NN
+小白_JJ 菜苡米_NN
+花生支_NN 竹鱼头_NN
+牛_NN 油_NN 蜜糖_NN 玉_NN
+白油_JJ 肉_NN
+崂山矿_NN
+南通_NN 油_NN
+三_CD 色_NN
+巧克力_NN 无_VE 花果_NN
+罗汉果_NN 爽_VA 喉_PU
+脂肪酸_NN 单甘油_NN
+二_CD 氢香豆_NN
+沙勿_NN
+三_CD 丝_NN 拌糟_NN
+冬菇炖_NN 鸡_NN
+酱腌紫_NN
+昆_CD 特香_NN
+农家乐_NN
+三_CD 鲜_P 锅_NN
+鲫鱼_NN 汆白_NN
+雪山潭_NN
+川辣黄_NN
+凤梨蟹_NN
+葱油_NN 核桃_NN 鱼_NN
+锦城露_NN
+口味鳝_NN
+秘制_NR 肘_NN
+乌骨鸡_NN 归_VV 黄_NN
+脆炸_NN 火龙_NN
+东方_NN 蒙_VV 特_NN
+杏仁_NN 椰奶_NN 果果_NN
+倭井_NN 潭硬_NN
+辣味_NR 炸鸡_NN
+辣_NN 汁_NN 酱香_NN
+三_CD 丝_NN 面疙_NN
+鱼香_NN 全_NN
+韭菜_NN 墨鱼_NN
+锅酥牛_NN
+解热清滞_VV
+空心_JJ 琉璃丸_NN
+海米拌_NN 菜_NN
+温酒醉_NN
+冰汁杏_NN
+新_JJ 都_AD 姜_NN
+炒鸡_NN 什_NN
+酱香_NN 萝卜_NN
+桔花_NN
+统管_NN
+青苔童_NN 鸭豆_NN
+芝麻_NN 小白_NN
+冷冻_NN 牛_NN
+醉鹅_NN
+什_DT 锦_NN 冬瓜_NN
+贝丝_NN 扒菜_NN
+药膳_NN 煲水_NN
+甘柠_NN 芝麻_NN
+雀巢_NN 黑_JJ 椒牛_NN
+香酥_NN 牛_VA 柳_PU
+咖喱_NN 焖羊_NN
+芥菜_NN 咸蛋_NN 鱼头_NN
+雄鸡_JJ 雪莲_NN
+巧克_NN 力汽_NN
+红花_NN 檀香_NN
+宁氏_NR 鳝_NN
+干煸莲_NN
+虾子茄_NN
+奶黄冰_NN 皮月_NN
+芝士_NN 蛋堡_NN
+杏仁炖_NN
+上海_JJ 猪肉灌_NN
+鹦鹉莴_NN
+紫色沙_NN
+风味_NN 南美_NN
+淮山薏_NN 米羊肾_NN
+黑_JJ 麦金笋_NN
+法式_JJ 烩鱼_NN
+尊尼沃_NN
+桔瓣鱼_NN
+丝瓜_NN 猪肝_NN 瘦_VV 肉_NN
+酸_JJ 枣_NOI 仁枸杞_NN
+松仁粉_NN
+豆腐蟹_NN 肉忌_NN 廉_NN
+奶油_NN 洋_JJ 菇_NN 浓_VA
+蜜饯香_NN
+麦精_NN
+兔肝_NN 鸡蛋_NN
+碳酸氢_NN 三_CD
+芒香_NN 西番_NN
+狼牙生_NN
+海绵_NN
+嗡山_NN
+韩式_JJ 辣_NN 酱_NN 鱿鱼_NN
+辛烯基_NN 琥珀酸_NN 铝淀_NN
+鱼香菜_NN
+咸甜_NN 薄_NN
+萝卜牛_NN 百_CD 叶_NN
+精制_JJ 番薯_NN
+肉末_NN 白_NN
+兰花_VV 金钱酿_NN 发_VV
+仲夏_NN 野莓_NN 冰淇_NN
+荷塘莲_NR
+侉炖羊_NN
+状元卤_NN
+太极_NN 双_CD
+肉松_NN 三文_NN
+乡宁_NR 油_NN
+芙蓉鹿_NN
+仙城束_NN
+菜_NN 干_VV 鸭肾_NN 蜜枣_NN
+心形面_NN
+虎皮烩_NN 鸡_NN
+香菇肉_NN 末烧_NN
+雪梨肘_NN
+泡莱鲫_NN
+大厨来_NR 桂林_NN 辣椒_VA
+苋菜_NN 红铝色_NN
+粗花_NN
+空心_JJ 南瓜_NN
+杭州_NN 绿豆_NN
+旱蒸_NN 贝母_NN
+米老_NT 鼠蛋_NN
+水饺_NN
+芝麻鱼_NN
+茄汁_NR 鳕_NN
+葱油蒸_NN
+大_JJ 荆石莲_NN
+辣椒_JJ 炒肚_NN
+火烧头_NN
+湘味方_NN
+乳鸽瓤猪_NN
+紫菜_NN 蛋皮_NN
+墨西_NN 哥凉_NN
+葡萄_NN 柚沙_NN
+野山_NN 椒河_NN 蚌炖_NN 猪_NN
+白干_AD 煮_VV 三_CD
+上_NN 杂_VA
+鸡丁干_NN
+杏花楼_NN 广式_JJ 月_NN
+得奖_NR 英国_NR 老黑_NN
+软炸菜_NN
+香辣咖_NN 哩面_NN
+山毛_NN 榉坚_NN
+罗汉果_NN 焖瓜子_NN
+猪肝_NN 枸杞子_NN
+云_NN 长_VA 玉浆_NN
+鸡里_NN
+莜面栳_NN
+印度_NN 咖喱_NN 焖羊_NN
+鲜_AD 瑶_JJ 柱牛_NN
+偶_PN 氮玉_NN
+烤花揽_NN 鳜_NN
+红枣炖_NN 鲫鱼_NN
+韩城羊_NN 肉臊_NN 子饸_NN
+清汤_NR 玉带_NN
+太极_NN 芋_NN
+香脆_NN 葡萄_NN
+白_JJ 焯响_NN
+永_AD 州_JJ 炒血_NN
+绿豆_NN 豆沙_NN
+灌蟹鱼_NR
+潮汕卤_NN 水鹅_NN
+口蘑小_NR
+西红柿_NN 起_VV 司沙_NN
+普罗_NN 旺_VA 斯_DT 大蒜_NN 西_NN 红柿_NN
+麻香酥_NN
+茄_NN 汁_NN 牛肉_NN
+天水麻_NN
+翡翠剔_NN
+干贝_JJ 云丝_NN 豆腐_NN
+鸡肉线_NN
+随_P 滑飞_NN
+韭菜_NN 炒_VV 绿豆_NN
+意式_JJ 香脂醋_NN 酱_NN 拌_NN 田园沙_NN
+虾片_NN
+红豆_NN 圆仔_NN
+日落_VV 黄_JJ 铝色_NN
+烙韭_NN 菜馅_NN
+酒酿斑_NN
+彩色肉_NN
+蒲州清_NN
+绿波_NN 廊船_NN
+宁式_JJ 苔菜月_NN
+枸杞_NN 百合_NN
+桃盐桃_NN
+蕨根粉_NN 煮鳝_NN
+亚洲_NN 辣_AD 牛肉_VA 和_CC 葡_NN
+叶子面_NN
+土豆_NN 罐焖_NN
+糖_NN 醋_NN 红柿_NN
+糟_VA 鸡_NN 糟_VA
+香煎_NR 莲藕_NN
+油淋笋_NN
+鱼羊炖_NN 时_LC
+王记麻_NN
+平遥_JJ 熟牛_NN
+番茄_NN 薯仔_NN 牛_JJ 尾_NN
+聚_NN 三_CD
+海带_JJ 清热_NN
+蓬莱_NN 仙芝_NN
+雪里_NN 藏_NN
+海米_NN 萝卜_NN
+香炸_NN 南瓜_NN
+椒盐肚_NN
+椒盐麻_NN
+橙味蛋_NN
+彩虹_NN 水晶_NN
+玉盏龙_NN
+花菇田_NN
+豆面_NN
+玉馅_NN
+简易_AD 蛋_NN
+什_DT 锦_NN 豆腐_NN
+虾仁_NN 拌莼_NN
+茄汁_NR 薯_NN
+香粽_NN 烧排_NN
+翠柳凤_NN
+蜜_NN 三_CD
+桃子色_NN
+豆瓣卿_NN
+竹影_NR 海_NN
+宫廷_NN 小_JJ 萝_NN
+剁椒_NN 大白_VA
+奇异天_NN
+苦_NN 地_DEG 胆猪_NN 瘦_VV 肉_NN
+金丝玉_NN
+奥地_NR 利式_NN 烤牛_VV 肉_NN
+龙凤_NN 双_CD
+杭州_NN 地_DEG 方小_NN
+上海_JJ 馄饨_NN
+香酥蛋_NN
+甜菊绿_NR
+奶油_NN 花生_NN
+叶绿_NN 素_AD 铜_VV 钾_NN
+猪肚_NN 煲咸_NN
+牛蒡沙_NR
+五_CD 彩抄_NN
+豆腐_NN 排骨_NN 豆芽_NN
+砂锅螃_NN
+唯_AD 我_PN 鼎_NN
+白菜木_NN
+多彩冰_JJ 皮月_NN
+徽式炒_NN
+油爆鱼_NN
+开封套_NN 四_CD
+西西_NN 里面_NN
+玫瑰_NN 百果蜜_NN
+沙拉_VV 海鲜_NN
+白术_NN 猪肚_NN
+龙眼咸_NN 烧_VV
+苦瓜鸡_NN
+蒜拌空_NN 心_NN
+夹沙月_NN
+蟹肉_NN 青瓜_NR 沙_NN
+竹笋_NN 西瓜_NN 皮鲤_NN 鱼_NN
+海鲜_JJ 铁锅_NN
+圆黄蛋_NN
+酥蜜_NN 鲜_CC 果_NN
+养胃_NN
+冰_NN 结构蛋_NN
+布_NN 里_LC 芝_NN
+环己基丙酸烯丙_NN
+干蒸_NN 百_CD
+菁岛啤_NN
+金华_NN 五_CD 仁月_NN
+喀什_AD 馕_VV 坑_NN
+脆皮鸳_NN 鸯_NN
+蜜汁江_NN 米_NN
+欧式_NN 重_AD 乳_LB 酪蛋_NN
+薏美_NN
+五_CD 柳全_NN
+绿茶糕_NN
+剁椒蒸_NN 芋头_NN
+鲜蘑蒸_NR
+北京蜜_NN 饯果_NN
+葱油苦_NN
+金锋_NN 鲁肉_NN
+李锦_NN 记金_NN 标生_NN
+葡萄干_NN 炒_VV
+鲜_AD 味_AD 大_VA
+冬菇藕_NN
+葱油大_NN
+蚝皇蒸_NN 凤_NN
+卡真调_NN
+味_NN 之_DEG
+豆豉烧_NN 中_LC
+粉丝_NN 焗膏_NN
+铁板腰_NN
+沙嗲_NN 羊肉_NN
+汤团_NN 缸鸭_NN
+汀州伊_NN
+玄_NN 酒_NN 一_CD
+耗子_NN 洞樟茶_NN
+三_CD 驱_NN 田凉_NN
+炒葱椒_NN
+韭菜_NN 炒_VV 黄_NN
+火腿豆_NN
+蒜香_NN 煎_JJ 海_NN
+蜜青_NN
+如意_CS 乌_NN
+芦笋_NN 煎_VA 黄_PU
+澳洲_NN 万_CD 格_M
+海天_NN 鲜_CC 味生_NN
+乡村_NN 玉米_NN
+丹参_NN 黄豆_NN
+宁波_JJ 豆酥_NN
+烧_NN 五_CD
+土豆蛋_NN
+八_CD 宝_NN 青蟹_NN
+炒禾花_NN
+铺_VV 层_NN 馍_NN
+红鱼拜_NN
+爱_VV 尔_NN
+里水_JJ 金丝_NN
+咖喱_NN 鸡丝_NN
+挪威_NN 水果布_NN
+芙蓉菜_NN
+高_JJ 邮董_NN
+上海_JJ 茶叶_NN
+楚宝桂_NN 花赤_NN 豆_NN
+番茄_NN 奶油_NN 土豆_NN
+彝家醉_NN
+炝黄瓜_NN
+番茄_NN 煮红衫_Err
+竹节鸡_NN
+姜茶_NN 乌梅_NN
+清_AD 补凉乳鸽_VV
+如_P 皋萝卜_NN
+红脸烧_NN
+山药_NN 甜_NN
+薄荷薰_NN 衣草_NN
+鲜_AD 虾_JJ 扒豆_NN
+葡萄面_NN
+风味_NN 腊肠_NN
+牛肉_JJ 蔬菜_NN 浓_NN
+雀巢鸟_NN
+韩城羊_NN 肉饸_NN
+桂鱼排_NN
+海带_NN 猪骨_NN
+雪梨_JJ 兔肉_NN
+红豆_NN 莲_NN 枣_PU
+我_PN 爱烧_VV
+肉丁黄瓜_NN
+酿银_NN
+黄金肉_NN
+天津_NN 五_CD 香_NN 猪肉_NN
+成都_AD 毛_VV 风_NN
+鲫鱼_NN 蘑菇_NN
+宣威洋_NN
+烤芒果_Err
+蓝莓_JJ 冻芝_NN 士蛋_NN
+五_CD 香牛_VV 肉_NN
+上海_JJ 蜜汁_NN 小_VA
+鲜_AD 贝_JJ 冬瓜_NN
+滑炒山_NN
+麻辣_NN 冬_NN
+东坡_NN 春_VV 鸠_NN
+油_NN 煎_JJ 南瓜_NN
+芦笋虾_NN
+宁波_JJ 腊_NN
+椒盐虾_NN
+苦荞饸_NN
+低_JJ 糖蜜_NN
+广州_JJ 鸡仔_NN
+参茸_VV 葛仙_NN
+素酿南_NR
+炒白_NN
+牛蒡_JJ 排骨_NN
+香甜滋_NN 润玻_NN 璃肉_NN
+煎_JJ 云_NN
+植物_NN 添_VV 银_NN
+鸡汁燕_NN
+清_JJ 汤_NN 银_NN 耳素鸽_NN
+地_DEV 锅草_NN
+茅麓旗_NN
+安神_NN 首_VV 乌_NN
+沅陵酥_NN
+本_DT 斋_NN 清真_NN 肉_NN
+老面_NN 大_VA
+鮰鱼肚_NN
+胡椒_NN 海参_NN
+南通_NN 文_NN
+鹿宛_NN
+脆嫩味_NN 辣_AD 炒鱿_VV 鱼_NN
+南瓜花_NN
+莲子_NN 血糯_NN
+东山坞_NN 豆腐_NN
+佛山柱_NN 侯_NN
+鸡汤浸_NN 时_LC
+家常_AD 烤_VV
+猴头_NN 四_CD
+南乳_NN 小_JJ 凤_NN
+聪喝_NN
+乾州鸡_NN
+蜜佛_NN
+参果_CS 炖瘦_NN
+豆豉剁_NN 辣_VA
+酥皮芋_NN 蓉_NN
+果酱_NN 白_VA 蜂_PU
+昌顺干_NN
+菠菜蛋_NN
+黄花_NN
+口蘑鹿_NR
+酥炸春_NN 花_VV
+辣椒_JJ 叶鸡蛋_NN
+白_NN 八_CD
+烙司松_NN
+素_AD 炒_P 鸡_NN
+红糖_NN 米花_NN
+乔家_NN 栅粽_NN
+香葱_NN 咖喱面_NN
+银牙_NN 韭菜_NN
+回族_NN 蒸艾_NN
+哈尔_JJ 滨干_NN
+金钩包_NN
+豆香_NN 斋牛_NN 肉香_NN
+鸡丝月_NN
+砍花_NN
+一品酸辣_NN
+空心_JJ 酥_NN
+人参_NN 鸡肉_NN
+酸_JJ 菜饵块_NN
+四_CD 季_NN 鱼头_NN
+黄_JJ 尖_NN
+黄瓜_JJ 鸡杂_NN
+葱白_NN 姜糖_NN
+花果黄_NN
+扛糟_NN
+无锡_JJ 酱烧_NN
+燕影_NR 金_NN
+桃花米_NN
+玫瑰子_NN
+夹沙_NN 条头_NN
+枸杞田_NN 螺_NN
+土沱麻_NN
+河内_NT 圆_VV
+潮式_JJ 老婆_NN
+秘制_NN 口味_NN
+生敲膳_NN
+小_JJ 米凉_NN
+宰羊羔_NN
+八_CD 宝甜_NN
+生煎肉_NN
+奶油条_NN
+冬菇虫_NN 草炖_NN 鲍_NN
+烤_VV 薄_NN
+怪味果_NN
+姜汁_NN 拌菠_NN
+酥炸茄_NN
+水煮_NN 凤_NN
+深圳_JJ 盐田_NN 海鲜_NN
+糖拌菜_NR
+口感_JJ 盐煎_NN
+多_CD 味黄_NN
+清_NN 炖_VV 姜_NN 归_VV 羊肉_NN
+糌粑_NN
+咖喱樱_NN
+参婆_VV 千_CD
+古县_JJ 蕨_NN
+樱桃_NN 酒咖_NN
+淳安_NR 猕猴_NN
+鼓板龙_NN
+茯苓饼_NN
+博爱_JJ 浆面_NN
+金瓜_NN
+亨_NN 氏_NN 骨髓_NN 蔬菜_NN
+菜远_NR 卤牛_NN
+豆香麻_NN
+话梅_NN 手剥_NN
+玉竹_NN 沙参_NN 鹧鸪_NN
+葡萄白_NN 兰瓜_NN 配薄_VV 荷_NOI 汁沙_NN
+花菇石_NN
+西米银_NN 耳_NN
+蒲江_NN 猪油_NN 米花_NN
+卢氏麻_NN
+河岔口_NN 咸鸭_NN
+菠萝_NN 龙眼_NN
+水泡鱼_NN
+红楼糕_NN
+川辣_NN
+奶香菠_NN
+花生桂_NN 圆红枣_NN
+香酥_NN 丹麦_NN 曲_NN
+豆瓣鱼_NN
+昔阳头_NN
+山药_NN 蒸鲫_NN
+五_CD 丁_P 鱼_NN
+鲜_AD 肉_JJ 香菇_NN 烧_NN
+黄_JJ 芪南_NN 枣_ETC 黄_JJ 鳝_NN
+香卤猪_NN
+薏米膳_NN
+湖南_NN 油淋_NN
+高梁_NR
+红烧_JJ 猴头_NN
+美极_JJ 基围_NN
+杏仁沙_NN
+香_NN 浓_AD 黑_JJ 巧克_NN 力蛋_NN
+靛_AD 蓝_JJ 铝色_NN
+脆皮锅_NN
+金钱鸡_NN
+烤网油_NN
+蜜桂芳_NN 米花_NN
+麻辣_JJ 兔火_NN
+三_CD 文_NN 一品汤_NN
+黄墩_JJ 湖腊_NN
+奶油乳_NN 酪蛋_NN
+诱惑_NN 红铝色_NN
+广_JJ 味源_NN 生抽_NN
+香煎翘_NN
+天水里_NN
+肉末_NN 土豆_NN
+浙南鱼_NN
+麻酱_NN 拌豆_NN
+魔芋烧_NN
+拔丝桔_NN
+香菠_NN 血糯_NN
+吊炉_VV 饼_NN 鸡蛋_NN
+参麦_NR 雪梨_NR 瘦肉_NN
+火腿萝_NN 卜丝_NN
+黑玉_NN 米饮_NN
+香煎_NR 黄糕_NN
+杨梅_NN
+风车_NN 苹果_NN
+独蒜烧_NN
+翠绿玉_NN
+果酱烧_NN
+口味_JJ 金牛_NN
+清汤圆_NN
+白_JJ 芨冰_NN 糖燕_NN
+腐皮虾_NN
+枸杞菊_NN 花煲排_NN
+橙花排_NN
+水煎_NN 乳_NN
+茭白炒_NN 毛_NN
+法国_JJ 奶油蟹_NN 肉黑_NN 麦金笋_NN
+皮萨草_NN
+白_JJ 圆蛋_NN
+花篮白_NN
+荪角_NN 四_CD 宝_NN
+镶竹_NN
+闷炉烧_Err
+粉白美_NN 人_NN
+白炒_JJ 刀鱼_NN
+鸽子_NN 玻璃_NN
+海米_NN 烧_VV 菜_NN
+什_DT 锦烩_NN
+火爆猪_NN
+油爆鸭_NN
+醒胃_NN 腌椰菜_NN
+承德凉_Err
+拨鱼儿_NN
+马蹄蛋_NN
+鞍山肉_NN
+同江_AD 赫哲_VV 族_NN 生鱼_NN
+滷白_NN
+蒿杆_NN 炒_VV 鳝_NN
+凉拌_VV 辣_JJ 味_NN
+意大利_AD 小_VA 松_NN
+烤茭白_NN
+酸_AD 辣_JJ 臊子_NN 蹄_NN
+檀扇鸭_NN
+笋丝_NN 百_CD
+银丝_NN 仔乌_NN
+阴菜_NN 牛_JJ 展_NN
+泰式_NN 凉拌_VV 花_VV
+煎_JJ 转鲫_NN
+翡翠鱼_NN
+老姜_NN 枸杞_NN 羊肉_NN
+丰收_VV 龙_NN
+李锦_NN 记沙茶_NN
+彭集_NR 红烧_NN 肘_NN
+法式_JJ 乳酪蛋_NN
+混合_JJ 胡椒_NN
+白果_CS 海鲜_NN
+扒龙_NN 须_VV 鲍_NN
+煨牛_NT 肉月_NN
+绿盛_NN
+水芝_NN
+胡椒_NN 生姜_NN 滚猪瘦_NN
+晶玉海_NN
+生嗜鸡_NN
+乡_NN 宁_AD 白_JJ 面油_NN
+桃仁_NN
+建德烧_Err
+香肠_NN 炒油_NN
+鳝鱼煮_NN
+砂锅鱿_NN
+洋县_JJ 猪白_NN
+美_NN 的_DEG 青春_NN
+花生酱_NN 葱花_NN
+雪衣红_NN
+酸_AD 辣_JJ 海参锅_NN
+什_DT 锦_NN 一品_NN
+苗乡酸_NN 汤水_NN
+甲基邻_NN 氨基苯甲酸甲_NN
+咸真_NN
+法式_JJ 牛油炸_NN
+清汤_NR 炸_NN
+浓缩_VV 康保_NR
+花样馃_NN
+蜜食_NN
+脆皮鱼_NN 香牛_NN
+银鱼肉_NN
+巴巴莱_NN
+虾仁盒_NN
+天门_NN 冬酰苯氨酸甲_NN
+里水_NN 霸王_NN
+师爷_NN
+苹果_NN 白_JJ 兰地咖_NN
+红白_JJ 果仁_NN
+青椒煎_NN
+板栗煲老_NN
+大蒜干_NN
+抹茶起_VV 司_NN 蛋_NN
+拼杂_NN
+四_CD 味_NN 山药_NN
+仙鹤_NN 望金_NN
+冬虫草_NN 炖水_NN
+巧克_NN 力刺_NN
+进士糕_NN 和_CC 状元_NN
+壬内_NN
+毫吉_NR
+肉碎豉椒_NN 炒_VV 豇_NN
+糖醋藕_NN
+口_NN 镇_NN 顺香斋_NN 南_NN
+大厨来_NR 海鲜_NN
+豉椒_NN 蒸腊_NN
+清_NN 炖_VV 蚌_NN
+酥香凤_NN
+薏仁_NN 苦瓜_NN
+萝卜_NN 丝油_NN 墩_NN
+鸳鸯哺_NN
+明_AD 心_NN
+芝士_NN 海鲜_NN
+扒素子_NN 双_CD
+泡椒响_NN 螺_NN
+银_NN 耳_NN 保健_NN 饮_NN
+震运同玫_VV 瑰酥_NN
+草莓_NN 龙舌_NN
+香煎_NR 菜脯_NN
+熟_VA 地_DEC 山药_NN
+敦煌榆_NN
+双色_JJ 核桃饼_NN
+蟹肉圆_NN
+水桃_NN
+清凉_JJ 漱口_NN
+炸冬_NN 瓜丸_NN
+锅塌鸡_NN
+清_AD 炒_VV 三_CD
+百合_CS 炒西_NN 兰_NN
+珍珠南_NN
+油酥蛋_NN
+香片_NN 辫子_NN

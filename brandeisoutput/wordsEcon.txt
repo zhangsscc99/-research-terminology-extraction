@@ -1,0 +1,3830 @@
+发展_NN 1934814_CD
+部门_NN 1709250_CD
+政府_NN 1617499_CD
+经济_AD 1396619_CD
+服务_NN 1386428_CD
+公司_NN 1321922_CD
+实现_VV 1062326_CD
+市场_NN 1053266_CD
+评论_NN 928410_CD
+支持_NN 894755_CD
+机构_NN 813966_CD
+能力_NN 804674_CD
+资源_NN 801625_CD
+计划_VV 800718_CD
+系统_NN 777566_CD
+分享_NN 723186_CD
+产品_NN 719918_CD
+网络_NN 663485_NN
+提升_VV 641506_CD
+报告_VV 611089_CD
+产业_NN 581292_CD
+执行_VV 549104_CD
+行业_NN 535867_CD
+需求_NN 519652_CD
+调整_VV 513431_CD
+方案_NN 500356_CD
+委员_NN 会_VV 499583_CD
+集团_NN 494981_CD
+利益_NN 494930_CD
+主席_NN 478947_CD
+经营_NR 477651_CD
+统计_VV 474538_CD
+时代_NN 459135_CD
+力度_NN 458479_CD
+收入_VV 454330_CD
+生态_NN 454142_CD
+购买_VV 444238_CD
+机会_NN 441735_CD
+近年_NT 来_VV 426768_CD
+推出_VV 421029_NN
+规范_NN 417118_CD
+价值_NN 414827_CD
+国务院_NN 401496_CD
+有限_JJ 公司_NN 391133_CD
+金融_NN 387290_CD
+出台_NN 385053_CD
+数量_NN 381076_CD
+银行_VV 379949_CD
+民生_NN 370864_CD
+费用_VV 356236_CD
+近期_NT 352723_CD
+风险_NN 349681_CD
+设立_VV 342330_CD
+通道_NN 330021_CD
+协议_NN 327937_CD
+创造_VV 327349_CD
+强化_VV 324692_CD
+操作_NN 323394_CD
+升级_NN 322319_CD
+消费_NN 320540_CD
+救援_VV 315250_CD
+商业_NN 310880_CD
+财政_NN 310711_CD
+美元_NN 309822_CD
+损失_NN 306594_CD
+律师_NN 306161_CD
+优惠_NN 299489_CD
+推荐_NN 294602_CD
+突破_AD 293449_CD
+年度_NN 284721_CD
+治理_NN 284407_CD
+注册_NN 279362_CD
+标签_NN 274313_CD
+批准_VV 272761_CD
+开通_VV 270250_CD
+上升_NN 268597_CD
+渠道_NN 265759_CD
+查询_NN 264946_CD
+交易_VV 258370_CD
+支付_NN 257507_CD
+达成_VV 253153_CD
+承诺_NN 250046_CD
+淘宝_NN 243835_CD
+环保_NN 243716_CD
+登记_NN 242799_CD
+博客_NN 239679_CD
+趋势_NN 235572_CD
+配置_VV 232905_CD
+论坛_NN 230780_CD
+违规_NN 219598_CD
+金额_NN 217979_CD
+调研_VV 214890_CD
+机场_NN 213710_CD
+低于_VV 213321_CD
+商品_NN 211512_CD
+贸易_AD 209462_CD
+工资_NN 206254_CD
+能源_NN 204053_CD
+指标_NN 202623_CD
+评估_VV 196520_CD
+保险_NN 191092_CD
+出口_NN 189527_CD
+退出_VV 188537_CD
+财产_NN 188180_CD
+专题_NN 187620_CD
+总经_AD 理_VV 186634_CD
+环球_NN 186290_CD
+合同_AD 185744_CD
+研发_VV 182626_CD
+财经_NT 181639_CD
+上涨_NR 180105_CD
+超标_VV 173842_CD
+董事_NN 长_VA 173750_CD
+考核_VV 168674_CD
+补贴_VV 167303_CD
+计算_VV 167280_CD
+现金_NN 166097_CD
+房地产_NN 165034_CD
+上市_JJ 164509_NN
+资本_NR 164069_CD
+贷款_NN 157760_CD
+资产_NN 152477_CD
+行情_NN 151568_CD
+分配_VV 150441_CD
+理财_NN 149719_CD
+投诉_NN 149228_CD
+预期_NN 148653_CD
+信号_NN 148613_CD
+委托_NN 145542_CD
+红包_NN 144047_CD
+鉴定_VV 141081_CD
+当_P 事人_NN 138850_CD
+经理_VV 138005_CD
+案例_NN 137595_CD
+预算_VV 136927_CD
+起诉_VV 136753_CD
+客服_VV 136711_CD
+特权_NN 135674_CD
+预测_VV 134893_CD
+差距_NN 133647_CD
+态势_NN 133384_CD
+高层_AD 127007_CD
+进口_NN 126374_CD
+浮动_NN 126231_CD
+前景_NN 125542_CD
+微软_NN 125352_CD
+总额_NN 124821_CD
+披露_VV 124277_CD
+座谈会_NN 123984_CD
+利润_VV 123856_CD
+竞价_NN 122529_CD
+支出_VV 122388_CD
+竞争力_NN 121982_CD
+融资_NN 121957_CD
+繁荣_NR 121844_CD
+审核_NN 119170_CD
+股份_NN 118020_CD
+收取_VV 117667_CD
+初始_AD 117023_CD
+指数_NN 117017_CD
+效应_NN 116080_CD
+福利_NN 116074_CD
+补偿_NN 114081_CD
+潜力_NN 113012_CD
+短期_NN 110737_CD
+季度_NN 110195_CD
+品种_NN 108775_CD
+级别_AD 106729_CD
+幅度_NN 106332_CD
+出售_VV 104773_CD
+黄金_NN 104145_CD
+产权_NN 103763_CD
+期限_NN 102498_CD
+收益_VV 102220_CD
+营销_NN 102134_CD
+商务_NN 101967_CD
+财富_NN 99593_CD
+顾客_NN 99546_CD
+发行_VV 99502_CD
+财务_NN 98448_CD
+账户_NN 98305_CD
+投资者_NN 98139_CD
+受损_NN 97533_CD
+缴纳_VV 96884_CD
+税收_VV 96632_CD
+主管_NN 部门_NN 95437_CD
+货币_NN 94665_CD
+研究员_NN 93228_CD
+基金会_NN 92440_CD
+百分点_NN 92342_CD
+物业_NN 91610_CD
+特区_NN 91388_CD
+等级_JJ 90805_NN
+日期_NN 90222_CD
+企业家_NN 85988_CD
+债务_NN 85458_CD
+比重_AD 84379_CD
+崛起_VV 84150_CD
+代理_NN 83939_CD
+调控_VV 82856_CD
+协同_AD 82491_CD
+业绩_NN 81889_CD
+本_DT 土_NN 81012_CD
+农产品_NN 80792_NN
+数额_NN 80330_CD
+收购_VV 80160_CD
+租赁_NN 80068_CD
+储备_NN 79268_CD
+查获_VV 78697_CD
+组合_NN 78688_CD
+周期_NN 77769_CD
+着手_NR 77456_CD
+通讯_NN 77199_CD
+证券_NN 76141_CD
+恶化_NN 75850_CD
+友谊_NN 75401_CD
+责任人_NN 75331_CD
+正规_NT 75018_CD
+国际化_NN 74559_CD
+流通_NN 74519_CD
+奖金_NN 74326_CD
+供给_VV 74310_CD
+财政部_NN 74243_CD
+信用_VV 74087_CD
+备案_NN 73378_CD
+捐款_NN 72000_CD
+挂牌_NN 70411_CD
+筹备_NN 70317_CD
+下滑_NN 70070_CD
+上月_NT 69522_CD
+开发区_NN 68969_CD
+赚钱_NN 67360_CD
+个体_NN 66861_CD
+市场化_NN 66692_CD
+板块_NN 66615_CD
+成交_VV 66600_CD
+中介_NN 66552_CD
+下跌_CS 66515_CD
+涨幅_NN 66023_CD
+太平_AD 洋_VA 65735_CD
+受贿_NN 65518_CD
+初期_NN 64890_CD
+中小_JJ 企业_NN 62836_CD
+达标_VV 62409_CD
+产量_NN 62095_CD
+订单_VV 61502_CD
+均衡_NR 61422_CD
+存款_NN 61000_CD
+经营者_NN 60137_CD
+波动_NN 59311_CD
+招商_NN 58645_CD
+华侨_NN 58607_CD
+审计_VV 57923_CD
+电子_NN 商务_NN 57188_CD
+股票_NN 57149_CD
+份额_NN 56823_CD
+遗产_NN 56020_CD
+结算_VV 55679_CD
+隔离_VV 55292_CD
+业界_NN 54352_CD
+国企_NN 54248_CD
+促销_VV 54072_CD
+签字_NN 53592_CD
+垄断_VV 53492_CD
+利率_NN 53477_CD
+社保_NN 53175_CD
+招标_NN 52855_CD
+额度_NN 52404_CD
+月薪_NN 52357_CD
+租金_NN 52160_CD
+合并_VV 52121_CD
+定价_NN 52095_CD
+低价_AD 51915_CD
+进出口_NN 51867_CD
+发改委_VV 51662_CD
+反弹_VV 51645_CD
+欧元_NN 51614_CD
+控股_NN 51444_CD
+转让_VV 51273_CD
+担保_VV 51072_CD
+外资_NN 51027_CD
+伪造_NN 50938_CD
+指引_NN 50911_CD
+瓶颈_NN 50829_CD
+定点_NN 50653_CD
+开办_VV 50588_CD
+股东_NN 50247_CD
+上游_NR 49875_CD
+法人_NN 49467_CD
+专利_NN 48971_CD
+收回_VV 48925_CD
+央行_VV 48921_CD
+形态_NN 48636_CD
+筹集_VV 48582_CD
+转换_NN 48300_CD
+信贷_NN 48283_CD
+银行卡_NN 48277_CD
+被盗_AD 48115_CD
+网点_NN 48076_CD
+走势_NN 47762_CD
+攀升_AD 47323_CD
+仓库_NN 46589_CD
+工商局_NN 46251_CD
+厂房_NN 46103_CD
+结构性_NN 45943_CD
+缴费_NN 45688_CD
+到期_VV 44970_CD
+混合_VV 44652_CD
+招商_NN 引资_NN 44644_CD
+步骤_NN 43778_CD
+区间_NN 43612_CD
+参_NN 与_P 者_NN 43237_CD
+商会_NN 43102_CD
+缺口_NN 42908_CD
+国际_NN 上_LC 42843_CD
+产值_NN 42791_CD
+宣告_NN 42487_CD
+下调_CS 42398_CD
+款项_NN 42305_CD
+利息_NN 42302_CD
+国民_NN 经济_NN 42025_CD
+获利_NN 41787_CD
+安全性_NN 41309_CD
+亏损_NN 41100_CD
+存放_VV 41015_CD
+低迷_NR 40781_CD
+巨头_NN 40710_CD
+库存_NN 40686_CD
+吸纳_VV 40606_CD
+恐慌_AD 40553_CD
+电网_NN 40270_CD
+上调_NR 40231_CD
+类别_AD 39956_CD
+原告_NN 39937_CD
+筛选_NN 39771_CD
+华商_NN 39629_CD
+四_CD 大_VA 38734_CD
+亚太_NR 38572_CD
+多样化_JJ 38285_NN
+合作_VV 社_NN 38076_CD
+考量_NN 37447_CD
+报酬_NN 37389_CD
+增值_NN 37316_CD
+归还_VV 37293_CD
+流动性_NN 37000_CD
+索赔_VV 36942_CD
+财力_NN 36705_CD
+测量_NN 36689_CD
+标注_NN 36587_CD
+余额_NN 36288_CD
+红利_NN 36173_CD
+经_P 销商_VV 36080_CD
+赌博_NN 35876_CD
+构筑_NN 35520_CD
+模型_NN 35416_CD
+纳税人_NN 35289_CD
+兼职_AD 35102_CD
+拨款_NN 35062_CD
+扣除_VV 34907_CD
+返还_VV 34831_CD
+首创_AD 34603_CD
+付款_NN 34574_CD
+偿还_VV 34550_CD
+集会_NN 34354_CD
+内需_NN 34334_CD
+议案_NN 34258_CD
+挪用_VV 34233_CD
+惯例_NN 33866_CD
+突破口_NN 33771_CD
+年会_NN 33686_CD
+副主席_NN 33608_CD
+密度_NN 33557_CD
+均价_AD 33447_CD
+闲置_VV 33392_CD
+区域性_NN 33169_CD
+冻结_VV 33061_CD
+数据库_NN 33029_CD
+行长_VV 32913_CD
+核准_NN 32880_CD
+一_CD 季度_NN 32755_CD
+楼盘_NN 32718_CD
+债券_NN 32695_CD
+观测_VV 32649_CD
+董事_NN 32637_CD
+凭证_VV 32214_CD
+拖欠_VV 32167_CD
+编号_NN 32129_CD
+团购_NN 32005_CD
+欺骗_VV 31687_CD
+增长率_NN 31624_CD
+博弈_NN 31567_CD
+利好_VV 31520_CD
+泡沫_NN 31382_CD
+世博_NN 31335_CD
+实战_NN 31122_CD
+全国性_JJ 30984_NN
+卖出_VV 30936_CD
+募集_NN 30698_CD
+透明度_NN 30687_CD
+汇率_NN 30539_CD
+稳健_NN 30480_CD
+购房者_NN 30393_CD
+信用_VV 卡30305_NN
+彩票_NN 30037_CD
+薪酬_NN 29991_CD
+社会_NN 保险_NN 29946_CD
+折扣_NN 29929_CD
+英镑_NN 29915_CD
+投标_NN 29607_CD
+进场_NN 29412_CD
+落下_VV 29102_CD
+成_VV 交量_NN 28913_CD
+日元_NN 28792_CD
+交易所_AD 28424_CD
+集合_VV 28110_CD
+核定_VV 28020_CD
+基准_NN 27905_CD
+参保_VV 27630_CD
+总_CS 收入_VV 27520_CD
+破产_VV 27380_CD
+稳定性_NN 27169_CD
+规章_NN 27150_CD
+修正_VV 26799_CD
+津贴_NN 26795_CD
+飙升_VV 26668_CD
+免职_NN 26657_CD
+油价_NN 26512_CD
+查封_NN 26363_CD
+轮胎_NN 26259_CD
+开盘_NN 26185_CD
+走私_VV 26041_CD
+外汇_NN 26022_CD
+免除_VV 25840_CD
+报价_NN 25794_CD
+失业率_NN 25782_CD
+打折_NN 25755_CD
+转账_NN 25736_CD
+崩溃_NN 25695_CD
+保险_NN 公司_NN 25683_CD
+宏观_AD 调控_VV 25619_CD
+代理人_NN 25320_CD
+弊端_NN 25291_CD
+信誉_NN 25264_CD
+升值_NN 25183_CD
+黑名_NN 单_AD 25159_CD
+有_VE 效期_NN 25134_CD
+石化_NN 25046_CD
+预留_VV 24510_CD
+操纵_NN 24398_CD
+长城_NR 24250_CD
+股价_NN 24109_CD
+华夏_NN 24047_CD
+新京报_AD 23999_CD
+天价_NN 23875_CD
+违约_VV 23854_CD
+持续性_NN 23816_CD
+环球_NN 时_LC 报_VV 23795_CD
+基调_NN 23792_CD
+附加_VV 23639_CD
+仲裁_NN 23429_CD
+珠江_NN 23312_CD
+写字楼_NN 23282_CD
+董事_NN 会_VV 23269_CD
+激增_VV 23221_CD
+杠杆_NN 23033_CD
+投资人_NN 22882_CD
+拨付_VV 22839_CD
+分割_NN 22770_CD
+跌幅_NN 22669_CD
+席位_NN 22541_CD
+延期_NN 22535_CD
+央企_NN 22450_CD
+证监会_NN 22393_CD
+兴业_NN 22382_CD
+匮乏_VV 21961_CD
+震荡_VV 21868_CD
+总_JJ 价_NN 21811_CD
+买单_VV 21807_CD
+增值税_NN 21772_CD
+所有_DT 权21649_NN
+票据_P 21637_CD
+期货_NN 21635_CD
+子公司_NN 21631_CD
+金融业_NN 21554_CD
+汇款_NN 21545_CD
+投资额_NN 21541_CD
+多媒体_NN 21299_CD
+保证_VV 金_AD 21289_CD
+价位_NN 20766_CD
+知情人_NN 20671_CD
+筹资_NN 20509_CD
+按_P 计划_VV 20372_CD
+集装箱_NN 20140_CD
+机电_NN 20086_CD
+抛出_VV 20035_CD
+产出_VV 19942_CD
+贬值_NN 19771_CD
+分化_NN 19642_CD
+中标_NN 19586_CD
+差价_NN 19584_CD
+同_DT 级_M 19538_NN
+投机_NN 19492_CD
+合伙_NT 19459_CD
+收盘_NN 19418_CD
+抽奖_NN 19408_CD
+饱_AD 和_P 19332_CD
+阿里_NR 巴巴_NN 19329_CD
+解散_VV 19241_CD
+获准_VV 18948_CD
+经济_VV 危机_NN 18947_CD
+下落_VV 18945_CD
+停职_NN 18907_CD
+赚取_VV 18873_CD
+审慎_AD 18749_CD
+生产_NN 能力_NN 18622_CD
+波音_NN 18537_CD
+关税_NN 18505_CD
+手续费_AD 18417_CD
+充斥_VV 18362_CD
+封顶_NN 18288_CD
+储蓄_NN 18268_CD
+复核_JJ 18216_NN
+监护人_NN 18131_CD
+暴涨_AD 17882_CD
+分红_NN 17834_CD
+盘活_NN 17816_CD
+理赔_NN 17793_CD
+社会_JJ 团体_NN 17771_CD
+逆转_VV 17728_CD
+华尔街_NN 日报_NR 17719_CD
+市值_NN 17693_CD
+港元_NN 17665_CD
+管理层_NN 17641_CD
+停滞_NN 17542_CD
+万_CD 达_P 17519_CD
+评级_NN 17423_CD
+供_AD 不_AD 应求_VV 17422_CD
+负债_NN 17374_CD
+扣留_VV 17278_CD
+大盘_NN 17275_CD
+赤字_NN 17182_CD
+深层次_JJ 17148_NN
+欧元区_NN 17021_CD
+薪水_NN 17017_CD
+中信_NN 16949_CD
+明珠_NT 16902_CD
+手势_NN 16841_CD
+不_AD 动产_VV 16757_CD
+网购_NN 16602_CD
+国债_NN 16480_CD
+托管_NN 16403_CD
+不_AD 定期_VV 16361_CD
+清算_NN 16346_CD
+主业_NN 16344_CD
+中国_NR 银行_VV 16207_CD
+远东_JJ 16062_NN
+欠款_NN 15988_CD
+协议书_NN 15967_CD
+偏离_VV 15962_CD
+港币_NN 15915_CD
+白银_NN 15807_CD
+黄海_JJ 15792_NN
+年薪_NN 15758_CD
+暴利_NR 15641_CD
+撤回_VV 15621_CD
+经纪人_AD 15500_CD
+收益率_NN 15458_CD
+房地_NR 产业_NN 15425_CD
+宽带_NN 15375_CD
+购进_VV 15372_CD
+境内外_AD 15333_CD
+计量_NN 15273_CD
+化验_NN 15255_CD
+国际_NN 贸易_NN 15110_CD
+废止_VV 15026_CD
+圣地_NN 14926_CD
+联谊_NN 14843_CD
+赌场_NN 14781_CD
+透支_NN 14740_CD
+发起人_NN 14733_CD
+保费_NN 14396_CD
+上行_NR 14376_CD
+保值_NN 14345_CD
+股份_NN 制_VV 14260_CD
+中石化_NN 14159_CD
+发货_NN 14090_CD
+南航_NN 14022_CD
+中关_JJ 村13998_NN
+交易额_NN 13941_CD
+补办_VV 13873_CD
+差额_NN 13800_CD
+福彩_NN 13694_CD
+受惠_NN 13678_CD
+中小型_JJ 13671_NN
+暴跌_AD 13647_CD
+信托_NN 13621_CD
+知情者_NN 13441_CD
+对_P 外贸_NN 易_AD 13419_CD
+会_VV 计师_VV 13391_CD
+井喷_NN 13378_CD
+本金_AD 13362_CD
+中欧_NN 13273_CD
+成因_VV 13254_CD
+净利_NN 润_VV 13024_CD
+精密_AD 12946_CD
+通货_NN 膨胀_NN 12930_CD
+贴息_NN 12926_CD
+万里_NT 12909_CD
+交易量_NN 12802_CD
+券商_NN 12714_CD
+交易日_NN 12689_CD
+跨国_NR 公司_NN 12631_CD
+银监会_NN 12620_CD
+下单_NN 12360_CD
+大西洋_AD 12338_CD
+套取_VV 12310_CD
+特许_AD 12200_CD
+金融_NN 时_LC 报_VV 12191_CD
+债权_NN 12069_CD
+开户_NN 12004_CD
+洗钱_NN 11930_CD
+代理商_NN 11918_CD
+中海_NR 11843_CD
+购买力_NN 11841_CD
+筹码_NN 11840_CD
+财长_VV 11763_CD
+经_P 济圈_NN 11698_CD
+资本_JJ 市场_NN 11655_CD
+股民_NN 11641_CD
+孵化器_NN 11622_CD
+定金_NN 11460_CD
+单据_P 11455_CD
+回扣_NN 11375_CD
+罢工_NN 11325_CD
+年报_JJ 11267_NN
+盘_NN 中_LC 11263_CD
+平价_NN 11161_CD
+华尔街_NN 11115_CD
+报表_VV 11086_CD
+上浮_NR 11036_CD
+卖点_NN 11021_CD
+变数_NN 10918_CD
+房贷_NN 10830_CD
+专款_AD 10774_CD
+建筑业_NN 10756_CD
+中西_NN 10690_CD
+互换_VV 10687_CD
+变卖_VV 10619_CD
+股指_NN 10546_CD
+硅谷_NN 10499_CD
+技术_NN 改造_VV 10484_CD
+连云港_NN 10472_CD
+杂志_JJ 社_NN 10438_CD
+挤出_VV 10378_CD
+采样_VV 10336_CD
+债权人_NN 10329_CD
+加息_NN 10293_CD
+保税_NN 10191_CD
+盗取_VV 10182_CD
+消费税_NN 10177_CD
+完整性_JJ 10109_NN
+沃尔玛_NN 10087_CD
+万科_NT 10065_CD
+市场部_NN 10052_CD
+介于_VV 10051_CD
+美联_VV 储_VV 10023_CD
+畅游_NN 9972_CD
+契约_AD 9929_CD
+放贷_VV 9925_CD
+麦当劳_AD 9918_CD
+面值_NN 9784_CD
+税务局_NN 9780_CD
+赔钱_NN 9749_CD
+福特_AD 9586_CD
+共产_AD 主义_VV 9522_CD
+按揭_AD 9486_CD
+持卡_VV 9478_CD
+远期_JJ 9471_NN
+基点_NN 9396_CD
+按月_NT 9328_CD
+炒股_NN 9244_CD
+工行_VV 9241_CD
+竞标_NN 9225_CD
+违约_AD 金_VV 9209_CD
+出局_VV 9195_CD
+中兴_NN 9165_CD
+首席_AD 执行_VV 官_NN 9153_CD
+独资_NN 9143_CD
+铁道_NN 9124_CD
+硬币_NN 9071_CD
+跌破_VV 9005_CD
+插队_NN 8951_CD
+高利贷_NN 8945_CD
+专营_AD 8914_CD
+估价_NN 8912_CD
+益处_NN 8912_CD
+工钱_NN 8895_CD
+推介_NN 会_VV 8813_CD
+回调_VV 8741_CD
+超值_NN 8734_CD
+所有_DT 者8728_NN
+抵消_VV 8724_CD
+要价_NN 8715_CD
+黑手_NN 8695_CD
+短线_NN 8670_CD
+萧条_NN 8655_CD
+出逃_VV 8642_CD
+经理人_AD 8628_CD
+出货_NN 8617_CD
+佣金_NN 8580_CD
+体彩_NN 8569_CD
+市场_NN 占有_VV 率_VV 8560_CD
+海尔_NN 8513_CD
+东航_NN 8346_CD
+压低_VV 8340_CD
+损耗_NN 8307_CD
+图形_NN 8293_CD
+仪表_NN 8288_CD
+后市_NN 8226_CD
+房款_NN 8218_CD
+上证_JJ 8200_NN
+支票_NN 8199_CD
+增资_NN 8197_CD
+准备_JJ 金率_NN 8181_CD
+顶峰_NN 8079_CD
+发行量_NN 7920_CD
+淡出_VV 7909_CD
+收款_NN 7889_CD
+开门_NN 红_VA 7867_CD
+盗用_VV 7823_CD
+携程_NN 7769_CD
+图表_NN 7757_CD
+古董_NN 7668_CD
+买方_NN 7663_CD
+摇摆_VV 7662_CD
+资本金_AD 7651_CD
+申购_VV 7645_CD
+接洽_NN 7584_CD
+大连港_AD 7559_CD
+新世界_JJ 7488_NN
+主营_NN 业务_NN 7444_CD
+现货_JJ 7434_NN
+回报率_NN 7401_CD
+澳元_NN 7393_CD
+资本_NR 主义_NN 7324_CD
+国有化_VV 7308_CD
+批_NT 发商_VV 7289_CD
+涨跌_VV 7284_CD
+主板_NN 7277_CD
+预热_NN 7265_CD
+补助金_NN 7244_CD
+顺差_VV 7235_CD
+诺基亚_NN 7197_CD
+可_VV 信度_NN 7163_CD
+租借_VV 7143_CD
+搜狐_NN 7138_CD
+锦江_NN 7128_CD
+母公司_NN 7083_CD
+周期性_NN 7071_CD
+新台阶_NN 7023_CD
+外债_NN 6993_CD
+最_AD 高点_NN 6937_CD
+公用_JJ 事业_NN 6814_CD
+充值_NN 6772_CD
+网银_NN 6770_CD
+王府井_NN 6731_CD
+抛售_VV 6718_CD
+薪金_NN 6700_CD
+亚马_NN 逊_VA 6672_CD
+卡号_NN 6650_CD
+保险业_NN 6639_CD
+质押_NN 6628_CD
+套现_VV 6617_CD
+溢价_NN 6559_CD
+补足_VV 6522_CD
+收储_VV 6519_CD
+陆家嘴_NN 6513_CD
+可口_NN 可乐_VV 6505_CD
+九_CD 州_NN 6481_CD
+徐家_NN 汇_VV 6457_CD
+私企_AD 6429_CD
+年金_NN 6405_CD
+过热_NT 6399_CD
+吃紧_VV 6367_CD
+本_DT 息_NN 6362_CD
+汇丰_VV 6356_CD
+倾销_VV 6322_CD
+净值_NN 6319_CD
+遗嘱_NN 6271_CD
+遥遥_NN 领先_VV 6261_CD
+不_AD 容_VV 乐观_NN 6243_CD
+入主_VV 6228_CD
+失守_VV 6203_CD
+财团_NN 6201_CD
+逆势_NN 6174_CD
+金牛_NN 6143_CD
+批文_NN 6125_CD
+谷底_NN 6125_CD
+附_NN 加费_VV 6064_CD
+增发_VV 6057_CD
+拒收_VV 6043_CD
+鄂尔多_NR 斯_DT 6015_CD
+国安_NN 6008_CD
+税金_NN 5989_CD
+南洋_NN 5976_CD
+总行_NN 5952_CD
+斩获_VV 5951_CD
+财政_NN 赤字_NN 5934_CD
+背书_NN 5914_CD
+贵_JJ 金属_NN 5896_CD
+市场_NN 体系_NN 5891_CD
+暴富_AD 5868_CD
+委托书_NN 5849_CD
+牛市_NR 5832_CD
+第一_OD 财经_JJ 日报_NN 5814_CD
+散户_NN 5810_CD
+联通_VV 5809_CD
+停牌_NN 5807_CD
+海航_NN 5797_CD
+翻_VV 一_CD 番_M 5767_CD
+中行_NN 5766_CD
+救市_NN 5743_CD
+股本_NR 5730_CD
+白云_NN 机场_NN 5701_CD
+存货_NN 5688_CD
+时效性_NN 5682_CD
+逃税_NN 5659_CD
+静止_VV 5653_CD
+网下_NN 5614_CD
+外币_NN 5614_CD
+金矿_NN 5600_CD
+外销_NN 5565_CD
+金条_NN 5532_CD
+保监会_NN 5443_CD
+流动_JJ 资金_NN 5429_CD
+盈余_NN 5413_CD
+比价_VV 5359_CD
+有价_JJ 证券_NN 5338_CD
+天津港_NN 5318_CD
+保单_VV 5317_CD
+结清_NN 5315_CD
+首_CS 付款_VV 5312_CD
+展期_NN 5288_CD
+国民_NN 收入_VV 5272_CD
+古玩_NN 5264_CD
+反转_VV 5234_CD
+联办_VV 5171_CD
+监事_NN 会_VV 5151_CD
+回购_VV 5126_CD
+一_CD 年期_NN 5122_CD
+意向书_AD 5108_CD
+中_JJ 小板_NN 5101_CD
+面额_NN 5098_CD
+银联_NN 5097_CD
+国网_NN 5086_CD
+看涨_VV 5084_CD
+经济_VV 参考报_NN 5070_CD
+借款人_NN 5065_CD
+广_AD 发_VV 5053_CD
+承租人_NN 5010_CD
+百花5000_NN
+融通_VV 4999_CD
+放量_NN 4959_NN
+出纳_VV 4916_CD
+白云山_NN 4907_CD
+准备金_NN 4892_CD
+临界_NN 4891_CD
+逆差_VV 4847_CD
+偿债_NN 4838_CD
+非公_AD 经济_VV 4838_CD
+退场_NN 4834_CD
+日_NN 内_LC 4760_CD
+颓势_NN 4753_CD
+投票权_NN 4738_CD
+测验_NN 4724_CD
+赎回_VV 4705_CD
+豁免_VV 4680_CD
+金融界_NN 4669_CD
+双开_AD 4666_CD
+深_AD 交所_VV 4662_CD
+通盘_NN 4637_CD
+金融街_NN 4625_CD
+清_AD 偿_VV 4621_CD
+打转_VV 4586_CD
+钱币_NN 4584_CD
+高盛_AD 4520_CD
+净_JJ 资产_NN 4518_CD
+新经_AD 济_VV 4493_CD
+经济_NN 技术_NN 开发区_NN 4469_CD
+合金_NN 4466_CD
+炒房_NN 4461_CD
+衍生品_NN 4393_NN
+波浪_NN 4387_CD
+日照_NR 4376_CD
+宝钢_NN 4340_CD
+监事_NN 4340_CD
+一_CD 触_NN 即_AD 发_VV 4336_CD
+金融办_NN 4334_CD
+中_LC 远_VA 4321_CD
+永安_AD 4278_CD
+软着_P 陆4275_NN
+利空_NN 4262_CD
+板材_NN 4260_CD
+金桥_NN 4254_CD
+电讯_NN 4223_CD
+综述_NN 4213_CD
+摩根_NN 4208_CD
+动因_VV 4180_CD
+年审_NN 4175_CD
+雅虎_NN 4155_CD
+退市_NN 4140_CD
+人寿_NN 保险_NN 4136_CD
+中南财_NN 经政_NN 法_NN 大学_AD 4108_CD
+三角形_NN 4092_CD
+托盘_NN 4088_CD
+据传_AD 4009_CD
+盎司_NN 4005_CD
+出资人_NN 3993_CD
+中国_NR 银监_NN 会_VV 3981_CD
+信贷_NN 资金_NN 3972_CD
+花旗_NN 3971_CD
+政府_NN 采购_VV 3961_CD
+假定_NN 3955_CD
+富国_NR 3944_CD
+胜算_VV 3944_CD
+抵押物_NN 3941_CD
+国泰_NN 3940_CD
+特_AD 困户_NN 3938_CD
+通胀率_NN 3934_CD
+银行家_NN 3924_CD
+上_NN 汽_VV 3919_CD
+避风港_NN 3891_CD
+证券化_NN 3877_CD
+变量_NN 3873_CD
+配售_VV 3869_CD
+折旧_NN 3866_CD
+新_JJ 纪元_NN 3844_CD
+买进_VV 3837_CD
+伊利_NN 3823_CD
+经济_AD 日报_VV 3797_CD
+低点_NN 3793_CD
+浦发_NN 3782_CD
+偿付_VV 3780_CD
+探底_NN 3766_CD
+折价_NN 3759_CD
+烽火_NN 3757_CD
+崩盘_NN 3741_CD
+沪指_NN 3724_CD
+银山_NN 3722_CD
+寿险_NN 3680_CD
+上交_CS 所_MSP 3667_CD
+保额_NN 3666_CD
+蓝筹_JJ 股3658_NN
+珠峰_NN 3655_CD
+硬指标_NN 3644_CD
+金杯_NN 3638_CD
+热炒_NN 3625_CD
+惠普_NN 3609_CD
+白金_NN 3574_CD
+天安_NN 3573_CD
+雷声_NN 3541_CD
+招商局_NN 3522_CD
+交割_NN 3492_CD
+买断_VV 3462_CD
+分期_NN 付款_NN 3460_CD
+招行_NN 3442_CD
+武钢_VV 3432_CD
+避税_NN 3400_CD
+趋同_AD 3366_CD
+英特尔_AD 3339_CD
+期权_NN 3338_CD
+评语_NN 3321_CD
+债务人_NN 3314_CD
+无形_JJ 资产_NN 3299_CD
+开拓_VV 进取_VV 3298_CD
+货币化_NN 3295_CD
+强_CS 生_VV 3271_CD
+获批_NN 3259_CD
+星巴克_NN 3253_CD
+中国_NR 人民_NN 银行_NN 3229_CD
+钱庄_NN 3228_CD
+异动_NN 3226_CD
+进口商_NN 3222_CD
+预付款_NN 3214_CD
+比索_VV 3212_CD
+盗刷_NN 3197_CD
+次月_NN 3190_CD
+财险_NN 3183_CD
+金鹰_NN 3173_CD
+销售_VV 一_CD 空_M 3168_CD
+国家_NN 外汇_NN 管理局_NN 3167_CD
+港股_NN 3140_CD
+参保率_NN 3118_CD
+中银_NN 3117_CD
+游资_NN 3116_CD
+投资方_NN 3115_CD
+三_CD 联_P 3113_CD
+印花税_NN 3100_CD
+交行_VV 3092_CD
+存贷款_NN 3081_CD
+金城_NN 3080_CD
+中国_NR 经济_NN 周刊_NN 3079_CD
+物价_NN 指数_NN 3076_CD
+担保人_NN 3049_CD
+光华_NN 3042_CD
+国泰君_NN 安_VA 3024_CD
+黑钱_NN 2989_CD
+出口商_NN 2985_CD
+风控_NN 2981_CD
+仓位_NN 2953_CD
+国电_NN 2941_CD
+跨行_VV 2937_CD
+存单_VV 2936_CD
+纪念章_NN 2880_CD
+拒付_VV 2850_CD
+统计学_NN 2848_CD
+京西_NN 2844_CD
+邮政_NN 储蓄_VV 2840_CD
+调回_VV 2817_CD
+扭亏_VV 为_VC 盈_NN 2816_CD
+卧龙_NN 2772_CD
+财务部_NN 2751_CD
+发行价_NN 2751_CD
+消费类_NN 2741_CD
+大中型_JJ 企业_NN 2741_CD
+阿波罗_NN 2718_CD
+还_AD 本_DT 付息_NN 2706_CD
+发行人_NN 2702_CD
+坏账_NR 2687_CD
+中间商_NN 2667_CD
+国药_NN 2666_CD
+价差_NN 2651_CD
+卖价_NN 2647_CD
+中文网_NN 2643_CD
+商品_NN 市场_NN 2638_CD
+商品化_NN 2627_CD
+双汇_NT 2619_CD
+优先_AD 权_VV 2589_CD
+大人物_NN 2573_CD
+总_JJ 需求_NN 2572_CD
+下陷_NN 2570_CD
+戴尔_VV 2551_CD
+代销_VV 2543_CD
+摘牌_NN 2536_CD
+跌_VV 至_P 2531_CD
+赌球_NN 2523_CD
+资产_NN 负债_NN 表_VV 2516_CD
+利差_VV 2494_CD
+灰色_AD 收入_VV 2473_CD
+汇票_NN 2464_CD
+金库_NN 2457_CD
+金卡_NN 2453_CD
+净_CS 赚_VV 2435_CD
+月报_NN 2432_CD
+典_NN 当_P 2422_CD
+风险_NN 投资_NN 2402_CD
+跌势_NN 2398_CD
+投机者_NN 2398_CD
+公平_JJ 交易_NN 2390_CD
+承兑_VV 2384_CD
+动产_VV 2378_CD
+国货_NN 2376_CD
+到_VV 账_NN 2373_CD
+当_P 期_NN 2351_CD
+闲钱_NN 2346_CD
+每日_NT 经济_VV 新闻_JJ 2345_NN
+清仓_NR 2323_CD
+联华_NN 2318_CD
+纪念币_NN 2315_CD
+报税_NN 2305_CD
+股票_NN 市场_NN 2293_CD
+创投_VV 2287_CD
+滚雪球_NN 2277_CD
+按日_NT 2277_CD
+压价_NN 2261_CD
+外高桥_AD 2257_CD
+牌价_NN 2244_CD
+熊市_NN 2243_CD
+长阳_NR 2243_CD
+假钞_NN 2240_CD
+领票_NN 2238_CD
+汇出_VV 2230_CD
+另行_AD 通知_VV 2227_CD
+张裕_NN 2216_CD
+蓄势_NN 2181_CD
+缴款_NN 2178_CD
+亚信_NN 2172_CD
+国信_NN 2164_CD
+空头_NN 2160_CD
+投资性_NN 2135_CD
+营业_NN 执照_VV 2131_CD
+核战争_NN 2130_CD
+四季度_NN 2125_CD
+汇市_NN 2107_CD
+合资_JJ 企业_NN 2102_CD
+催收_VV 2095_CD
+广厦_JJ 2081_NN
+费率_NN 2074_CD
+贷款人_NN 2059_CD
+普涨_NN 2051_CD
+金融城_NN 2048_CD
+科学城_NN 2047_CD
+储蓄卡_NN 2041_CD
+股息_NN 2040_CD
+收市_VV 2037_CD
+战略家_AD 2037_CD
+负债率_NN 2030_CD
+汇兑_VV 2001_CD
+币值_NN 1979_CD
+账簿_NN 1964_CD
+套牢_NN 1953_CD
+康佳_NR 1922_CD
+盲目性_NN 1914_CD
+中华网_NN 1905_CD
+出租人_NN 1892_CD
+点数_NN 1887_CD
+债市_NN 1886_CD
+停板_NN 1873_NN
+交易区_NN 1871_CD
+克拉_VV 1860_CD
+黑金_NN 1854_CD
+买通_VV 1840_CD
+承销_VV 1839_CD
+华安_NN 1831_CD
+操作员_NN 1825_CD
+典_NN 当_P 行_NN 1816_CD
+早盘_NN 1815_CD
+炎黄_NN 1815_CD
+网商_NN 1808_CD
+持卡人_NN 1805_CD
+宝洁_NN 1790_CD
+信托_NN 公司_NN 1788_CD
+取现_VV 1780_CD
+放高_AD 利贷_VV 1776_CD
+凌云_NN 1736_CD
+纯金_NN 1733_CD
+祁连山_AD 1727_CD
+公债_NN 1727_CD
+变现_VV 1714_CD
+付息_NN 1710_CD
+度量_NN 1709_CD
+外汇_NN 管理_NN 1707_CD
+分销商_NN 1705_CD
+遗产税_NN 1699_CD
+监事_NN 长_VA 1687_CD
+融资额_NN 1680_CD
+兼_P 营_NN 1679_CD
+金融_NN 市场_NN 1678_CD
+最_AD 高价_JJ 1673_NN
+贴现_VV 1672_CD
+美国_NR 银行_VV 1668_CD
+上海_NR 财经_NR 大学_NN 1649_CD
+鞍钢_NN 1645_CD
+撤资_NN 1632_CD
+接盘_NN 1629_CD
+救世_NN 主_VA 1626_CD
+开卡_VV 1613_CD
+后撤_NN 1605_CD
+阿胶_NN 1602_CD
+金融股_NN 1598_CD
+结汇_VV 1583_CD
+无息_JJ 贷款_NN 1582_CD
+营销部_NN 1579_CD
+税基_NN 1579_CD
+对冲_AD 1566_CD
+海龙_NN 1565_CD
+安信_NN 1564_CD
+萤火虫_NN 1548_CD
+通联_VV 1530_CD
+步步_NN 高_VA 1526_CD
+规划委_NN 1524_CD
+中_LC 签_VV 1507_CD
+收盘价_NN 1500_CD
+国际_NN 大厦_NN 1499_CD
+机制性_NN 1493_CD
+挤兑_NN 1490_CD
+比特_AD 1475_CD
+开盘_NN 价_NN 1471_CD
+六合彩_NN 1448_CD
+存款人_NN 1446_CD
+平_JJ 仓_NN 1439_CD
+全聚_AD 德_VV 1434_CD
+公募_NN 1429_CD
+全面_AD 发力_NN 1429_CD
+韵达_NN 1422_CD
+鼎立_NN 1419_CD
+银监局_NN 1408_CD
+中国_NR 联通_NN 1404_CD
+乐视网_NN 1402_CD
+中国_NR 经营报_NN 1398_CD
+满_OD 堂_M 红_CC 1394_CD
+国投_NN 1392_CD
+选择权_NN 1389_CD
+金马_NN 1387_CD
+出资额_NN 1375_CD
+承销商_NN 1365_CD
+新卡_JJ 1353_NN
+热钱_NN 1349_CD
+经济_NN 基本面_NN 1343_CD
+通货_NN 紧缩_VV 1341_CD
+特别_AD 关注_VV 1339_CD
+币种_NN 1329_CD
+银元_NN 1328_CD
+通货_NN 1326_CD
+杀跌_VV 1320_CD
+股份_NN 有限_VA 公司_NN 1314_CD
+自由_P 竞争_NN 1312_CD
+新大_JJ 陆1306_NN
+资产_VV 负债率_NN 1301_CD
+暂行_JJ 办法_NN 1296_CD
+分理处_NN 1292_CD
+涨跌幅_NN 1289_CD
+截止日_NN 1287_CD
+所有_DT 权证_NN 1287_NN
+收进_VV 1280_CD
+债权国_NN 1266_NN
+华新_NN 1247_CD
+天龙_NN 1238_CD
+百_CD 事_NN 可乐_VV 1238_CD
+农林_NN 牧渔_NN 1223_CD
+私募_NR 1214_CD
+华西村_NN 1210_CD
+商誉_NN 1210_CD
+奇虎_NN 1209_CD
+银币_NN 1202_CD
+抄底_NN 1191_CD
+实施_VV 细则_NN 1188_CD
+经济_AD 学界_VV 1181_CD
+减仓_NN 1175_CD
+信用证_VV 1162_CD
+购回_VV 1157_CD
+卖主_NN 1155_CD
+管理_NN 办法_NN 1151_CD
+万_CD 事达_NN 1150_CD
+交易商_NN 1140_CD
+行话_NN 1139_CD
+随行_VV 就_AD 市_VV 1135_CD
+领跌_NN 1125_CD
+国华_NN 1119_CD
+投资家_NN 1115_CD
+包钢_VV 1113_CD
+信贷_NN 资产_NN 1105_CD
+汇源_NN 1102_CD
+中长线_NN 1094_CD
+包销_VV 1094_CD
+方兴_NN 1093_CD
+公司_NN 制_VV 1071_CD
+水仙_NN 1069_CD
+长岭_NR 1067_CD
+嘉_CD 实_AD 1067_CD
+证券法_NN 1062_CD
+新城市_JJ 1060_NN
+五_CD 环_M 1058_NN
+尾盘_NN 1058_CD
+三_CD 农_NN 1057_CD
+布告_NN 1052_CD
+中农_NR 1047_CD
+组选_NN 1041_CD
+城投_NN 1031_CD
+跨年度_NN 1027_CD
+五道口_NN 1024_CD
+文峰_NN 1023_CD
+翻_VV 两_CD 番_M 1022_CD
+信贷员_NN 1019_CD
+还_AD 本_DT 1015_CD
+均_AD 线_NN 1015_CD
+保护价_NN 1013_CD
+中国_NR 国航_NN 1010_CD
+大_JJ 东海_NR 1009_CD
+大盘股_NN 1007_CD
+商社_NN 1002_CD
+北大_NR 荒_NN 1001_CD
+信达_NN 993_CD
+总_JJ 账_NN 986_CD
+杜邦_NN 982_CD
+重_AD 仓_P 979_CD
+丹江_NN 978_CD
+普通_JJ 股971_NN
+香梨_NN 968_CD
+聚酯_NN 966_CD
+分散化_NN 966_CD
+汇通_VV 961_CD
+老凤祥_NN 958_CD
+资产_NN 评估_VV 954_CD
+磁卡_NN 950_CD
+个_M 股_NN 947_CD
+百_CD 大_VA 941_CD
+投资界_NN 938_CD
+低_JJ 开_VV 934_CD
+中北_NR 930_CD
+商业城_NN 928_CD
+气势_NN 如_P 虹_NN 926_CD
+中石油_NN 925_CD
+扣款_NN 921_CD
+上证_JJ 综指_NN 918_CD
+仁_NN 和_P 913_CD
+原始_AD 积累_VV 911_CD
+摩根_NN 大通_AD 911_CD
+验钞机_NN 911_CD
+银行界_NN 906_CD
+金融_JJ 资产_NN 904_CD
+审计师_NN 903_CD
+广深_JJ 铁路_NN 902_CD
+追涨_VV 897_CD
+储蓄率_NN 889_CD
+波幅_NN 889_CD
+流标_NN 886_CD
+黑豹_NN 876_CD
+日经_NR 指数_NN 873_CD
+加仓_NN 869_CD
+寄放_VV 865_CD
+中化_JJ 865_NN
+南网_NN 864_CD
+宽限期_NN 863_CD
+贵宾_JJ 厅_NN 858_CD
+估值_NN 852_CD
+合股_NT 846_CD
+商业_NN 周刊_NN 843_CD
+售楼部_NN 840_CD
+金鼎_NN 837_CD
+龙虎榜_NN 835_CD
+评估师_NN 831_CD
+浦发_VV 银行_NN 831_CD
+投资型_NN 830_CD
+诡计_NN 830_CD
+天_M 保_VV 827_CD
+万华_NT 827_CD
+苏泊尔_NN 817_CD
+超跌_VV 814_CD
+银质_NN 811_CD
+势态_NN 807_CD
+当铺_CS 805_CD
+净额_NN 805_CD
+安永_NN 802_CD
+天弘_NN 800_CD
+中国_JJ 证券报_NN 798_CD
+古_JJ 钱币_NN 798_CD
+配股_NN 794_CD
+爱立信_VV 793_CD
+急_CS 升_VV 793_CD
+金泰_NN 787_CD
+狂跌_AD 786_CD
+滞胀_NN 784_CD
+抢单_VV 781_CD
+复利_NR 781_CD
+权证_NN 780_NN
+信用度_NN 780_CD
+白金卡_NN 779_CD
+重_AD 估_VV 774_CD
+流转税_NN 774_CD
+长运_AD 771_CD
+硬_AD 通货_VV 771_CD
+华信_NN 769_CD
+吴_NN 中_LC 763_CD
+华源_NN 762_CD
+中铁_JJ 二局760_NN
+耐克_NN 760_CD
+产成品_NN 758_CD
+踏空_NN 752_CD
+中集_NR 749_CD
+新鸿_JJ 基_NN 747_CD
+中科_JJ 747_NN
+选_OD 股_M 741_CD
+担_VV 保费_VV 735_CD
+雅戈尔_NN 729_CD
+群聚_NN 728_CD
+同_DT 城_NN 725_CD
+开仓_NN 722_CD
+出清_VV 721_CD
+高点_NN 717_CD
+中信_JJ 集团_NN 711_CD
+波峰_NN 709_CD
+风险_NN 系数_NN 709_CD
+交银_NN 707_CD
+优先_AD 股_VV 690_CD
+网通_NN 688_CD
+创智_NN 681_CD
+新机_NN 制_VV 679_CD
+基本点_NN 673_CD
+换汇_VV 672_CD
+中标者_NN 669_CD
+财智_NN 669_CD
+资助金_NN 667_CD
+实体_NN 经济_NN 667_CD
+偏_AD 转_VV 655_CD
+购汇_VV 653_CD
+白猫_NN 652_CD
+凤凰_NN 卫视_NN 646_CD
+递延_VV 645_CD
+康达_NN 643_CD
+证券_NN 日报_NR 643_CD
+实得_VV 638_NN
+上海_JJ 证券报_NN 635_CD
+三立_NT 631_CD
+老千628_NT
+控股_NN 有_VE 限公司_NN 626_CD
+本_DT 票_NN 626_CD
+基民_NN 626_CD
+跳空_NN 625_CD
+分界点_NN 623_CD
+引开_VV 623_CD
+大牛市_AD 617_CD
+收藏品_NN 616_CD
+投标者_NN 610_CD
+民丰_NN 604_CD
+持仓_NN 601_CD
+四_CD 通_P 599_CD
+昌河_NN 593_CD
+亏损面_NN 593_CD
+晨星_NR 591_CD
+基价_NN 590_CD
+代理制_NN 590_CD
+电汇_NN 590_CD
+中小_JJ 盘股_NN 589_CD
+资本_NR 密集型_JJ 588_NN
+虹桥_NN 机场_NN 588_CD
+中投_JJ 公司_NN 586_CD
+有偿_AD 转让_VV 581_CD
+满仓_NN 580_CD
+回收期_NN 579_CD
+缩量_VV 578_CD
+评估费_NN 577_CD
+备付_VV 金_VE 576_CD
+混业_NN 572_CD
+财付通_NN 570_CD
+银华_NN 566_CD
+三元565_NN
+华光_NN 565_CD
+万_CD 家乐_NN 562_CD
+优酷网_NN 555_CD
+外汇_NN 管制_NN 551_CD
+外汇_NN 资金_NN 551_CD
+空仓_NN 550_CD
+货币_NN 流通_NN 549_CD
+纸钞_NN 549_CD
+流动_JJ 资产_NN 545_CD
+外管局_NN 542_CD
+横盘_NN 538_CD
+兴发_VV 537_CD
+止损_VV 535_CD
+艺龙_NN 534_CD
+九_CD 龙山_NN 534_CD
+基期_NN 530_CD
+中房_NR 528_CD
+瑞士_NN 法郎_NN 525_CD
+晨鸣_NT 524_CD
+建信_NN 520_CD
+商网_NN 516_CD
+做空_NN 516_CD
+长_AD 盛_VA 515_CD
+鸿基_NN 509_CD
+建仓_NN 509_CD
+外盘_NN 508_CD
+纯银_JJ 507_NN
+持币_NN 503_CD
+山航_NN 503_CD
+注册费_NN 503_CD
+实盘_NN 497_CD
+办税厅_NN 497_CD
+体制性_NN 491_CD
+海纳_NN 487_CD
+大化_CD 487_CD
+安联_VV 486_CD
+黑卡_JJ 485_NN
+金陵_NN 饭店_NN 485_CD
+摊销_NN 484_CD
+剩余_NN 价值_NN 482_CD
+半年报_JJ 481_NN
+天士力_NN 480_CD
+抛盘_NN 480_CD
+证券_NN 时_LC 报_VV 479_CD
+绿景_NN 479_CD
+东阿_NN 阿胶_NN 478_CD
+龙卡_NN 476_CD
+耀华_NN 476_CD
+补仓_NN 475_CD
+绩优股_NN 474_CD
+股利_NN 474_CD
+市场报_NN 470_CD
+提单_VV 470_CD
+新材_NN 469_CD
+春兰_NR 467_CD
+创投_VV 公司_NN 465_CD
+汇款人_NN 464_CD
+缴足_VV 464_CD
+售汇_NN 461_CD
+分析师_NN 457_CD
+控股权_NN 456_CD
+冲销_NN 455_CD
+精_AD 算师_VV 454_CD
+等价_JJ 交换_NN 453_CD
+质押物_NN 451_CD
+祥龙_NN 447_CD
+赛迪_NN 446_CD
+华讯_NN 444_CD
+市盈率_NN 443_CD
+里拉_NN 441_CD
+领军者_NN 438_CD
+宁波港_AD 436_CD
+交强险_NN 435_CD
+邵氏_NN 435_CD
+普跌_NN 428_CD
+国际_NN 银行_VV 426_CD
+北京_NN 银行_VV 425_CD
+定投_VV 424_CD
+银行部_NN 424_CD
+中纺_NN 422_CD
+波音_NN 公司_NN 421_CD
+莱钢_NR 419_CD
+狮头_NN 415_CD
+出超_VV 414_CD
+星美_NN 413_CD
+华鼎_NN 413_CD
+丰华_NR 412_CD
+对_P 赌_VV 412_CD
+易_AD 宝_NN 411_CD
+日照港_AD 410_CD
+宏观_VV 经_P 济学_NN 409_CD
+持有_VV 人_NN 406_CD
+扛住_VV 405_CD
+尾市_NN 403_CD
+科达_NN 402_CD
+东盛_NN 401_CD
+法律部_NN 400_CD
+具结_VV 400_CD
+东信_NN 396_CD
+宏业_NN 391_CD
+金银币_NN 390_CD
+单选_NN 388_CD
+武昌鱼_NN 387_CD
+二_CD 季度_NN 386_CD
+集资款_NN 386_CD
+天海_JJ 384_NN
+担保法_NN 382_CD
+股改_NN 380_CD
+收汇_VV 380_CD
+财经_AD 网_VV 380_CD
+波谷_NN 379_CD
+发行额_NN 378_CD
+英达_NN 378_CD
+氯碱_NN 377_CD
+汽油机_NN 376_CD
+担_VV 保金_VV 374_CD
+小阳_NN 370_CD
+泰格_NN 370_CD
+安全度_NN 366_CD
+雷伊_NN 363_CD
+赊销_NN 362_CD
+湖山_NN 362_CD
+金融部_NN 360_CD
+受益人_NN 359_CD
+花雕_NN 359_CD
+入市_VV 356_CD
+健民_NN 355_CD
+交易税_NN 354_CD
+金瑞_NN 354_CD
+开户费_NN 352_CD
+国民_NN 银行_VV 352_CD
+仓单_NN 351_CD
+南化_NN 351_CD
+工作_NN 方案_NN 348_CD
+伪钞_NN 347_CD
+外汇_NN 资产_NN 345_CD
+华富_NN 345_CD
+大元_CD 345_CD
+淡_CD 马锡_NN 344_CD
+中证_JJ 344_NN
+携程网_NN 340_CD
+古币_NR 339_CD
+坏账率_NN 338_CD
+黄页_NN 338_CD
+天鸿_NN 337_CD
+三力336_NN
+诺安_NN 331_CD
+正常性_JJ 326_NN
+港铁_JJ 公司_NN 326_CD
+抬轿_NN 324_CD
+侨汇_NN 323_CD
+新高_JJ 点_NN 323_CD
+商业_NN 银行法_NN 322_CD
+热点_NN 话题_NN 320_CD
+中国_NR 太保_NN 320_CD
+租购_NN 319_CD
+黄金_NN 储备_NN 317_CD
+百_CD 事_NN 316_CD
+大摩_CD 316_CD
+记录员_NN 316_CD
+纪念钞_NN 311_CD
+研究_NN 报告_NN 307_CD
+冲高_VV 305_CD
+国际_NN 金融报_NN 305_CD
+出口业_NN 304_CD
+卡特尔_AD 304_CD
+邮币卡_NN 303_CD
+新天_NT 303_CD
+秋林_NR 302_CD
+追收_VV 302_CD
+地_DEV 量_VV 302_CD
+金果_NN 302_CD
+亚星_NN 302_CD
+至_P 高点_NT 301_CD
+复权_JJ 300_NN
+国库券_NN 298_CD
+金融史_NN 297_CD
+总成_JJ 交量_NN 297_CD
+农行卡_NN 296_CD
+富国_JJ 银行_NN 293_CD
+摩根_NN 斯_DT 坦利_NN 290_CD
+发行期_NN 290_CD
+天香_NN 289_CD
+厦华_NN 288_CD
+煤气化_NN 287_CD
+国资局_NN 286_CD
+探路者_NN 285_CD
+对_P 价_NN 284_CD
+抗跌_NN 283_CD
+卡包_NN 282_CD
+金帝_NN 282_CD
+平均_AD 利润_VV 281_CD
+中_LC 恒_AD 281_CD
+自然人_AD 280_CD
+天方_NN 280_CD
+法人股_NN 279_CD
+簿册_NN 275_CD
+点位_NN 275_CD
+中国_NR 经济_NN 时_LC 报_VV 273_CD
+看跌_VV 272_CD
+国通_NN 272_CD
+断点_NN 266_CD
+法币_NN 264_CD
+普天_NN 263_CD
+达标者_NN 263_CD
+中_LC 润_VV 261_CD
+银泰_NN 百货261_NN
+投资业_NN 261_CD
+律师_NN 事务_NN 所_MSP 261_CD
+金交_NN 所_MSP 261_CD
+大_JJ 降_VV 260_CD
+概_AD 念股_VV 259_CD
+汇丰_AD 银行_VV 259_CD
+套利_NN 256_CD
+中国_JJ 企业家_NN 255_CD
+中联_VV 重科_JJ 255_NN
+货币_NN 战争_NN 254_CD
+物物_NN 交换_NN 254_CD
+中恒_JJ 集团_NN 254_CD
+东软_JJ 集团_NN 253_CD
+削价_NN 252_CD
+国富论_NN 249_CD
+新大洲_AD 249_CD
+景顺_NN 长城_AD 247_CD
+申赎_NN 246_CD
+申报率_NN 245_CD
+普卡_JJ 245_NN
+集资额_NN 244_CD
+管理_NN 学家_NN 240_CD
+即期_CS 239_CD
+目标_NN 公司_NN 239_CD
+零_CD 存整取_VV 239_CD
+中华_NN 工商_NN 时_LC 报_VV 237_CD
+重仓股_NR 235_CD
+百花村_NN 233_CD
+合作_JJ 协议_NN 232_CD
+金盘_NN 230_CD
+金岭_NN 230_CD
+海泰_NN 229_CD
+加拿_VV 大元_NN 229_CD
+中小_JJ 散户_NN 228_CD
+建设_VV 银行_NN 226_CD
+南京港_NN 225_CD
+营口_NN 港_NN 225_CD
+融资性_NN 224_CD
+折旧率_NN 222_CD
+日线_NN 221_CD
+中青_NR 宝_NN 221_CD
+存定期_NN 221_CD
+华南城_NN 221_CD
+宏盛_NN 219_CD
+雅虎_NN 公司_NN 218_CD
+联电_NN 217_CD
+贝塔_NR 217_CD
+展讯_NN 216_CD
+封盘_NN 215_CD
+承销_VV 团_NN 215_CD
+保函_NN 213_CD
+信诺_NN 213_CD
+托收_VV 213_CD
+全局_AD 观_VV 211_CD
+七_CD 乐彩_NN 211_CD
+云天化_NN 209_CD
+人头税_NN 209_CD
+销卡_NN 208_CD
+微观_JJ 经济学_NN 208_CD
+瑞银_NN 集团_NN 208_CD
+正_AD 兴_P 208_CD
+上海_NN 机场_NN 207_CD
+垃圾股_NN 207_CD
+伊泰_NN 207_CD
+惠天_NN 207_CD
+补充_VV 协议_NN 206_CD
+君子_NN 协定_NN 206_CD
+定税_VV 205_CD
+掉期_NN 204_CD
+国瓷_NN 204_CD
+海富通_NN 204_CD
+小盘股_NN 201_CD
+大通_AD 银行_VV 201_CD
+宜华_NN 201_CD
+海普瑞_NN 200_CD
+交易厅_NN 200_CD
+首_NOI 局_NN 199_CD
+国美_NN 电器_NN 199_CD
+净_CS 收入_VV 199_CD
+卡种_NN 198_CD
+投资量_NN 197_CD
+万_CD 通地产_VV 192_CD
+新黄_JJ 浦192_NN
+最低_AD 值_VV 191_CD
+唐山港_NN 189_CD
+六_CD 渡桥_NN 189_CD
+双马_NR 188_CD
+黄金宝_NN 188_CD
+国发_NN 188_CD
+威达_NN 188_CD
+中侨_NR 187_CD
+泡沫_NN 经济_NN 186_CD
+小_JJ 肥羊_NN 185_CD
+南方_NN 公司_NN 185_CD
+限售_VV 股_VE 184_CD
+同_DT 庆_NN 183_CD
+罗莱_NN 家纺_NN 181_CD
+汇划_NN 178_CD
+超标者_NN 177_CD
+赌马_NN 174_CD
+瑞龙_NN 174_CD
+协调部_NN 174_CD
+跨国_JJ 银行_NN 174_CD
+公股_NN 174_CD
+张江_NN 高_JJ 科_NN 174_CD
+重庆_AD 银行_VV 172_CD
+禁止_VV 令_VV 172_CD
+天富_NN 172_CD
+产业_NN 资本_NN 172_CD
+九_CD 州通_VV 171_CD
+思达_NN 170_CD
+揽存_NN 170_CD
+股权_NN 转让_VV 协议_NN 169_CD
+南控_NN 169_CD
+新鸿基_JJ 地产_NN 169_CD
+江钻_NN 168_CD
+麦考林_NN 168_CD
+固定资_NN 本_DT 166_CD
+卖空_NN 165_CD
+补进_VV 165_CD
+巴克莱_NN 银行_VV 165_CD
+三_CD 普_P 165_CD
+双_CD 币_NN 164_CD
+光明_JJ 乳业_NN 162_CD
+经手_AD 费_VV 162_CD
+投资品_NN 161_CD
+建通_VV 161_CD
+浦银_NN 安盛_NN 161_CD
+古越_JJ 龙山_NN 161_CD
+中国_NR 建设_VV 银行_NN 161_CD
+筑底_NN 161_CD
+理财_NN 周报_NN 161_CD
+煤炭股_NN 160_CD
+证券_NN 市场_NN 周刊_NN 159_CD
+抵押率_NN 159_CD
+税点_NN 158_CD
+农化_NN 158_CD
+涨停板_NN 158_CD
+美股_NR 157_CD
+零_CD 首付_AD 156_CD
+买价_NN 155_CD
+中国_NR 石化_NN 153_CD
+中资_NN 银行_VV 153_CD
+套汇_VV 152_CD
+飚升_NN 152_CD
+利息率_NN 152_CD
+汇丰_JJ 集团_NN 152_CD
+企业_NN 集团_NN 150_CD
+蒙牛_JJ 乳业_NN 150_CD
+银建_NN 147_CD
+转押_VV 145_CD
+现值_JJ 145_NN
+绩差_NN 144_CD
+锦州港_NN 144_CD
+光亚_NN 144_CD
+宝盈_NN 144_CD
+北新_NR 路桥_NN 144_CD
+组织_NN 机构_NN 代码证_NN 144_CD
+桐君阁_NN 143_CD
+金地_NN 集团_NN 143_CD
+海欣_NN 143_CD
+国有_VV 股_NN 141_CD
+颈圈_NN 139_CD
+中国_NR 商报_NN 139_CD
+护盘_NN 139_CD
+铜城_NN 139_CD
+旭光_NN 138_CD
+托普_NN 136_CD
+芝加_VV 哥_NN 商品_NN 交易所_NN 135_CD
+发票_NN 管理_NN 办法_NN 135_CD
+动力源_NN 133_CD
+换股_AD 132_CD
+高息_NN 揽存_VV 132_CD
+南顺_NN 132_CD
+袁_VV 大头_AD 132_CD
+公司_NN 章程_NN 131_CD
+三_CD 联_NN 商社_NN 131_CD
+浦银_NN 130_CD
+瑞士_NN 银行_VV 130_CD
+投资学_NN 129_NN
+华天_NN 酒店_NN 129_CD
+永_AD 大_VA 129_CD
+附单_NN 129_CD
+华润_JJ 集团_NN 128_CD
+波段性_NN 128_CD
+上海_JJ 金融_NN 学院_VV 128_CD
+中国_NR 人民_NN 保险_NN 公司_NN 127_CD
+成都_AD 路桥_VV 127_CD
+博通_NN 127_CD
+新_JJ 财富_NN 127_CD
+川_AD 大_JJ 智胜_NN 127_CD
+汇丰_AD 晋_DEV 信_VV 126_CD
+盘_M 后_LC 126_CD
+鲁泰_NN 126_CD
+平邮_NN 125_CD
+江苏舜_NN 天_VV 125_CD
+清华_NN 紫光_NN 124_CD
+金健_NN 米业_NN 124_CD
+恒_AD 立_P 124_CD
+天宏_NN 123_CD
+南京_NN 银行_VV 123_CD
+国_NN 中_LC 123_CD
+物贸_NN 123_CD
+拆伙_NN 121_CD
+爱建_NN 121_CD
+宝信_NN 120_CD
+多_CD 伦_M 股份_NN 120_CD
+期货_NN 交易_NN 管理_NN 条例_NN 120_CD
+承诺费_NN 120_CD
+维加_VV 118_CD
+空开_JJ 118_NN
+收购人_NN 118_CD
+记账员_NN 117_CD
+市净率_NN 117_CD
+国_NN 联安_VV 117_CD
+违约率_NN 117_CD
+福日_NN 117_CD
+金普_NN 117_CD
+浮动_JJ 汇率_NN 制_VV 116_CD
+验旧_NN 116_CD
+斯_DT 达康_NN 113_CD
+提货_NN 单_AD 112_CD
+银率网_NN 111_CD
+苏宁_NR 环球_NN 111_CD
+浪莎_NN 111_CD
+潮宏基_NN 110_CD
+泸州_NN 老窖_NN 股份_NN 有限_VA 公司_NN 108_CD
+到_VV 期日_NN 107_CD
+宝光_NN 107_CD
+罗克_NN 韦_NN 尔_VC 107_CD
+雪莱_NN 特_AD 107_CD
+中国_NR 宝安_NN 106_CD
+成长性_NN 106_CD
+保_VV 增长_VV 104_CD
+中国_NN 信达_NN 资产_NN 管理_VV 公司_NN 104_CD
+融资款_NN 104_CD
+大华_AD 银行_VV 104_CD
+圣方_NN 104_CD
+质押品_NN 103_CD
+保网_NN 103_CD
+资本利_AD 得税_VV 103_CD
+创业网_NN 102_CD
+企业_NN 所_MSP 得_VV 税法_NN 102_CD
+申购款_NN 101_CD
+互联网_NN 周刊_NN 101_CD
+试点_NN 方案_NN 100_CD
+精伦_NR 100_CD
+完税_JJ 证_NN 100_NN
+方_AD 大_JJ 特钢_NN 100_CD
+借记_NN 99_CD
+下轨_NN 99_CD
+假账_JJ 98_CD
+债务国_NN 98_CD
+统计系_NN 98_CD
+计量_NN 经_VV 济学_NN 97_CD
+朝华_NN 97_CD
+国家_NN 统计局_NN 96_CD
+业务线_NN 96_CD
+衍生_VV 产品_NN 96_CD
+增资额_NN 96_CD
+补价_NN 96_CD
+中国_NR 网通_NN 95_CD
+康达尔_NN 95_CD
+划断_VV 95_CD
+万_CD 邦达_NN 95_CD
+洗盘_NN 95_CD
+同济_AD 堂_VE 95_CD
+广联_VV 达_VV 94_CD
+九_CD 龙仓_NN 集团_NN 94_CD
+收购者_NN 94_CD
+华联_VV 商厦_NN 94_CD
+奖励金_NN 94_CD
+信立泰_NN 94_CD
+超跌股_NN 93_CD
+经贸大学_AD 93_CD
+借出_VV 93_CD
+万_CD 利达_NN 93_CD
+澳优_NN 93_CD
+暴_AD 升_VV 93_CD
+累_AD 进税_VV 93_CD
+合肥_NT 三洋93_NT
+残余_NN 价值_NN 93_CD
+汇丽_NN 91_CD
+新锦_JJ 江_NN 91_CD
+方_AD 大_JJ 集团_NN 90_CD
+港股_NN 通_VV 90_CD
+宝姿_NN 89_CD
+新东方_NN 88_CD
+昌源_NN 88_CD
+锌业_NN 88_CD
+拓尔思_VV 88_CD
+公用_JJ 科技_NN 88_CD
+银行学_NN 87_NN
+大_JJ 北_NN 农_NN 86_CD
+口令卡_NN 86_CD
+封闭期_NN 86_CD
+信联_NN 86_CD
+前_JJ 手_NN 85_CD
+存放_VV 处_NN 85_NN
+双_CD 币卡_NN 85_CD
+南玻_NN 集团_NN 85_CD
+提额_NN 84_CD
+领购簿_NN 84_CD
+出_VV 千83_CD
+共保_NT 83_CD
+除_P 净_JJ 83_CD
+新秀_JJ 丽83_NN
+中彩网_NN 82_CD
+第一_OD 财经_NN 82_CD
+和_CC 讯_NN 82_CD
+信达_NN 资产_NN 81_CD
+泰达_NN 宏利_NN 基金_NN 81_CD
+轮换_NN 制_VV 81_CD
+资本_NR 品_NN 81_CD
+理财_JJ 金81_NN
+转换费_NN 80_CD
+股分_NN 80_CD
+中国_NR 工商_NN 银行_VV 80_CD
+巨潮_JJ 80_NN
+回档_NN 79_CD
+芜湖港_NN 79_CD
+除_P 息_NN 79_CD
+嘉瑞_NN 78_CD
+方源_NN 78_CD
+斩仓_NN 78_CD
+金元宝_NN 78_CD
+万_CD 年薪_NN 78_CD
+中_LC 服_VV 77_CD
+美雅_NR 77_NN
+快_JJ 公司_NN 77_CD
+验审_NN 77_CD
+换手率_NN 76_CD
+贴现率_NN 74_CD
+冷却期_NN 74_CD
+香港_NN 交易所_NN 74_CD
+银广夏_NN 74_CD
+广_AD 发_VV 银行_NN 74_CD
+贝_AD 因_P 美_NN 73_CD
+聚友_NN 73_CD
+华昌达_NN 73_CD
+龙建_NN 73_CD
+新股_JJ 72_NN
+屯积_NN 72_CD
+生意宝_NN 72_CD
+仪化_NN 72_CD
+皇台_NN 72_CD
+买空_NN 卖空_NN 72_CD
+奖励费_NN 71_CD
+国祥_NN 71_CD
+运营部_NN 71_CD
+豪_AD 盛_VA 71_CD
+下_NN 破_VV 71_CD
+招行卡_NN 71_CD
+拒批_NN 70_CD
+康卡_NR 斯特_NR 70_CD
+小盘_NN 70_CD
+总水平_NN 70_CD
+指标体_NN 系_VC 70_CD
+甘化_NN 70_CD
+流通股_NN 70_CD
+负利率_NN 70_CD
+环球企_NN 业家_NN 70_CD
+德豪_NR 润达_NN 70_CD
+非_AD 现金_NT 69_CD
+宝诚_NN 69_CD
+宝瑞_NN 通_VV 典_NN 当_P 行_NN 69_CD
+关联_JJ 公司_NN 69_CD
+商通卡_NN 69_CD
+源发_NN 69_CD
+合_AD 会_VV 6_CD 8_CD
+先施_NN 6_CD 8_CD
+双_CD 底_JJ 6_CD 8_CD
+楔形_JJ 68_NN
+新_JJ 韩_JJ 银行_NN 6_CD 8_CD
+哈_NOI 药_NN 集团_NN 67_CD
+通威_NR 股份_NN 67_CD
+发展_NN 规划_NN 67_CD
+艾迪西_NN 67_CD
+欧洲_NN 货币_NN 67_CD
+济柴_NN 67_CD
+反洗_VV 钱法_NN 66_CD
+北海港_NN 66_CD
+金融_NN 体制_NN 66_CD
+上市_JJ 规则_NN 65_CD
+中_JJ 小板_NN 指_VV 65_CD
+五_CD 矿_NN 证券_NN 65_CD
+租方_NN 65_CD
+联邦_NN 存款_NN 保险_NN 公司_NN 64_CD
+挂价_NN 64_CD
+寰岛_NN 64_CD
+投资_NN 协议_NN 64_CD
+热门股_NN 63_CD
+国海_NN 富兰_NR 克林_NN 63_CD
+天津_NN 海运_NN 63_CD
+哈尔_CS 斯_DT 63_CD
+东方龙_NN 63_CD
+国能_NN 63_CD
+海立_NN 63_CD
+四川_NT 双马62_NT
+安信_NN 信托_NN 62_CD
+低_JJ 价股_NN 62_CD
+博讯_NN 61_CD
+解盘_NN 61_CD
+押汇_NN 61_CD
+投资期_NN 61_CD
+家_CS 得宝_VV 61_CD
+辅币_NN 61_CD
+泰达_NN 宏利_NN 61_CD
+正_AD 泰电器_NN 61_CD
+货币_NN 主义_NN 61_CD
+东方_NN 国信_NN 60_CD
+上海_JJ 莱士_NN 60_CD
+用_P 卡_NN 60_CD
+新华_AD 锦_VV 60_CD
+钱_NN 经_P 60_CD
+新华_NT 百货59_NT
+联益_NN 59_CD
+劳埃德_NN 银行_VV 5_CD 8_CD
+高新兴_AD 5_CD 8_CD
+海兰信_NN 58_CD
+美丽华_NR 酒店_NN 5_CD 8_CD
+易货_JJ 贸易_NN 5_CD 8_CD
+哈_NOI 药_NN 股份_NN 5_CD 8_CD
+审计_JJ 报告_NN 57_CD
+安泰_NN 集团_NN 57_CD
+华塑_NR 56_CD
+广州_JJ 浪奇_NN 56_CD
+售楼_JJ 处_NN 55_CD
+新_NN 中_LC 基_NN 55_CD
+大有_VE 期货_NN 54_CD
+金本_NR 位制_NN 54_CD
+中科_JJ 三环54_NN
+填权_NN 54_CD
+诱空_NN 53_CD
+安达信_NN 53_CD
+东方雨_NN 虹_P 53_CD
+中海_NR 油_NN 53_CD
+收购方_NN 53_CD
+联名卡_NN 53_CD
+鲁银_NN 53_CD
+半年期_NN 53_CD
+欧比_NR 特53_CD
+东华_NN 软件_NN 53_CD
+龙科_NN 53_CD
+科华_NN 恒_AD 盛_VA 53_CD
+盛润_JJ 52_CD
+零息52_NN
+环球_NN 财经_NN 52_CD
+金化_NN 52_CD
+钛白_NN 51_CD
+金葵花_NN 51_CD
+宝丽华_NN 51_CD
+莫_AD 高_JJ 股份_NN 51_CD
+宝莱特_NN 51_CD
+经办_AD 员_VV 50_CD
+博信_NN 50_CD
+中粮屯_NN 河_NN 50_CD
+吉恩镍_NN 业_NN 50_CD
+青岛_NN 海信_NN 50_CD
+利记_NN 50_CD
+启动_JJ 资金_NN 49_CD
+沙隆达_NN 49_CD
+海能达_NN 49_CD
+航天_NN 长_JJ 峰_NN 49_CD
+海伦哲_NN 49_CD
+银_NN 之_DEG 杰_NN 49_CD
+柯尼卡_NN 49_CD
+洪都_NR 航空_NN 49_CD
+哈_NN 里_LC 伯顿49_NN
+安居宝_NN 48_CD
+苏宁_NR 电器_NN 48_CD
+广夏_NR 48_CD
+报喜_AD 鸟_VV 48_CD
+单币_JJ 47_NN
+诚_AD 信网_NN 47_CD
+拨回_VV 47_CD
+中科_JJ 英华_NN 47_CD
+交通_NN 银行_VV 47_CD
+航民_NN 47_CD
+夏新_NN 47_CD
+大华_NR 股份_NN 47_CD
+冰熊_NN 47_CD
+联_OD 次_M 46_NN
+前笔_JJ 46_CD
+速_AD 贷通_VV 46_CD
+凯马_NN 46_CD
+固定_JJ 汇率_NN 制_VV 46_CD
+彩票点_NN 46_CD
+九_CD 阳_NN 股份_NN 有限_VA 公司_NN 46_CD
+国际_NN 商报_NN 46_CD
+让渡_VV 45_CD
+砸盘_NN 45_CD
+看盘_NN 45_CD
+大_JJ 华农_NR 45_CD
+创新高_AD 44_CD
+安彩_NN 44_CD
+环球_NN 集团_NN 43_CD
+碧_NN 生源_NN 43_CD
+非_AD 正常_JJ 户_NN 43_CD
+汇通_NN 集团_NN 43_CD
+证券网_NN 43_CD
+盘感_NN 43_CD
+现代_JJ 传播_NN 43_CD
+营业日_NN 43_CD
+中源_NN 43_CD
+买方_NN 市场_NN 42_CD
+渣打_VV 银行_NN 42_CD
+轻纺城_NN 42_CD
+单利_JJ 42_NN
+华海_NR 药业_NN 42_CD
+交割_NN 单_AD 42_CD
+回_OD 次_M 42_NN
+三季度_NN 42_CD
+中国_NR 矿业_NN 41_CD
+红宝丽_NN 41_CD
+新都_JJ 酒店_NN 41_CD
+运盛_NN 41_CD
+高_JJ 溢价_NN 41_CD
+配额_NN 制_VV 41_CD
+中国_NR 公司_NN 40_CD
+金路_NN 集团_NN 40_CD
+金融许_AD 可证_VV 40_CD
+全球_AD 资本_NR 市场_NN 40_CD
+钢镚儿_NN 40_CD
+中鲁_NR 40_CD
+低_JJ 吸_VV 39_CD
+惨绿_JJ 39_CD
+贵研_JJ 铂业_NN 39_CD
+交易_AD 规则_VV 39_CD
+电力股_NN 38_CD
+外国_NN 投资法_NN 38_CD
+交货价_NN 38_CD
+自选_VV 股_NN 38_CD
+交易场_NN 38_CD
+海王_NN 集团_NN 37_CD
+买卖_VV 合同_JJ 37_CD
+德棉_NN 37_CD
+中国_JJ 电信_NN 37_CD
+民化_NN 37_CD
+改票_NN 37_CD
+中国_JJ 金融_NN 37_CD
+卡_NN 中心_NN 37_CD
+银期_NN 37_CD
+海_AD 大_JJ 集团_NN 36_CD
+化工股_NN 36_CD
+上港_NR 集团_NN 36_CD
+新华_NN 都_AD 36_CD
+银基_NN 集团_NN 36_CD
+广州_JJ 市广_NN 百股份_NN 有限_JJ 公司_NN 36_CD
+房地_AD 产评_VV 估_VV 36_CD
+东富龙_NN 36_CD
+欧亚_NN 集团_NN 36_CD
+中冠_NR 36_CD
+南京_NR 新港_NR 35_CD
+综合税_NN 35_CD
+厦门_NN 国际_NN 银行_NN 35_CD
+海联讯_NN 35_CD
+重庆港_AD 九35_CD
+亿_CD 阳_NN 信通_NN 35_CD
+中国_NR 人民_NN 建设_VV 银行_NN 35_CD
+伊_CS 立浦_VV 35_CD
+秦丰_NN 35_CD
+华陶_NN 35_CD
+金穗卡_NN 35_CD
+授权书_NN 35_NN
+福彩_NN 中心_NN 35_CD
+蒙_VV 发利_VV 35_CD
+试点_NN 办法_NN 35_CD
+上海_JJ 贝岭_NN 35_CD
+平安_JJ 集团_NN 35_CD
+鑫光_NN 34_CD
+飞力达_NN 34_CD
+安纳_VV 达_VV 34_CD
+私营_JJ 公司_NN 34_CD
+中国_NR 国际_NN 34_CD
+新宙邦_JJ 34_NN
+指数化_NN 34_CD
+上海_JJ 分行_NN 34_CD
+北矿_NN 34_CD
+广宇_JJ 集团_NN 33_CD
+普利_NN 特_AD 33_CD
+普民_NN 33_CD
+非_AD 融资性_JJ 33_NN
+中航_JJ 三鑫33_NN
+操作_NN 指南_NN 33_CD
+五_CD 矿_NN 建设_VV 33_CD
+上海_JJ 证大_NN 33_CD
+运通_NN 公司_NN 33_CD
+电子城_NN 32_CD
+中航_NN 精_JJ 机_NN 32_CD
+山东_NN 新华_AD 制药_VV 股份_NN 有限_VA 公司_NN 32_CD
+绩差股_NN 32_CD
+承担者_NN 32_CD
+万_CD 丰_JJ 奥威_NN 32_CD
+天龙_NN 集团_NN 32_CD
+万_CD 家_M 32_NN
+振业_NN 集团_NN 32_CD
+美欣_NR 达_VV 32_CD
+信达_NN 证券_NN 31_CD
+亨泰_NN 31_CD
+飞行者_NN 31_CD
+信息_NN 技术_NN 31_NN
+深_JJ 赤湾_NR 31_CD
+渤化_NN 31_CD
+宏峰_NN 31_CD
+净现值_NN 31_CD
+送配_VV 31_CD
+信托业_NN 31_CD
+服务_NN 协议_NN 31_CD
+巨额_NN 交易_NN 31_CD
+鲁证_NR 30_CD
+招标者_NN 30_CD
+筑信_NN 30_CD
+添益宝_NN 30_CD
+詹姆_NN 斯_DT 邦德_NN 30_CD
+资本_NR 化_NN 30_CD
+仲裁_AD 规则_VV 30_CD
+外国_NN 银行_NN 29_CD
+卡样_NN 29_CD
+深_AD 万科_NT 29_CD
+禾嘉_NN 29_CD
+海立美达_NN 29_CD
+金通灵_NN 29_CD
+兑付期_NN 29_CD
+瑞_NN 和_CC 29_CD
+羊城通_NN 29_CD
+备用_VV 费_NN 29_CD
+江力_NN 29_CD
+如_P 家_NN 29_CD
+海药_NN 28_CD
+天源_NN 迪科_NN 28_CD
+内蒙君_NN 正_AD 28_CD
+华盛达_NN 28_CD
+运通卡_NN 28_CD
+中国_JJ 经济网_NN 28_CD
+团办_NN 28_CD
+宏华_NN 集团_NN 28_CD
+华菱_NN 钢铁_NN 28_CD
+中国_NR 财富_NN 28_CD
+总房价_NN 28_CD
+收盘报_NN 28_CD
+短_AD 融券_VV 28_CD
+惠博普_NN 28_CD
+中电投_NN 28_CD
+易_AD 方达_NN 28_CD
+资产_NN 评估_VV 报告_NN 28_CD
+旗滨_NN 集团_NN 28_CD
+付息日_NN 28_CD
+三_CD 房巷_NN 28_CD
+新_JJ 财经_NN 28_CD
+组织图_NN 28_CD
+联想_JJ 集团_NN 28_CD
+挂帐_NN 27_CD
+鼎天_NN 27_CD
+红鲱鱼_NN 27_CD
+财经_VV 时报_NN 27_CD
+民生_JJ 证券_NN 27_CD
+康耐特_NN 27_CD
+丽珠_NN 集团_NN 27_CD
+斯_DT 普林_NN 特_AD 27_CD
+储备_NN 头寸_NN 27_CD
+金宇_NN 集团_NN 26_CD
+合肥_NR 美菱_NR 股份_NN 有_VE 限公_JJ 司_NN 26_CD
+现金_JJ 流量表_NN 26_CD
+标金_NN 26_CD
+京运通_NN 26_CD
+圣莱达_NN 26_CD
+海通_JJ 集团_NN 26_CD
+三力士_NN 26_CD
+完美_AD 世界_NN 26_CD
+中国_NR 太平_NN 26_CD
+中国_JJ 铁建_NN 26_CD
+浦东_NN 金桥_NN 25_CD
+上_NN 破_VV 25_CD
+颈线_NN 25_CD
+持票人_NN 25_CD
+空头_NN 头寸_NN 25_CD
+五_CD 粮_CC 25_CD
+锁仓_NN 25_CD
+征用_VV 权_NN 25_CD
+修身堂_NN 25_CD
+残值_NN 25_CD
+金宇_NN 车城_NN 24_CD
+远东_JJ 经济_NN 评论_NN 24_CD
+达尔曼_NR 24_NN
+销售_VV 合同_JJ 24_CD
+亚洲_NN 金融_NN 24_CD
+广为_AD 流传_VV 24_CD
+阳谷华_NN 泰_VV 24_CD
+中国_NR 财经_NR 报_NN 24_CD
+汇添富_NN 24_CD
+港华_NN 燃气_NN 24_CD
+股市_NN 动态_JJ 分析_NN 24_CD
+广州_JJ 白云_NN 山制_VV 药股份_NN 有_VE 限公_JJ 司_NN 24_CD
+紫光_NN 华宇_NN 24_CD
+信息_NN 早报_CC 24_CD
+回天_NN 胶业_NN 23_CD
+红太阳_AD 23_CD
+保理商_NN 23_CD
+浙江_NN 海亮_NN 23_CD
+国电南瑞_NN 23_CD
+维达_NN 国际_NN 23_CD
+内盘_NN 23_CD
+综合类_NN 23_CD
+报告期_NN 23_CD
+零_CD 七_CD 股份_NN 23_CD
+创业_NN 计划书_NN 23_CD
+世界_NN 经济_NN 23_CD
+三_CD 全_DT 食品_NN 23_CD
+转期_NN 23_CD
+异动股_NN 23_CD
+金飞达_NN 23_CD
+上海_JJ 地产_NN 22_CD
+佳_JJ 兆业_NN 集团_NN 22_CD
+艺术品_NN 投资_NN 22_CD
+大冶特钢_AD 22_CD
+中国_JJ 移动_NN 22_CD
+全球_PN 商业_NN 经典_P 22_CD
+重庆_NN 机电_NN 22_CD
+百_CD 盛_JJ 集团_NN 22_CD
+经理_AD 费_VV 22_CD
+大_CS 行情_VV 22_CD
+评估_VV 办法_NN 22_CD
+查库_VV 22_CD
+中国_NR 南车_NN 22_CD
+认购_VV 协议_NN 22_CD
+中科_JJ 软_JJ 22_NN
+望春花_NN 22_CD
+专业版_NN 22_CD
+科斯_NN 伍德_PU 21_CD
+钢研_NN 高_VA 纳_CC 21_CD
+彩票网_NN 21_CD
+石炼_NN 21_CD
+大_JJ 资金_NN 21_CD
+北玻_NN 股份_NN 20_CD
+交易_NN 时间_NN 20_CD
+万力达_NN 20_CD
+尤洛卡_NR 20_CD
+北辰_NN 实业_NN 20_CD
+长城卡_NN 20_CD
+汤臣_NN 倍健_NN 20_CD
+麦达_NN 斯_DT 20_CD
+株冶_NN 集团_NN 20_CD
+鲁润_NR 20_CD
+聚富20_NN
+中南_NN 重工_AD 20_CD
+背书人_NN 20_CD
+石岘_NN 20_CD
+北京_NR 利尔_NN 20_CD
+二纺机_NN 20_CD
+易_AD 世_NN 达_VV 20_CD
+东风_NN 集团_NN 20_CD
+冠城_NR 大通_CD 20_CD
+宏智_NN 19_CD
+仕奇_NN 19_CD
+兰光_NN 19_CD
+深圳智_JJ 多盈_NN 19_CD
+三元达_NN 19_CD
+中信_JJ 海直_NN 19_CD
+抵押_VV 合同_JJ 19_CD
+信汇_NN 19_CD
+白页_NN 19_CD
+赌彩_NN 19_CD
+精诚_JJ 铜业_NN 19_CD
+融通_VV 领先_VV 19_CD
+战略_AD 规划_VV 19_CD
+江苏_NN 宏宝_NN 19_CD
+新疆_JJ 天宏_NN 19_CD
+中银_NN 绒业_NN 19_CD
+四_CD 洲_NN 集团_NN 19_CD
+丰林_NN 集团_NN 19_CD
+苏宁_NR 环球_NN 股份_NN 有限_VA 公司_NN 19_CD
+广州_JJ 分行_NN 19_CD
+葛州坝_NN 19_CD
+三_CD 丰_NN 智能_NN 19_CD
+深证成指_VV 19_CD
+自_P 仪_P 19_CD
+保管人_NN 19_CD
+先声_JJ 药业_NN 19_CD
+良运_NN 18_CD
+长电_JJ 18_CD
+天津_NN 松江_NN 18_CD
+广电_NN 运通_NN 18_CD
+厦门_NN 钨业_NN 18_CD
+凯地_NN 18_CD
+集琦_NN 18_CD
+沧州_NN 大_VA 化_CC 18_CD
+英威腾_NN 18_CD
+华兰_NR 生物_NN 工程_NN 股份_NN 有限_VA 公司_NN 18_CD
+工银_NN 亚洲_NN 18_CD
+奥维_NN 通信_NN 18_CD
+自然_JJ 人股_NN 18_CD
+海德_NN 股份_NN 18_CD
+粤水电_NN 18_CD
+政策面_NN 18_CD
+上海_JJ 钢联_NN 18_CD
+振华_NN 港机_NN 18_CD
+财经_NT 周刊_NN 18_CD
+合臣_JJ 18_NN
+九_CD 发_CC 18_CD
+奥普_NN 光电_NN 18_CD
+七_CD 星_NN 电子_NN 18_NN
+亚玛顿_NN 17_CD
+棱光_NN 17_CD
+承销_VV 额_NN 17_CD
+买空_NN 17_CD
+海宁_JJ 皮城_NN 17_CD
+定向_AD 增发_VV 17_CD
+一_CD 德_NN 17_CD
+新开_AD 普_VV 17_CD
+金利_NN 来_MSP 集团_VV 17_CD
+康赛_NN 17_CD
+深_AD 安_AD 达_VV 17_CD
+武汉_NN 凡_CC 谷_NN 17_CD
+南华_NN 集团_NN 17_CD
+齐_AD 翔_JJ 腾达_NN 17_CD
+许_VV 继_P 电气_NN 17_CD
+通行_VV 权_NN 16_CD
+阜丰_NN 集团_NN 16_CD
+中信_JJ 银行_NN 16_CD
+清华_NN 同_DT 方_NN 16_CD
+中原_JJ 信托_NN 16_CD
+航意险_NN 16_CD
+信达_NN 资产_NN 管理_NN 公司_NN 16_CD
+洛玻_NN 16_CD
+高_VA 斯_PN 达_VV 16_CD
+贵绳_JJ 16_CD
+售尽_NN 16_CD
+吉林_NR 森工_NR 16_CD
+亚洲_NN 货币_NN 16_CD
+富士_JJ 银行_NN 16_CD
+康_CS 得新_VV 16_CD
+天鸿_NN 宝业_NN 16_CD
+康菲_NN 石油_NN 16_CD
+新_JJ 和_CC 成_VV 16_CD
+深_AD 发_VV 16_CD
+闽福_NR 发_VV 15_CD
+通科_VV 15_CD
+国泰_NN 金龙_NN 15_CD
+江_NN 中_LC 药业_NN 15_CD
+办税员_NN 15_CD
+西王_NN 糖业_NN 15_CD
+损失率_NN 15_CD
+凯美_NN 特气_NN 15_CD
+无锡_AD 尚德_VV 15_CD
+国泰_NN 金鹰_NN 15_CD
+虚涨_JJ 15_CD
+工商_NN 银行_VV 15_CD
+谭木匠_NN 15_CD
+法人_NN 银行_VV 15_CD
+工银_NN 添颐_NN 15_CD
+半_CD 仓_NN 15_CD
+健康险_NN 15_CD
+商界_NN 评论_NN 15_CD
+山东_NN 铝业_NN 15_CD
+华侨城_NN 15_CD
+北京_NR 国投_NN 15_CD
+康_AD 大_JJ 食品_NN 15_CD
+地_DEV 产股_VV 15_CD
+漫步者_NN 15_CD
+亿_CD 安_CC 15_CD
+黄金_NN 投资_NN 15_CD
+琼民源_NN 14_CD
+深_CD 国商_NN 14_CD
+溢缴款_NN 14_CD
+饱和_AD 点_VV 14_CD
+罗普_NN 斯_DT 金_NN 14_CD
+东锅_NN 14_CD
+三_CD 木_NN 集团_NN 14_CD
+国泰_NN 金牛_NN 14_CD
+海王英_NN 特_CC 龙_NN 14_CD
+单币_JJ 卡14_NN
+国泰_NN 上_LC 证_AD 14_CD
+超声_NN 电子_NN 14_NN
+桂东_NN 电力_NN 14_CD
+炒高_VV 14_CD
+玉源_NN 14_CD
+启明_NN 信息_NN 14_CD
+卖方_NN 市场_NN 14_CD
+钱串子_NN 14_CD
+东方_NN 航空_NN 14_CD
+金融_NN 投资报_NN 14_CD
+永亨_CS 银行_VV 14_CD
+核准_NN 制_VV 14_CD
+商务_NN 周刊_NN 14_CD
+银承_NN 14_CD
+北旅_NN 14_CD
+银债_NN 14_CD
+洛阳轴_NN 研_VV 科技_JJ 股份_NN 有限_VA 公司_NN 14_CD
+国际_NN 金融_NN 14_CD
+中信_JJ 泰富_NN 14_CD
+发_VV 卡_NN 银行_NN 14_CD
+华孚_JJ 色纺_NN 14_CD
+达声_NN 14_CD
+台积_NN 电14_NN
+渝_NN 三峡_NT 14_CD
+银行_JJ 卡号_NN 13_CD
+补空_NN 13_CD
+长盛同德_JJ 13_CD
+西单_NT 商场_NN 13_CD
+哈_AD 高_JJ 科_NN 13_CD
+沪建_NN 13_CD
+中化_JJ 岩土_NN 13_CD
+追索_VV 权_NN 13_CD
+日科_NR 化学_NN 13_NN
+华神_NN 集团_NN 13_CD
+华安_NR 宝利_NN 13_CD
+康美_NN 药业_NN 13_CD
+产业_NN 发展_NN 13_CD
+上海_JJ 凯宝_NN 13_CD
+工银_NN 添利_NN 13_CD
+华微_NR 电子_NN 13_NN
+乐电_NN 13_CD
+奥克_NN 股份_NN 13_CD
+供给_VV 区_NN 13_CD
+财务_NN 管理_NN 13_CD
+麦科_NN 特_AD 13_CD
+威尔泰_NN 13_CD
+天仪_NN 13_CD
+高金_NN 食品_NN 13_CD
+浩_NN 宁_AD 达_VV 13_CD
+建行卡_NN 13_CD
+泸州_NN 老窖_NN 13_CD
+成_VV 功营销_NN 13_CD
+贵州_JJ 百灵13_NN
+利源_NN 铝业_NN 13_CD
+审计_NN 结果_NN 13_CD
+金融市_NN 12_CD
+深_JJ 原野_NN 12_CD
+上证_JJ 股12_NN
+情况表_NN 12_CD
+高新_JJ 发展_NN 12_CD
+中国_JJ 医药_NN 12_CD
+利邦_NN 12_CD
+自主_AD 创新_VV 12_CD
+圣雪绒_NN 12_CD
+扫盘_NN 12_CD
+苏常_AD 柴_VV 12_CD
+锦江_NN 酒店_NN 12_CD
+际华_NN 集团_NN 12_CD
+红阳_NN 能源_NN 12_CD
+众_CD 业达_NN 12_CD
+扩仓_NN 12_CD
+广东_JJ 新会_NN 美_AD 达_VV 锦纶_NN 股份_NN 有限_VA 公司_NN 12_CD
+深_NN 证_NN 综指_NN 12_CD
+三_CD 特_NN 索道_NN 12_CD
+被_SB 套_VV 12_CD
+库藏股_NN 12_CD
+实益_JJ 达_VV 12_CD
+海南_NN 海药_NN 股份_NN 有限_VA 公司_NN 12_CD
+久立_JJ 特材_NN 12_CD
+深_JJ 宝安_NN 12_CD
+华东_NN 医药_NN 股份_NN 有限_VA 公司_NN 12_CD
+瓦轴_NN 12_CD
+三_CD 维丝_NN 12_CD
+宝利_NN 来_VV 11_CD
+第三_OD 波_M 11_NN
+深_AD 大通_AD 11_CD
+控盘_NN 11_CD
+华安_NR 宏利_NN 11_CD
+浙江_NN 广_JJ 厦_NN 11_CD
+国泰_NN 进取_VV 11_CD
+厦门_NN 信达_NN 11_CD
+担保品_NN 11_NN
+认同_JJ 卡_NN 11_CD
+顺_VV 诚_AD 11_CD
+房改房_NN 11_CD
+打印_NN 单_AD 11_CD
+目标值_NN 11_CD
+裸币_NN 11_CD
+新_JJ 营销_NN 11_CD
+实卡_JJ 11_NN
+大盈_CD 11_CD
+吉纸_NN 11_CD
+益鑫泰_NN 11_CD
+金融_JJ 世界_NN 11_CD
+总体_NN 而_MSP 言_VV 11_CD
+富力_NN 地产_AD 11_CD
+深天_NT 马11_Err
+协会_NN 章程_NN 11_CD
+合伙_AD 制_VV 11_CD
+赣锋_NN 锂业_NN 11_CD
+英特_JJ 集团_NN 11_CD
+特变_JJ 电工_NN 11_CD
+折现率_NN 11_CD
+技术面_NN 11_CD
+国投_NN 瑞银_NN 11_CD
+烽火_NN 通信_NN 11_CD
+健康元_NN 10_CD
+常柴_JJ 10_CD
+厦门_NN 信达_NN 股份_NN 有限_VA 公司_NN 10_CD
+华商_NN 银行_VV 10_CD
+首席_OD 财务_NN 官_NN 10_CD
+大众_CD 理财_NN 顾问_NN 10_CD
+保荐制_NN 10_CD
+哈_CS 慈_VV 10_CD
+移仓_VV 10_CD
+淡仓_NR 10_CD
+报查_NN 10_CD
+厦新_NN 10_CD
+锦港_NN 10_CD
+八一_CD 钢铁_NN 10_CD
+息票_NN 10_CD
+操作_NN 规范_NN 10_CD
+担_VV 保函_VV 10_CD
+金榜_NN 集团_NN 10_CD
+试行_VV 标准_NN 10_CD
+枪客_NN 10_CD
+富豪_JJ 酒店_NN 10_CD
+南方_NN 建材_NN 股份_NN 有限_VA 公司_NN 10_CD
+服务_NN 合同_VA 10_CD
+奥飞_NN 动漫_VV 10_CD
+股票机_NN 10_CD
+南证_VV 10_CD
+路演_NN 10_CD
+中集_JJ 安瑞科_NN 10_CD
+九九_CD 久_VA 10_CD
+畅丰_JJ 车桥_NN 10_CD
+国泰_NN 纳指_NN 10_CD
+还_AD 款期_NN 10_CD
+华靖_NN 10_CD
+中泰_NR 化学_NN 10_NN
+外国_NR 直接_AD 投资_VV 10_CD
+金辉_NN 集团_NN 10_CD
+英国_JJ 金融_NN 时_LC 报_VV 10_CD
+南_NN 百10_CD
+逃汇_VV 10_CD
+北京_NN 分行_NN 9_CD
+酒鬼酒_NN 9_CD
+增值_NN 税普_NN 通发_VV 票_NN 9_CD
+万_CD 泽_NN 股份_NN 9_CD
+东光_NN 集团_NN 9_CD
+中国_NR 经济_NN 9_CD
+超级_NN 大_JJ 乐透_NN 9_CD
+双_CD 平_VA 9_CD
+河化_NN 9_CD
+基金_NN 合同_VA 9_CD
+跌停板_NN 9_CD
+宝莫_NR 股份_NN 9_CD
+外汇宝_NN 9_CD
+商品_NN 期货_NN 9_CD
+新兴_JJ 市场_NN 9_CD
+证券_NN 投资_NN 基金_NN 9_CD
+创兴_NN 银行_NN 9_CD
+西藏_NN 天路_NN 9_CD
+焦作_NN 万方9_NN
+科伦_NN 药业_NN 9_CD
+天马_NN 精化_VV 9_CD
+医疗_NN 保健_NN 9_CD
+中银_NN 国际_NN 9_CD
+浙江_NN 富_JJ 阳_NN 9_CD
+包头_NN 铝业_NN 9_CD
+购票员_NN 9_CD
+石炼化_NN 9_CD
+天伦_NN 置业_NN 9_CD
+西藏_NN 旅游_NN 9_CD
+彼得_PN 林奇_NN 9_CD
+残值率_NN 9_CD
+雄_JJ 震_VV 9_CD
+中金_NR 公司_NN 9_CD
+中信_JJ 实业_NN 银行_NN 9_CD
+汇多利_VV 9_CD
+北京_NN 天桥_NN 8_CD
+鄂_NOI 绒_NN 8_CD
+皇朝家_NN 私_AD 8_CD
+碟型_JJ 8_CD
+待评_VV 8_CD
+银广厦_NN 8_CD
+云南盐_NN 化_NN 股份_NN 有限_VA 公司_NN 8_CD
+联油_NN 8_CD
+金利_NN 华电_NN 8_CD
+新鸿基_JJ 公司_NN 8_CD
+汇通_VV 天下_VV 8_CD
+中国_NR 农业_NN 银行_NN 8_CD
+炬力_NN 8_CD
+西南财_NN 经_P 大学_NN 8_CD
+天目_NN 药业_NN 8_CD
+上_JJ 提_VV 8_CD
+融资_NN 租赁_NN 合同_VA 8_CD
+证券_NN 投资_NN 分析_NN 8_CD
+通金_NN 8_CD
+中国_NR 食品_NN 8_CD
+亚星_NN 化学_NN 8_CD
+试盘_NN 8_CD
+大中华_AD 集团_NN 8_CD
+魏桥_NN 纺织_VV 8_CD
+长盛_JJ 环球_NN 8_CD
+恒泰大通_AD 8_CD
+科达_NN 机电_NN 8_CD
+中航科_NN 工_NN 8_CD
+西陇化工_NN 8_CD
+南宁_JJ 糖业_NN 股份_NN 有限_VA 公司_NN 8_CD
+深_CD 赛格_NN 8_CD
+金枫_NN 酒业_NN 8_CD
+英化_NN 8_CD
+鑫新_NN 8_CD
+广发_JJ 证券_NN 8_CD
+中国_JJ 国际招_NN 标网_NN 8_CD
+小牌_NN 8_CD
+银行券_NN 8_CD
+长盛_JJ 基金_NN 8_CD
+丽悦_NN 酒店_NN 8_CD
+租契_NN 8_CD
+兰铝_NN 8_CD
+茉织华_NN 8_CD
+上海_JJ 石化_NN 8_CD
+新_AD 嘉联_VV 8_CD
+松辽_NN 汽车_NN 8_CD
+朗伯_OD 德街_NN 8_CD
+发票_NN 领购簿_NN 8_CD
+深_AD 纺织_VV 8_CD
+限售期_NN 8_CD
+苏物_NN 8_CD
+申银_NN 万_CD 国_NN 8_CD
+雅虎_NN 财经_NN 8_CD
+天然_JJ 碱8_NN
+研究_NN 简报_VV 8_CD
+交割日_NN 8_CD
+宜华地产_VV 8_CD
+新华_JJ 银行_NN 8_CD
+钱江_NN 摩托_NN 8_CD
+收官日_NN 8_CD
+重庆_JJ 川仪_NN 8_CD
+美联_NN 集团_NN 8_CD
+新_AD 希望_VV 8_CD
+万_CD 顺昌_NN 7_CD
+通道_NN 制_VV 7_CD
+证券_NN 市场_NN 红周刊_NN 7_CD
+美联_VV 银行_NN 7_CD
+开放_VV 经济_P 7_CD
+还款_JJ 计划_NN 7_CD
+豫能_NN 7_CD
+中化_JJ 国际_NN 7_CD
+金普卡_NN 7_CD
+南京红太_AD 阳股份_NN 有限_JJ 公司_NN 7_CD
+国泰_NN 金鼎_NN 7_CD
+实际_JJ 控制人_NN 7_CD
+拓日_NT 新_JJ 能_VV 7_CD
+宜华_NN 木业_NN 7_CD
+购买区_NN 7_CD
+通知_VV 期_NN 7_CD
+鲁泰纺织_NN 股份_NN 有_VE 限公司_VV 7_CD
+精工_JJ 集团_NN 7_CD
+上海_JJ 证券_NN 交易所_NN 7_CD
+深_JJ 物业_NN 7_CD
+合富_JJ 辉煌_NN 7_CD
+流动_JJ 电讯_NN 7_CD
+天津_NN 普林_NN 7_CD
+海格_NN 通信_NN 7_CD
+上海_JJ 梅林_NN 7_CD
+科新_NN 机电_NN 7_CD
+雅天妮_NN 7_CD
+中海_NR 达_VV 7_CD
+物贸_NN 中心_NN 7_CD
+国际_NN 投资_NN 7_CD
+上_JJ 电_NN 7_CD
+招商局_NN 国际_NN 7_CD
+西南_NN 合成_VV 7_CD
+新奥_JJ 燃气_NN 7_CD
+实施_NN 标准_NN 7_CD
+上海_JJ 金陵_NN 7_CD
+梅花伞_NN 7_CD
+廉租房_NN 7_CD
+机构_NN 投资者_NN 7_CD
+壹_CD 传媒_NN 7_CD
+易_AD 联众_VV 7_CD
+云南_NN 马龙_NN 7_CD
+经济_CS 观察网_NN 7_CD
+中国_JJ 联合_NN 商报_NN 7_CD
+中科_JJ 健_NN 7_CD
+区域型_NN 7_CD
+龙头股_NN 7_CD
+中国_NR 商人_NN 7_CD
+手工票_NN 7_CD
+中国_NR 建筑_NN 6_CD
+波动性_NN 6_CD
+中航_NN 光电_NN 6_CD
+兴达_VV 国际_NN 6_CD
+双_CD 账户_NN 6_CD
+钛金卡_NN 6_CD
+资本_NR 化率_NN 6_CD
+佳_JJ 纸_NN 6_CD
+拆_VV 股_NN 6_CD
+重_AD 仪_P 6_CD
+股歌_NN 6_CD
+文印室_NN 6_CD
+唐陶_NN 6_CD
+新华_JJ 基金_NN 6_CD
+锦化_NN 6_CD
+雅戈_NN 6_CD
+当_P 代金_NN 融家_NN 6_CD
+三_CD 普_NN 药业_NN 6_CD
+西北_NN 轴承_NN 股份_NN 有限_VA 公司_NN 6_CD
+平均_JJ 利率_NN 6_CD
+东控_NN 6_CD
+深华_AD 发_VV 6_CD
+当_P 代经_VV 理人_NN 6_CD
+湖北_NN 迈亚_VV 6_CD
+万_CD 昌_NN 科技_NN 6_CD
+广州_JJ 国光_NN 6_CD
+中核_NN 钛白_NN 6_CD
+经济_CS 导刊_NN 6_CD
+受损者_NN 6_CD
+龙星化工_NN 6_CD
+泰京_NN 银行_NN 6_CD
+中国_NR 石油_NN 6_CD
+国泰_NN 金鹿_NN 6_CD
+条形图_NN 6_CD
+浙江_NN 三_CD 花_VV 股份_NN 有限_VA 公司_NN 6_CD
+安凯_NN 客车_NN 6_CD
+停业_NN 通知书_NN 6_CD
+中国_NR 重汽_NN 6_CD
+国研网_NN 6_CD
+金利通_NN 6_CD
+好时_NT 光_AD 6_CD
+收益_JJ 宝_NN 6_CD
+永_AD 利_NN 带_VV 业_NN 6_CD
+深圳_NN 比_P 克_NN 6_CD
+上海_JJ 凤凰_NN 6_CD
+权智_NN 6_CD
+天润_JJ 曲轴_NN 6_CD
+实德_NN 环球_NN 6_CD
+新_JJ 太_AD 6_CD
+天利_NN 高新_NN 6_CD
+山东_NN 鲁阳_NR 股份_NN 有限_VA 公司_NN 6_CD
+振新_NN 6_CD
+重单_NN 6_CD
+上海_JJ 绿新_NN 6_CD
+青鸟_NN 华光_NN 6_CD
+绩差_NR 公司_NN 6_CD
+二_CD 纺_NN 6_CD
+安徽_NN 华星_NR 化工_NN 股份_NN 有限_VA 公司_NN 6_CD
+基金_NN 委员_NN 会_VV 6_CD
+投票门_NN 6_CD
+东吴_NN 嘉禾_NN 6_CD
+风险_NN 提示_VV 6_CD
+新锦_JJ 华_NN 6_CD
+针线街_NN 6_CD
+中国_NR 国贸_NN 6_CD
+烟台_NN 氨纶_NN 股份_NN 有限_VA 公司_NN 6_CD
+东方_NN 明珠_AD 5_CD
+国际_NN 金融_NN 市场_NN 5_CD
+北京_NR 君正_NN 5_CD
+认沽_NN 期权_NN 5_CD
+清算_JJ 协议_NN 5_CD
+对照_P 表_NN 5_OD
+评价_NN 体系_NN 5_CD
+花旗_NN 银行_NN 5_CD
+借_VV 报_NN 5_CD
+几_CD 维鸟_NN 5_CD
+深深_JJ 房_NN 5_CD
+管理_NN 有_VE 限公司_NN 5_CD
+计世网_NN 5_CD
+广州_JJ 冷机_NN 5_CD
+征管_NN 处_NN 5_CD
+东源_NN 电器_NN 5_CD
+汇通_VV 能源_NN 5_CD
+广东_JJ 星湖_NN 5_CD
+北京_NR 旅游_NN 5_CD
+亨通_NN 光电_NN 5_CD
+成商_NN 集团_NN 5_CD
+齐星_JJ 铁塔_NN 5_CD
+海外_NN 投资法_NN 5_CD
+深圳市_JJ 通产丽_NN 星股份_NN 有_VE 限公司_VV 5_CD
+出票人_NN 5_CD
+上海_NN 物贸_NN 5_CD
+实_AD 股_P 5_CD
+上海_JJ 科华_NN 生物_NN 工程_NN 股份_NN 有限_VA 公司_NN 5_CD
+深_JJ 泰_NN 5_CD
+交货_NN 单_AD 5_CD
+常胜_JJ 网_NN 5_CD
+通程_NN 控股_NN 5_CD
+短_JJ 仓_NN 5_CD
+上海_JJ 电力_NN 5_CD
+山东_NN 威达_NN 5_CD
+泰复_NN 5_CD
+厦门_NN 厦工_NN 5_CD
+渤海_NN 银行_NN 5_CD
+大连_AD 冷冻_VV 机股份_NN 有_VE 限公司_VV 5_CD
+万_CD 向_P 德农_NN 5_CD
+炒汇者_NN 5_CD
+友_NN 达_VV 光电_NN 5_CD
+南油_NN 物业_NN 5_CD
+期货_NN 公司_NN 5_CD
+双_CD 赔_VV 5_CD
+山东_NN 恒_CC 邦冶_NN 炼股份_NN 有_VE 限公司_VV 5_CD
+出口人_NN 5_CD
+迟_AD 付_VV 5_CD
+投标书_NN 5_CD
+评估_VV 标准_NN 5_CD
+钛金_NN 5_CD
+国际_NN 融资_NN 5_CD
+光_AD 大_JJ 保德_NN 信5_NN
+中瑞_NR 思创_NN 5_CD
+浦银_NN 安盛_NN 基金_NN 5_CD
+海正_NR 药业_NN 5_CD
+胜景_NN 山河_NN 5_CD
+送_VV 股_NN 5_CD
+明_AD 泰_JJ 铝业_NN 5_CD
+搜于_VV 特_AD 5_CD
+皖能_NN 5_CD
+银证通_VV 5_CD
+合兴_JJ 集团_NN 5_CD
+吉林_NR 化纤_NN 5_CD
+硅宝_NN 科技_NN 5_CD
+复旦_CS 复华_VV 5_CD
+云南_NN 白药_NN 5_CD
+普天_NN 收益_VV 5_CD
+认沽_NR 权证_NN 5_CD
+黑龙_JJ 股份_NN 5_CD
+友阿_NN 股份_NN 5_CD
+长盛同_JJ 禧_NN 5_CD
+瀚宇_NN 博德_NN 5_CD
+分配_NN 方案_NN 5_CD
+新龙_JJ 国际_NN 5_CD
+中国_NR 平安_NN 5_CD
+东_NN 方金_NN 钰_NN 5_CD
+中_JJ 辽_NN 5_CD
+吉利_NN 汽车_NN 5_CD
+投资_NN 与_CC 合作_NN 5_CD
+多_AD 佳_VA 5_CD
+湖南_NN 海利_NN 5_CD
+中国_NR 投资_NN 5_CD
+海_JJ 信电器_NN 5_CD
+华北_NN 制药_NN 5_CD
+黑色_JJ 星期_NN 五5_CD
+达创_NN 5_CD
+龙双_NN 5_CD
+英唐_NN 智控_NN 5_CD
+家润多_NN 5_CD
+中国_NR 忠旺_NN 5_CD
+统计_VV 报告_NN 5_CD
+对_P 账单_NN 5_CD
+外汇通_NN 5_CD
+信达_NN 期货_NN 4_CD
+上海_JJ 建工_NN 4_CD
+空中_JJ 网_NN 4_CD
+雅居乐_NN 地产_NN 4_CD
+兴业卡_NN 4_CD
+信息_NN 披露_NN 制度_NN 4_CD
+大_JJ 银行_NN 4_CD
+奥运卡_NN 4_CD
+骗线_NN 4_CD
+普洛康_NN 裕_NN 4_CD
+苏威孚_NN 4_CD
+经济_AD 发展_VV 4_CD
+山东_NN 矿机_NN 4_CD
+广百_OD 股份_NN 4_CD
+证券_NN 周刊_NN 4_CD
+投资_NN 者关_NN 系_NN 4_CD
+股票界_NN 4_CD
+注销户_NN 4_CD
+苏_NN 三_CD 山_NN 4_CD
+皇朝_NN 家俬_NN 4_CD
+网付_NN 4_CD
+白金版_NN 4_CD
+按年_NT 4_CD
+年收益_NN 4_CD
+中科_NN 合_VV 臣_NN 4_CD
+天龙_NN 光电_NN 4_CD
+深_AD 华新_P 4_CD
+礼品税_NN 4_CD
+融资网_NN 4_CD
+深圳_NN 机场_NN 4_CD
+个人_NN 理财_NN 4_CD
+新疆_JJ 天业_NN 4_CD
+中国_NR 科技_NN 4_CD
+联动_NN 机制_NN 4_CD
+现代_JJ 教育_NN 4_CD
+贷款_NN 协议_NN 4_CD
+京投银泰_NN 4_CD
+融_VV 信达_NN 4_CD
+华鼎_NN 锦纶_NN 4_CD
+洛阳_NN 玻璃_NN 4_CD
+海源_NN 机械_NN 4_CD
+普洛_JJ 股份_NN 4_CD
+吉诺尔_NN 4_CD
+万_OD 家_M 基金_NN 4_CD
+海螺_NN 型材_NN 4_CD
+兴利_NN 集团_NN 4_CD
+不便_AD 宜_VV 4_CD
+风险_NN 提示函_NN 4_CD
+中原_JJ 特钢_NN 4_CD
+高银_JJ 地产_NN 4_CD
+大_JJ 萧条_NN 4_CD
+上海_JJ 医药_NN 4_CD
+国联_NN 信托_NN 4_CD
+通达_NN 卡_NN 4_CD
+哈_CS 投_VV 股份_NN 4_CD
+新威_JJ 国际_NN 4_CD
+咨询_NN 报告_NN 4_CD
+金业_NN 公司_NN 4_CD
+盐湖_NN 集团_NN 4_CD
+天桥_NN 百_CD 货_NN 4_CD
+中顺_JJ 洁柔_NN 4_CD
+津劝业_NN 4_CD
+奕达_NN 4_CD
+精工_JJ 钢构_NN 4_CD
+调查_VV 结果_NN 4_CD
+安联_VV 集团_NN 4_CD
+新北_JJ 洋4_NN
+云_NN 海_NN 金属_NN 4_CD
+财富_VV 时报_JJ 4_CD
+发展_NN 战略_NN 4_CD
+国泰_NN 金马_NN 4_CD
+哈飞_CS 航空_NN 4_CD
+中国_NR 科健_NN 股份_NN 有限_VA 公司_NN 4_CD
+粤宏远_NN 4_CD
+日线图_NN 4_CD
+金瑞_NN 科技_NN 4_CD
+中_JJ 燕_NN 4_CD
+湖北_NN 宜化_VV 4_CD
+业务_NN 发展_NN 4_CD
+上海_JJ 科技_NN 4_CD
+湖北沙_NN 隆达_NN 股份_NN 有_VE 限公司_VV 4_CD
+对_P 外资_NN 4_CD
+金种子_NN 4_CD
+万_CD 威_NN 国际_NN 4_CD
+警示_VV 教育_NN 4_CD
+易_AD 基_NN 4_CD
+新疆_JJ 金风_NN 科技_NN 股份_NN 有_VE 限公司_VV 4_CD
+采掘_VV 业_NN 4_CD
+商务_NN 英语_NN 4_CD
+免代_NN 理费_NN 4_CD
+中国_NR 国际_NN 信托_NN 投资_NN 公司_NN 4_CD
+南京_NN 港股份_NN 有_VE 限公司_VV 4_CD
+授予者_NN 4_CD
+中国_NR 凤凰_NN 4_CD
+潞安环_NN 能_VV 4_CD
+指令部_NN 4_CD
+美利_NR 纸业_NN 4_CD
+金融_NN 风暴_NN 4_CD
+卡菲尔_NN 4_CD
+凤凰_NN 财经_NN 4_CD
+拨用_NN 4_CD
+转换_NN 价值_NN 4_CD
+中孚_JJ 实业_NN 4_CD
+永_AD 嘉_P 集团_NN 4_CD
+结算_AD 凭证_VV 3_CD
+航天_NN 科技_NN 3_CD
+自偿性_NN 3_CD
+宁波_JJ 韵升_NN 3_CD
+创业_NN 教育_NN 3_CD
+大富_AD 科技_VV 3_CD
+易_AD 方达_JJ 基金_NN 3_CD
+宇信_NN 易_AD 诚_AD 3_CD
+杭汽轮_NN 3_CD
+林州_NN 重_JJ 机_NN 3_CD
+三_CD 井_NN 银行_NN 3_CD
+中国_NR 有色_JJ 金属_NN 3_CD
+华力_NN 创通_VV 3_CD
+黑白菜_NN 3_CD
+巨龙_NN 管业_NN 3_CD
+中央_JJ 结算_NN 公司_NN 3_CD
+经济_AD 增长_VV 3_CD
+红利_NN 通知书_NN 3_CD
+储蓄券_NN 3_CD
+广东_JJ 百灵信_NN 3_CD
+云南盐_NN 化_NN 3_CD
+杜约翰_AD 3_CD
+特别_JJ 措施_NN 3_CD
+金融_NN 危机_NN 3_CD
+华润_JJ 锦华_NN 3_CD
+评价_NN 指标_NN 3_CD
+东方_NN 银星_NN 3_CD
+利多_VV 消息_NN 3_CD
+考核_JJ 指标_NN 3_CD
+经济_AD 学术_VV 3_CD
+四川_NT 湖山_NN 3_CD
+民丰_NR 特纸_NN 3_CD
+证券_NN 溢价_NN 3_CD
+出售_VV 方_NN 3_CD
+格令_NN 3_CD
+银河银_NN 泰_NN 3_CD
+德累_NR 斯_DT 顿_M 银行_NN 3_CD
+四川_NT 圣达_NN 3_CD
+翻_VV 三_CD 番_M 3_CD
+财经_NT 论坛_NN 3_CD
+长_JJ 控_VV 3_CD
+四川_CS 经_P 济日_NN 报_NN 3_CD
+中集_JJ 集团_NN 3_CD
+融资_NN 协议_NN 3_CD
+浙江_NN 永_AD 强_VA 3_CD
+新浪_JJ 财经_NN 3_CD
+恒_AD 泰_JJ 艾普_NN 3_CD
+南方_NN 航空_NN 3_CD
+信诚_NN 四_CD 季红_NN 3_CD
+支取_NN 凭证_VV 3_CD
+国信_NN 证券_NN 3_CD
+金马_NN 股份_NN 3_CD
+新低_JJ 点_NN 3_CD
+汇丰_AD 晋_BA 信龙腾_NN 3_CD
+理文_NN 集团_NN 3_CD
+中国_NR 人寿_NN 3_CD
+中信_JJ 控股_NN 3_CD
+投资_NN 参考_NN 3_CD
+有效_JJ 市场_NN 假说_NN 3_CD
+评估_NN 方案_NN 3_CD
+东华_NN 能源_NN 3_CD
+货币银_NN 行学_NN 3_CD
+深圳_NN 方大_NN 3_CD
+上海_JJ 辅仁_NN 3_CD
+可_VV 用_P 资产_NN 3_CD
+联华_AD 合纤_VV 3_CD
+食品_NN 饮料_NN 3_CD
+受托人_NN 3_CD
+攀_AD 渝_LB 钛业_NN 3_CD
+深_AD 能_VV 3_CD
+风险_NN 管理_NN 3_CD
+华融_NN 资产_NN 管理_NN 公司_NN 3_CD
+中_LC 恒_P 电气_NN 3_CD
+天广_JJ 消防_NN 3_CD
+中国_NR 星集团_NN 3_CD
+法郎区_NN 3_CD
+苏州_NN 恒_AD 久_VA 3_CD
+全球_PN 商业_NN 3_CD
+金山_NN 软件_NN 3_CD
+中国_NR 西电_NN 3_CD
+价格_NN 改革_NN 3_CD
+莱英达_NN 3_CD
+新华_JJ 财经_NN 3_CD
+浙江_NN 海纳_NN 3_CD
+上海_JJ 海隆_NN 软件_NN 股份_NN 有限_VA 公司_NN 3_CD
+辅导期_NN 3_CD
+威胜_NN 集团_NN 3_CD
+安全_AD 管理_NN 3_CD
+上海_JJ 新梅_NN 3_CD
+损益表_NN 3_CD
+平_JJ 券_NN 3_CD
+德信_NN 集团_NN 3_CD
+环康_NN 集团_NN 3_CD
+创业板_NN 3_CD
+汤姆_NN 逊路透_NN 3_CD
+深_AD 高_VA 3_CD
+财经_NT 频道_NN 3_CD
+广州_JJ 珠江_NN 3_CD
+交易池_NN 3_CD
+财务_NN 报表_NN 3_CD
+信德_NN 集团_NN 3_CD
+万_CD 象_P 集团_NN 3_CD
+现手_JJ 3_CD
+深圳_JJ 市海_NN 王生物_NN 工程_NN 股份_NN 有限_VA 公司_NN 3_CD
+分行制_NN 3_CD
+友邦_NN 华_NN 泰_VC 3_CD
+轧空_NN 3_CD
+博软_NN 3_CD
+金瑞_NN 矿业_NN 3_CD
+明星_JJ 电力_NN 3_CD
+邀会_VV 3_CD
+四_CD 创_NN 3_CD
+收费_VV 收据_VV 3_CD
+南山_NN 铝业_NN 3_CD
+管理_NN 公司_NN 3_CD
+存款_NN 保险_NN 制度_NN 3_CD
+西祠_NN 胡同_VA 3_CD
+长城_NN 集团_NN 3_CD
+方正_AD 富邦_VV 3_CD
+深圳_JJ 市证_NN 通电子_NN 股份_NN 有限_VA 公司_NN 3_CD
+长百_OD 集_M 团_NN 2_CD
+中银卡_NN 2_CD
+上海_JJ 港机_NN 2_CD
+国联_VV 安双禧_NN 2_CD
+认购_VV 权证_NN 2_CD
+账户_NN 表_NN 2_CD
+解决_VV 方案_NN 2_CD
+山东_NN 鲁_NN 阳_VC 2_CD
+农商社_NN 2_CD
+证券_NN 导报_NN 2_CD
+信托_NN 合同_VA 2_CD
+新海_JJ 宜_NN 2_CD
+鲁石化_NN 2_CD
+顺发恒业_VV 2_CD
+北京_NR 华联_NN 2_CD
+合肥百货_VV 2_CD
+购买_VV 美国_NR 2_CD
+格式_JJ 合同_JJ 2_CD
+西安_JJ 旅游_NN 2_CD
+中国_JJ 水务_NN 2_CD
+天弘_NN 永_AD 定_VV 2_CD
+宏安_NN 集团_NN 2_CD
+国星_NN 光电_NN 2_CD
+渣打_JJ 集团_NN 2_CD
+南国_JJ 置业_NN 2_CD
+广州_JJ 万隆2_NN
+龙源_NN 电力_NN 2_CD
+总_JJ 负债_NN 2_CD
+操作_NN 流程_NN 2_CD
+中核_NN 华原_NN 钛白_NN 股份_NN 有限_VA 公司_NN 2_CD
+焦点_NN 问题_NN 2_CD
+深_JJ 特力_NN 2_CD
+中国_NR 北车_NN 2_CD
+东方_NN 银行_NN 2_CD
+广汽_JJ 长丰_NN 2_CD
+武汉_NN 凯迪_NN 电力_NN 股份_NN 有限_VA 公司_NN 2_CD
+重庆_JJ 桐君阁_NN 股份_NN 有_VE 限公司_VV 2_CD
+赛格_NN 三_CD 星_NN 2_CD
+鹰美_NN 2_CD
+华昌_NR 化工_NN 2_CD
+招募_NN 说明书_NN 2_CD
+股城网_NN 2_CD
+投资_NN 指南_NN 2_CD
+英飞拓_NN 2_CD
+鑫富_NR 药业_NN 2_CD
+大_JJ 东南_NN 2_CD
+东方_NN 保_VV 本_DT 2_CD
+价_NN 内_LC 权证_NN 2_CD
+五_CD 矿_NN 发展_NN 2_CD
+国阳_NN 新_JJ 能_VV 2_CD
+北_NN 满_VV 特钢_JJ 2_CD
+金海_NN 股份_NN 2_CD
+江苏纺织_NN 2_CD
+华丰_NN 集团_NN 2_CD
+维科_NN 精华_AD 2_CD
+福星_NN 晓程_NN 2_CD
+卓悦_NN 控股_NN 2_CD
+大秦_NR 铁路_NN 2_CD
+华远_AD 地产_VV 2_CD
+金隅_NN 股份_NN 2_CD
+鼎盛_JJ 天工_NN 2_CD
+新闻_JJ 集团_NN 2_CD
+川化_NR 股份_NN 有_VE 限公司_VV 2_CD
+代领人_NN 2_CD
+厦门_NN 国贸_NN 2_CD
+技术_NN 条件_NN 2_CD
+金城_NN 股份_NN 2_CD
+深圳_NR 赤湾港_NR 航股_NN 份有_VV 限公司_NN 2_CD
+在_P 线咨询_NN 2_CD
+钱袋网_NN 2_CD
+重点_NN 关注_NN 2_CD
+汤臣_NN 集团_NN 2_CD
+可_VV 再_AD 生能_VV 源_VV 2_CD
+罗平_JJ 锌电_NN 2_CD
+商业_NN 银行_NN 2_CD
+流动资_NN 金量_NN 2_CD
+安徽_NN 安纳_VV 达_VV 钛业_NN 股份_NN 有限_VA 公司_NN 2_CD
+天津_NT 一汽_AD 夏利_VV 汽车_NN 股份_NN 有限_VA 公司_NN 2_CD
+新疆_JJ 屯河_NN 2_CD
+百_CD 圆_NN 裤业_NN 2_CD
+亚夏_NN 汽车_NN 2_CD
+安泰_NN 科技_NN 2_CD
+问题_NN 解答_NN 2_CD
+三菱_CS 银行_VV 2_CD
+金马_NN 集团_NN 2_CD
+四_CD 方达_NN 2_CD
+瑞立_NN 集团_NN 2_CD
+伟_NN 易_AD 达_VV 集团_NN 2_CD
+认定_VV 标准_NN 2_CD
+派息日_NN 2_CD
+积成_JJ 电子_NN 2_CD
+伦敦金_NN 2_CD
+深圳_JJ 海王星_NN 辰_NN 2_CD
+温商网_NN 2_CD
+证券_NN 市场_NN 2_CD
+期权费_NN 2_CD
+宝龙_NN 地_DEV 产_VV 2_CD
+机电股_NN 2_CD
+卓越_AD 理财_VV 2_CD
+特区_NN 经济_P 2_CD
+浙江_NN 海亮_NN 股份_NN 有限_VA 公司_NN 2_CD
+员工_NN 持股_AD 计划_VV 2_CD
+泛海_NN 酒店_NN 2_CD
+风神_NN 股份_NN 2_CD
+双_CD 色球_NN 2_CD
+凤竹纺织_NN 2_CD
+经济_CS 政策_NN 2_CD
+济南_NN 柴油机_NN 股份_NN 有限_VA 公司_NN 2_CD
+金源_NN 米业_NN 2_CD
+天目药_NN 2_CD
+重庆_NN 中药_NN 2_CD
+深_JJ 宝_NN 恒_AD 2_CD
+委托_NN 单_AD 2_CD
+四_CD 川电器_NN 2_CD
+山煤_NN 国际_NN 2_CD
+评价_NN 中心_NN 2_CD
+海王_NN 生物_NN 2_CD
+次_M 新股_JJ 2_CD
+瑞士_NN 银行_VV 公司_NN 2_CD
+投资_NN 收藏_NN 2_CD
+税收_VV 缴款书_NN 2_CD
+重庆_JJ 华亚_NN 2_CD
+反馈单_NN 2_CD
+齐鲁_NT 石化_NN 2_CD
+澳新_AD 银行_VV 2_CD
+把_BA 控_VV 2_CD
+华商_NN 产业_NN 2_CD
+斯_DT 伦_NN 贝榭_NN 2_CD
+高新_JJ 张铜_NN 2_CD
+宏业_NN 集团_NN 2_CD
+开尔_JJ 新材_NN 2_CD
+南天_NN 信息_NN 2_CD
+南京新_NN 百2_CD
+长_NN 盛_NN 中_LC 证_NN 2_CD
+中国_NR 经济_NN 报告_NN 2_CD
+国泰_NN 双_CD 利_NN 2_CD
+现代_JJ 商业_NN 银行_NN 2_CD
+南宁_JJ 糖业_NN 2_CD
+宁夏_NT 恒力_NN 2_CD
+公营化_NN 2_CD
+天合_JJ 光能_NN 2_CD
+鲁政委_NN 2_CD
+信达_VA 地_DEV 产_VV 2_CD
+卖超_NN 2_CD
+印子钱_NN 2_CD
+深_JJ 值_NN 2_CD
+深_CD 高速_NN 2_CD
+财务_NN 报告_NN 2_CD
+产权_NN 导刊_NN 2_CD
+财会_NN 信报_NN 2_CD
+上海_JJ 电气_NN 2_CD
+新_JJ 设_VV 2_CD
+腾邦_NN 国际_NN 2_CD
+封转开_NN 2_CD
+私人_JJ 银行_NN 2_CD
+备抵_VV 2_CD
+三_CD 安_NN 光电_NN 2_CD
+焦点_NN 话题_NN 2_CD
+焦作_NN 万方_NN 铝业_NN 股份_NN 有_VE 限公司_VV 2_CD
+华龙_NN 集团_NN 2_CD
+大众_CD 交通_NN 2_CD
+上海_NN 机电_NN 2_CD
+巢东_NN 股份_NN 2_CD
+衍生_VV 权证_NN 2_CD
+深圳_JJ 国际_NN 2_CD
+交易_VV 密码_NN 2_CD
+财务_NN 会计_NN 2_CD
+北海_NN 集团_NN 2_CD
+民间_AD 借贷_VV 2_CD
+南方_NN 汇通_VV 股份_NN 有限_VA 公司_NN 2_CD
+节能_VV 减排_VV 2_CD
+净利_NN 润率_NN 2_CD
+行业_NN 标准_NN 2_CD
+中江_JJ 地产_NN 2_CD
+全权_PN 信托_NN 2_CD
+德国_NN 安联_NN 2_CD
+北_NN 陆_NN 药业_NN 2_CD
+中航_NN 重_CC 机_NN 2_CD
+北亚_NN 集团_NN 2_CD
+买断型_JJ 2_CD
+江苏吴_NN 中_LC 2_CD
+保利_NN 达_VV 资产_NN 2_CD
+浙大_NR 海纳_NN 2_CD
+经济_AD 杂志_VV 2_CD
+三五_CD 互联_NN 2_CD
+招商局_NN 中国_JJ 基金_NN 2_CD
+投资_NN 有_VE 道_NN 2_CD
+金马_NN 投票_NN 2_CD
+联华_NN 超市_NN 2_CD
+哈动力_NN 2_CD
+华升_NN 股份_NN 2_CD
+银行_JJ 行长_NN 2_CD
+转换_NN 价格_NN 2_CD
+新_CS 规定_VV 2_CD
+思捷_NN 环球_NN 2_CD
+高盛_JJ 集团_NN 2_CD
+普天_NN 债券_NN 2_CD
+金朝_NN 阳集团_NN 2_CD
+北京_NR 科锐_NN 2_CD
+资信_JJ 证明_NN 2_CD
+产品_NN 介绍_NN 2_CD
+中钨2_NR
+短_VA 的_DEC 2_CD
+新野_JJ 纺织_NN 2_CD
+中联债_NN 2_CD
+信托_NN 投资_NN 2_CD
+金融_NN 大街_NN 2_CD
+太光_NN 2_CD
+艾_NN 略_AD 特_AD 波浪理论_VV 2_CD
+苏州_NN 固_AD 锝_P 2_CD
+联邦_NN 破产法_NN 2_CD
+总_JJ 成本_NN 2_CD
+侨兴_NN 环球_NN 2_CD
+行权价_NN 2_CD
+东方_NN 通信_NN 2_CD
+融资_NN 方案_NN 2_CD
+圣阳_NN 股份_NN 2_CD
+汇宝_NN 集团_NN 2_CD
+内部_NN 资料_NN 2_CD
+公司_NN 治理_NN 2_CD
+零售_CS 银行_VV 2_CD
+中纺机_NN 2_CD
+大_JJ 智慧_NN 2_CD
+金固_NR 股份_NN 2_CD
+不_AD 成_VV 文法_NN 1_CD
+股票_NN 市价_NN 1_CD
+不_AD 可_VV 撤销_VV 1_CD
+晋察_JJ 冀边区_NN 银行_NN 1_CD
+同_DT 洲_NN 电子_NN 1_CD
+力合_JJ 股份_NN 有限_VA 公司_NN 1_CD
+厦工_NN 股份_NN 1_CD
+虚拟_JJ 卡1_NN
+华阳_NN 科技_NN 1_CD
+龙涤_NN 股份_NN 1_CD
+远望_JJ 谷_NN 1_CD
+组合_NN 投资_NN 1_CD
+第一_OD 食品_NN 1_CD
+国统_NN 股份_NN 1_CD
+国际_NN 结算_NN 1_CD
+石化债_NN 1_CD
+康美债_NN 1_CD
+银行_AD 承兑_VV 汇_VV 票_NN 1_CD
+百利_NN 电气_NN 1_CD
+受理人_NN 1_CD
+中钢_JJ 吉炭_NN 1_CD
+摩根_NN 财团_NN 1_CD
+海南_NN 航空_NN 1_CD
+同_PN 花顺_VV 1_CD
+湖北_NN 华新_NN 1_CD
+吉峰_NN 农机_NN 1_CD
+特许_JJ 权税_NN 1_CD
+美元区_NN 1_CD
+大_JJ 冷_JJ 1_CD
+杨红革_NN 1_CD
+南博网_NN 1_CD
+东方_NN 电机_NN 1_CD
+华_NT 润置_VV 地_DEC 1_CD
+审计意_AD 见_VV 1_CD
+太光_NN 电信_NN 1_CD
+苏物贸_NN 1_CD
+履约_AD 保函_NN 1_CD
+金智_NN 科技_NN 1_CD
+石劝业_NN 1_CD
+中国_NR 管理_NN 传播网_NN 1_CD
+华资_NN 实业_NN 1_CD
+诚_AD 聘_VV 英才_NN 1_CD
+塑料钞_NN 1_CD
+金融_NN 体系_NN 1_CD
+公司_NN 理财_NN 1_CD
+投资_NN 组合_NN 1_CD
+吉林_NN 制药_NN 股份_NN 有限_VA 公司_NN 1_CD
+大众_CD 投资_NN 1_CD
+中国_NR 有色_JJ 金属报_NN 1_CD
+交钥匙_NN 1_CD
+中川_NR 国际_NN 1_CD
+中国_JJ 股市_NN 1_CD
+金宝通_NN 1_CD
+岷电_NN 1_CD
+微利股_NN 1_CD
+渝钛白_NN 1_CD
+山推_JJ 股份_NN 1_CD
+襄阳_NN 汽车_NN 轴承_NN 股份_NN 有限_VA 公司_NN 1_CD
+凯迪_NN 电力_NN 1_CD
+美国_NR 国际_NN 1_CD
+广东_JJ 科德_NN 1_CD
+深圳_JJ 迈瑞_NN 1_CD
+霸王_NN 条款_NN 1_CD
+哈特_AD 佛_NN 1_CD
+高_JJ 特利_NN 1_CD
+保利_NN 地产_NN 1_CD
+生态_NN 农业_NN 1_CD
+经济_AD 统计_VV 1_CD
+市场_NN 供求_NN 1_CD
+厦门_NN 路桥_NN 1_CD
+抚顺_NN 特钢_JJ 1_CD
+死_VV 股_NN 1_CD
+高价_JJ 股1_NN
+中国_JJ 报告_NN 大厅_CD 1_CD
+赛格_NN 达_VV 声_NN 1_CD
+银基_NN 发展_NN 1_CD
+渝太_AD 地产_VV 1_CD
+发票_NN 领购_VV 本_DT 1_CD
+浙商_NN 银行_NN 1_CD
+上海_JJ 佳豪_NN 1_CD
+温氏_NN 集团_NN 1_CD
+中房_JJ 股份_NN 1_CD
+中盘股_NN 1_CD
+康盛_NR 股份_NN 1_CD
+国际_NN 收支_NN 1_CD
+注意力_NN 经济_P 1_CD
+财产_VV 保险_NN 1_CD
+南开_JJ 戈德_NN 1_CD
+日_NN 贷_VV 1_CD
+安全_AD 边际_VV 1_CD
+东百_OD 集团_NN 1_CD
+深圳_JJ 能源_NN 1_CD
+新莱_JJ 应材_NN 1_CD
+签合_VV 同_DT 1_CD
+江苏_NN 旷达_NN 1_CD
+转配股_NN 1_CD
+服务_NN 营销_NN 1_CD
+四维图_NN 新_VV 1_CD
+鲁置业_NN 1_CD
+越_AD 秀_JJ 投资_NN 1_CD
+中欧_NR 鼎利_NN 1_CD
+青龙_NN 管业_NN 1_CD
+反洗钱_NN 1_CD
+红杉_NN 资本_NN 1_CD
+经_P 营理念_NN 1_CD
+佳士_NR 科技_NN 1_CD
+德盛_NR 增利_NN 1_CD
+张_NN 铜_NN 1_CD
+中国_NR 中铁_NN 1_CD
+政策_NN 工具_NN 1_CD
+内部_NN 控制_NN 1_CD
+湖南_NN 有色_JJ 金属_NN 1_CD
+汇丰_AD 晋信_NN 基金_NN 1_CD
+证券_NN 资讯_NN 1_CD
+中国_NR 水业_NN 集团_NN 1_CD
+普天债_NN 1_CD
+五洲_CS 明珠_VV 1_CD
+双箭_JJ 股份_NN 1_CD
+收结汇_VV 1_CD
+上海_JJ 金融_NN 1_CD
+罚款率_NN 1_CD
+长城_JJ 特钢_NN 1_CD
+江海_NN 股份_NN 1_CD
+河北_NN 钢铁_NN 1_CD
+橡果_NN 国际_NN 1_CD
+银行_VV 管理_NN 1_CD
+中科_JJ 创业_NN 1_CD
+上海_JJ 普天_NN 1_CD
+中国_NR 资本_JJ 市场_NN 1_CD
+社保_JJ 基金_NN 1_CD
+苏常_JJ 远东_NN 1_CD
+中国_NR 远洋_NN 1_CD
+长盛同_JJ 瑞_NN 1_CD
+财信通_NN 1_CD
+大庆_JJ 华_NN 科_NN 1_CD
+中葡_NR 1_CD
+城投_NN 控股_NN 1_CD
+金风_NN 科技_NN 1_CD
+莎拉李_NN 1_CD
+卡夫_NN 食品_NN 1_CD
+海南省_NN 信托_NN 投资_NN 公司_NN 1_CD
+入股_JJ 协议_NN 1_CD
+把握_NN 机遇_NN 1_CD
+新_JJ 动力_NN 1_CD
+南华_NN 期货_NN 1_CD
+美元_NN 危机_NN 1_CD
+折子钱_NN 1_CD
+瑞福_NN 进取_VV 1_CD
+欣龙_NN 无_VE 纺_NN 1_CD
+金融_NN 创新_NN 1_CD
+美菱_NR 股份_NN 1_CD
+青山_NN 纸业_NN 1_CD
+持仓_NN 不_AD 动_VV 1_CD
+三_CD 泰_NN 电子_NN 1_CD
+金山_NN 工业_NN 1_CD
+黔凯涤_NN 1_CD
+阳光城_NN 1_CD
+资本_NR 预算_NN 1_CD
+财务_NN 状况表_NN 1_CD
+华联_VV 综超_NN 1_CD
+北海_NN 银行_NN 1_CD
+表首_VV 1_CD
+梅_CS 雁_VV 水电_NN 1_CD
+腹空_NN 1_CD
+主要_JJ 措施_NN 1_CD
+毒笔_NN 1_CD
+永_AD 大_JJ 集团_NN 1_CD
+福建_NN 工商_NN 时_LC 报_VV 1_CD
+宁波_JJ 银行_NN 1_CD
+东北财_NN 经_P 大学_NN 1_CD
+黄山_JJ 金马_NN 股份_NN 有限_VA 公司_NN 1_CD
+山东_NN 德棉_NN 股份_NN 有限_VA 公司_NN 1_CD
+桂林_NN 旅游_NN 1_CD
+云南_NN 城投_NN 1_CD
+陕西_NN 长安_VA 1_CD
+经_P 纬纺机_NN 1_CD
+恒_NN 基_NN 达鑫_NN 1_CD
+长盛同_JJ 智_NN 1_CD
+交银_NN 添利_NN 1_CD
+准贷记卡_VV 1_CD
+债务_NN 危机_NN 1_CD
+史密森_NN 协定_NN 1_CD
+卖空者_NN 1_CD
+凤凰股_NN 1_CD
+航天_NN 机电_NN 1_CD
+达力_NN 集团_NN 1_CD
+三一_NN 重工_AD 1_CD
+上海_NR 九百1_CD
+吉林_NR 化工_NN 1_CD
+长航_JJ 凤凰_NN 1_CD
+主力_NN 资金_NN 1_CD
+一_CD 汽金杯_NN 1_CD
+隆基_NN 机械_NN 1_CD
+广州_JJ 冷机_NN 股份_NN 有限_VA 公司_NN 1_CD
+黄金网_NN 1_CD
+山东_NN 墨龙_NN 1_CD
+鼎泰_JJ 新材_NN 1_CD
+江苏法_NN 尔胜_VV 股份_NN 有限_VA 公司_NN 1_CD
+再_AD 买_VV 1_CD
+软_CS 通货_VV 1_CD
+青岛_NN 碱业_NN 1_CD
+电广_JJ 实业_NN 1_CD
+看涨者_NN 1_CD
+大通曼_AD 哈顿_JJ 银行_NN 1_CD
+兴业_NN 银行_NN 1_CD
+益民_NN 红利_NN 1_CD
+外汇_NN 交易_NN 1_CD
+深圳_JJ 赛格_NN 股份_NN 有限_VA 公司_NN 1_CD
+上海_JJ 有色_JJ 金属网_NN 1_CD
+科诺威德_NN 1_CD
+税收_VV 完税_JJ 证_NN 1_CD
+自_CS 买_VV 1_CD
+交易_JJ 指南_NN 1_CD
+互_AD 太_AD 纺织_VV 1_CD
+软控_JJ 股份_NN 1_CD
+销售_VV 代理_NN 协议_NN 1_CD
+诺安_NR 平衡_NN 1_CD
+一_CD 汽富维_VV 1_CD
+雷鸣科化_NN 1_CD
+中核_JJ 科技_NN 1_CD
+本_DT 实_NN 1_CD
+红发_JJ 集团_NN 1_CD
+南通_JJ 科技_NN 1_CD
+股市_NN 快讯_AD 1_CD
+国际_NN 视野_NN 1_CD
+创新低_NN 1_CD
+比_P 亚迪_NR 股份_NN 1_CD
+一汽_AD 夏利_VV 1_CD
+世界_NN 银行_NN 1_CD
+自助_JJ 银行_NN 1_CD
+首创_AD 置业_NN 1_CD
+监管_NN 政策_NN 1_CD
+平值_NN 1_CD
+协方差_NN 1_CD
+珠江_NN 实业_NN 1_CD
+贸易通_NN 1_CD
+黑_JJ 盒子_NN 1_CD
+合并_AD 资产_VV 负债表_NN 1_CD
+盘活_JJ 资产_NN 1_CD
+信用_VV 评级_NN 1_CD
+一_CD 本_DT 通_NN 1_CD
+闽信_NN 集团_NN 1_CD
+国泰_NN 金鹏_NN 1_CD
+重新_AD 转向_VV 1_CD
+西昌电_NN 1_CD
+上市_JJ 公司_NN 1_CD
+超图_JJ 软件_NN 1_CD
+高度_NN 关注_NN 1_CD
+股权_NN 分置_NN 改革_NN 方案_NN 1_CD
+工新_NN 1_CD
+东方锆_NN 业_NN 1_CD
+中国_JJ 玻璃_NN 1_CD
+郑州_NN 燃气_NN 1_CD
+证券_NN 导刊_NN 1_CD
+东方_NN 报业_NN 集团_NN 1_CD
+福特_JJ 赛_NN 1_CD
+山东_NN 如_P 意_NN 1_CD
+中国_NR 消防_NN 1_CD
+金龙_NN 机电_NN 1_CD
+富华_NR 集团_NN 1_CD
+浦东_NN 建设_VV 1_CD
+天喻_NN 信息_NN 1_CD
+发行_NN 方案_NN 1_CD
+零_CD 手_NN 1_CD
+小_JJ 股民_NN 1_CD
+鲁商_NN 置业_NN 1_CD
+川金路_NN 1_CD
+嘉实_AD 恒_AD 生_VV 1_CD
+投资者_NN 教育_NN 1_CD
+潍柴_NN 重_JJ 机_NN 1_CD
+金利_NN 科技_NN 1_CD
+中国_NR 服装_NN 1_CD
+绿景_NN 地产_NN 1_CD
+黔_NN 中天_NT 1_CD
+苏福马_NN 1_CD
+财产_NN 安全_NN 1_CD
+空头_NN 换手_VV 1_CD
+云南_NN 锗业_NN 1_CD
+自_P 留额_VV 1_CD
+中信_JJ 国安_NN 1_CD
+天富_JJ 热电_NN 1_CD
+深_JJ 锦_NN 兴_VV 1_CD
+陕西_NN 金叶_NN 1_CD
+拉高均价_AD 1_CD
+华北_NN 银行_NN 1_CD
+实际_JJ 公司_NN 1_CD
+安泰科_NN 技股_NN 份有_VV 限公司_NN 1_CD
+赛格_NN 股份_NN 1_CD
+雷柏_NN 科技_NN 1_CD
+价税_NN 1_CD
+点_NN 后_LC 1_CD
+公积_JJ 金率_NN 1_CD
+旧_JJ 股_NN 1_CD
+三星_NN 电气_NN 1_CD
+东华_NN 科技_NN 1_CD
+飞马_VV 国际_NN 1_CD
+广电_NN 信息_NN 1_CD
+粤丽珠_NN 1_CD
+共合网_NN 1_CD
+看跌者_NN 1_CD
+沪科_NN 1_CD
+华仁_NN 药业_NN 1_CD
+华安_NR 富利_NN 1_CD
+金融_NN 服务_NN 1_CD
+咨询_NN 公司_NN 1_CD
+固_AD 额_NN 1_CD
+次贷_VV 危机_NN 1_CD
+信托_NN 资产_NN 1_CD
+大亚科_AD 技股份_NN 有_VE 限公司_VV 1_CD
+销货_NN 清单_NN 1_CD
+黑_JJ 牡丹_NN 1_CD
+戴尔_NN 电脑_NN 1_CD
+受_VV 关注_VV 1_CD
+天马_NN 股份_NN 1_CD
+中创_JJ 信测_NN 1_CD
+华芳纺织_NN 1_CD
+折价率_NN 1_CD
+工银_NN 保本_NN 1_CD
+五_CD 年期_NN 以上_LC 1_CD
+新宏信_NN 1_CD
+持_VV 本_DT 单_AD 1_CD
+跳动点_NN 1_CD
+白银_JJ 铜城_NN 1_CD
+国际_NN 商务_NN 1_CD
+收还_VV 1_CD
+永_AD 辉_JJ 超市_NN 1_CD
+股东_NN 大会_AD 决议_VV 1_CD
+浦银_NN 红利_NN 1_CD
+追加_VV 保证_VV 金_NN 1_CD
+中航_JJ 地产_NN 1_CD
+五_CD 矿_NN 期货_NN 1_CD
+项目_NN 融资_NN 1_CD
+交银_NN 施_VV 罗德_NN 1_CD
+空换_NN 1_CD
+内蒙宏峰_NN 1_CD
+美罗_NR 药业_NN 1_CD
+风险_NN 投资商_NN 1_CD
+大莱卡_NR 1_CD
+深_JJ 南光_NN 1_CD
+重要_JJ 公告_NN 1_CD
+纳税_NN 申报_NN 1_CD
+国富_AD 强债_VV 1_CD
+知名_NN 银行_NN 1_CD
+深天地_AD 1_CD
+贷款_NN 难_AD 1_CD
+中西_NN 药业_NN 1_CD
+黄金_NN 集团_NN 1_CD
+广东_JJ 广信_NN 1_CD
+新_JJ 龙头_NN 1_CD
+天虹_NN 商场_NN 1_CD
+方兴_NN 地产_P 1_CD
+海南_NN 海药_NN 1_CD
+青岛_NN 海尔_NN 1_CD
+东安_NR 黑豹_NN 1_CD
+多氟多_NR 1_CD
+观音币_NN 1_CD
+凯诺_NN 科技_NN 1_CD
+锦州_NN 石化_NN 1_CD
+吉林_NN 炭素_NN 1_CD
+新_JJ 五_CD 丰_NN 1_CD
+卧龙_NN 地_DEV 产_VV 1_CD
+徐工_NN 科技_NN 1_CD
+卓尔_NR 发展_NN 1_CD
+天弘_NN 丰_JJ 利_NN 1_CD
+沪铜_NN 1_CD
+财政_NN 预算_NN 1_CD
+外高_NN 1_CD
+广_AD 发_VV 华福_NN 1_CD
+建研_NN 集团_NN 1_CD
+天原_JJ 集团_NN 1_CD
+拆细_VV 1_CD
+联信_NN 永_AD 益_NN 1_CD
+策略_JJ 研究_NN 1_CD
+资产_JJ 公司_NN 1_CD
+华夏通_NN 1_CD
+京信_NN 通信_NN 1_CD
+天治_JJ 双_CD 盈_NN 1_CD
+古汉_NN 集团_NN 1_CD
+富国_JJ 天成_NN 1_CD
+陇达_NN 1_CD
+宁波_JJ 富邦_NN 1_CD
+法拉_NN 电子_NN 1_CD
+有关_AD 规定_VV 1_CD
+财华网_NN 1_CD
+阿_CS 比_P 银行_NN 1_CD
+指标股_NN 1_CD
+宁天龙_AD 1_CD
+荷兰_NN 万_CD 贝_NN 银行_NN 1_CD
+六_CD 福_NN 集团_NN 1_CD
+博耳_NN 电力_NN 1_CD
+成长_VV 先锋_NT 1_CD
+交银_NN 环球_NN 1_CD
+国电南_NN 自_P 1_CD
+金融_NN 投资_NN 1_CD
+注册_NN 会计师_NN 1_CD
+安徽_NN 省皖_NN 能_VV 股份_JJ 有限_JJ 公司_NN 1_CD
+江苏_NN 金智_NN 科技_NN 股份_NN 有限_VA 公司_NN 1_CD
+士兰微_NN 1_CD
+鹏博士_NN 1_CD
+国_NN 九_CD 条_M 1_CD
+新_JJ 资本_NN 1_CD
+履约率_NN 1_CD
+信用_NN 额度_NN 1_CD
+和_P 而_MSP 泰_VV 1_CD
+上海_JJ 证券_NN 1_CD
+中国_JJ 医疗_NN 1_CD
+东方_NN 汇理_NN 银行_NN 1_CD
+巨星_NN 科技_NN 1_CD
+梅花_NN 伞业_NN 股份_NN 有限_VA 公司_NN 1_CD
+中国_NR 民营_NN 经_P 济周刊_NN 1_CD
+瓦房店_NN 轴承_NN 股份_NN 有限_VA 公司_NN 1_CD
+东碳_NN 1_CD
+华银_NN 电力_NN 1_CD
+资本_NR 运作_NN 1_CD
